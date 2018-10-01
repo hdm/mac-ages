@@ -14,7 +14,7 @@ If you would like to maintain a fork of this repository, you need a system with 
 
 ## Matching
 
-In order to match a given MAC address to the IEEE datasets, the entries with the largest mask must be checked first (/36), then the next largest (/28), and so on (/24). Matching just the first three bytes is not sufficient for accurate vendor identification, as some prefixes are split into multiple smaller ranges, each corresponding with a different vendor. These prefixes also often have a /24 mask entry that also matches a given address, which is why the more specific masks must be checked first. 
+In order to match a given MAC address to the IEEE datasets, the entries with the largest mask must be checked first (/36), then the next largest (/28), and so on (/24). Matching just the first three bytes is not sufficient for accurate vendor identification, as some prefixes are split into multiple smaller ranges, each corresponding with a different vendor.
 
 For example, when matching the MAC address `70:b3:d5:fe:90:1e`, there are 2,681 entries which match the first three bytes. These include the base allocation from 2014 (`70:b3:d5/24`) and thousands of /36 masked prefixes. Searching for the /36 masked prefixes first identifies the device with prefix `70:b3:d5:fe:90:00/36`, which corresponds to `Zenros ApS` from Denmark.
 
