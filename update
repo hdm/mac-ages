@@ -33,14 +33,19 @@ def load_current
 			bits[0] << "/24"
 		end
 
-		addr = bits[0].downcase
+		addr_base,addr_mask = bits[0].downcase.split("/")
+		addr_base = mac_pad(addr_base)
+
 		date = bits[1]
 		src  = bits[2]
 
-		update(addr, date, src)
+		update(addr_base + "/" + addr_mask, date, src)
 	end
 end
 
+def mac_pad(addr)
+	addr + ("0" * (12-addr.length))
+end
 
 def load_ieee_urls
 	ieee_urls =  [
@@ -62,9 +67,7 @@ def load_ieee_urls
     			info = rec.split(",", 3)
     			addr_base = info[1]
     			addr_mask = ((addr_base.length / 2.0) * 8).to_i
-    			if addr_base.length != 6
-    				addr_base << ("0" * (12-addr_base.length))
-    			end
+				addr_base = mac_pad(addr_base)
     			addr = "#{addr_base}/#{addr_mask}".downcase
     			update(addr, @today, "ieee-#{File.basename(url_path)}")
     		end
