@@ -18,7 +18,7 @@ def update(addr, date, source)
 	end
 
 	odate = @macs[addr].first.gsub("-", "").to_i
-	ndate = @macs[addr].first.gsub("-", "").to_i
+	ndate = date.gsub("-", "").to_i
 
 	# Overwrite if new record is older
 	if ndate < odate
