@@ -1,0 +1,130 @@
+#!/usr/bin/env ruby
+require "timeout"
+require "net/http"
+require "uri"
+#
+# MAC Age Tracker
+#
+@macs  = {}
+@today = Time.now.strftime("%Y%m%d")
+@based = File.expand_path(File.dirname(__FILE__))
+
+Dir.chdir(@based)
+
+def update(addr, date, source)
+	if ! @macs[addr]
+		@macs[addr] = [date, source]
+		return
+	end
+
+	odate = @macs[addr].first.gsub("-", "").to_i
+	ndate = @macs[addr].first.gsub("-", "").to_i
+
+	# Overwrite if new record is older
+	if ndate < odate
+		@macs[addr] = [date, source]
+	end
+end
+
+def load_current
+	File.readlines(File.join(@based, "data", "mac-ages.csv")).each do |raw|
+		bits = raw.strip.split(",", 3)
+		if bits[0].index("/").nil?
+			bits[0] << "/24"
+		end
+
+		addr = bits[0].downcase
+		date = bits[1]
+		src  = bits[2]
+
+		update(addr, date, src)
+	end
+end
+
+
+def load_ieee_urls
+	ieee_urls =  [
+		["http://standards-oui.ieee.org/oui/oui.csv", 25453],
+		["http://standards-oui.ieee.org/cid/cid.csv", 79], 
+		["http://standards-oui.ieee.org/iab/iab.csv", 4576],
+		["http://standards-oui.ieee.org/oui28/mam.csv", 2252],
+		["http://standards-oui.ieee.org/oui36/oui36.csv", 2878],
+    ]
+    ieee_urls.each do |url_info|
+    	url_path, url_min_records = url_info
+    	Timeout.timeout(300) do 
+    		records = download_ieee(url_path)
+    		if records.length < url_min_records
+    			raise RuntimeError, "URL #{url_path} only has #{records.length} records (wanted >= #{url_min_records})"
+    		end
+    		records.each do |rec|
+    			next if rec =~ /^Registry,/
+    			info = rec.split(",", 3)
+    			addr_base = info[1]
+    			addr_mask = ((addr_base.length / 2.0) * 8).to_i
+    			if addr_base.length != 6
+    				addr_base << ("0" * (12-addr_base.length))
+    			end
+    			addr = "#{addr_base}/#{addr_mask}".downcase
+    			update(addr, @today, "ieee-#{File.basename(url_path)}")
+    		end
+    	end
+    end
+end
+
+def download_ieee(url)
+	name = File.basename(url)
+	path = File.join(@based, "data", "ieee", name)
+
+	retries = 0 
+	begin
+		data = Net::HTTP.get(URI(url))
+	rescue ::Timeout, ::Interrupt
+		raise $!
+	rescue ::Exception
+		if retries > 5
+			raise $1
+		end
+		retries += 1
+		sleep(5)
+		retry
+	end
+
+	File.open(path, "wb") do |fd|
+		fd.write(data)
+	end
+	data.split("\n").map{|x| x.strip}
+end
+
+def write_results
+	fd = File.open(File.join(@based, "data", "mac-ages.csv"), "wb")
+	@macs.keys.sort.each do |mac|
+		fd.puts [mac, @macs[mac][0], @macs[mac][1]].join(",")
+	end
+	fd.close
+end
+
+def log(msg)
+	$stdout.puts "#{Time.now.to_s} #{msg}"
+	$stdout.flush
+end
+
+log("Starting update for #{@today.to_s}")
+
+# Sources
+log("Loading current dataset")
+load_current()
+
+log("Loading the IEEE URLs")
+old_count = @macs.keys.length 
+load_ieee_urls()
+new_count = @macs.keys.length 
+
+# Generate merged output
+log("Writing results for #{@macs.keys.length} entries (#{old_count} -> #{new_count})")
+write_results()
+
+log("Commiting and pushing the results")
+
+# Commit the results
+exit(system("git commit -m 'Update #{@today}' ./data && git push origin master"))
