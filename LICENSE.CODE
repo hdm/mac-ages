@@ -1,6 +1,15 @@
+The MIT license below applies to the source code of this project. This includes
+the "update" script and any other software present in this repository. 
+
+The data of this project is provided under a separate license, please see the 
+LICENSE.DATA file for details. 
+
+
+==============================================================================
+
 MIT License
 
-Copyright (c) 2018 HD Moore
+Copyright (C) 2018 HD Moore
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
