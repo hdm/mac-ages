@@ -6,7 +6,7 @@ require "uri"
 # MAC Age Tracker
 #
 @macs  = {}
-@today = Time.now.strftime("%Y%m%d")
+@today = Time.now.strftime("%Y-%m-%d")
 @based = File.expand_path(File.dirname(__FILE__))
 
 Dir.chdir(@based)
