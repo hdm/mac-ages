@@ -44,7 +44,7 @@ def load_current
 end
 
 def mac_pad(addr)
-	addr + ("0" * (12-addr.length))
+	addr.ljust(12, "0")
 end
 
 def load_ieee_urls
