@@ -99,9 +99,16 @@ def download_ieee(url)
 	data.split("\n").map{|x| x.strip}
 end
 
+def sortable_prefix(str)
+	prefix, mask = str.split("/")
+	mask = mask.rjust(2, "0")
+	mask + prefix
+end
+
 def write_results
 	fd = File.open(File.join(@based, "data", "mac-ages.csv"), "wb")
-	@macs.keys.sort.each do |mac|
+	@macs.keys.sort{|a,b| sortable_prefix(b) <=> sortable_prefix(a) }.
+		each do |mac|
 		fd.puts [mac, @macs[mac][0], @macs[mac][1]].join(",")
 	end
 	fd.close
