@@ -10224,25 +10224,25 @@ MA-L,48E3C3,JENOPTIK Advanced Systems GmbH,Feldstrasse 155 Wedel Schleswig-Holst
 MA-L,84EB3E,Vivint Smart Home,4931 N. 300 W. Provo UT US 84604 
 MA-L,CC70ED,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,A83944,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,00247B,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,70F220,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,AC5775,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,D43D39,FCI. Inc,"B-7F, SiliconPark, 35, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 13486 "
 MA-L,4C962D,Fresh AB,Gransholmsvägen 136 Gemla  SE 35599 
+MA-L,00247B,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,70F220,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,AC7A4D,"ALPS ELECTRIC CO., LTD.",6-1 KAKUDA-CITY MIYAGI-PREF JP 981-1595 
-MA-L,58C6F0,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
-MA-L,649D99,FS COM INC,380 Centerpoint Blvd New Castle New Castle DE US 19720 
-MA-L,00193B,LigoWave,138 Mountain Brook Drive Canton GA US 30115 
 MA-L,FC62B9,"ALPS ELECTRIC CO., LTD.",6-1 kakuda-city Miyagi-Pref JP 981-1595 
 MA-L,0019C1,"ALPS ELECTRIC CO., LTD.","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,001E3D,"ALPS ELECTRIC CO., LTD.","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,002306,"ALPS ELECTRIC CO., LTD.","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,28A183,"ALPS ELECTRIC CO., LTD.",6-1 Kakuda Miyagi-Pref JP 981-1595 
+MA-L,649D99,FS COM INC,380 Centerpoint Blvd New Castle New Castle DE US 19720 
+MA-L,00193B,LigoWave,138 Mountain Brook Drive Canton GA US 30115 
+MA-L,58C6F0,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,884A18,Opulinks,"F 28, No.328, Huashan Rd Shanghai  CN 200040 "
 MA-L,000B5D,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
+MA-L,886FD4,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,144E2A,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,D4C93C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,886FD4,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,C40683,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,FC8743,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,502B98,Es-tech International,"228-70, Saneop-ro 155beon-gil, Gwonseon-gu, Suwon-si, Gyeonggi-do, Korea Suwon  KR 16648 "
@@ -25450,7 +25450,6 @@ MA-L,F46E95,"Extreme Networks, Inc.",6480 Via Del Oro San Jose  US 95119
 MA-L,000FB3,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,001505,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,001801,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,288088,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
 MA-L,007F28,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,408B07,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,4C8B30,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
@@ -25460,8 +25459,9 @@ MA-L,002662,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054
 MA-L,10785B,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,9C1E95,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,9C69B4,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,E85BB7,Ample Systems Inc.,"11F-2, No. 95 Minquan Rd. New Taipei City   TW 231 "
 MA-L,C80873,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
+MA-L,288088,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
+MA-L,E85BB7,Ample Systems Inc.,"11F-2, No. 95 Minquan Rd. New Taipei City   TW 231 "
 MA-L,080030,CERN,CH-1211  GENEVE SUISSE/SWITZ CH 023 
 MA-L,4CDD7D,LHP Telematics LLC,17406 Tiller Ct. STE 100 westfield IN US 46074 
 MA-L,002433,"ALPS ELECTRIC CO., LTD.","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
@@ -25471,11 +25471,11 @@ MA-L,701BFB,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Le
 MA-L,0006F5,"ALPS ELECTRIC CO., LTD.","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
 MA-L,0006F7,"ALPS ELECTRIC CO., LTD.","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
 MA-L,000704,"ALPS ELECTRIC CO., LTD.","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
-MA-L,5C9AD8,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
+MA-L,84A06E,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,B0ACFA,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
 MA-L,001742,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
 MA-L,38AFD7,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
-MA-L,84A06E,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,5C9AD8,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
 MA-L,A83CCB,ROSSMA," Malkova,12-108 PERM  RU 614087 "
 MA-L,C8C2FA,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,004501,Midmark,2600 Miller Creek Road Traverse City MI US 49684 
