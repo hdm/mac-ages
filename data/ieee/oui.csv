@@ -5127,14 +5127,14 @@ MA-L,103D0A,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech D
 MA-L,942790,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,6429ED,"AO ""PKK Milandr""","Gergievsky prospekt, 5 Zelenograd Moscow RU 124498 "
 MA-L,F010AB,"China Mobile (Hangzhou) Information Technology Co., Ltd.","No. 1600 Yuhang Tong Road, Wuchang Street, Yuhang District Hangzhou Zhejiang CN 310000 "
-MA-L,808F1D,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
-MA-L,186472,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,F82F6A,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,1C2E1B,"Suzhou Tremenet Communication Technology Co., Ltd.","Room 413, Nangong Building, 399 Linquan Street, SIP Suzhou Jiangsu CN 215123 "
+MA-L,808F1D,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+MA-L,186472,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,00246C,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,0CF475,Zliide Technologies ApS,Sverigesgade 6 Aarhus  DK 8000 
-MA-L,001A3F,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
 MA-L,B00073,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,001A3F,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -7238,7 +7238,6 @@ MA-L,00128C,Woodward Governor,1000 E. Drake Road Ft. Collins CO US 80525
 MA-L,001293,GE Energy,1501 Roanoke Blvd. Salem VA US 24153 
 MA-L,001287,Digital Everywhere Unterhaltungselektronik GmbH,Maria Gailer Strasse 16 Villach Kärnten AT 9500 
 MA-L,001280,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,00131E,Peiker acustic GmbH & Co. KG,Max-Planck-Straße 32 Friedrichsdorf Hessen DE 61381 
 MA-L,001323,"Cap Co., Ltd.","11F,684-2,deungchon 3-dong,gangseo-gu Seoul  KR 157-754 "
 MA-L,00130B,Mextal B.V.,De Tienden 48 Nuenen Noord Brabant NL 5674TB 
 MA-L,001312,Amedia Networks Inc.,101 Crawfords Corner Rd Holmdel NJ US 07733 
@@ -10281,6 +10280,7 @@ MA-L,6CF37F,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa 
 MA-L,68FF7B,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,3821C7,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,B8EF8B,"SHENZHEN CANNICE TECHNOLOGY CO.,LTD","F-20,7A,Baoneng Technology Park Shenzhen Guangdong CN 518109 "
+MA-L,00131E,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15310,14 +15310,15 @@ MA-L,84D47E,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa 
 MA-L,204C03,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,001A1E,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,94B40F,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,00EEAB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0029C2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,187C0B,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,9C1C12,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,ACA31E,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,C0D834,xvtec ltd,Ha'nagar 24 Hod Hasharon Israel IL 4527713 
 MA-L,4CAEA3,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,00EEAB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,D45383,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
+MA-L,D8860B,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -15572,7 +15573,6 @@ MA-L,C0EE40,Laird Technologies,50 South Main St Akron Ohio US 44308
 MA-L,F0182B,LG Chem,"128, Yeoui-daero, Yeongdeungpo-gu, Seoul Seoul KR 150-721 "
 MA-L,CC5FBF,"Topwise 3G Communication Co., Ltd.","6 Floor, A8 Music Building, Keyuan Road, High-Tech Park, Nanshan District, Shenzhen, China Shenzhen Guangdong CN 518000 "
 MA-L,14DDA9,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
-MA-L,485D36,Verizon,One Verizon Way Basking Ridge NJ US 07030 
 MA-L,EC60E0,AVI-ON LABS,2585 LARKSPUR DR PARK CITY UT US 84060 
 MA-L,145A83,Logi-D inc,5550 Des Rossignol Blvd Laval Quebec CA H7L 5W6 
 MA-L,4CEEB0,SHC Netzwerktechnik GmbH,Ludwigstrasse 33-37 Frankfurt am Main Hessen DE 60327 
@@ -20443,11 +20443,14 @@ MA-L,A41791,"Shenzhen Decnta Technology Co.,LTD.","F13,No.02,Building Shangqi,Na
 MA-L,B068E6,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,F8D478,Flextronics Tech.(Ind) Pvt Ltd,"SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC Chennai  IN 602107 "
 MA-L,B8C253,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
-MA-L,98DAC4,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,04BD88,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,98DAC4,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,000B86,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,000D82,PHSNET,"Piazza Mariano Rumor, 18 Arcugnano Vicenza IT 36057 "
 MA-L,CCE0C3,"EXTEN Technologies, Inc.","4201 W Parmer Lane Bldg A, Ste 200 Austin TX US 78727 "
+MA-L,783607,Cermate Technologies Inc.,"7F-1, No 168 Lien-Chen Rd. Chung-Ho Dist New Taipei City TW  "
+MA-L,8C53D2,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,485D36,Verizon ,One Verizon Way Basking Ridge NJ US 07030 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -24349,7 +24352,6 @@ MA-L,00809F,ALE International,32 avenue Kléber Colombes  FR 92700
 MA-L,B0D7CC,Tridonic GmbH & Co KG,Färbergasse 15 Dornbirn Vorarlberg AT 6851 
 MA-L,7C574E,COBI GmbH,Solmsstrasse 4 Frankfurt am Main  DE 60486 
 MA-L,34C0F9,Rockwell Automation,1 Allen-Bradley Dr. Mayfield Heights OH US 44124-6118 
-MA-L,20C047,Verizon,One Verizon Way Basking Ridge  US 07030 
 MA-L,AC0481,"Jiangsu Huaxing Electronics Co., Ltd.","the Industrial concentration zone, Zhiqian town,Jintan distric Changzhou City Jiangsu Province CN 213234 "
 MA-L,FC2D5E,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,E811CA,"SHANDONG KAER ELECTRIC.CO.,LTD","No.58, Dalian Road, Weihai, 264209 Shandong Province, P.R.China  Weihai Shandong CN 264209 "
@@ -25557,9 +25559,11 @@ MA-L,40E3D6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa 
 MA-L,D8C7C8,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,58108C,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
 MA-L,180D2C,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
+MA-L,342003,"Shenzhen Feitengyun Technology Co.,LTD","7F 4building,Yalianhaoshida industrial Park Shenzhen Guangdong CN 518100 "
 MA-L,A04246,"IT Telecom Co., Ltd.","517 TheOvalley 555-9 Hogye-dong, Dong An-gu Anyang-si  Gyeonggi-do KR 14117 "
 MA-L,7CFD82,"GUANGDONG GENIUS TECHNOLOGY CO., LTD.","No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851 "
 MA-L,8485E6,"Guangdong Asano Technology CO.,Ltd.","Changsheng Road, Songxia Industrial Park, Songgang, Shishan Town, Nanhai  Foshan  Guangdong, China. CN 528200 "
 MA-L,F8DAE2,NDC Technologies,8001 Technology Blvd Dayton OH US 45424 
 MA-L,001EB8,"Aloys, Inc","#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL, JUNGWON-GU, SEONGNAM-SI GYEONGGI-DO KR 13438 "
-MA-L,342003,"Shenzhen Feitengyun Technology Co.,LTD","7F 4building,Yalianhaoshida industrial Park Shenzhen Guangdong CN 518100 "
+MA-L,20C047,Verizon ,One Verizon Way Basking Ridge  US 07030 
+MA-L,1878D4,Verizon ,One Verizon Way Basking Ridge NJ US 07920 
