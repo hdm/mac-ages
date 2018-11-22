@@ -900,8 +900,8 @@ MA-M,38B19EC,Gesellschaft industrieller Technologien ,Hauptstraße 10 Großbeere
 MA-M,38B19E2,HDANYWHERE,Unit 23 Link Business Centre Malvern Worcs GB WR14 1UQ 
 MA-M,38B19E0,Triple Jump Medical,5 HaCarmel St. Yokneam  IL 2069203 
 MA-M,38B19E6,Thrust Networks,Pangeran Jayakarta 129 No B 7 Jakarta Jakarta ID 10730 
-MA-M,D8860B4,Teplovodokhran Ltd.,"Novaya , 51v Ryazan  RU 390027 "
 MA-M,D8860BD,ComNav Technology Ltd.,"Buliding 2,No. 618  Chengliu Middle  Road JiaDing District Shanghai CN 201801 "
+MA-M,D8860B4,Teplovodokhran Ltd.,"Novaya , 51v Ryazan  RU 390027 "
 MA-M,D8860B8,VRINDA NANO TECHNOLOGIES PVT LTD,"PLOT NO.283, SECTOR 7, IMT MANESAR, GURGAON  INDIA HARYANA IN 122050 "
 MA-M,D8860BE,"Shenzhen Yidong Technology Co.,Ltd","13th Floor,Jia'anda Building, No.110 Huafan Road,Tongsheng Community, Dalang Street,Longhua District Shenzhen Guangdong CN 518000 "
 MA-M,E05A9F4,Hale Products,607 NW 27th Ave Ocala FL US 34475 
@@ -1385,10 +1385,10 @@ MA-M,D425CC3,EISST Ltd,10 Queen Street Place London  GB EC4R 1AG
 MA-M,D425CC5,bvk technology,"Mithatpasa Mah. Serin Cikmazi No:4 C Blok Kemerburgaz, Eyupsultan Istanbul Istanbul TR 34075 "
 MA-M,CCD39D7,Glenair,1211 Air Way Glendale CA US 91201 
 MA-M,CCD39DD,Ethernity Networks,Ha-Melacha 13 Lod Israel IL 7152025 
-MA-M,38B19EA,"Aeroespacial Guosheng Technology Co., Ltd","501 Edificio Gaode, No. 10 Huayuan East Road, Haiden DIstrict Beijing CN 100191 "
 MA-M,38B19EE,ShenZhen ShuaiXian Electronic Equipment Co.Ltd,"No. 10, Lane 3, Longxing Rd, Dakang Village,HengGang Town ShenZhen Guangdong CN 518115 "
-MA-M,D8860B2,Get SAT,Hamada 12 Rehovot Select From Dropdown IL 7670316 
+MA-M,38B19EA,"Aeroespacial Guosheng Technology Co., Ltd","501 Edificio Gaode, No. 10 Huayuan East Road, Haiden DIstrict Beijing CN 100191 "
 MA-M,D8860B0,"Inspur Group Co., Ltd.",No.1036 Langchao Rd. Jinan Shandong CN 250101 
+MA-M,D8860B2,Get SAT,Hamada 12 Rehovot Select From Dropdown IL 7670316 
 MA-M,E05A9F7,OMB Guitars LLC,24 Hazorim St Efrat Jerusalem IL 90435 
 MA-M,E05A9F9,"Gemalto ""Document Readers""",3300 Acorn Street Williamsburg VA US 23188 
 MA-M,4CBC98D,"Elink Technology (Shenzhen) Co., Limited","C-323,Baoan,Xinyidai Info.Tech.Industrial Park, No.139 Chuangye Er Rd.,Baoan District Shenzhen Guangdong CN 518101 "
@@ -1854,10 +1854,11 @@ MA-M,38B19E1,Freedompro Srl,"Via Frova, 34 Cinisello Balsamo  IT 20092 "
 MA-M,D8860BB,Library Ideas,PO Box 9 Vienna VA US 22183 
 MA-M,D8860B1,Krspace,"Building 1, Junhao Central Park Plaza ChaoYang District Beijing CN 100125 "
 MA-M,D8860B6,SCANMATIK,Letnaya 18-2 Mytischi Moscow RU 141008 
-MA-M,E05A9F8,"Fujian Newland Auto-ID Tech. Co.,Ltd.","Newland Science & Technology Park, No.1 Rujiang West Rd,Mawei,Fuzhou, P.R.China Fuzhou Fujian CN 350015 "
 MA-M,E05A9FA,"Contemporary Amperex Technology Co., Limited","No.2 Xingang Road,  Zhangwan Town, Jiaocheng District Ningde Fujian CN 352000 "
+MA-M,E05A9F8,"Fujian Newland Auto-ID Tech. Co.,Ltd.","Newland Science & Technology Park, No.1 Rujiang West Rd,Mawei,Fuzhou, P.R.China Fuzhou Fujian CN 350015 "
 MA-M,E05A9FB,"Shenzhen Rongan Networks Technology Co.,Ltd","Room 1903, Industrial and Research building of Sun Yat-Sen university,no.1, Yuexing 4th road, Yuehai street,Nanshan district Shenzhen Guangdong CN 518057 "
 MA-M,E05A9F3,"Link of Things Co., Ltd.","9F, Park St. 3-2, NanKang Software Park, Taipei, Taiwan Taipei  TW 115 "
+MA-M,4CBC984,"Nemon Co., Ltd.","B-834, 164 Tancheonsangro, Bundang Seongnam Gyeonggi KR 13631 "
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
@@ -2320,3 +2321,4 @@ MA-M,E05A9F6,Fibrain,Zaczernie 190F Zaczernie Subcarpathia PL 36-062
 MA-M,E05A9F5,TRYEN,Manan-gu Anyang-ro 110 Anyang Kyeong-gi KR 14035 
 MA-M,E05A9FC,"ShenZhen Mornsun Smartlinker Limited Co., LTD","South 2nd Flr, 23 Bldg, Yuanxi Industrial Zone, Kefa Rd, Nanshan Keji Yuan ShenZhen GuangDong CN 518058 "
 MA-M,E05A9FE,"ShenZhen Arts Changhua Intelligent Technology Co., Ltd","15i, Taibang Science & Technology Building, Science and Technology South 8th Road, Hi-Tech Park South Area Shenzhen Guangdong CN 518057 "
+MA-M,4CBC982,Quake Global Inc,"4711 VIEWRIDGE AVE., STE 150 SAN DIEGO CA US 92123 "
