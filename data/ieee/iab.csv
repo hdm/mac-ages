@@ -704,7 +704,6 @@ IAB,0050C2410,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen SG CH 9008
 IAB,0050C2CBA,"DELTA TAU DATA SYSTEMS, INC.",21314 LASSEN ST CHATSWORTH CA US 91311 
 IAB,0050C2378,Daintree Networks Pty,"111 N. Market St, Suite 615 San Jose CA US 95113-1101 "
 IAB,0050C2BE7,Genetec Inc.,"2280 Alfred-Nobel Blvd., Suite 400 Saint-Laurent Quebec CA H4S 2A4 "
-IAB,0050C2CF9,Elbit Systems of America - Fort Worth Operations,4700 Marine Creek Parkway Fort Worth  TX US 76179 
 IAB,0050C2380,EKE-Electronics Ltd.,Piispanportti 7 ESPOO - FI 02240 
 IAB,0050C2620,Harman/Becker Automotive Systems GmbH,Becker-Göring-Straße 16 Karlsbad  DE 76307 
 IAB,0050C2D5F,"Embedded Solution Bank Co., Ltd.","#905 A, Woolim Lions Valley, 144-3 Seongnam-Si Kyungi-Do KR 462-120 "
@@ -772,6 +771,7 @@ IAB,0050C2F55,Honeywell,13350 US Hwy 19 N Clearwater Fl  US 33764
 IAB,0050C2616,Honeywell,13350 U.S. Hwy 19 North Clearwater FL US 33764-7290 
 IAB,0050C23FB,"nVent, Schroff GmbH",Langenalber Strasse 96-100 Straubenhardt  DE 75334 
 IAB,0050C24A1,"nVent, Schroff GmbH",Langenalber Strasse 96-100 Straubenhardt  DE 75334 
+IAB,0050C2CF9,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth  TX US 76179 
 IAB,0050C20E0,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 IAB,40D85519D,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 IAB,40D8551CE,Peter Huber,Kaeltemaschinenbau GmbH Offenburg Ba-Wue DE 77656 
@@ -1219,7 +1219,6 @@ IAB,0050C279F,ZAO NPC,"Ostrovskogo, 65 Perm Perm region RU 614007 "
 IAB,0050C279C,Vital Systems Inc,21630 N 19th Ave. Suite B8 Phoenix AZ US 85027 
 IAB,0050C2799,AAVD,parc de gavaniere saint egreve isere FR 38120 
 IAB,0050C2769,BES GmbH,Spitzenmeer 1 Westerstede  D 26655  DE  
-IAB,0050C2761,Elbit Systems of America - Fort Worth Operations,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C275E,"Sky-Skan, Incorporated",51 Lake Street Nashua NH US 03060-4513 
 IAB,0050C27CF,Emitech Corporation,"2F, No.7-1, Industry. Er.9 Hsinchu  TW 308 "
 IAB,0050C27CC,SWECO JAPS AB,Metallverksgatan 8 Västerås  SE SE-721 30 
@@ -1566,7 +1565,6 @@ IAB,0050C2F53,"BAYCOM OPTO-ELECTRONICS TECHNOLGY CO., LTD.","1F,NO.9, INDUSTRIAL
 IAB,0050C247A,Efficient Channel Coding,600 Safeguard Plaza Brooklyn Heights Ohio US 44131 
 IAB,0050C25AB,Eaton Corp. Electrical Group Data Center Solutions - Pulizzi,3200 S. Susan Street Santa Ana California US 92704 
 IAB,0050C244A,Elettronica Santerno SpA,"S. SELICE, 47 IMOLA BOLOGNA IT 40026 "
-IAB,0050C2FBA,Elbit Systems of America - Fort Worth Operations,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C25CC,"Enseo, Inc.",401 International Pkwy Richardson TX US 75081 
 IAB,0050C25C2,"Intuitive Surgical, Inc",950 Kifer Road Sunnyvale CA US 94040 
 IAB,0050C2393,SYS TEC electronic GmbH,Am Windrad 2 Heinsdorfergrund   DE D-08468 
@@ -1626,6 +1624,8 @@ IAB,0050C2453,Erhardt+Leimer GmbH,Albert-Leimer-Platz 1 Stadtbergen Bavaria DE 8
 IAB,0050C2452,Scame Sistemi srl,Via Lombardia N°5 ARLUNO MI IT 20010 
 IAB,40D855080,Honeywell,13350 US Highway 19 N Clearwater FL US 33764 
 IAB,40D85517A,ARGUS-SPECTRUM,"Serdobolskaya str.,65A Saint-Petersburg  RU 197342 "
+IAB,0050C2761,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
+IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,40D85519F,Patria Aviation Oy,Naulakatu 3 Tampere  FI 33100 
 IAB,40D8551A1,KRONOTECH SRL,VIALE UNGHERIA 125 - UDINE CAMPOFORMIDO UDINE US 33030 
 IAB,40D8551B8,"Orion Systems, Inc",3401 Masons Mill Rd Huntingdon Valley PA US 19006 
