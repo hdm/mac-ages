@@ -5156,6 +5156,8 @@ MA-L,A8346A,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,E44CC7,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,B06FE0,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,70BF92,GN Audio A/S,Lautrupbjerg 7 Ballerup  DK DK-2750 
+MA-L,9440C9,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,906D05,"BXB ELECTRONICS CO., LTD","6F.-1, NO.288-5, Xinya Rd., Qianzhen Dist. Kaohsiung  TW 80673 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10323,6 +10325,7 @@ MA-L,243F30,Oxygen Broadband s.a.,"2 Messogeion ave., Athens Tower Athens Attiki
 MA-L,4C6AF6,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,48049F,"ELECOM CO., LTD","9FLand Axis Tower.1-1 fushimi machi,4-chome chuoku osaka  JP 5418765 "
 MA-L,087F98,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
+MA-L,B4D0A9,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15384,6 +15387,8 @@ MA-L,D81EDD,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN R
 MA-L,2034FB,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,D43FCB,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,C85261,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,C08ACD,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
+MA-L,A4CF12,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -20527,13 +20532,14 @@ MA-L,644C36,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,647366,Shenzhen Siera Technology Ltd,"Room 2039, Shenhai Building, Wanzhong Village, Bulong Road, Minzhi, Longhua district,  City: Shenzhen Shenzhen Guangdong CN 518131 "
 MA-L,A468BC,Private,
 MA-L,2CCCE6,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
-MA-L,AC2DA9,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
 MA-L,D4E880,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,10AE60,Private,
+MA-L,AC2DA9,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
 MA-L,ACF6F7,LG Electronics (Mobile Communications),"60-39, Gasan-dong, Geumcheon-gu Seoul  KR 153-801 "
 MA-L,7C38AD,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,3C20F6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,E49F1E,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,FCB662,IC Holdings LLC,9066 S 300 W Sandy UT US 84070 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25681,3 +25687,4 @@ MA-L,489507,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN R
 MA-L,A89CED,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,6CA604,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,C04121,Nokia,Karaportti 3 Espoo Finland FI 02610 
+MA-L,A0BD1D,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
