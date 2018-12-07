@@ -5152,12 +5152,13 @@ MA-L,0025DF,Private,
 MA-L,E89E0C,Private,
 MA-L,3C9180,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
 MA-L,20326C,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,A8346A,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,E44CC7,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,A8346A,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,B06FE0,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,70BF92,GN Audio A/S,Lautrupbjerg 7 Ballerup  DK DK-2750 
 MA-L,9440C9,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,906D05,"BXB ELECTRONICS CO., LTD","6F.-1, NO.288-5, Xinya Rd., Qianzhen Dist. Kaohsiung  TW 80673 "
+MA-L,745BC5,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -20540,6 +20541,8 @@ MA-L,7C38AD,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,3C20F6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,E49F1E,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,FCB662,IC Holdings LLC,9066 S 300 W Sandy UT US 84070 
+MA-L,7488BB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,B00CD1,Hewlett Packard,11445 Compaq Center Drive Houston  US 77070 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25676,9 +25679,9 @@ MA-L,A86D5F,"Raisecom Technology CO., LTD","No. 11, East Area, No. 10 Block, Eas
 MA-L,CC2C83,DarkMatter L.L.C,"Level 15, Aldar HQ Abu Dhabi  AE 27655 "
 MA-L,005079,Private,
 MA-L,D0EC35,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,503E7C,LeiShen Intelligent  System Co.Ltd,"4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District Shenzhen Guangdong CN 518104 "
 MA-L,200DB0,"Shenzhen Four Seas Global Link Network Technology Co., Ltd.","Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base Tenglong Road, Longhua District,  Shenzhen Guangdong CN 518000 "
 MA-L,44B994,Douglas Lighting Controls,280 - 3605 Gilmore Way Burnaby BC CA V5G4X5 
+MA-L,503E7C,LeiShen Intelligent  System Co.Ltd,"4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District Shenzhen Guangdong CN 518104 "
 MA-L,D85575,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,D411A3,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,6489F1,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -25686,5 +25689,5 @@ MA-L,04BA8D,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,489507,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,A89CED,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,6CA604,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
-MA-L,C04121,Nokia,Karaportti 3 Espoo Finland FI 02610 
 MA-L,A0BD1D,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
+MA-L,C04121,Nokia,Karaportti 3 Espoo Finland FI 02610 
