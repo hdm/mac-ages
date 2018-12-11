@@ -5160,6 +5160,9 @@ MA-L,9440C9,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 9574
 MA-L,906D05,"BXB ELECTRONICS CO., LTD","6F.-1, NO.288-5, Xinya Rd., Qianzhen Dist. Kaohsiung  TW 80673 "
 MA-L,745BC5,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,A4C3F0,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,80FD7A,BLU Products Inc,10814 NW 33rd Street Miami FL US 33172 
+MA-L,CCDC55,Dragonchip Limited,"Room 601-2, 6/F, IC Development Centre, No. 6 Science Park West Avenue, Hong Kong Science Park, Shatin, N.T. Hong Kong  HK NA "
+MA-L,A0510B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -6488,7 +6491,6 @@ MA-L,00262F,HAMAMATSU TOA ELECTRONICS,9162-1 HAMAMATSU SIZUOKA JP 431-2102
 MA-L,002623,JRD Communication Inc,"16/F, TCL Tower, Gaoxin Nanyi Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,002628,companytec automação e controle ltda.,Rua Marcilio Dias 3005 Pelotas Rio Grande do Sul BR 96020-480 
 MA-L,00261C,NEOVIA INC.,"503 LOTTE IT CASTLE 1DONG,550-1 SEOUL  KR 153-768 "
-MA-L,002615,Teracom Limited,B-84 Noida Uttar Pradesh IN 201301 
 MA-L,002616,Rosemount Inc.,8200 Market Boulevard Chanhassen MN US 55317 
 MA-L,002610,Apacewave Technologies,"48389 Fremont Blvd, STE#100 Fremont CA US 94538 "
 MA-L,002609,"Phyllis Co., Ltd.","9th Fl., Room 3/4, No. 52, Sec. 2, Chung Shan North Road, Taipei  TW 104 "
@@ -8976,7 +8978,6 @@ MA-L,98AA3C,"Will i-tech Co., Ltd.","34, Deokcheon-ro, Manan-gu, Anyang-si, Gyeo
 MA-L,449F7F,DataCore Software Corporation,6300 NW 5th Way Fort Lauderdale FL US 33309 
 MA-L,0011FC,HARTING Electronics GmbH,Wilhelm Harting Str. 1 Espelkamp Nordrhein Westfalen DE D-32339 
 MA-L,5CDD70,"Hangzhou H3C Technologies Co., Limited","310 Liuhe Road, Zhijiang Science Park Hangzhou Zhejiang,  CN 310053 "
-MA-L,24BF74,Private,
 MA-L,B8E779,9Solutions Oy,Teknologiantie 2 Oulu  FI 90590 
 MA-L,240A11,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,C84544,"Asia Pacific CIS (Wuxi) Co, Ltd","No 11, Xikun Road, Wuxi New District Wuxi Jiangsu CN 214028 "
@@ -10329,6 +10330,10 @@ MA-L,48049F,"ELECOM CO., LTD","9FLand Axis Tower.1-1 fushimi machi,4-chome chuok
 MA-L,087F98,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,B4D0A9,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,4889E7,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,04D4C4,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
+MA-L,4846C1,FN-LINK TECHNOLOGY LIMITED,"A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District SHENZHEN GUANGDONG CN 518100 "
+MA-L,24BF74,Private,
+MA-L,002615,Teracom Limited,B-84 Noida Uttar Pradesh IN 201301 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -12919,7 +12924,6 @@ MA-L,0004F5,"SnowShore Networks, Inc.",285 Billerica Road Chelmsford MA US 01824
 MA-L,0004E9,Infiniswitch Corporation,134 Flanders Road Westborough MA US 01581 
 MA-L,0004F0,"International Computers, Ltd",1 Wenlock Way   GB UK 
 MA-L,0004EF,Polestar Corp.,"RM #802 SeoGeon B/D, 1480,  Korea KR (ROK) "
-MA-L,0004DF,Teracom Telematica Ltda.,"R. Felipe Neri, 246 CJ. 301   BR Bazil "
 MA-L,000553,"DVC Company, Inc.",10200 Hwy 290 W. Austin TX US 78236 
 MA-L,000548,Disco Corporation,13-11 Omori-Kita 2-chome Ota-ku Tokyo JP 143-8580 
 MA-L,00054D,"Brans Technologies, Inc.",501 Boramae Academy Tower   KR  
@@ -15393,6 +15397,8 @@ MA-L,C85261,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,C08ACD,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,A4CF12,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,089C86,Nokia Shanghai Bell Co. Ltd.）,"No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China Shanghai  Pudong CN 201206 "
+MA-L,0836C9,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
+MA-L,0004DF,TERACOM TELEMATICA S.A,RUA AMERICA N.1000 Eldorado do Sul - RS  BR Brazil 
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -16200,7 +16206,6 @@ MA-L,40336C,Godrej & Boyce Mfg. co. ltd,"PSS TECH CELL, 2ND FLOOR, PLANT 17, SEC
 MA-L,FC1D59,I Smart Cities HK Ltd,"Unit G,10/F,Phase 2,Yip Fat IND   HK 73-75 "
 MA-L,EC0ED6,ITECH INSTRUMENTS SAS,3 Avenue de la Maranne Châteauneuf-Les-Martigues  FR 13220 
 MA-L,D0D212,"K2NET Co.,Ltd.",K2Net Building  Seoul KR 158-092 
-MA-L,9C8EDC,Teracom Limited, Noida Uttar Pradesh IN 201301 
 MA-L,146A0B,Cypress Electronics Limited,"11/F., Block G, East Sun Industrial Centre, 16 Shing Yip Street, Hong Kong nil HK nil "
 MA-L,B0750C,QA Cafe,33 Jewell Court Portsmouth NH US 03801 
 MA-L,B4E1EB,Private,
@@ -20547,6 +20552,7 @@ MA-L,FCB662,IC Holdings LLC,9066 S 300 W Sandy UT US 84070
 MA-L,7488BB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,B00CD1,Hewlett Packard,11445 Compaq Center Drive Houston  US 77070 
 MA-L,F0D4E2,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,9C8EDC,Teracom Limited, Noida Uttar Pradesh IN 201301 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25695,3 +25701,4 @@ MA-L,A89CED,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO
 MA-L,6CA604,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,C04121,Nokia,Karaportti 3 Espoo Finland FI 02610 
 MA-L,A0BD1D,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
+MA-L,94F7AD,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
