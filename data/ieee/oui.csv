@@ -4323,8 +4323,6 @@ MA-L,BC9680,"SHENZHEN GONGJIN ELECTRONICS CO.,LT","B116,B118,A211-A213,B201-B213
 MA-L,1CA532,"SHENZHEN GONGJIN ELECTRONICS CO.,LT","1#SongGang RD, Bao'an Dist., Shenzhen, Guangdong,China Shenzhen Guangdong CN 518109 "
 MA-L,0000FE,"Annapolis Micro Systems, Inc.",190 ADMIRAL COCHRANE DRIVE ANNAPOLIS MD US 21401 
 MA-L,188090,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,BC024A,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
-MA-L,90A365,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,C444A0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F83441,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,5C0339,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -4561,7 +4559,6 @@ MA-L,AC35EE,FN-LINK TECHNOLOGY LIMITED,"A Building,HuiXin industial park,No 31, 
 MA-L,007278,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,E44E76,CHAMPIONTECH  ENTERPRISE (SHENZHEN) INC,Against Office of Dong-Zhou Residential Committee Guang Ming Shenzhen  CN 518000 
 MA-L,000889,Dish Technologies Corp,94 Inverness Terrace E Englewood CO US 80112 
-MA-L,6CC4D5,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,E8C1B8, Nanjing Bangzhong Electronic Commerce Limited,"No.22, Liuzhou East Road, High - tech Zone Nanjing  CN 210000 "
 MA-L,B4DE31,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,70169F,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 
@@ -4782,7 +4779,6 @@ MA-L,544810,Dell Inc.,One Dell Way Round Rock TX US 78682
 MA-L,000413,snom technology GmbH,Wittestr 30 G Berlin  DE 13509 
 MA-L,8CE748,Private,
 MA-L,00D861,"Micro-Star INTL CO., LTD.","No.69, Lide St., New Taipei City Taiwan TW 235 "
-MA-L,6CA928,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,043385,"Nanchang BlackShark Co.,Ltd.","Room 319, Jiaoqiao Town Office Building, Economic and Technical development zone, Nanchang City, Jiangxi Province. Nanchang  CN 330013 "
 MA-L,A0D86F,Private,
 MA-L,48D35D,Private,
@@ -5162,9 +5158,15 @@ MA-L,CCDC55,Dragonchip Limited,"Room 601-2, 6/F, IC Development Centre, No. 6 Sc
 MA-L,A0510B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,001A9A,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
 MA-L,A089E4,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
-MA-L,2C1875,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
 MA-L,90F891,"Kaonmedia CO., LTD.","884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517 "
 MA-L,445D5E,"SHENZHEN Coolkit Technology CO.,LTD","B09 2nd Floor, T6 ArtZone XiLi, Nanshan Dist shenzhen guangdong CN 518110 "
+MA-L,2C1875,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
+MA-L,989BCB,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
+MA-L,90A365,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,BC024A,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,6CC4D5,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,6CA928,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,70ACD7,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -9400,7 +9402,6 @@ MA-L,0019CB,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science 
 MA-L,603197,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,34FA9F,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,506F98,Sehaj Synergy Technologies Private Limited,"E-112A, Kataria Colony, Ramanagar Extension, New Sanganer Road, Sodala, Jaipur-302019 Jaipur Rajasthan IN 302019 "
-MA-L,04F128,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,F065C2,"Yanfeng Visteon Electronics Technology (Shanghai) Co.,Ltd.",1001 North Qin Zhou Road Shang Hai  CN 200233 
 MA-L,70B7E2,"Jiangsu Miter Technology Co.,Ltd.","No.86 fuyuan community,the town of houbei Jurong Jiangsu CN 212400 "
 MA-L,503CEA,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -10253,7 +10254,6 @@ MA-L,CC70ED,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,A83944,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,00247B,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,70F220,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,AC5775,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,D43D39,FCI. Inc,"B-7F, SiliconPark, 35, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 13486 "
 MA-L,4C962D,Fresh AB,Gransholmsvägen 136 Gemla  SE 35599 
 MA-L,AC7A4D,"ALPS ELECTRIC CO., LTD.",6-1 KAKUDA-CITY MIYAGI-PREF JP 981-1595 
@@ -10326,7 +10326,6 @@ MA-L,00A085,Private,
 MA-L,40A93F,"Pivotal Commware, Inc.",1555 132nd Ave. NE Bellevue WA US 98005 
 MA-L,18D6CF,Kurth Electronic GmbH,Mühleweg 11 Eningen  DE 72800 
 MA-L,243F30,Oxygen Broadband s.a.,"2 Messogeion ave., Athens Tower Athens Attiki GR 11527 "
-MA-L,4C6AF6,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,48049F,"ELECOM CO., LTD","9FLand Axis Tower.1-1 fushimi machi,4-chome chuoku osaka  JP 5418765 "
 MA-L,087F98,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,B4D0A9,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
@@ -10338,6 +10337,9 @@ MA-L,002615,Teracom Limited,B-84 Noida Uttar Pradesh IN 201301
 MA-L,58CB52,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,F8CA59,NetComm Wireless,"LEVEL 5, 18-20 ORION RD. LANE COVE LANE COVE WEST NSW AU 2066 "
 MA-L,6C2CDC,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
+MA-L,04F128,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,AC5775,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,4C6AF6,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15408,6 +15410,7 @@ MA-L,C0074A,Brita GmbH,Heinrich-Hertz-Str. 4 Taunusstein  DE 65232
 MA-L,7C5259,"Sichuan Jiuzhou Electronic Technology Co., Ltd.","No. 259, Jiuzhou Road Mianyang City Sichuan Province CN 621000 "
 MA-L,9020C2,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,0CA06C,Industrial Cyber Sensing Inc.,Unit 1A - 343 Montrose Street North Cambridge Ontario CA N3H 2H6 
+MA-L,40F21C,DASAN Zhone Solutions,7195 Oakport Street Oakland CA US 94621 
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -19974,7 +19977,6 @@ MA-L,DCE0EB,Nanjing Aozheng Information Technology Co.Ltd,"#E1-453, Zidong Road 
 MA-L,C8E7D8,"MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.","Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,505967,Intent Solutions Inc,"730 Peachtree St NE, Suite 550 ATLANTA GA US 30308 "
 MA-L,683A1E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,A83E0E,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,10C172,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,80B575,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,08D46A,LG Electronics (Mobile Communications),"60-39, Gasan-dong, Geumcheon-gu Seoul  KR 153-801 "
@@ -20217,7 +20219,6 @@ MA-L,7001B5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,A0B045,Halong Mining,"13/F TCL Tower,  No.8 Tai Chung Road  Tsuen Wan New Territories  HK Tsuen Wan New Territories "
 MA-L,ECAF97,GIT,"05655, GIT Bldg., 87, Macheon-ro, Songpa-gu, Seoul, Korea Songpa-gu Seoul KR 05655 "
 MA-L,6C21A2,"AMPAK Technology, Inc.","No.1,Jen Ai Road Hsinchu Industrial Park, Hukou Hsinchu Taiwan ROC. TW 30352  "
-MA-L,203956,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,78725D,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,00FCBA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,189C27,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
@@ -20563,6 +20564,9 @@ MA-L,74FF4C,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth
 MA-L,F44C70,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
 MA-L,2CCCE6,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
 MA-L,E8B2FE,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
+MA-L,8C965F,"Shandong Zhongan Technology Co., Ltd.","North of Kejia Road, East District, Jinan High-tech Zone Jinan Shandong CN 250100 "
+MA-L,203956,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,A83E0E,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25678,7 +25682,6 @@ MA-L,D0ABD5,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,C4F0EC,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,00CB51,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,04D7A5,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
-MA-L,C010B1,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
 MA-L,90895F,"WEIFANG GOERTEK ELECTRONICS CO.,LTD","Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China Weifang Shandong CN 261205 "
 MA-L,5447D3,TSAT AS,Martin Linges v 25 Fornebu  NO 1364 
 MA-L,E05A9F,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25714,4 +25717,7 @@ MA-L,C88F26,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth
 MA-L,708540,"Skyworth Digital Technology(Shenzhen) Co.,Ltd","7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057 "
 MA-L,0C1105,"AKUVOX (XIAMEN) NETWORKS CO., LTD","Suite 201-15, 31 WangHai Rd Xiamen Fujian CN 361008 "
 MA-L,98FA9B,"LCFC(HeFei) Electronics Technology co., ltd",YunGu Road 3188-1 Hefei Anhui CN 230000 
+MA-L,7C6166,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,A028ED,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,C010B1,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
 MA-L,00FD22,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
