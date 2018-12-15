@@ -1207,7 +1207,6 @@ MA-M,F023B91,Ubiant,2 Place de Francfort Lyon  FR 69003
 MA-M,8C147D7,UrbanHello,13 rue Saint Antoine Paris  FR 75004 
 MA-M,8C147D9,Anyware Solutions ApS,Monrads Alle 9 Valby Sjaelland DK 2500 
 MA-M,A0C5F27,Viettronimex JSC,"74-76 Nguyen Hue street, Ben nghe ward, distric 1 Ho Chi Minh  VN 70000 "
-MA-M,A0C5F25,Tango Wave,320 Soquel Way Sunnyvale CA US 94085-4101 
 MA-M,A0C5F2C,Glooko inc,899 W. Evelyn Avenue Mountain View CA US 94041 
 MA-M,4C65A83,Roost,"955, Benecia Ave Sunnyvale CA US 94085 "
 MA-M,4C65A8D,"Qingping Technology (Beijing) Co., Ltd.","Room 401, Block B, Fangheng Times Square, No. 10 Wangjing Street, Chaoyang District Beijing  CN 100102 "
@@ -1415,6 +1414,7 @@ MA-M,E44CC73,"JSC ""Svyaz Inginiring M""","Varshavskoe Shosse, 42 Moscow  RU 115
 MA-M,E44CC7C,EPS Bio,"No. 8, R&D 3rd Rd, Science-Based Industrial Park Hsinchu Taiwan TW 30077 "
 MA-M,745BC53,OXON AG,Waldeggstrasse 47 Liebefeld  CH 3097 
 MA-M,745BC5C,ComNot,15 chemin des Hirondelles DARDILLY  FR 69570 
+MA-M,A0C5F25,Spacepath Communications Ltd,"Unit 4, Bartley Point, Osborn Way Hook, Hampshire  GB RG27 9GX "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -1833,7 +1833,6 @@ MA-M,8489EC7,"BYDA Co. Ltd., ","4F, KNS Bldg., 8, Gaepo-ro 25 gil, Gangnam-gu Se
 MA-M,8489EC0,SmartGiant Technology,"1 North Zhong Jia Zhuang, Shi Gang Dong, Da Long Street Guangzhou Guangdong CN 510000 "
 MA-M,A02833C,Kalray S.A.,180 avenue de l’Europe Montbonnot Saint Martin  FR 38330 
 MA-M,38FDFE2,"Smart Solution Technology, Inc","1-15 Kagurazaka,Shinjyukuku, Tokyo  JP 162-0825 "
-MA-M,A028337,Kryptus Information Security S/A,"Av Romeu Tórtima, 554 Campinas São Paulo BR 13084-791 "
 MA-M,E4956EF,Private,
 MA-M,74E14AF,Private,
 MA-M,A4ED433,"Dongguan Mingji Electronics technology Group Co., Ltd.","NO.93,188 Industrial Road, Pingshan Village,Tangxia Town, Dongguan city, Guangdong Province , China. DONGGUAN GUANGDONG CN 523710 "
@@ -1888,6 +1887,7 @@ MA-M,E44CC71,ACS-Solutions GmbH,Science Park 2 Saarbrücken  DE 66123
 MA-M,E44CC75,"CE LABS, LLC",3209 WOOD DRIVE GARLAND TX US 75041 
 MA-M,E44CC7E,"FLK information security technology Co,. Ltd","Room 1801, Yinfeng Building, No. 1505, Binsheng Road, Binjiang District Hangzhou Zhejiang CN 310051 "
 MA-M,745BC56,Yekani Manufacturing PTY Ltd,"Fourways Golf Park,Selbourne Building,Roos St Witkoppen Gauteng ZA 5214 "
+MA-M,A028337,Kryptus Information Security S/A,Rua Maria Tereza Dias da Silva 270 Cidade Universitaria Campinas-SP BR CEP 13083-820 
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
