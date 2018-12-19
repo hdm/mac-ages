@@ -361,7 +361,6 @@ MA-M,8C1CDA2,GEOMC,"Suite514, 130, Digital-ro Seoul  KP 08589 "
 MA-M,8C1CDA0,CEOS Pty Ltd,"3/17 Burgundy Street, Heidelberg VIC AU 3084 "
 MA-M,0C73EBC,"Shenzhen Samchung Video Technology Co., Ltd.","Xixiang Street 4016 Bao'an Avenue  Yong Kai Business Building A, Bao'an District of Shenzhen City Guangdong CN 528470 "
 MA-M,8C1CDA7,K Technology Corporation,"LIVMO Rising Bldg. 5F, 3-19-1 Shin-Yokohama, Kohoku-ku, Yokohama, Kanagawa  JP 222-0033 "
-MA-M,90C682F,Private,
 MA-M,D07650F,Private,
 MA-M,1CCAE3F,Private,
 MA-M,3C39E7F,Private,
@@ -468,6 +467,8 @@ MA-M,E44CC77,Channel Enterprises (HK) Ltd.,"Room 2006, 20/F., 43-47 Wang Lung St
 MA-M,745BC55,SpringCard,"2 voie La Cardon, Parc Gutenberg PALAISEAU IDF FR 91120 "
 MA-M,745BC54,uGrid Network Inc.,602 Gabriola Way Ottawa Ontario CA K2T 0M2 
 MA-M,745BC58,EDOMO Systems GmbH,Obertorplatz 2 Landau Deutschland (DEU) DE 76829 
+MA-M,FCD2B65,Grandway Technology (Shenzhen) Limited,"Block 7, Zhu Keng Industrial Zone Ping Shan District Shenzhen CN 518118 "
+MA-M,90C682F,Private,
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
 MA-M,1C87795,BEIDIAN  GROUP,A2 501 Jingang Road Pudong Jinqiao Shanghai Shanghai Shanghai CN 200126 
 MA-M,1C8779B,"Beijing Geedeen Technology Co., Ltd","Room 1701, Building A, Boya International Center, Lizezhongerlu, Chaoyang District Beijing Beijing CN 100102 "
@@ -1416,6 +1417,7 @@ MA-M,E44CC7C,EPS Bio,"No. 8, R&D 3rd Rd, Science-Based Industrial Park Hsinchu T
 MA-M,745BC53,OXON AG,Waldeggstrasse 47 Liebefeld  CH 3097 
 MA-M,745BC5C,ComNot,15 chemin des Hirondelles DARDILLY  FR 69570 
 MA-M,A0C5F25,Spacepath Communications Ltd,"Unit 4, Bartley Point, Osborn Way Hook, Hampshire  GB RG27 9GX "
+MA-M,FCD2B60,CG POWER AND INDUSTRIAL SOLUTIONS LTD,"A-3, MIDC , AMBAD  NASHIK MAHARASHTRA IN 422010 "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -1890,6 +1892,7 @@ MA-M,E44CC7E,"FLK information security technology Co,. Ltd","Room 1801, Yinfeng 
 MA-M,745BC56,Yekani Manufacturing PTY Ltd,"Fourways Golf Park,Selbourne Building,Roos St Witkoppen Gauteng ZA 5214 "
 MA-M,A028337,Kryptus Information Security S/A,Rua Maria Tereza Dias da Silva 270 Cidade Universitaria Campinas-SP BR CEP 13083-820 
 MA-M,745BC5E,"Qingdao Wintec System Co., Ltd","Wintec Park, Xinye Road, High-tech Zone, Qingdao, China 266114 QING DAO shan dong  of  China CN 6805 "
+MA-M,FCD2B63,Coet Costruzioni Elettrotecniche,Via Civesio 12 San Donato Milanese Mi IT 20097 
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
@@ -2362,5 +2365,5 @@ MA-M,E44CC70,Alert Alarm AB,Råsundavägen 4 Solna Stockholm SE 16967
 MA-M,E44CC78,IAG GROUP LTD,"IAG Industrial Park, Jiuwei, Xixiang Town, Baoan, Shenzhen, China. shenzhen  CN 518000 "
 MA-M,745BC50,IRS Systementwicklung GmbH,"Pfaffenthanner Weg, 5 Brennberg  DE 93179 "
 MA-M,745BC5A,Fournie Grospaud Energie SASU,220 rue du chene vert LABEGE  FR 31670 
-MA-M,745BC5D,CELYSS SAS,7 allee des ginkgos Bron  FR 69500 
 MA-M,745BC59,"Haikou Frun Flash&Mcu Microcontrol Technology Development Co.,Ltd","5 floor A1-9, A building, incubation center, Haikou national hi tech Development Zone Haikou Hainan CN 570206 "
+MA-M,745BC5D,CELYSS SAS,7 allee des ginkgos Bron  FR 69500 
