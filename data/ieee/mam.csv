@@ -8,7 +8,6 @@ MA-M,8439BE3,"ShenZhen Fudeyu Technology co.,Ltd","1st Floor, Building C, No.3 J
 MA-M,1C88799,Xingtera China Ltd,88 Chenhui Rd Bldg 1 Ste 303 Shanghai  CN 201203 
 MA-M,40A36B5,National Research Council of Canada,717 White Lake Road Kaleden British Columbia CA V0H1K0 
 MA-M,1C87762,Ibeo Automotive Systems GmbH,Merkurring 60-62 Hamburg  DE 22143 
-MA-M,40A36B6,Bixi Systems Ltd.,Grossfeldstrasse 3 Mels  CH 8887 
 MA-M,70886BB,"Beijing Strongleader Science & Technology Co., Ltd.","No. 12 Yard, Zhong Guan Cun South St.  Beijing Beijing CN 100081 "
 MA-M,800A805,"Shenzhen Zidoo Technology Co., Ltd.","Room 12D,Block A CENTRAL GREAT SEARCHINGS, Shenzhen Guangdong CN 518100 "
 MA-M,800A801,"Dongguan I-Chime electrinics Co.,Ltd","3/F,A/B,west of Xiangmang road,Fugang village Dongguan Guangdong CN 523660 "
@@ -467,9 +466,10 @@ MA-M,E44CC77,Channel Enterprises (HK) Ltd.,"Room 2006, 20/F., 43-47 Wang Lung St
 MA-M,745BC55,SpringCard,"2 voie La Cardon, Parc Gutenberg PALAISEAU IDF FR 91120 "
 MA-M,745BC54,uGrid Network Inc.,602 Gabriola Way Ottawa Ontario CA K2T 0M2 
 MA-M,745BC58,EDOMO Systems GmbH,Obertorplatz 2 Landau Deutschland (DEU) DE 76829 
-MA-M,90C682F,Private,
 MA-M,FCD2B65,Grandway Technology (Shenzhen) Limited,"Block 7, Zhu Keng Industrial Zone Ping Shan District Shenzhen CN 518118 "
+MA-M,90C682F,Private,
 MA-M,FCD2B62,Soma GmbH,Gewerbering 9 Schalksmühle NRW DE 58579 
+MA-M,40A36B6,Securiton AG,"Alpenstrasse 20, P.O. Box 127 Zollikofen  CH CH-3052  "
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
 MA-M,1C87795,BEIDIAN  GROUP,A2 501 Jingang Road Pudong Jinqiao Shanghai Shanghai Shanghai CN 200126 
 MA-M,1C8779B,"Beijing Geedeen Technology Co., Ltd","Room 1701, Building A, Boya International Center, Lizezhongerlu, Chaoyang District Beijing Beijing CN 100102 "
@@ -1894,6 +1894,7 @@ MA-M,745BC56,Yekani Manufacturing PTY Ltd,"Fourways Golf Park,Selbourne Building
 MA-M,A028337,Kryptus Information Security S/A,Rua Maria Tereza Dias da Silva 270 Cidade Universitaria Campinas-SP BR CEP 13083-820 
 MA-M,745BC5E,"Qingdao Wintec System Co., Ltd","Wintec Park, Xinye Road, High-tech Zone, Qingdao, China 266114 QING DAO shan dong  of  China CN 6805 "
 MA-M,FCD2B63,Coet Costruzioni Elettrotecniche,Via Civesio 12 San Donato Milanese Mi IT 20097 
+MA-M,FCD2B6D,"Bee Smart(Changzhou) Information Technology Co., Ltd",Changwu Middle Road Changzhou Jiangsu CN 213100 
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
@@ -2359,8 +2360,8 @@ MA-M,4CBC982,Quake Global Inc,"4711 VIEWRIDGE AVE., STE 150 SAN DIEGO CA US 9212
 MA-M,4CBC986,"Humanplus Intelligent Robotics Technology Co.,Ltd.","Room507,5th Floor, Zhongguancun Frontier Technology Innovation Building, No. 67 North Fourth Ring Road,Haidian District, Beijing Beijing CN 100089 "
 MA-M,4CBC98B,"Dongguan SmartAction Technology Co.,Ltd","Room1109,Building D,First Place,Nancheng District, Dongguan Dongguan Guangdong CN 523000 "
 MA-M,8CC8F47,Private,
-MA-M,4CBC981,JSC NIC,"Nauchny proezd, 6 Moscow  RU 117246 "
 MA-M,E44CC79,Ottomate International Pvt. Ltd.,"Awfis Building, 5th Floor, Plot # 7, Sector-44 Gurgaon Haryana IN 122003 "
+MA-M,4CBC981,JSC NIC,"Nauchny proezd, 6 Moscow  RU 117246 "
 MA-M,E44CC72,"Doowon Electronics & Telecom Co.,Ltd","IT 301-408, Ssangyong 3Cha, Bucheon Technopark, 397, Seokcheon-ro, Ojeong-gu Bucheon-si Gyeonggi-do KR 14449 "
 MA-M,E44CC70,Alert Alarm AB,Råsundavägen 4 Solna Stockholm SE 16967 
 MA-M,E44CC78,IAG GROUP LTD,"IAG Industrial Park, Jiuwei, Xixiang Town, Baoan, Shenzhen, China. shenzhen  CN 518000 "
@@ -2368,3 +2369,4 @@ MA-M,745BC50,IRS Systementwicklung GmbH,"Pfaffenthanner Weg, 5 Brennberg  DE 931
 MA-M,745BC5A,Fournie Grospaud Energie SASU,220 rue du chene vert LABEGE  FR 31670 
 MA-M,745BC59,"Haikou Frun Flash&Mcu Microcontrol Technology Development Co.,Ltd","5 floor A1-9, A building, incubation center, Haikou national hi tech Development Zone Haikou Hainan CN 570206 "
 MA-M,745BC5D,CELYSS SAS,7 allee des ginkgos Bron  FR 69500 
+MA-M,FCD2B6A,NREAL TECHNOLOGY LIMITED,RM 1901，19/F LEE GARDEN ONE 33 HYSAN AVENUE CAUSEWAY BAY HONG KONG  HK 999077 
