@@ -5192,6 +5192,7 @@ MA-L,981E19,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Ced
 MA-L,C4C138,OWLink Technology Inc,760 Roosevelt Irvine CA US 92620 
 MA-L,18F18E,ChipER Technology co. ltd,907 University Ave#299 Middleton WI US 53562 
 MA-L,B8D526,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
+MA-L,F42E7F,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10398,8 +10399,8 @@ MA-L,907841,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,44A61E,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,8C0FA0,di-soric GmbH & Co. KG,Steinbeisstrasse 6 Urbach  DE 73660 
 MA-L,109E3A,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
-MA-L,205869,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,2479F3,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,205869,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15493,10 +15494,10 @@ MA-L,A8A159,ASRock Incorporation,"2F., No. 37, Sec. 2, Jhongyang S. Rd., Beitou 
 MA-L,70F754,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,F40270,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,DCB808,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
+MA-L,C8C64A,Flextronics Tech.(Ind) Pvt Ltd,"SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC Chennai  IN 602107 "
 MA-L,38D2CA,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province Shenzhen GuangDong CN 518000 "
 MA-L,18BC5A,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
 MA-L,78DA07,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
-MA-L,C8C64A,Flextronics Tech.(Ind) Pvt Ltd,"SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC Chennai  IN 602107 "
 MA-L,001836,"REJ Co.,Ltd","2-3-2 Fukuura, Kanazawa-ku Yokohama Kanagawa JP 236-8641 "
 MA-L,C4E39F,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -20679,6 +20680,9 @@ MA-L,308944,DEVA Broadcast Ltd.,Alexander Stamboliyski 65 Burgas Burgas BG 8000
 MA-L,84B866,Beijing XiaoLu technology co. LTD,"Room 002, floor 2, building 1, yard 4, BeiTuCheng East Road, ChaoYang district, Beijing Beijing  CN 100102 "
 MA-L,80A235,Edgecore Networks Corporation,1 Creation RD 3. Hsinchu  TW 30077 
 MA-L,E0B655,"Beijing Xiaomi Electronics Co., Ltd.","Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085 "
+MA-L,B4CC04,Piranti,"126, Beolmal-ro Dongan-gu, Anyang-si, Gyeonggi-do  KR 14057 "
+MA-L,5C32C5,Teracom Ltd.,11 Vasil Levski blvd. Ruse  BG 7019 
+MA-L,C86314,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25844,10 +25848,10 @@ MA-L,2C58E8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,A4975C,VTech Telecommunications Ltd.,"23/F,Tai Ping Industrial Centre ,Block 1 Hong Kong  CN 000000 "
 MA-L,5078B3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,246F28,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,C4B36A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F8BBBF,eero inc.,500 Howard St Suite 900 San Francisco CA US 94105 
 MA-L,605F8D,eero inc.,"500 Howard Street, Suite 900 SAN FRANCISCO CA US 94105 "
 MA-L,00077C,Westermo Network Technologies AB,Stora Sundby Sweden  SE SE-640 40 
+MA-L,C4B36A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,904DC3,Flonidan A/S,Islandsvej 29 Horsens  DK 8700 
 MA-L,30EA26,Sycada BV,Burgemeester Stramanweg 105B Amsterdam  NL 1101 AA 
 MA-L,9C497F,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
