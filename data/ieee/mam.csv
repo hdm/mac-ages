@@ -473,10 +473,10 @@ MA-M,40A36B6,Securiton AG,"Alpenstrasse 20, P.O. Box 127 Zollikofen  CH CH-3052 
 MA-M,FCD2B68,Oviss Labs Inc.,46259 Warm Springs Blvd Fremont CA US 94539 
 MA-M,34E1D18,Hubitat Inc.,"20343 N Hayden Rd, Suite 105-280 Scottsdale AZ US 85255 "
 MA-M,34E1D16,Ningbo Hua Gao Mdt Info Tech Ltd,"NO.655,Xueshi Road, Yinzhou District, Ningbo, Zhejiang,China Ningbo Zhejiang CN 315100 "
-MA-M,34E1D11,SAMA NextGen PTE Limited,"  16 Collyer Quay, #21-00 Income AT Raffels,  Singapore 049318 Singapore  SG 049318 "
 MA-M,34E1D17,Genius Pros,"Floor 13,  Building B, NO. 859 West Shixiang Road, Xihu District, Hangzhou City Hangzhou  CN 310012 "
 MA-M,C863145,Meyer Electronics Limited,382 Kwun Tong Road Hong Kong  HK 0000 
 MA-M,C863144,Shenzhen Zero Zero Infinity Technology Co.，Ltd.,"309 Rainbow Technology Building, 36 Gaoxin North 6th Road, Xili Street Shenzhen Guangdong CN 518000 "
+MA-M,34E1D11,SAMA NextGen PTE Limited,"  16 Collyer Quay, #21-00 Income AT Raffels,  Singapore 049318 Singapore  SG 049318 "
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
 MA-M,1C87795,BEIDIAN  GROUP,A2 501 Jingang Road Pudong Jinqiao Shanghai Shanghai Shanghai CN 200126 
 MA-M,1C8779B,"Beijing Geedeen Technology Co., Ltd","Room 1701, Building A, Boya International Center, Lizezhongerlu, Chaoyang District Beijing Beijing CN 100102 "
@@ -1436,6 +1436,7 @@ MA-M,FCD2B60,CG POWER AND INDUSTRIAL SOLUTIONS LTD,"A-3, MIDC , AMBAD  NASHIK MA
 MA-M,FCD2B61,LINK (FAR-EAST) CORPORATION,"No.192, Lian-Cheng Rd., Chung-Ho, Taipei,Taiwan 23553 Taipei Taiwan TW 23553 "
 MA-M,FCD2B6E,Univer S.p.A.,Via Eraclito 31 Milan  IT 20128 
 MA-M,34E1D1B,"APG Cash Drawer, LLC",5250 Industrial Blvd NE Minneapolis MN US 55421 
+MA-M,C863147,"Shenzhen Wesion Technology Co., Ltd","A511, Mingyou Purchasing Center, Baoyuan Road, Xixiang Street Shenzhen Guangdong CN 518102 "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -1917,6 +1918,7 @@ MA-M,FCD2B67,Teamly Digital,11-13 Avenue de Friedland Paris Ile de France FR 750
 MA-M,34E1D19,Apart Audio NV,Industriepark Brechtsebaan 8 bus 1 Schoten  BE 2900 
 MA-M,34E1D13,Rinco Ultrasonics AG,Industriestrasse 4 Romanshorn Thurgau CH 8590 
 MA-M,34E1D14,ASA Innovation & Technology Ltd.,"Room 506, 5/F, Enterprise Place, No. 5 Science Park West Ave., Hong Kong Science Park Shatin NT HK 00000 "
+MA-M,C863149,Maxcom S.A.,Towarowa 23A Tychy  PL 43-100 
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
