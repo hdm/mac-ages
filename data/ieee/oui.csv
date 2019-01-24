@@ -4807,12 +4807,6 @@ MA-L,2493CA,Voxtronic Austria,Modecenterstrasse 17  Objekt 1 Vienna  AT 1110
 MA-L,907E30,LARS,Swierkowa 14 Niepruszewo  PL 64-320 
 MA-L,441AFA,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,004E35,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,001F90,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,207600,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,F8E4FB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,181BEB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,E86FF2,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,FC2BB2,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,500084,Siemens Canada,300 Applewood Crescent Concord Ontario CA L4K 5C7 
 MA-L,34029B,Plexonics Technologies LImited,"1st Floor, 181/23 Industrial Area Phase 1 Chandigarh Punjab IN 160002 "
 MA-L,4861A3,"Concern ""Axion"" JSC","90, M. Gorkogo St. Izhevsk Udmurt Republic RU 426000 "
@@ -5197,11 +5191,17 @@ MA-L,0CE99A,ATLS ALTEC,3 RUE DE LA GUIVERNONE ZI DU VERT GALANT  ST OUEN L AUMON
 MA-L,8C89FA,"Zhejiang Hechuan Technology Co., Ltd.","No. 9, Fucai Road, Longyou Industrial Zone Quzhou Zhejiang CN 324000 "
 MA-L,402343,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,F848FD,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
-MA-L,243154,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,483FE9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,143CC3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,EC5623,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,243154,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,483FE9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,FC2BB2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,346B5B,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,E86FF2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,181BEB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,F8E4FB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,207600,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,001F90,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10276,9 +10276,6 @@ MA-L,D467D3,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN R
 MA-L,48E3C3,JENOPTIK Advanced Systems GmbH,Feldstrasse 155 Wedel Schleswig-Holstein DE 22880 
 MA-L,84EB3E,Vivint Smart Home,4931 N. 300 W. Provo UT US 84604 
 MA-L,CC70ED,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,A83944,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,00247B,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,70F220,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,D43D39,FCI. Inc,"B-7F, SiliconPark, 35, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 13486 "
 MA-L,4C962D,Fresh AB,Gransholmsvägen 136 Gemla  SE 35599 
 MA-L,AC7A4D,"ALPS ELECTRIC CO., LTD.",6-1 KAKUDA-CITY MIYAGI-PREF JP 981-1595 
@@ -10403,17 +10400,21 @@ MA-L,34E1D1,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,DCFB48,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,6C40C6,"Nimbus Data, Inc.","5151 California Ave, Ste 100 Irvine CA US 92617 "
 MA-L,A8DB03,SAMSUNG ELECTRO-MECHANICS(THAILAND),"93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE Bangpakong Chachoengsao TH 24180 "
+MA-L,CC37AB,Edgecore Networks Corporation,1 Creation Road 3. Hsinchu Hsinchu TW 30077 
+MA-L,907841,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,44A61E,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,8C0FA0,di-soric GmbH & Co. KG,Steinbeisstrasse 6 Urbach  DE 73660 
-MA-L,907841,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,109E3A,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
-MA-L,CC37AB,Edgecore Networks Corporation,1 Creation Road 3. Hsinchu Hsinchu TW 30077 
 MA-L,2479F3,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,205869,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,60D2DD,"Shenzhen Baitong Putian Technology Co.,Ltd.","501,5/F,Building 1,No.2,Lianwei Street,Hualian Community,Longhua Street Longhua District Shenzhen Guangdong CN 518109 "
-MA-L,FCAB90,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,20DA22,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,88F872,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,FCAB90,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,70F220,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,00247B,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,A83944,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,88E64B,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15357,10 +15358,6 @@ MA-L,E09F2A,Iton Technology Corp. ,"Room 1302, Block A, Building 4，Huangge Roa
 MA-L,484A30,George Robotics Limited,"Salisbury House, Station Road Cambridge  GB CB1 2LA "
 MA-L,684F64,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,50AD92,NX Technologies,"5F(OS Building), 57, Daeril-2gil, Beomseo-eup Ulsan  KR 44922 "
-MA-L,001EA7,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,105F06,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,70F196,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,0026B8,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,64255E,"Observint Technologies, Inc.",11000 N Mopac Expressway Suite 300 Austin TX US 78759 
 MA-L,94677E,Belden India Private Limited,"Plot No. D-228, Chakan MIDC Phase 2,  Village Bhamboli, Taluka:Khed Pune, Maharashtra IN 410 507 "
 MA-L,70BC10,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
@@ -15504,10 +15501,10 @@ MA-L,A8A159,ASRock Incorporation,"2F., No. 37, Sec. 2, Jhongyang S. Rd., Beitou 
 MA-L,70F754,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,F40270,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,DCB808,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
-MA-L,C8C64A,Flextronics Tech.(Ind) Pvt Ltd,"SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC Chennai  IN 602107 "
 MA-L,38D2CA,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province Shenzhen GuangDong CN 518000 "
 MA-L,18BC5A,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
 MA-L,78DA07,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
+MA-L,C8C64A,Flextronics Tech.(Ind) Pvt Ltd,"SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC Chennai  IN 602107 "
 MA-L,001836,"REJ Co.,Ltd","2-3-2 Fukuura, Kanazawa-ku Yokohama Kanagawa JP 236-8641 "
 MA-L,C4E39F,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,0021B7,"LEXMARK INTERNATIONAL, INC.",740 West New Circle Road Lexington KY US 40550 
@@ -15518,6 +15515,10 @@ MA-L,A8E544,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,5486BC,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,24DA33,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D4789B,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,70F196,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,105F06,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,001EA7,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,0026B8,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,50C4DD,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
 MA-L,C46516,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
 MA-L,D8D090,Dell Inc.,One Dell Way Round Rock TX US 78682 
@@ -20576,8 +20577,6 @@ MA-L,CC9EA2,Amazon Technologies Inc.,P.O Box 8102 Reno  US 89507
 MA-L,4C218C,Panasonic India Private limited,"12th floor, Ambience tower, Ambience Island Gurgaon Haryana IN 122002 "
 MA-L,44B433,"tide.co.,ltd","9F Kapeul GreatValley A-dong, Digitalro 9-ghil 32, Geumcheon-gu seoul seoul KR ASIKRKS006 "
 MA-L,D43A2E,SHENZHEN MTC CO LTD,"5th Floor, 3rd Building, SHENZHEN MTC Industrial Park, XiaLilang Rd, Nanwan Street, Long’gang District Shenzhen Guangdong CN 518100 "
-MA-L,109FA9,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,0020E0,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,AC4330,Versa Networks,"6001 America center Drive, Suite 400 San Jose CA US 95070 "
 MA-L,40B076,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
 MA-L,4CC7D6,"FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.","Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC Zhuhai Guangdong CN 519180 "
@@ -20693,9 +20692,9 @@ MA-L,5893D8,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,DC7137,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,DC680C,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,FC3342,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
-MA-L,6C8BD3,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,80DA13,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,1422DB,eero inc.,230 9th St. San Francisco CA US 94103 
+MA-L,6C8BD3,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0011B4,Westermo Network Technologies AB,Stora Sundby Sweden  SE SE-640 40 
 MA-L,308944,DEVA Broadcast Ltd.,Alexander Stamboliyski 65 Burgas Burgas BG 8000 
 MA-L,84B866,Beijing XiaoLu technology co. LTD,"Room 002, floor 2, building 1, yard 4, BeiTuCheng East Road, ChaoYang district, Beijing Beijing  CN 100102 "
@@ -20709,6 +20708,8 @@ MA-L,C821DA,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University
 MA-L,78E2BD,Vodafone Automotive S.p.A.,via Astico 41 Varese Italy/VA IT 21100 
 MA-L,4C11AE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,E41E0A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,0020E0,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,109FA9,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -25742,18 +25743,7 @@ MA-L,BC3E07,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Pa
 MA-L,44FE3B,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,D83AF5,Wideband Labs LLC,"1027 S Main Street, STE 330 Joplin MO US 64801 "
 MA-L,F46E95,"Extreme Networks, Inc.",6480 Via Del Oro San Jose  US 95119 
-MA-L,000FB3,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,001505,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,001801,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,288088,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
-MA-L,007F28,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,408B07,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,4C8B30,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,A0A3E2,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,0C6127,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,002662,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,10785B,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
-MA-L,9C1E95,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,9C69B4,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,E85BB7,Ample Systems Inc.,"11F-2, No. 95 Minquan Rd. New Taipei City   TW 231 "
 MA-L,C80873,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
@@ -25874,13 +25864,25 @@ MA-L,2C58E8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,A4975C,VTech Telecommunications Ltd.,"23/F,Tai Ping Industrial Centre ,Block 1 Hong Kong  CN 000000 "
 MA-L,5078B3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,246F28,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,C4B36A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F8BBBF,eero inc.,500 Howard St Suite 900 San Francisco CA US 94105 
 MA-L,605F8D,eero inc.,"500 Howard Street, Suite 900 SAN FRANCISCO CA US 94105 "
 MA-L,00077C,Westermo Network Technologies AB,Stora Sundby Sweden  SE SE-640 40 
-MA-L,C4B36A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,904DC3,Flonidan A/S,Islandsvej 29 Horsens  DK 8700 
 MA-L,30EA26,Sycada BV,Burgemeester Stramanweg 105B Amsterdam  NL 1101 AA 
 MA-L,9C497F,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,788C77,"LEXMARK INTERNATIONAL, INC.",740 NEW CIRCLE ROAD LEXINGTON KY US 40550 
 MA-L,E002A5,ABB Robotics,Hydrovägen 10 Västerås  SE 721 68 
 MA-L,F89A78,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,9C1E95,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,10785B,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,002662,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,0C6127,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,A0A3E2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,4C8B30,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,408B07,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,007F28,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,001801,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,001505,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,000FB3,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,84E892,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
