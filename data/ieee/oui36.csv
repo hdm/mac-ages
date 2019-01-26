@@ -1215,6 +1215,7 @@ MA-S,70B3D533F,XANTIA SA,Chemin du Longchamps 99 Bienne  CH 2504
 MA-S,70B3D5F43,Divelbiss Corporation,9778 Mount Gilead Road Fredericktown OH US 43019 
 MA-S,70B3D5275,INTERNET PROTOCOLO LOGICA SL,"Sector Foresta 43, local 26 Tres Cantos Madrid ES 28760 "
 MA-S,70B3D56BA,Integrotech sp. z o.o.,plac Zwyciestwa 2 bud. D Lodz lodzkie PL 90-312 
+MA-S,70B3D5E29,Invent Vision - iVision Sistemas de Imagem e Visão S.A.,"R. Prof. José Vieira de Mendonça, 770, 2° andar - BHTEC, Parque Tecnológico de Belo Horizonte Belo Horizonte Minas Gerais BR 31310-260 "
 MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711 
 MA-S,70B3D5BF2,TWIN DEVELOPMENT,FAUBOURG DE BRUXELLES 320 GOSSSELIES  BE 6041 
 MA-S,70B3D5901,ATS-CONVERS,"Yana Fabrittsyusa str., 10 Pskov  RU 180017 "
@@ -1821,6 +1822,7 @@ MA-S,70B3D5AEC,Paratec Ltd.,P.O.Box 3574 Haifa  IL 3103402
 MA-S,70B3D5DBC,Gamber Johnson-LLC,3001 Borham Ave Stevens Point WI US 54481 
 MA-S,70B3D59CC,Zaxcom Inc,230 West Parkway STE 9 Pompton Plains NJ US 07444 
 MA-S,70B3D5490,Xiamen Beogold Technology Co. Ltd.," 11F Amoy Institute of Technovation,Jimei District Xiamen Fujian CN 361021 "
+MA-S,70B3D5808,Becton Dickinson,7 Loveton Circle Sparks MD US 21152 
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -2431,7 +2433,6 @@ MA-S,70B3D51D9,MondeF,Neutronstraat 7-2 Groningen Groningen NL 9743AM
 MA-S,70B3D5E1F,THETA432,1730 E Holly Ave suite 805 El Segundo CA US 90245 
 MA-S,70B3D56A2,Root Automation,1916 Fort Jones Rd Yreka CA US 96097 
 MA-S,70B3D5287,Hypex Electronics BV,Kattegat 8 Groningen Groningen NL 9723 JP 
-MA-S,70B3D51D7,Private,
 MA-S,70B3D570E,"Wuhan Xingtuxinke ELectronic Co.,Ltd","NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074 "
 MA-S,70B3D5BBA,Samriddi Automations Pvt. Ltd.,F-365 Noida up IN 201307 
 MA-S,70B3D50A7,"Traffic and Parking Control Co, Inc.",5100 W. Brown Deer Rd. Brown Deer WI US 53223 
@@ -2442,6 +2443,7 @@ MA-S,70B3D566D,Sanmina Israel,"Koren Industrial Zone , POBox 102 Maalot Israel I
 MA-S,70B3D5CB1,RADAR,547 W 27th St. NEW YORK NY US 10001-5670 
 MA-S,70B3D5BA6,Gluon Solutions Inc.,6951 Southfront Road Livermore CA US 94551 
 MA-S,70B3D5BC5,U&R GmbH Hardware- und Systemdesign,In den Wiesen 2 Erbach  DE 89155 
+MA-S,70B3D51D7,Private,
 MA-S,70B3D58AB,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5729,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5E93,ECON Technology Co.Ltd,Mogan Road 1418-41-4 Hangzhou Zhejiang  CN 310015 
@@ -3031,11 +3033,14 @@ MA-S,70B3D5497,ALBIRAL DISPLAY SOLUTIONS SL,Fàtima 25 Sant Hipòlit de Voltreg�
 MA-S,70B3D557F,"MBio Diagnostics, Inc.","5603 Arapahoe Avenue, Suite 1 BOULDER CO US 80303 "
 MA-S,70B3D50ED,Lupa Tecnologia e Sistemas Ltda,"Rua Viscondessa de Cavalcanti, 50 - Poço Rico Juiz de Fora Minas Gerais BR 36020-070 "
 MA-S,70B3D5C08,Talleres de Escoriaza SA,"Barrio Ventas, 35 Irun Gipuzkoa ES 20305 "
-MA-S,70B3D5F89,Soehnle Industrial Solutions GmbH,Gaildorfer Strasse 6 Backnang  DE 71522 
 MA-S,70B3D5628,MECT SRL,VIA E. FERMI 57/59 ALPIGNANO TORINO IT 10093 
 MA-S,70B3D52FC,Loanguard T/A SE Controls,Wellington Crescent Lichfield Staffordshire GB WS13 8RZ 
+MA-S,70B3D5F89,Soehnle Industrial Solutions GmbH,Gaildorfer Strasse 6 Backnang  DE 71522 
 MA-S,70B3D5FDC,Tapdn,840 Apollo St Suite 100 El Segundo CA US 90245 
 MA-S,70B3D57BA,Decentlab GmbH,Ueberlandstrasse 129 Duebendorf  CH 8600 
 MA-S,70B3D59B7,Itronics Ltd,"8a Triton Dr, Rosedale Auckland  NZ 0632 "
 MA-S,70B3D521A,Acutronic Link Robotics AG,"Calle Venta de la Estrella, 6 Pab. 130 VITORIA-GASTEIZ ALAVA ES 01003 "
 MA-S,70B3D579D,"Editech Co., Ltd","284, Gongdan-ro Gunpo-si Gyeonggi-do KR 15809 "
+MA-S,70B3D5F1C,Bavaria Digital Technik GmbH,Rehbichler Weg 26 Pfronten Bayern DE 87459 
+MA-S,70B3D5F50,"Vectology,Inc",UU bld 4F  2-5-2 Shinyokohama Kouhoku-ku Yokohama Kanagawa JP 2220033 
+MA-S,70B3D5388,Xitron,4750 Venture Drive Ann Arbor MI US 48108 

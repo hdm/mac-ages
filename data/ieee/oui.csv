@@ -3716,7 +3716,6 @@ MA-L,000BA2,"Sumitomo Electric Industries,Ltd","1-1-3, Shimaya, Konohana-ku Osak
 MA-L,30CBF8,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,40D357,"Ison Technology Co., Ltd.","Room 6, 20F, No. 77, section 1, Xintai 5th Rd. Xizhi District New Taipei City Taiwan TW 22101 "
 MA-L,00351A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,00A0B8,NetApp,2001 Danfield Ct. Fort Collins CO US 80525 
 MA-L,9CD48B,Innolux Technology Europe BV,Stationstraat 39G Heerlen  NL 6411NK 
 MA-L,DCE838,CK Telecom (Shenzhen) Limited,"Floor 9th, Building 4C,Software Industry Base, Xuefu Road, Hi-Tech Park, Nanshan Dist. Shenzhen Guangdong CN 518057 "
 MA-L,00CCFC,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -5197,12 +5196,16 @@ MA-L,243154,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,483FE9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,FC2BB2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,346B5B,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
-MA-L,E86FF2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
-MA-L,181BEB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,F8E4FB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,207600,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,001F90,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,E86FF2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,181BEB,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,94EE9F,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
+MA-L,ACA46E,"SHENZHEN GONGJIN ELECTRONICS CO.,LT",SONGGANG SHENZHEN GUANGDONG CN 518105 
+MA-L,80DABC,Megafone Limited,"Unit 702,7/F,Bankok Bank Building,NO.18 Bonham Strand West Hong Kong  HK 999077 "
+MA-L,5075F1,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,00A0B8,NetApp,"1395 Crossman Ave Sunnyvale, CA US 94089 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -14043,7 +14046,6 @@ MA-L,803896,SHARP Corporation,"22-22,Nagaike-Cho Osaka-City Osaka-Prefecture JP 
 MA-L,80D160,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,686E23,Wi3 Inc.,P.O. Box 1123 Pittsford NY US 14534 
 MA-L,B8A175,"Roku, Inc.",12980 Saratoga Ave Saratoga CA US 95070 
-MA-L,0080E5,NetApp,3718 N. Rock Road Wichita KS US 67226-1397 
 MA-L,002340,MiXTelematics,Blaauwklip Office Park 2 Stellenbosch Western Cape ZA 7600 
 MA-L,00AF1F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,4CCC6A,"Micro-Star INTL CO., LTD.","No.69, Lide St., New Taipei City Taiwan TW 235 "
@@ -15523,6 +15525,9 @@ MA-L,0026B8,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054
 MA-L,50C4DD,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
 MA-L,C46516,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
 MA-L,D8D090,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,F8DFE1,MyLight Systems,290 rue Ferdinand Perrier Saint Priest  FR 69800 
+MA-L,D039EA,NetApp,"1395 Crossman Ave Sunnyvale, CA US 94089 "
+MA-L,0080E5,NetApp,"1395 Crossman Ave Sunnyvale, CA US 94089 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -18286,7 +18291,6 @@ MA-L,00031E,"Optranet, Inc.",7041 Koll Center Pkwy Pleasanton CA US 94566
 MA-L,00B052,Atheros Communications,"5955 T.G. Lee Blvd, Ste. 600 Ocala FL US 32822 "
 MA-L,000319,Infineon AG,P.O. Box 800949   DE  
 MA-L,000316,"Nobell Communications, Inc.","3410 Far West Blvd., Suite 240 Austin TX US 78731 "
-MA-L,000312,TR-Systemtechnik GmbH,Eglishalde 6   DE  
 MA-L,000447,"Acrowave Systems Co., Ltd.","Maru B/D 86-6, Nonhyun-Dong KOREA zip: KR 135-818 "
 MA-L,00043B,"Lava Computer Mfg., Inc.",2 Vulcan St.  CANADA CA M9W-1L2 
 MA-L,000440,"cyberPIXIE, Inc.","68 E. Wacker Place, Chicago IL US 60601 "
@@ -18776,7 +18780,6 @@ MA-L,00A014,CSIR,P.O. BOX 395  SOUTH ZA AFRICA
 MA-L,00A064,KVB/ANALECT,9420 JERONIMO ROAD IRVINE CA US 92718 
 MA-L,00A07F,"GSM-SYNTEL, LTD.","VICTORIA WORKS, QUEENS MILL RD HD1 3PG GB ENGLAND "
 MA-L,00A03E,ATM FORUM,WORLDWIDE HEADQUARTERS FOSTER CITY CA US 94404-1138 
-MA-L,00A098,NetApp,"495 East Java Drive Sunnyvale, CA US 94089 "
 MA-L,00A0A8,RENEX CORPORATION,2750 KILLARNEY DRIVE WOODBRIDGE VA US 22192 
 MA-L,002049,"COMTRON, INC.",SANCATHERINA BLDG. TOKYO 160 JP  
 MA-L,002050,KOREA COMPUTER INC.,"469, DAEHEUNG-DONG   KR KOREA "
@@ -20710,7 +20713,13 @@ MA-L,78E2BD,Vodafone Automotive S.p.A.,via Astico 41 Varese Italy/VA IT 21100
 MA-L,4C11AE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,E41E0A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,0020E0,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,A091A2,"OnePlus Electronics (Shenzhen) Co., Ltd.","Room 201, Block A, No.1, 1st Qian Wan Road, Qianhai Shenzhen-Hong Kong Cooperation Zone, Shenzhen, China. Shenzhen Guangdong CN 518000 "
 MA-L,109FA9,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,6092F5,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,1820D5,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,000312,TRsystems GmbH,Eglishalde 16  Trossingen Baden-Wuerttemberg DE D-78647 
+MA-L,9C25BE,"Wildlife Acoustics, Inc.","3 Mill and Main Place, Suite 210 MAYNARD MA US 01754 "
+MA-L,00A098,NetApp,"1395 Crossman Ave Sunnyvale, CA US 94089 "
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -22168,7 +22177,6 @@ MA-L,0022C1,Active Storage Inc.,2295 Jefferson Street Torrance CA US 90501
 MA-L,0022C2,Proview Eletrônica do Brasil LTDA,R. Acará 203 - Distrito Industrial Manaus Amazonas BR 69075-030 
 MA-L,0022BC,JDSU France SAS,34 rue Necker SAINT ETIENNE LOIRE FR 42000 
 MA-L,0022B5,NOVITA,"3F301,Namsung B/D 340-30 Geumcheon-Gu Seoul KR 153-782 "
-MA-L,0022AF,Safety Vision,6100 W. Sam Houston Pkwy. North Houston Texas US 77041 
 MA-L,0022A2,Xtramus Technologies,"5th Fl., No. 102, Lide St., Zhonghe City Taipei County TW 235 "
 MA-L,00229D,"PYUNG-HWA IND.CO.,LTD",230-1 HWASUNG-SI KYUNGGI-DO KR 445-912 
 MA-L,002327,"Shouyo Electronics CO., LTD","4F., No.8, Lane 345, Yang Kung St. Taipei  TW 11491 "
@@ -25881,9 +25889,12 @@ MA-L,002662,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054
 MA-L,0C6127,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,A0A3E2,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,4C8B30,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
+MA-L,0022AF,"Safety Vision, LLC",6100 W. Sam Houston Pkwy. North Houston Texas US 77041 
+MA-L,C8B422,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,408B07,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,007F28,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,001801,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,001505,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,000FB3,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
 MA-L,84E892,"Actiontec Electronics, Inc",301 Olcott St Santa Clara CA US 95054 
+MA-L,109397,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
