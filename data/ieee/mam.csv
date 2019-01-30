@@ -473,10 +473,10 @@ MA-M,40A36B6,Securiton AG,"Alpenstrasse 20, P.O. Box 127 Zollikofen  CH CH-3052 
 MA-M,FCD2B68,Oviss Labs Inc.,46259 Warm Springs Blvd Fremont CA US 94539 
 MA-M,34E1D18,Hubitat Inc.,"20343 N Hayden Rd, Suite 105-280 Scottsdale AZ US 85255 "
 MA-M,34E1D16,Ningbo Hua Gao Mdt Info Tech Ltd,"NO.655,Xueshi Road, Yinzhou District, Ningbo, Zhejiang,China Ningbo Zhejiang CN 315100 "
-MA-M,34E1D11,SAMA NextGen PTE Limited,"  16 Collyer Quay, #21-00 Income AT Raffels,  Singapore 049318 Singapore  SG 049318 "
 MA-M,34E1D17,Genius Pros,"Floor 13,  Building B, NO. 859 West Shixiang Road, Xihu District, Hangzhou City Hangzhou  CN 310012 "
-MA-M,C863144,Shenzhen Zero Zero Infinity Technology Co.，Ltd.,"309 Rainbow Technology Building, 36 Gaoxin North 6th Road, Xili Street Shenzhen Guangdong CN 518000 "
 MA-M,C863145,Meyer Electronics Limited,382 Kwun Tong Road Hong Kong  HK 0000 
+MA-M,C863144,Shenzhen Zero Zero Infinity Technology Co.，Ltd.,"309 Rainbow Technology Building, 36 Gaoxin North 6th Road, Xili Street Shenzhen Guangdong CN 518000 "
+MA-M,34E1D11,SAMA NextGen PTE Limited,"  16 Collyer Quay, #21-00 Income AT Raffels,  Singapore 049318 Singapore  SG 049318 "
 MA-M,C863142,"Tymphany Acoustic Technology (Huizhou) Co., Ltd.","Tymphany Industrial Area, Xin Lian Village, XinXu Town, HuiYang District Huizhou Guangdong CN 516223 "
 MA-M,E41E0A3,Avast Software s.r.o.,Pikrtova 1737/1a Prague 4  CZ 14000 
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
@@ -1448,6 +1448,9 @@ MA-M,C863148,"Thinci, Inc.","2105 S. Bascom Avenue, Suite 318 Campbell CA US 950
 MA-M,E41E0A8,SAGE Glass,Two Sage Way Faribault MN US 55021 
 MA-M,E41E0A2,IDvaco Private Limited,"Aljunied road, 627A,06-02 singapore singapore SG 389842 "
 MA-M,E41E0A9,B METERS S.R.L.,VIA FRIULI 3 GONARS UDINE IT 33050 
+MA-M,E41E0AC,TELETASK BELGIUM,Ottergemsesteenweg-zuid 729 GENT Oost-Vlaanderen BE 9000 
+MA-M,E41E0A1,Connected Cars A/S,Park Allé 355 Brøndby  DK 2605 
+MA-M,C86314A,"Optictimes Co.,Ltd","Hangzhou City,  Zhejiang Province Hangzhou Zhejiang CN 310023 "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
