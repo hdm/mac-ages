@@ -586,6 +586,7 @@ MA-S,70B3D5535,SITA Messtechnik GmbH,Gostritzer Str. 63 Dresden  DE 01217
 MA-S,70B3D5CBD,Preo Industries Far East Limited,31-39 Wo Tong Tsui Street Hong Kong  HK 999077 
 MA-S,70B3D52A6,GSI Technology,Raul Walenberg 18 Tel Aviv IL IL 6971915 
 MA-S,70B3D56F1,Discover Battery,#4 - 13511 Crestwood Place Richmond BC CA v6v 2e9 
+MA-S,70B3D5E00,"Jeaway CCTV Security Ltd,.","No. 24, Yifa St., Sanmin Dist. Kaohsiung   TW 807 "
 MA-S,70B3D5D60,Flintab AB,Kabelvägen 4 Jönköping  SE 55302 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5522,Syncopated Engineering Inc,13136 Williamfield Dr Ellicott City MD US 21042 
@@ -1669,7 +1670,6 @@ MA-S,70B3D54C0,Technica Engineering GmbH,Leopoldstraße 236 Munich  DE 80807
 MA-S,70B3D51D3,AIROBOT OÜ,Pardi 32-1 Pärnu  EE 80016 
 MA-S,70B3D5478,Touchnet/OneCard,2115 Chapman Rd. Suite 159 Chattanooga TN US 37421 
 MA-S,70B3D51F8,Convergent Design,4525 Northpark Drive Colorado Springs CO US 80918 
-MA-S,70B3D54F8,Private,
 MA-S,70B3D592B,"ENTEC Electric & Electronic Co., LTD.","78-2 Buncheon-ri, Bongdam-eup Hwaseong-city Gyungki-do KR 445-894 "
 MA-S,70B3D5EA7,S.I.C.E.S. srl,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
 MA-S,70B3D5B13,Omwave,34 bis rue d'Estienne d'Orves Montrouge Ile de France FR 92120 
@@ -1727,7 +1727,6 @@ MA-S,70B3D587D,INVIXIUM ACCESS INC.,"50 ACADIA AVE, 310 MARKHAM Ontario CA L3R0B
 MA-S,70B3D55FA,TEX COMPUTER SRL ,VIA MERCADANTE 35 CATTOLICA  RIMINI  IT 47841 
 MA-S,70B3D5A9F,Private,
 MA-S,70B3D5985,Burk Technology,7 Beaver Brook road Littleton MA US 01460 
-MA-S,70B3D530E,Private,
 MA-S,70B3D5FC8,Moduware PTY LTD,502/37 Swanston Street Melbourne Victoria AU 3000 
 MA-S,70B3D507B,wallbe GmbH,Paderborner Straße 76 Schlangen  NRW DE 33189 
 MA-S,70B3D52CF,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbühl Bavaria DE 91550 
@@ -1831,6 +1830,8 @@ MA-S,70B3D5490,Xiamen Beogold Technology Co. Ltd.," 11F Amoy Institute of Techno
 MA-S,70B3D5808,Becton Dickinson,7 Loveton Circle Sparks MD US 21152 
 MA-S,70B3D5754,COSMOIT.CO.LTD,"14Fl., Ace Twin Tower II, 273, Digital-ro, Guro-gu Seoul  KR 08381 "
 MA-S,70B3D5BA8,Controlled Power Company,1955 Stephenston Hwy Troy MI US 48083 
+MA-S,70B3D530E,Private,
+MA-S,70B3D54F8,Private,
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -3054,3 +3055,4 @@ MA-S,70B3D5F50,"Vectology,Inc",UU bld 4F  2-5-2 Shinyokohama Kouhoku-ku Yokohama
 MA-S,70B3D5388,Xitron,4750 Venture Drive Ann Arbor MI US 48108 
 MA-S,70B3D50F2,"TrexEdge, Inc.",1-2-2 Osaki Shinagawa Tokyo JP 1410032 
 MA-S,70B3D5B50,iGrid T&D,"C. Marie Curie, 8-14 Barcelona Catalonia ES 08042 "
+MA-S,70B3D56DE,Ametek Solidstate Controls,875 DEARBORN DR COLUMBUS OH US 43085-1586 
