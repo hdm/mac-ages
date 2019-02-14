@@ -361,7 +361,6 @@ MA-M,8C1CDA0,CEOS Pty Ltd,"3/17 Burgundy Street, Heidelberg VIC AU 3084 "
 MA-M,0C73EBC,"Shenzhen Samchung Video Technology Co., Ltd.","Xixiang Street 4016 Bao'an Avenue  Yong Kai Business Building A, Bao'an District of Shenzhen City Guangdong CN 528470 "
 MA-M,8C1CDA7,K Technology Corporation,"LIVMO Rising Bldg. 5F, 3-19-1 Shin-Yokohama, Kohoku-ku, Yokohama, Kanagawa  JP 222-0033 "
 MA-M,D07650F,Private,
-MA-M,1CCAE3F,Private,
 MA-M,3C39E7F,Private,
 MA-M,0CFE5DC,"Bepal Technology Co.,Ltd.","Xihu Qu, Tianmushan Road, Qianjiang Xixi Xinzuo HangZhou ZheJiang CN 310000 "
 MA-M,98F9C70,"SHENZHEN HUNTKEY ELECTRIC CO., LTD.","Huntkey Industrial Park, Xue-Xiang Village, Bantian, Longgang District, Shenzhen Guangdong CN 518129 "
@@ -479,12 +478,15 @@ MA-M,C863144,Shenzhen Zero Zero Infinity Technology Co.，Ltd.,"309 Rainbow Tech
 MA-M,C863145,Meyer Electronics Limited,382 Kwun Tong Road Hong Kong  HK 0000 
 MA-M,C863142,"Tymphany Acoustic Technology (Huizhou) Co., Ltd.","Tymphany Industrial Area, Xin Lian Village, XinXu Town, HuiYang District Huizhou Guangdong CN 516223 "
 MA-M,E41E0A3,Avast Software s.r.o.,Pikrtova 1737/1a Prague 4  CZ 14000 
+MA-M,C82C2B0,"Fungible, Inc.","3201 Scott Blvd., 2nd floor Santa Clara CA US 95054 "
 MA-M,E41E0AE,"Shanghai LeXiang Technology Co., Ltd","Floor 6,Building 8,Yanjiaqiao Road,Pudong Area ,Shanghai ,China shanghai  CN 200125 "
 MA-M,E41E0A6,SFC Energy AG,Eugen-Saenger-Ring 7 Brunnthal  DE 85649 
 MA-M,C82C2B3,RF Engineering and Energy Resource,4460 Commercial Ave. Portage MI US 49002 
-MA-M,C82C2B0,"Fungible, Inc.","3201 Scott Blvd., 2nd floor Santa Clara CA US 95054 "
 MA-M,C82C2B2,Repp Health,"1919 14th Street , Suite 700 Boulder CO US 80302 "
 MA-M,C82C2B5,DALCO AG,Industriestr. 28 Volketswil ZH CH 8604 
+MA-M,B0FD0B3,DMAC Security LLC,833 Shotgun Road Sunrise FL US 33326 
+MA-M,B0FD0B8,eSenseLab Ltd.,"1 Chervena stena Str., Office 1 Sofia Sofia-grad BG 1421 "
+MA-M,1CCAE3F,Private,
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
 MA-M,1C87795,BEIDIAN  GROUP,A2 501 Jingang Road Pudong Jinqiao Shanghai Shanghai Shanghai CN 200126 
 MA-M,1C8779B,"Beijing Geedeen Technology Co., Ltd","Room 1701, Building A, Boya International Center, Lizezhongerlu, Chaoyang District Beijing Beijing CN 100102 "
@@ -1815,7 +1817,6 @@ MA-M,8C1CDA1,GESAS GmbH,Pfaelzer Ring 18 Hockenheim Baden-Wuerttemberg DE 68766
 MA-M,8C1CDA6,LocoLabs LLC,"3350 Scott Blvd, Bldg 56 Santa Clara CA US 95054 "
 MA-M,2C4835B,Shanghai Visteon Automotive Electronics System CO. Ltd.,"No.1268, East Kangqiao Road, Pudong District, ShangHai  CN 201315 "
 MA-M,2C48355,"Scout Security, Inc.","210 N Racine Ave, STE 2M Chicago IL US 60607 "
-MA-M,F023B9D,Private,
 MA-M,34D0B8E,Kongqiguanjia (Beijing)Technology co.，ltd,"Room 1201,Block A，Building of Fesco，Xidawang Road，Chaoyang district Beijing Beijing CN 100022 "
 MA-M,34D0B89,Skytech Creations Limited,"Flat F, 23/F., Block 2, Kingswin Industrial Building, 32-50 Lei Muk Road Kwai Chung  HK 000000 "
 MA-M,34D0B8A,Meatest sro,Zelezna 509/3 Brno  CZ 61900 
@@ -1946,6 +1947,8 @@ MA-M,E41E0AA,FireAngel Safety Technology Ltd,"Sir William Lyons Road, Vanguard C
 MA-M,E41E0A4,XPR Group,Drève Richelle 161 - WOP G Waterloo  BE 1410 
 MA-M,C82C2BE,Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG,Hellinger Str. 1 Königsberg/Bayern  DE 97486 
 MA-M,C82C2B1,Galgus,"Italica 1, 1st floor Camas Seville ES 41900 "
+MA-M,B0FD0BC,Haltian Products Oy,Yrttipellontie 1D Oulu  FI 90230 
+MA-M,F023B9D,Private,
 MA-M,8C147D1,Private,
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
@@ -2310,7 +2313,6 @@ MA-M,3C24F02,Laipac Technology Inc.,20 Mural St. Unit 5 Richmond Hill ON - Ontar
 MA-M,8C1CDAA,"China Potevio Co., Ltd","No.6, haidian north second street, haidian district, Beijing Beijing Beijing CN 100080 "
 MA-M,8C1CDA8,ATOL LLC,"Bolshaya Novodmitrovskaya str., 14, build 4 Moscow  RU 127015 "
 MA-M,8C1CDAE,"Electronic Controlled Systems, Inc.",11200 Hampshire Ave South Bloomington MN US 55438 
-MA-M,807B85F,Private,
 MA-M,F0ACD74,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115 "
 MA-M,2C48358,DPS Electronics,317 Gallatin Park Dr #2 Bozeman MT US 59715 
 MA-M,549A11F,Private,
@@ -2438,3 +2440,5 @@ MA-M,C82C2B9,BIOT Sp. z o.o.,Nowy Kisielin-Nowa 7 Zielona Góra Lubuskie PL 66-0
 MA-M,C82C2BC,Smart Wires Inc,3292 Whipple Road Union City  CA US 94587 
 MA-M,C82C2B6,Grav I.T.,601 1st Ave NW Gravette AR US 72736 
 MA-M,B0FD0BB,"MartinLogan, Ltd.",2101 Delware St Lawrence KS US 66046 
+MA-M,B0FD0BA,"TEMCO JAPAN CO., LTD.",2-21-4 HONAN SUGINAMI KU Tokyo-to JP 168-0062 
+MA-M,807B85F,Private,
