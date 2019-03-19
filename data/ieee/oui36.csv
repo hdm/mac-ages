@@ -365,7 +365,6 @@ MA-S,70B3D51B8,OES Inc.,4056 Blakie Road London ON CA N6L1P7
 MA-S,70B3D585A,BRUSHIES,6402 Langer Lane Lino Lakes MN US 55038 
 MA-S,70B3D5FAF,Radig Hard & Software,An der Bahn 18 Kreuztal  DE 57223 
 MA-S,70B3D50BC,Practical Software Studio LLC,"1 Northfield Plaza, Suite 300 Northfield IL US 60093 "
-MA-S,70B3D57A2,"Alpha ESS Co., Ltd.","JiuHua Road 888, Nantong High-Tech Industrial Development Zone, Nantong Jiangsu CN 226300 "
 MA-S,70B3D5724,"Quan International Co., Ltd.","4F, No. 196, Hsinghu 3rd Rd., Neihu District Taipei  TW 11494 "
 MA-S,70B3D553B,Mr.Loop,"7F.-6, No.237, Sec. 1,Datong Rd. Xizhi Dist. New Taipei City  TW 22161 "
 MA-S,70B3D5EBE,Sierra Pacific Innovations Corp,6620 S Tenaya Way  Las Vegas  US 89113 
@@ -595,6 +594,7 @@ MA-S,70B3D5E9D,INTECH,"Vavilova st,13/7 Moscow  RU 117312 "
 MA-S,70B3D57CB,KeyW Corporation,7763 Old Telegraph Road Severn MD US 21144 
 MA-S,70B3D5A45,Viper Innovations Ltd,45 Martingale Way Bristol  GB BS20 7AW 
 MA-S,70B3D5DFE,microtec Sicherheitstechnik GmbH,Auf der Langwies 20 Hünstetten  DE 65510 
+MA-S,70B3D57A2,"Alpha ESS Co., Ltd.","JiuHua Road 888, Nantong High-Tech Industrial Development Zone, Nantong Jiangsu CN 226300 "
 MA-S,70B3D5D60,Flintab AB,Kabelvägen 4 Jönköping  SE 55302 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5522,Syncopated Engineering Inc,13136 Williamfield Dr Ellicott City MD US 21042 
@@ -1245,6 +1245,7 @@ MA-S,70B3D542D,RCH ITALIA SPA ,Via Cendon 39 SILEA Treviso IT 31057
 MA-S,70B3D5C00,BESO sp. z o.o.,Mlynska 1a Brzeg Dolny  PL 56-120 
 MA-S,70B3D5EFF,Carlo Gavazzi Industri,Over Hadstenvej 40 Hadsten Denmark DK 8370 
 MA-S,70B3D599B,RCH ITALIA SPA ,VIA CENDON 39 SILEA  TREVISO  IT 31057 
+MA-S,70B3D55E1,Arevita,Baltu ave 145 Kaunas Select LT 47125 
 MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711 
 MA-S,70B3D5BF2,TWIN DEVELOPMENT,FAUBOURG DE BRUXELLES 320 GOSSSELIES  BE 6041 
 MA-S,70B3D5901,ATS-CONVERS,"Yana Fabrittsyusa str., 10 Pskov  RU 180017 "
@@ -1746,7 +1747,6 @@ MA-S,70B3D55F2,Invisible Systems Limited,9 Beetham Road Milnthorpe Cumbria GB LA
 MA-S,70B3D5C66,Blue Access Inc,P.O. Box  Erie CO US 80516 
 MA-S,70B3D587D,INVIXIUM ACCESS INC.,"50 ACADIA AVE, 310 MARKHAM Ontario CA L3R0B3 "
 MA-S,70B3D55FA,TEX COMPUTER SRL ,VIA MERCADANTE 35 CATTOLICA  RIMINI  IT 47841 
-MA-S,70B3D5A9F,Private,
 MA-S,70B3D5985,Burk Technology,7 Beaver Brook road Littleton MA US 01460 
 MA-S,70B3D5FC8,Moduware PTY LTD,502/37 Swanston Street Melbourne Victoria AU 3000 
 MA-S,70B3D507B,wallbe GmbH,Paderborner Straße 76 Schlangen  NRW DE 33189 
@@ -1873,6 +1873,7 @@ MA-S,70B3D5E25,GJD Manufacturing,"Unit 2, Birch Business Park, Whittle Lane Heyw
 MA-S,70B3D5E8A,Melecs EWS GmbH,GZO-Technologiestrasse 1 Siegendorf   AT 7011 
 MA-S,70B3D5E1E,Umano Medical Inc.,"230, Boul. Nilus-Leclerc L'Islet Québec CA G0R 2C0 "
 MA-S,70B3D58DF,DORLET SAU,Albert Eistein 34 Alava SPAIN ES 01510 
+MA-S,70B3D5A9F,Private,
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -2510,6 +2511,7 @@ MA-S,70B3D5210," Eastone Century Technology Co.,Ltd.","A12 Floor, Information Po
 MA-S,70B3D5AC0,RITEC,25 East Easy St Simi Valley CA US 93065 
 MA-S,70B3D55BA,INFRASAFE/ ADVANTOR SYSTEMS ,12612 CHALLENGER PARKWAY  ORLANDO FL US 32826 
 MA-S,70B3D5BC9,Yite technology,"No. 56, Xiaobei Rd., North Dist Tainan  TW 70448 "
+MA-S,70B3D56FE,NTO IRE-POLUS,Akademika Vvedenskogo 1/2 Fryazino  RU 141190 
 MA-S,70B3D58AB,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5729,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5E93,ECON Technology Co.Ltd,Mogan Road 1418-41-4 Hangzhou Zhejiang  CN 310015 
