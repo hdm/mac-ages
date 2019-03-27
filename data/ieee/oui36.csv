@@ -596,6 +596,7 @@ MA-S,70B3D5A45,Viper Innovations Ltd,45 Martingale Way Bristol  GB BS20 7AW
 MA-S,70B3D5DFE,microtec Sicherheitstechnik GmbH,Auf der Langwies 20 Hünstetten  DE 65510 
 MA-S,70B3D57A2,"Alpha ESS Co., Ltd.","JiuHua Road 888, Nantong High-Tech Industrial Development Zone, Nantong Jiangsu CN 226300 "
 MA-S,70B3D50CA,VITEC,"99, rue Pierre Semard CHATILLON  FR 92320 "
+MA-S,70B3D5068,Onethinx BV,Punterweg 2 Zwolle OV NL 8042 PB 
 MA-S,70B3D5D60,Flintab AB,Kabelvägen 4 Jönköping  SE 55302 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5522,Syncopated Engineering Inc,13136 Williamfield Dr Ellicott City MD US 21042 
@@ -1001,7 +1002,6 @@ MA-S,70B3D52E8,Telefire,43 hasivim  Petah Tikva Israel IL 49000
 MA-S,70B3D5338,"Opti-Sciences, Inc.",8 Winn Ave Hudson NH US 03051 
 MA-S,70B3D52F5,"eze System, Inc.",785 Orchard Dr #100 Folsom CA US 95630 
 MA-S,001BC5015,Corporate Systems Engineering ,1215 Brookville Way Indianapolis  IN US 46239 
-MA-S,70B3D5580,Private,
 MA-S,70B3D5BB0,WICELL TECHNOLOGY,61 Dien Bien Phu Ho Chi Minh  VN 700000 
 MA-S,70B3D5CA1,Waldo System,"4th Floor, 658, Yangcheon-ro, Gangseo-gu, Seoul  KR  07554 "
 MA-S,70B3D5302,DogWatch Inc,10 Michigan Drive Natick MA US 01760 
@@ -1248,6 +1248,7 @@ MA-S,70B3D5EFF,Carlo Gavazzi Industri,Over Hadstenvej 40 Hadsten Denmark DK 8370
 MA-S,70B3D599B,RCH ITALIA SPA ,VIA CENDON 39 SILEA  TREVISO  IT 31057 
 MA-S,70B3D55E1,Arevita,Baltu ave 145 Kaunas Select LT 47125 
 MA-S,70B3D5CD7,AutomationX GmbH,Lauzilgasse 13 Graz Styria AT 8020 
+MA-S,70B3D5580,Private,
 MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711 
 MA-S,70B3D5BF2,TWIN DEVELOPMENT,FAUBOURG DE BRUXELLES 320 GOSSSELIES  BE 6041 
 MA-S,70B3D5901,ATS-CONVERS,"Yana Fabrittsyusa str., 10 Pskov  RU 180017 "
@@ -1868,9 +1869,9 @@ MA-S,70B3D5080,ABB,Fulachstrasse 150 Schaffhausen  CH 8200
 MA-S,70B3D5019,"Transit Solutions, LLC.",114 West Grandview Avenue Zelienople  US 16063 
 MA-S,70B3D5151,Virsae Group Ltd,"B:HIVE, 74 Taharoto Road, Smales Farm Takapuna Auckland NZ 0622 "
 MA-S,70B3D54CC,FRESENIUS MEDICAL CARE,496 So. Abbott Ave Milpitas CA US 95035 
+MA-S,70B3D5B52,"AEye, Inc.","5700 Stoneridge Drive, Suite 102 Pleasanton CA US 94588 "
 MA-S,70B3D5111,Leonardo Sistemi Integrati S.r.l.,"Via Greto di Cornigliano, 6R Genova  IT 16152 "
 MA-S,70B3D57FE,RCH ITALIA SPA ,Via Cendon 39 SILEA Treviso IT 31057 
-MA-S,70B3D5B52,"AEye, Inc.","5700 Stoneridge Drive, Suite 102 Pleasanton CA US 94588 "
 MA-S,70B3D5E25,GJD Manufacturing,"Unit 2, Birch Business Park, Whittle Lane Heywood  GB OL10 2SX "
 MA-S,70B3D5E8A,Melecs EWS GmbH,GZO-Technologiestrasse 1 Siegendorf   AT 7011 
 MA-S,70B3D5E1E,Umano Medical Inc.,"230, Boul. Nilus-Leclerc L'Islet Québec CA G0R 2C0 "
@@ -2520,6 +2521,7 @@ MA-S,70B3D5CF8,Idneo Technologies S.A.U.,"Gran Via Carlos III , 98 Planta 5 Barc
 MA-S,70B3D5BE7,Syscom Instruments SA,industrie 21 Sainte-Croix  CH 1450 
 MA-S,70B3D53BD,DAO QIN TECHNOLOGY CO.LTD.,"No. 359, Zhongxiao Rd Chishang Township Taitung County TW 958 "
 MA-S,70B3D5CC6,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
+MA-S,70B3D5456,Technological Application and Production One Member Liability Company (Tecapro company),18A Cong Hoa street Ho Chi Minh city Ho Chi Minh city VN 700000 
 MA-S,70B3D58AB,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5729,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5E93,ECON Technology Co.Ltd,Mogan Road 1418-41-4 Hangzhou Zhejiang  CN 310015 
