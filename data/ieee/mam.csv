@@ -501,6 +501,8 @@ MA-M,BC97406,"Shenzhen Colorwin Optical Technology Co.,Ltd","201-2，2nd Floor,G
 MA-M,D0C857C,Dante Security Inc.,"303 MERRICK RD., Unit 208 LYNBROOK NY US 11563 "
 MA-M,BC97402,Lattec I/S,Blytækkervej 10 Hillerød  DK 3400 
 MA-M,D0C8577,Eco Mobile ,Samoborska cesta 330 Zagreb Zagreb HR 10090 
+MA-M,D0C857B,"CHUNGHSIN INTERNATIONAL ELECTRONICS CO.,LTD.","618-2# Gongren West Road,Jiaojiang, Taizhou Zhejiang CN 317700 "
+MA-M,D0C857E,E-T-A Elektrotechnische Apparate GmbH,Industriestr. 2-8 Altdorf  DE 90518 
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
 MA-M,1C87795,BEIDIAN  GROUP,A2 501 Jingang Road Pudong Jinqiao Shanghai Shanghai Shanghai CN 200126 
 MA-M,1C8779B,"Beijing Geedeen Technology Co., Ltd","Room 1701, Building A, Boya International Center, Lizezhongerlu, Chaoyang District Beijing Beijing CN 100102 "
@@ -1507,8 +1509,9 @@ MA-M,6095CE3,Robot S.A.,Gremi de Cirurgians i Barbers 22 Palma de Mallorca SPAIN
 MA-M,BC97409,Direct Communication Solutions,"17150 Via del Campo, Ste 200 San Diego CA US 92127 "
 MA-M,BC9740B,ForoTel,"77, Shaumyana Str.  Rostov-na-Donu UFO RU 344079 "
 MA-M,BC97407,Airfi Oy AB,Piilipuunkatu 11 RAISIO  FI 21200 
-MA-M,D0C8575,"Beijing Inspiry Technology Co., Ltd. ","Building No. 5, East Zone, No. 10, Xibeiwang East Road, Haidian District Beijing  Beijing  CN 100092 "
+MA-M,D0C857A,shenzhen cnsun,"5 Floor, 2 Building,Tongfuyu Industrial City shenzhen guangdong CN 518000 "
 MA-M,D0C8570,"YUAN High-Tech Development Co., Ltd.","18F, No.88, Sec. 2, Chung Hsiao E.Rd.,  Taipei,  Taiwan  TW 10050  "
+MA-M,D0C8575,"Beijing Inspiry Technology Co., Ltd. ","Building No. 5, East Zone, No. 10, Xibeiwang East Road, Haidian District Beijing  Beijing  CN 100092 "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -1857,7 +1860,6 @@ MA-M,0C73EB8,"Beijing Miiiw Technology Co., Ltd","Room 3008, 3rd Floor, Qunfang 
 MA-M,0C73EB2,"Deltapath, Inc.","2107 N 1ST ST, STE 660 San Jose CA US 95131 "
 MA-M,0C73EBD,D-Link （Shanghai）Limited Corp.,"Registered Address: Part J1, Floor 1, Building 2, No.115, Fute West First Road, China(Shanghai) Pilot Free Trade Zone Shanghai  CN 200000 "
 MA-M,0C73EB4,"U-PASS.CO.,LTD","HANEULMAEUL-RO  GYEONGGI-DO GOYANG-SI,ILSANDONG-GU KR 410315 "
-MA-M,2CD141F,Private,
 MA-M,8C1CDAB,T+A elektroakustik GmbH & Co.KG,Planckstr. 9-11 Herford  DE 32052 
 MA-M,8C1CDA1,GESAS GmbH,Pfaelzer Ring 18 Hockenheim Baden-Wuerttemberg DE 68766 
 MA-M,8C1CDA6,LocoLabs LLC,"3350 Scott Blvd, Bldg 56 Santa Clara CA US 95054 "
@@ -2010,6 +2012,8 @@ MA-M,BC97404,"Wind Mobility Technology (Beijing) Co., Ltd","13603, Building 13, 
 MA-M,BC97403,Precision Galaxy Pvt. Ltd,"3rd Floor, No.22 Habibullah Road, T Nagar CHENNAI,Tamil Nadu Tamilnadu IN 600017 "
 MA-M,BC9740D,Rollock Oy,Viestitie 2 B Kajaani  FI 87700 
 MA-M,BC9740E,B4ComTechnologies LLC,"Office 2/6, 16a, Ivana Babushkina street Moscow  RU 117292 "
+MA-M,D0C8579,Shenzhen xiaosha  Intelligence  Technology Co. Ltd," Poly Building, 2702 Nanhai Avenue, Nanshan District Shenzhen Guangdong CN 518054 "
+MA-M,2CD141F,Private,
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
@@ -2516,6 +2520,6 @@ MA-M,6095CE9,"Jlztlink Industry(ShenZhen)Co.,Ltd.","D-502#,Tongan logistics cent
 MA-M,BC97408,Gaodi Rus,"Korneeva, 14 Elektrostal Moscow region RU 144009 "
 MA-M,D0C857D,"IFLYTEK CO.,LTD.","National Intelligent Speech High-tech Industrialization Base, No. 666, Wangjiang Road West, Heifei An hui CN 230088 "
 MA-M,D0C8573,Mobicon,"#406, 97, Jungbu-daero 448beon-gil, Yeongtong-gu Suwon-si Gyeonggi-do KR 16521 "
-MA-M,D0C8574,Imin Technology Pte Ltd,77 Sciene park Drive #03-10 Cintech III  Singapore Singapore SG 118256 
 MA-M,D0C8571,DALI A/S,Dali Alle 1 Norager  DK 9610 
+MA-M,D0C8574,Imin Technology Pte Ltd,77 Sciene park Drive #03-10 Cintech III  Singapore Singapore SG 118256 
 MA-M,D0C8576,"Innovative Industrial(HK)Co., Limited","OFFICE 3A,12/F,KAISER CENTRE,NO.18CENTRE STREET SAI YING PUN  HK 999077 "
