@@ -168,7 +168,6 @@ IAB,0050C2DC3,ZED Ziegler Electronic Devices GmbH,In den Folgen 7 Langewiesen  D
 IAB,0050C2DBB,"Esensors, Inc.",4240 Ridge Lea Road Amherst NY US 14226 
 IAB,0050C2DB9,Peek Traffic Corporation,2906 Corporate Way Palmetto Florida US 34221 
 IAB,0050C2DE3,Breakaway Systems LLC,10307 Sugar Hill Dr Houston TX US 77042 
-IAB,0050C2DE0,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. Edificio Oficentro Tres Cantos Madrid ES 28760 
 IAB,0050C2E13,Automation Assist Japan Company,2-8-20 Kamatahonmachi  Ota Tokyo JP 144-0053 
 IAB,0050C2E14,Calixto Systems Pvt Ltd,"#111, First Floor, 2H Main Road Bangalore Karnataka IN 560043 "
 IAB,0050C2DB8,Comsat VertriebsgmbH,Sonnenhang 29 Thalheim Steiermark AT 8754 
@@ -772,6 +771,7 @@ IAB,0050C2CF9,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth  TX 
 IAB,0050C2025,TERACOM TELEMATICA S.A,RUA AMERICA N.1000 Eldorado do Sul - RS  BR Brazil 
 IAB,0050C2CFC,Tritium Pty Ltd,1/31 Archimedes PL. Murarrie QLD AU  4172 
 IAB,0050C2C7C,Keysight Technologies Inc.,Lise-Meitner-Allee 27 Bochum  DE 44801 
+IAB,0050C2DE0,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. Edificio Oficentro Tres Cantos Madrid ES 28760 
 IAB,0050C20E0,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 IAB,40D85519D,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 IAB,40D8551CE,Peter Huber,Kaeltemaschinenbau GmbH Offenburg Ba-Wue DE 77656 
@@ -3707,7 +3707,6 @@ IAB,40D855097,Burton Technical Services LLC,1214 Metro Park Blvd Lewisville Texa
 IAB,40D855091,KDT,"203-902, bucheon Techno-park 192, Yakdae-dong, Wonmi-gu Bucheon-si Gyeonggi-do KR 420-733 "
 IAB,40D85508C,"Magnescale Co.,Ltd","45,Suzukawa Isehara Kanagawa JP 259-1146 "
 IAB,40D855085,Peek Traffic Corporation,2906 Corporate Way Palmetto Fl US 34221 
-IAB,40D855076,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. local 26 Tres Cantos Madrid ES 28760 
 IAB,40D855072,CT Company,"Nizhni Krasnoselsky st.,35 Moscow  RU 140070 "
 IAB,40D85506A,elgris,Krantzstr 7 Aachen NRW DE 52070 
 IAB,40D8550C1,Xepto Computing Inc,"Unit 2202, 22F Asian Star Building Alabang Muntinlupa PH 1781 "
@@ -4574,3 +4573,4 @@ IAB,0050C2C7B,Honeywell,13350 US Hwy 19 North Clearwater FL US 33764-7290
 IAB,0050C257A,"nVent, Schroff GmbH",Langenalber Strasse 96-100 Straubenhardt  DE 75334 
 IAB,0050C2B54,"APG Cash Drawer, LLC",5250 Industrial Blvd NE Minneapolis MN US 55421 
 IAB,0050C24CD,Securiton AG,"Alpenstrasse 20, P.O. Box 127 Zollikofen  CH CH-3052  "
+IAB,40D855076,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. local 26 Tres Cantos Madrid ES 28760 
