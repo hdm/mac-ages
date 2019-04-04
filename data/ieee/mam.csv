@@ -1333,7 +1333,6 @@ MA-M,480BB21,BAJA ELECTRONICS TECHNOLOGY LIMITED,"403, Unit 3, Building 3, Zhong
 MA-M,0C73EB7,"Dinkle Enterprise Co., Ltd.","No.19, Wuquan 2nd Rd., Wugu Dist. New Taipei City  TW 24890 "
 MA-M,3C24F0B,COMATIS,8 rue Carnot SAINT-CYR-L'ECOLE  FR 78210 
 MA-M,8C1CDA5,Septentrio NV,Interleuvenlaan 15i Leuven  BE 3001 
-MA-M,80E4DAF,Private,
 MA-M,7419F8F,Private,
 MA-M,2C48353,Newtrax Technologies Inc,"360 St-Jacques, Floor 8  Montreal Quebec CA H2Y 1P5 "
 MA-M,74F8DBA,"Ballard Technology, Inc,",11400 Airport Rd Everett Wa US 98204 
@@ -1514,6 +1513,8 @@ MA-M,BC97407,Airfi Oy AB,Piilipuunkatu 11 RAISIO  FI 21200
 MA-M,D0C857A,shenzhen cnsun,"5 Floor, 2 Building,Tongfuyu Industrial City shenzhen guangdong CN 518000 "
 MA-M,D0C8570,"YUAN High-Tech Development Co., Ltd.","18F, No.88, Sec. 2, Chung Hsiao E.Rd.,  Taipei,  Taiwan  TW 10050  "
 MA-M,D0C8575,"Beijing Inspiry Technology Co., Ltd. ","Building No. 5, East Zone, No. 10, Xibeiwang East Road, Haidian District Beijing  Beijing  CN 100092 "
+MA-M,80E4DAF,Private,
+MA-M,8C593C3,Chongqing beimoting technology co.ltd,"97-2 keyuan 2nd street, jiulongpo district, Chongqing Chongqing CN 400039 "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -2008,7 +2009,6 @@ MA-M,1C8259A,ESTec Corporation,"22, Yusangongdan 9-gil Yangsan Gyeongsangnam-do 
 MA-M,1C82599,"Shanghai Xiaoyan Technology Co., Ltd.","Room 503, Building B, NO. 2305, Zuchongzhi Road Shanghai Shanghai CN 201203 "
 MA-M,1C82596,CGI IT UK LIMITED,"20 Fenchurch Street, 14th Floor London  GB EC3M 3BY "
 MA-M,6095CE8,Trophy SAS,4 rue F. Pelloutier Croissy-Beaubourg  FR 77435 
-MA-M,6095CEE,VNS Inc.,"3F, No. 27, Lane 66, Ruiguang Rd. Taiepi Taiwan TW 11466 "
 MA-M,6095CE2,"Q-SENTECH Co.,Ltd.","#201,170 Seonyu-ro, Yeongdeungpo-gu Seoul Korea KR 07255 "
 MA-M,BC97404,"Wind Mobility Technology (Beijing) Co., Ltd","13603, Building 13, No. 2, Nanzhuzhang Hutong, Dongcheng District Beijing Beijing CN 100010 "
 MA-M,BC97403,Precision Galaxy Pvt. Ltd,"3rd Floor, No.22 Habibullah Road, T Nagar CHENNAI,Tamil Nadu Tamilnadu IN 600017 "
@@ -2016,6 +2016,7 @@ MA-M,BC9740D,Rollock Oy,Viestitie 2 B Kajaani  FI 87700
 MA-M,BC9740E,B4ComTechnologies LLC,"Office 2/6, 16a, Ivana Babushkina street Moscow  RU 117292 "
 MA-M,D0C8579,Shenzhen xiaosha  Intelligence  Technology Co. Ltd," Poly Building, 2702 Nanhai Avenue, Nanshan District Shenzhen Guangdong CN 518054 "
 MA-M,2CD141F,Private,
+MA-M,6095CEE,VNS Inc.,"3F, No. 27, Lane 66, Ruiguang Rd. Taipei Taiwan TW 11466 "
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
