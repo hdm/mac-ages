@@ -395,7 +395,6 @@ IAB,0050C27F6,Saia-Burgess Controls AG,Bahnhofstrasse 18 Murten FR CH 3280
 IAB,0050C27F5,ACE Carwash Systems,Gouwzeestraat 11 Weesp NH NL 1382 KD 
 IAB,0050C27B1,ATEME,26 Burospace - route de GIZY - Bievres cedex Bievres FR 91570 
 IAB,0050C27B2,A.D.I Video technologies,"7 Hamarpe st, Jerusalem  IL 45190 "
-IAB,0050C27D5,Deuta-Werke GmbH,Paffrather Strasse 140 Bergisch-Gladbach NRW DE 51465 
 IAB,0050C27CD,Precision MicroControl Corporation,2075 Corte del Nogal Carlsbad CA US 92011 
 IAB,0050C27C6,Lyngdorf Audio Aps,Ulvevej 28 Skive Jylland DK DK-7800 
 IAB,0050C27C5,Venture Research Inc.,3001 Summit Ave Plano TX US 75074 
@@ -772,6 +771,7 @@ IAB,0050C2025,TERACOM TELEMATICA S.A,RUA AMERICA N.1000 Eldorado do Sul - RS  BR
 IAB,0050C2CFC,Tritium Pty Ltd,1/31 Archimedes PL. Murarrie QLD AU  4172 
 IAB,0050C2C7C,Keysight Technologies Inc.,Lise-Meitner-Allee 27 Bochum  DE 44801 
 IAB,0050C2DE0,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. Edificio Oficentro Tres Cantos Madrid ES 28760 
+IAB,0050C27D5,DEUTA-WERKE GmbH,Paffrather Strasse 140 Bergisch-Gladbach NRW DE 51465 
 IAB,0050C20E0,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 IAB,40D85519D,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 IAB,40D8551CE,Peter Huber,Kaeltemaschinenbau GmbH Offenburg Ba-Wue DE 77656 
@@ -939,7 +939,6 @@ IAB,0050C2E45,Stichting Sunrise,Daltonstraat 51 DEN Haag Zuid Holland NL 2561 SR
 IAB,0050C2E3B,Nanosolution Inc.,"Room 110, Woolim Lions Valley  Seongnam-si Gyeonggi-do KR 462-806 "
 IAB,0050C2DAF,eumig industrie-tv GmbH,Gewerbeparkstr.9 Salzburg Anif AT 5081 
 IAB,0050C2DA7,Capton,3001 Bridgeway Sausalito CA US 94965 
-IAB,0050C2DA4,Deuta-Werke GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2D9D,Mistral Solutions Pvt. Ltd,"#60, Adarsh Regent, 100 Ft. Ring Road,Domlur Extension BANGALORE KARNATAKA  IN 560071 "
 IAB,0050C2DCB,CT Company,"Godovikova 9, Moscow Moscow RUSSIA RU 129085 "
 IAB,0050C2DC4,Keith & Koep GmbH,Uellendahler Str. 199 Wuppertal NRW DE 42109 
@@ -1626,6 +1625,7 @@ IAB,0050C2452,Scame Sistemi srl,Via Lombardia N°5 ARLUNO MI IT 20010
 IAB,40D855080,Honeywell,13350 US Highway 19 N Clearwater FL US 33764 
 IAB,40D85517A,ARGUS-SPECTRUM,"Serdobolskaya str.,65A Saint-Petersburg  RU 197342 "
 IAB,0050C2FF9,AVA Monitoring AB,Vädursgatan 6 Göteborg Västra götaland SE 412 50 
+IAB,0050C2DA4,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,40D85519F,Patria Aviation Oy,Naulakatu 3 Tampere  FI 33100 
 IAB,40D8551B8,"Orion Systems, Inc",3401 Masons Mill Rd Huntingdon Valley PA US 19006 
 IAB,40D8551B0,"Shin-ei Electronic Measuring Co.,Ltd.",2636 Fujisawa-shi Kanagawa JP 252-0816 
@@ -1708,7 +1708,6 @@ IAB,0050C2FFF,MSR-Solutions GmbH,Friedrich-Ebert-Straße 20/2 Wangen Baden-Würt
 IAB,40D855036,Schweers informationstechnologie GmbH,Rudolf-Diesel-Str. 18 Meerbusch  DE 40670 
 IAB,40D855034,Dacom West GmbH,Schallbruch 19-21 Haan NRW DE 42781 
 IAB,0050C2FDD,"Toptech Systems, Inc.",1124 Florida Central Parkway Longwood FL US 32750 
-IAB,0050C2FD7,Deuta-Werke GmbH,Paffrather str. 140 Bergisch Gladbach NRW US 51465 
 IAB,0050C2FD3,"Aster Electric Co.,Ltd.","6-40 Minamiyamata3-chome,Tudukiku Yokohama Kanagawa JP 2240029 "
 IAB,40D85504B,Vital Tech Industria e Comercio Ltda,"Rua Jose Villar Granjel, 22-24 Camipnas - San Paulo  BR 13030680 "
 IAB,40D855040,GHL Systems Berhad,L5-E-7B  Enterprise 4 Bukit Jalil Kuala Lumpur MY 57000 
@@ -2606,6 +2605,7 @@ IAB,40D8551DF,"Chengdu Meihuan Technology Co., Ltd","Floor 17,Building D6,Tianfu
 IAB,0050C2F6B,Algodue Elettronica Srl,Via Passerina 3/a Fontaneto d'Agogna  IT 28010 
 IAB,0050C2065,Clever Devices,1662 Route 300 Newburgh NY US 12550 
 IAB,40D8551A1,KRONOTECH SRL,VIALE UNGHERIA 125 - UDINE CAMPOFORMIDO UDINE US 33030 
+IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach NRW US 51465 
 IAB,0050C2B51,Aeroflex GmbH,Gutenbergstrasse 2-4 Ismaning Bavaria DE 85737 
 IAB,0050C2886,Transas Marine Limited,Datavagen 37 Askim Vastra Gotaland SE 436 32 
 IAB,0050C2360,Digital Receiver Technology,"20250 Century Blvd., #300 Germantown MD US 20874 "
@@ -2942,7 +2942,6 @@ IAB,0050C2B6A,Phytec Messtechnik GmbH,Robert-Koch-Straße 39 Mainz Rheinland-Pfa
 IAB,0050C2B6B,Phytec Messtechnik GmbH,Robert-Koch-Straße 39 Mainz Rheinland-Pfalz DE 55129 
 IAB,0050C2B69,Thetis S.p.A.,"Castello, 2737/f Venezia VE IT 30122 "
 IAB,0050C2B67,RC Systems Co. Inc.,8621 Hwy. 6 Hitchcock TX US 77563 
-IAB,0050C2B66,Deuta-Werke GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2B61,Nayos LTD,7 Golda Meir Nes Ziona  IL 74036 
 IAB,0050C2B60,OOO NPF ATIS,"ul. Rangeva, 11-24 Kovrov Vladimir region RU 601916 "
 IAB,0050C2B5D,Plitron Manufacturing Inc.,8-601 Magnetic Drive Toronto Ontario CA M3J 3J2 
@@ -3646,6 +3645,7 @@ IAB,0050C26C2,HoseoTelnet Inc...,"Hoseo Plaza B/D 7F, 416 Gangseo-ro, Gangseo-gu
 IAB,40D8550C3,"APG Cash Drawer, LLC",5250 INDUSTRIAL BLVD NE MINNEAPOLIS Minnesota US 55421 
 IAB,40D855010,"APG Cash Drawer, LLC",5250 INDUSTRIAL BLVD NE MINNEAPOLIS Minnesota US 55421 
 IAB,0050C27FA,AutomationX GmbH,Teslastraße 8 Grambach Stmk AT 8074 
+IAB,0050C2B66,8185,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C22E0,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 IAB,0050C2974,"EMAC, Inc.",2390 EMAC WAY CARBONDALE IL US 62902 
 IAB,40D855183,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
@@ -3694,7 +3694,6 @@ IAB,40D8550F9,Invisua Lighting BV,Nuenenseweg 167 Geldrop NB NL 5667KP
 IAB,40D8550FA,Marmitek BV,Postbus 4257 Eindhoven NB NL 5604 EG 
 IAB,40D8550D6,deskontrol electronics,Avinguda del port 158 - 9 Valencia Comunidad Valenciana ES 46023 
 IAB,40D85511F,KOMPAN Pawel Sokolowski,Radomska 29 Starachowice Swietokrzyskie PL 27-200 
-IAB,40D85511C,DEUTA-WERKE GmbH,Paffrather Strasse 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,40D855116,Uniscan LLC,Arbyzova st. 4/26 Novosibirsk NSO RU 630117 
 IAB,40D855129,DSP DESIGN,TAPTON PARK INNOVATION CENTRE CHESTERFIELD DERBYSHIRE GB S41 0TZ 
 IAB,40D855125,Scandyna A/S,Jegindoevej 4 Viborg  DK 8800 
@@ -3805,7 +3804,6 @@ IAB,0050C2E1F,ELVEES,"Proezd  4922, dom 4, str. 2 Zelenograd Moscow RU 124498 "
 IAB,0050C2E1C,Saia-Burgess Controls AG,Bahnhofstrasse 18 Murten FR CH 3280 
 IAB,0050C2E48,ITW Reyflex North America,195 E Algonquin Road Des Plaines IL US 60090 
 IAB,0050C2E47,ENIKA.CZ,Nadrazni 609 Nova Paka  CZ 50901 
-IAB,0050C2E44,Deuta-Werke GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2E3D,Baudisch Electronic GmbH,Im Gewerbegebiet 7-9 Wäschenbeuren Baden-Württemberg DE 73116 
 IAB,0050C2E3E,Monnit Corp.,450 South Simmons Way Kaysville UT  US 84037 
 IAB,0050C2E34,HGL Dynamics,Hamilton Barr House GODALMING Surrey GB GU7 1HZ 
@@ -3913,7 +3911,6 @@ IAB,0050C2C80,Reko-vek,"Gornaya str. 17""A""  Nizhni Novgorod Region RU 603062 "
 IAB,0050C2C73,"Industry Controls, Inc.",16124 Rosecrans Ave. Suite E5 La Mirada CA US 90638 
 IAB,0050C2C72,Quail ,92 Lots Road London  GB SW10 0QD 
 IAB,0050C2CB6,Krontek Pty Ltd,2 Carinya Close Allambie NSW AU 2100 
-IAB,0050C2CB3,Deuta-Werke GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2CAE,Campbell Scientific Canada Corp.,11564 149 Street Edmonton Alberta CA T5M 1W7 
 IAB,0050C2CAC,PURVIS Systems Incorporated,1272 West Main Rd Middletown Rhode Island US 02842 
 IAB,0050C2C41,COMPRION GmbH,Technologiepark 25 Paderborn  DE 33100 
@@ -4574,3 +4571,6 @@ IAB,0050C257A,"nVent, Schroff GmbH",Langenalber Strasse 96-100 Straubenhardt  DE
 IAB,0050C2B54,"APG Cash Drawer, LLC",5250 Industrial Blvd NE Minneapolis MN US 55421 
 IAB,0050C24CD,Securiton AG,"Alpenstrasse 20, P.O. Box 127 Zollikofen  CH CH-3052  "
 IAB,40D855076,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. local 26 Tres Cantos Madrid ES 28760 
+IAB,0050C2E44,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
+IAB,40D85511C,DEUTA-WERKE GmbH,Paffrather Strasse 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
+IAB,0050C2CB3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 

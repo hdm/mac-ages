@@ -121,7 +121,6 @@ MA-S,70B3D54CD,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Pat
 MA-S,70B3D522E,Private,
 MA-S,70B3D5EA3,Gridless Power Corperation,13 Fern Ave Collingswood New Jersey US 08108 
 MA-S,70B3D5A5A,RCS Energy Management Ltd,RMS House Newbury Berkshire GB RG14 5PX 
-MA-S,70B3D513A,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach  DE 51465 
 MA-S,70B3D575D,"Nanjing Magewell Electronics Co., Ltd.","Romm 701, Building C, Win-world Innovation Park Nanjing Jiangsu CN 211100 "
 MA-S,70B3D50EC,ACS MOTION CONTROL,"1 Hataasia St., Ramat Gabriel Industrial Park, Migdal Ha'Emek Israel IL 2307037 "
 MA-S,70B3D51F5,Martec S.p.A.,Via dell'Industria 1/3 Vignate Milano IT 20060 
@@ -604,6 +603,8 @@ MA-S,70B3D524C,"Astronomical Research Cameras, Inc.",2247 San Diego Ave #135 San
 MA-S,70B3D5D49,Sicon srl,Via Sila 1/3 Isola Vicentina Vicenza IT 36033 
 MA-S,70B3D5726,ATGS,11 POLBINA ST. MOSCOW  RU 109388 
 MA-S,70B3D5FFE,Private,
+MA-S,70B3D513A,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach  DE 51465 
+MA-S,70B3D591D,Cubitech,4-6 Kiprou str Tavros Athens GR 17778 
 MA-S,70B3D5D60,Flintab AB,Kabelvägen 4 Jönköping  SE 55302 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5522,Syncopated Engineering Inc,13136 Williamfield Dr Ellicott City MD US 21042 
@@ -821,7 +822,6 @@ MA-S,70B3D5E49,Kendrion Mechatronics Center GmbH,Werner-von-Siemens-Str. 12 Ilme
 MA-S,70B3D5214,signalparser,"#901-1 A-dong, Bundang Technopark, 697, Pangyo-ro, Bundang-gu Seongnam-si  Gyeonggi-do KR 13511 "
 MA-S,70B3D53C6,ACD Elekronik GmbH,Engelberg 2 Achstetten  DE 88480 
 MA-S,70B3D5384,Sensohive Technologies,Cortex Park 26 Odense M  DK 5230 
-MA-S,70B3D5893,Cubitech,Likourgou 9 Athens  GR 17676 
 MA-S,70B3D509E,MobiPromo,"10, 64-72 Beresford Rd Lilydale Victoria AU 3140 "
 MA-S,70B3D549E,"CAPTEMP, Lda","Rua São João, s/n - Ladeira das Leais Pombal  PT 3100-346 "
 MA-S,70B3D54B6,VEILUX INC.,802 GREENVIEW DR. STE 200 GRAND PRAIRIE  US 75050 
@@ -1260,6 +1260,9 @@ MA-S,70B3D5B2F,Hermann Automation GmbH,Erlenwiese 15 Mengerskirchen Hessen DE D-
 MA-S,70B3D5B58,INTERNET PROTOCOLO LOGICA SL,"Sector Foresta 43, local 26 Tres Cantos Madrid ES 28760 "
 MA-S,70B3D5093,Legrand Electric Ltd,Unit 10 Cowley Road Blyth Northumberland GB NE24 5TF 
 MA-S,70B3D5398,SIPRO s.r.l.,"VIALE DELL'INDUSTRIA, 7 VERONA VERONA IT 37135 "
+MA-S,70B3D5701,COMPAR Computer GmbH,Steigweg 24 Kitzingen  DE 97318 
+MA-S,70B3D5496,Profcon AB,Victor Hasselblads gata 9 Västra Frölunda  SE 42131 
+MA-S,70B3D5893,Cubitech,4-6 Kiprou str Tavros Athens GR 17778 
 MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711 
 MA-S,70B3D5BF2,TWIN DEVELOPMENT,FAUBOURG DE BRUXELLES 320 GOSSSELIES  BE 6041 
 MA-S,70B3D5901,ATS-CONVERS,"Yana Fabrittsyusa str., 10 Pskov  RU 180017 "
@@ -1368,7 +1371,6 @@ MA-S,70B3D5DF0,astozi consulting Tomasz Zieba,ul. Inzynierska 8/20 Nowa Sol Lubu
 MA-S,70B3D5CF3,Mesh Motion Inc,242 Stanford Ave Kensington California US 94708 
 MA-S,70B3D50B3,Reonix Automation,#10 - 3716 56 ave SE Calgary Alberta CA T2C2B5 
 MA-S,70B3D534A,PAVO TASARIM ÜRETİM TİC A.Ş.,Teknopark İstanbul Ar-Ge Binaları. 1.Blok İSTANBUL PENDİK TR 34349 
-MA-S,70B3D56E5,DEUTA-WERKE GmbH,Paffrather Str. 140  Bergisch Gladbach DE 51465 
 MA-S,70B3D58F5,Stmovic,"201 2, 3 th. Gangdonggu Seoul KR 134-811 "
 MA-S,70B3D5ABF,AGR International,615 Whitestown Road Butler PA US 16001 
 MA-S,70B3D5755,"LandmarkTech Systems Technology Co.,Ltd.","Room221, Building #29, No.368 Zhangjiang Rd.,  Shanghai CN 201210 "
@@ -1694,7 +1696,6 @@ MA-S,70B3D5EF5,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhin
 MA-S,70B3D564E,"BigStuff3, Inc. ",4352 Fenton Rd Hartland MI US 48353 
 MA-S,70B3D529C,Teko Telecom Srl,via Meucci 24/a Castel San Pietro Terme Bologna IT 40024 
 MA-S,70B3D5436,Henrich Electronics Corporation,225 Deming Place Westmont IL US 60559 
-MA-S,70B3D57D0,Cubitech,Likourgou 9 Athens  GR 17676 
 MA-S,70B3D5AD8,Euklis by GSG International,via Colombo 23 Trezzano sul Naviglio MI IT 20090 
 MA-S,70B3D524E,"Chengdu Cove Technology CO.,LTD","6-419, Hi-tech Incubation Park, No.1480 Tianfu Ave Chengdu Sichuan CN 610000 "
 MA-S,70B3D55EF,Star Systems International,"Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road Kwai Chung  HK 852 "
@@ -1895,6 +1896,8 @@ MA-S,70B3D53CB,GeoSpectrum Technologies Inc,"10 Akerley Blvd, #19 Dartmouth Nova
 MA-S,70B3D5DF4,Heim- & Bürokommunikation Ilmert e.K.,Jakobsbrunnenstr. 14 Frankfurt am Main  DE 60386 
 MA-S,70B3D572A,MRC Systems GmbH,Hans-Bunte-Str. 10 Heidelberg  DE 69123 
 MA-S,70B3D5571,Echogear,12884 Frontrunner Blvd Ste 201 Draper UT US 84020 
+MA-S,70B3D56E5,DEUTA-WERKE GmbH,Paffrather Str. 140  Bergisch Gladbach DE 51465 
+MA-S,70B3D57D0,Cubitech,4-6 Kiprou str Tavros Athens GR 17778 
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -2542,6 +2545,7 @@ MA-S,70B3D5258,BAYKON Endüstriyel Kontrol Sistemleri San. ve Tic. A.Ş.,Kimya S
 MA-S,70B3D5DFB,Yamamoto Works Ltd.,3-1-3 Kashiwaza Ageo Saitama JP 3620075 
 MA-S,70B3D547A,GlooVir Inc.,"#413, 96 Gajeongbuk-Ro Daejeon Yuseong KR 34111 "
 MA-S,70B3D5463,"WARECUBE,INC","#A-811, 142-10, Saneop-ro, 156beon-gil, Gwonseon-gu Suwon-si  KR 16648 "
+MA-S,70B3D54A4,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhine-Westphalia DE 51465 
 MA-S,70B3D58AB,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5729,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5E93,ECON Technology Co.Ltd,Mogan Road 1418-41-4 Hangzhou Zhejiang  CN 310015 
@@ -2688,7 +2692,6 @@ MA-S,70B3D5E4A,ICP NewTech Ltd,Kilbrittain Bandon Cork IE WLF-17-68G
 MA-S,70B3D5ECD,SBS-Feintechnik GmbH & Co. KG,Hermann-Burger-Str. 31 Schonach  DE 78136 
 MA-S,70B3D5918,Glova Rail A/S,Elvej 3 Odense S  DK 5260 
 MA-S,70B3D5308,"DSD MICROTECHNOLOGY,INC.",4700 WEST PROSPECT ROAD FORT LAUDERDALE FLORIDA US 33309 
-MA-S,70B3D56D3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach  DE 51465 
 MA-S,70B3D5908,Accusonic,28 Patterson Brook Road West Wareham MA US 02576 
 MA-S,70B3D5183,Evco S.p.a.,Via Feltre 81 Sedico Belluno IT 32036 
 MA-S,70B3D55A8,Farmobile,18132 Melrose Dr. Bucyrus KS  66013 
@@ -3165,3 +3168,4 @@ MA-S,70B3D565E,Season Electronics Ltd,600 Nest Business Park  Havant Hampshire G
 MA-S,70B3D5C51,Innotas Elektronik GmbH,Rathenaustr. 18a Zittau  DE D-02763 
 MA-S,70B3D5E54,Beijing PanGu Company,Beijing agricultural college Beijing  CN 100010 
 MA-S,70B3D5CD4,Southern Ground Audio LLC,101 Gardner Park Peachtree City GA US 30269 
+MA-S,70B3D56D3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach  DE 51465 
