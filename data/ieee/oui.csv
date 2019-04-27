@@ -2573,7 +2573,6 @@ MA-L,00059D,"Daniel Computing Systems, Inc.",3208 8th Avenue NE #118   CA T2A 7V
 MA-L,000796,"LSI Systems, Inc.","10-1 Minami-kurokawa, Kanagawa  JP 215-0034 "
 MA-L,000790,Tri-M Technologies (s) Limited,"Blk 25, Kallang Avenue #07-01/04   SG 339416 "
 MA-L,000784,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,000789,DONGWON SYSTEMS,"861-5, Gwanyang-Dong, Dongan-Gu, Anyang-si, Gyeonggi-do,  KR 430-803 "
 MA-L,000783,"SynCom Network, Inc.","4F, No. 31, Hsintai Road, Chupei City,   TW  "
 MA-L,00078A,Mentor Data System Inc.,"No. 24-1, Industry East 4 Rd., Hsin-Chu,  TW  "
 MA-L,00077A,"Infoware System Co., Ltd.",Mizorogi Daiichi Bldg 4 F Tokyo  JP  
@@ -5258,6 +5257,9 @@ MA-L,38A6CE,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854
 MA-L,900218,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,902106,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,7C4CA5,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,000789,"Allradio Co., Ltd","861-5, Gwanyang-Dong, Dongan-Gu, Anyang-si, Gyeonggi-do,  KR 430-803 "
+MA-L,8CBE24,"Tashang Semiconductor(Shanghai) Co., Ltd.","Room 903, Building 5, Minggu Science Park,No. 7001, Zhong Chun Road, Minhang District ,Shanghai 201101, P.R. China Shanghai  CN 123456 "
+MA-L,807215,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10557,6 +10559,10 @@ MA-L,7050AF,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854
 MA-L,F4CE36,Nordic Semiconductor ASA,Otto Nielsens veg 12 Trondheim  NO NO-7052 
 MA-L,3CECEF,"Super Micro Computer, Inc.",980 Rock Ave San Jose CA US 95131 
 MA-L,FCA47A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,1C4176,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,48216C,China Mobile IOT Company Limited,"Building D3,No.8 Yangliu North Road,Yubei District  CHONGQING CHONGQING CN 401121 "
+MA-L,ACC358,Continental Automotive Czech Republic s.r.o.,Průmyslová 1851 Brandýs nad Labem  CZ 250 01 
+MA-L,60447A,Water-i.d. GmbH,Daimlerstr. 20 Eggenstein  DE 76344 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15728,6 +15734,9 @@ MA-L,6023A4,"Sichuan AI-Link Technology Co., Ltd.","Anzhou,Industrial Park A
 MA-L,D8E72B,NetAlly,310 Littleton Road Westford MA US 01886  
 MA-L,683B78,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,74D637,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,F09919,Garmin International,1200 E. 151st St Olathe KS US 66062 
+MA-L,C4AC59,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
+MA-L,5816D7,"ALPS ELECTRIC CO., LTD.",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -20973,6 +20982,7 @@ MA-L,64CB9F,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANC
 MA-L,3C8994,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,08688D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,C03E0F,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,18A4A9,Vanu Inc.,81 Hartwell Ave Lexington MA US 02421 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -22100,7 +22110,6 @@ MA-L,28068D,"ITL, LLC",P.O. Box 41875 Nashville TN US 37204
 MA-L,F0D767,Axema Passagekontroll AB,Box 90 215 Stockholm  SE 120 23  
 MA-L,A4AE9A,Maestro Wireless Solutions ltd.,"3603-9, 36/F Sai Ying Pun  HK  "
 MA-L,5CD135,Xtreme Power Systems,2440 Kiowa Blvd. N. #102 Lake Havasu City AZ US 86403 
-MA-L,9C28BF,Continental Automotive Czech Republic s.r.o.,Průmyslová 1851 Brandýs nad Labem  CZ 250 01 
 MA-L,206FEC,Braemac CA LLC,43134 Osgood Road Fremont CA US 94539 
 MA-L,64A232,OOO Samlight,"44A, Dubninskaya str.,  Moscow  RU 127591 "
 MA-L,A082C7,"P.T.I Co.,LTD","1-5-1,Tsurumidan Koriyama-shi Fukushima JP 963-8861 "
@@ -26214,3 +26223,5 @@ MA-L,1033BF,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6 Lawrenceville 
 MA-L,0019FB,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,2047ED,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,0CF9C0,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,80E82C,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
+MA-L,9C28BF,Continental Automotive Czech Republic s.r.o.,Průmyslová 1851 Brandýs nad Labem  CZ 250 01 
