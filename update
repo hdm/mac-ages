@@ -137,4 +137,6 @@ write_results()
 log("Commiting and pushing the results")
 
 # Commit the results
-exit(system("git commit -m 'Update #{@today}' ./data && git push origin master"))
+system("git commit -m 'Update #{@today}' ./data && git push origin master")
+exit(0)
+
