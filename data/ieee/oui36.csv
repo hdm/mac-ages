@@ -606,9 +606,10 @@ MA-S,70B3D5FFE,Private,
 MA-S,70B3D591D,Cubitech,4-6 Kiprou str Tavros Athens GR 17778 
 MA-S,70B3D513A,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach  DE 51465 
 MA-S,70B3D5171,Aetina Corporation,"2F-1, No.237, Sec.1, Datong Rd., Xizhi Dist., New Taipei City  No State TW 221 "
-MA-S,70B3D53FB,Liberty Reach,3550 W Liberty Rd Suite 5 Ann Arbor MI US 48103 
 MA-S,70B3D5DED,Simpulse,7 rue de la croix Martre Palaiseau  FR 91120 
+MA-S,70B3D53FB,Liberty Reach,3550 W Liberty Rd Suite 5 Ann Arbor MI US 48103 
 MA-S,70B3D5A70,Gateview Technologies, 104 White St #201 Wake Forest  US 27587 
+MA-S,70B3D5B00,HORIBA ABX SAS,rue du caducee Montpellier Herault FR 34000 
 MA-S,70B3D5D60,Flintab AB,Kabelvägen 4 Jönköping  SE 55302 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5522,Syncopated Engineering Inc,13136 Williamfield Dr Ellicott City MD US 21042 
@@ -1273,6 +1274,7 @@ MA-S,70B3D5E38,Cursor Systems NV,Drevendaal 14 Sint-Katelijne-Waver Antwerpen BE
 MA-S,70B3D51FC,"Guan Show Technologe Co., Ltd.","No.127, Jianguo 1st Rd., Lingya Dist.  Kaohsiung City   TW 802 "
 MA-S,70B3D5458,"Ongisul Co.,Ltd.","Yangji Building 6F, 85, Seonghwang-ro Dongnam-gu, Cheonan-si,  Chungcheongnam-do KR 31125 "
 MA-S,70B3D5CDB,"Wuhan Xingtuxinke ELectronic Co.,Ltd","NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074 "
+MA-S,70B3D583E,"The Dini Group, La Jolla inc.",7469 Draper Ave. La Jolla CA US 92037 
 MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711 
 MA-S,70B3D5BF2,TWIN DEVELOPMENT,FAUBOURG DE BRUXELLES 320 GOSSSELIES  BE 6041 
 MA-S,70B3D5901,ATS-CONVERS,"Yana Fabrittsyusa str., 10 Pskov  RU 180017 "
@@ -1774,7 +1776,6 @@ MA-S,70B3D587D,INVIXIUM ACCESS INC.,"50 ACADIA AVE, 310 MARKHAM Ontario CA L3R0B
 MA-S,70B3D55FA,TEX COMPUTER SRL ,VIA MERCADANTE 35 CATTOLICA  RIMINI  IT 47841 
 MA-S,70B3D5985,Burk Technology,7 Beaver Brook road Littleton MA US 01460 
 MA-S,70B3D5FC8,Moduware PTY LTD,502/37 Swanston Street Melbourne Victoria AU 3000 
-MA-S,70B3D507B,wallbe GmbH,Paderborner Straße 76 Schlangen  NRW DE 33189 
 MA-S,70B3D52CF,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbühl Bavaria DE 91550 
 MA-S,70B3D5546,Sensefarm AB,Mobilvagen 10 Lund  SE 22362 
 MA-S,70B3D5B6A,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
@@ -1916,6 +1917,8 @@ MA-S,70B3D5337,Laborie,"6415 Northwest Drive, Unit 2 Mississauga Ontario CA L4V1
 MA-S,70B3D5449,Edgeware AB,Master Samuelsgatan 42 Stockholm  SE 11157 
 MA-S,70B3D5874,NORTHBOUND NETWORKS PTY. LTD.,14 Sommersby Road Point Cook Victoria AU 3030 
 MA-S,70B3D5521,Selex ES Inc.,4221 Tudor Lane Greensboro NC US 27410 
+MA-S,70B3D507B,wallbe GmbH,Paderborner Straße 76 Schlangen  NRW DE 33189 
+MA-S,70B3D5543,wallbe GmbH,Paderborner Straße 76 Schlangen  NRW DE 33189 
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -3195,3 +3198,4 @@ MA-S,70B3D56CA,"LINEAGE POWER PVT LTD.,","30-A1, KIADB, 1ST PHASE INDUSTRIAL EST
 MA-S,70B3D54D6,Operational Technology Solutions,Level 10 555 Lonsdale Street Melbourne Victoria AU 3000 
 MA-S,70B3D5158,EAX Labs s.r.o.,Krizovnicka 86/6 Praha 1  CZ 11000 
 MA-S,70B3D56F4,Private,
+MA-S,70B3D50F6,KSE GmbH,Frühlingstraße 31-33 Ingolstadt  DE 85055 
