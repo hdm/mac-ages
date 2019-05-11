@@ -5272,6 +5272,7 @@ MA-L,64DF10,JingLue Semiconductor(SH) Ltd.,No.800 Naxian Rd Shanghai  CN 201210
 MA-L,A8D0E3,Systech Electronics Ltd,"Lever Tech Centre, 69-71 King Yip Street,   HK 852 "
 MA-L,90BDE6,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,ACFE05,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
+MA-L,500291,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -6930,7 +6931,6 @@ MA-L,001D71,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,001D78,"Invengo Information Technology Co.,Ltd","3/F,No.T2-B,High-Tech Industrial Park South Shenzhen Guangdong CN 518057 "
 MA-L,001D65,Microwave Radio Communications,"101 Billerica Avemue, Bldg 6 N. Billerica MA US 01862 "
 MA-L,001D5E,COMING MEDIA CORP.,"BONA Bld. 4th Fl., 548-18 Seoul  KR 135-158 "
-MA-L,001D29,Doro AB,Magistratsvägen 10 Lund  SE 226 43 
 MA-L,001D22,Foss Analytical A/S,Slangerupgade 69 Hillerød Seeland DK 3400 
 MA-L,001D1D,Inter-M Corporation,"653-5 Banghak-Dong, Dobong-Ku Seoul  KR 132-846 "
 MA-L,001D16,SFR,40/42 Quai du point du jour Boulongne Billancourt Hauts de Seine  FR  92659 
@@ -10563,12 +10563,12 @@ MA-L,FC7D6C,"HYESUNG TECHWIN Co., Ltd","#1509,545,Dunchon-daero, Jungwon-gu Seon
 MA-L,E86F38,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,347563,"SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.","Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District, Shenzhen Guangdong CN 518000 "
 MA-L,00C017,NetAlly,2075 Research Parkway Colorado Springs CO US 80920 
-MA-L,F4CE36,Nordic Semiconductor ASA,Otto Nielsens veg 12 Trondheim  NO NO-7052 
+MA-L,64FF0A,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,A0BDCD,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,D058FC,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
-MA-L,64FF0A,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,783E53,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,7050AF,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,F4CE36,Nordic Semiconductor ASA,Otto Nielsens veg 12 Trondheim  NO NO-7052 
 MA-L,3CECEF,"Super Micro Computer, Inc.",980 Rock Ave San Jose CA US 95131 
 MA-L,FCA47A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,1C4176,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
@@ -10585,6 +10585,9 @@ MA-L,2CA89C,Creatz inc.,"16, Deogyeong-daero 1556beon-gil, Yeongtong-gu Suwon-si
 MA-L,308BB2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C463FB,Neatframe AS,Martin Linges Vei 25 Fornebu Fornebu NO 1364 
 MA-L,E4CC9D,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
+MA-L,001D29,Doro AB,Magistratsvägen 10 Lund  SE 226 43 
+MA-L,205F3D,Cambridge Communication Systems Ltd,"Victory House, Vision Park, Chivers Way, Histon Cambridge  GB CB24 9ZR "
+MA-L,8C0FFA,"Hutec co.,ltd","46, Gunpocheomdansaneop 2-ro Gunpo-si Gyeonggi-do KR 15880 "
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -12072,7 +12075,6 @@ MA-L,001DEB,DINEC International,"Rue de la Gare, 30 BRAINE L'ALLEUD BRABANT WALL
 MA-L,001DEC,Marusys,Eunsung Bldg. 5F Seoul  KR 135-763 
 MA-L,001DE6,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,001DDA,Mikroelektronika spol. s r. o.,Dráby 849 Vysoké Mýto CZ CZ 566 01 
-MA-L,001DDF,"Sunitec Enterprise Co., Ltd.","3F., No. 98-1, Mincyuan Rd. Sindian City Taipei County TW 231 "
 MA-L,001DC7,L-3 Communications Geneva Aerospace,4240 International Parkway Carrollton Texas US 75007 
 MA-L,001DC0,Enphase Energy,"201 1st Street, Suite 111 Petaluma CA US 94952 "
 MA-L,001ED8,Digital United Inc.,"9F, No.220, Gangcian Rd. Taipei  TW 11444 "
@@ -15757,14 +15759,16 @@ MA-L,74D637,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507
 MA-L,F09919,Garmin International,1200 E. 151st St Olathe KS US 66062 
 MA-L,C4AC59,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,5816D7,"ALPS ELECTRIC CO., LTD.",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
+MA-L,F0C371,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,305714,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,1495CE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E450EB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F06865,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
-MA-L,F0C371,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,BCC31B,Kygo Life A,Sjolyst Plass 3 Oslo  NO 0278 
-MA-L,8C4962,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,A89352,"SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD","RM510,418 Guiping Road,xuhui-Park shanghai shanghai CN 200233 "
+MA-L,8C4962,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
+MA-L,60634C,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
+MA-L,001DDF,"Sunitec Enterprise Co.,Ltd","3F., No. 98-1, Mincyuan Rd. Sindian City Taipei County TW 231 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -21007,8 +21011,8 @@ MA-L,44237C,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office B
 MA-L,00A00E,NetAlly,310 Littleton Road Westford MA US 01886  
 MA-L,D44BB6,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province Shenzhen GuangDong CN 518000 "
 MA-L,64CB9F,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
-MA-L,08688D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,3C8994,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,08688D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,C03E0F,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,18A4A9,Vanu Inc.,81 Hartwell Ave Lexington MA US 02421 
 MA-L,004E01,Dell Inc.,One Dell Way Round Rock TX US 78682 
@@ -21018,8 +21022,8 @@ MA-L,608B0E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,F40E01,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6070C0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F4B5BB,CERAGON NETWORKS,24 RAUEL WALLENBERG STREET TEL-AVIV  IL 96719 
-MA-L,08849D,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,AC7713,"Honeywell Safety Products (Shanghai) Co.,Ltd",430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area Shanghai Shanghai CN 201203 
+MA-L,08849D,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -22013,7 +22017,6 @@ MA-L,58E808,AUTONICS CORPORATION,41-5 YONGDANG-DONG YANGSAN-SI KYEONGNAM KR 626-
 MA-L,8058C5,NovaTec Kommunikationstechnik GmbH,Technologiepark 9 Paderborn NRW DE 33100 
 MA-L,C0EAE4,Sonicwall,2001 Logic Drive San Jose CA US 95124-3452 
 MA-L,F8A9DE,PUISSANCE PLUS,222 Impasse Louis Lépine Montauban  FR 82000 
-MA-L,D4F027,Navetas Energy Management,17A Deben Mill Business Centre Woodbridge Suffolk GB IP12 1BL 
 MA-L,5C0CBB,CELIZION Inc.,"#206 Lordland EZ Tower, GuMi-Dong 153 BunDang-Gu SeongNam-Si  GyeongGi-Do KR 463-870 "
 MA-L,B8871E,"Good Mind Industries Co., Ltd.","22, Ta Yeou 2nd St,  Kaohsiung  TW 831 "
 MA-L,F8EA0A,Dipl.-Math. Michael Rauch,Kapellenstraße 31 Bretten BaWü DE 75015 
@@ -26256,10 +26259,10 @@ MA-L,142E5E,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsua
 MA-L,A4530E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,1CD5E2,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,C0CBF1,"Mobiwire Mobiles (NingBo) Co., LTD","No.999 Dacheng East Road, Fenghua District, Ningbo City , Zhejiang Province, PRC Ningbo Zhejiang CN 315500 "
-MA-L,2047ED,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,1033BF,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30044 
-MA-L,0CF9C0,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,0019FB,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,2047ED,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,0CF9C0,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,80E82C,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
 MA-L,9C28BF,Continental Automotive Czech Republic s.r.o.,Průmyslová 1851 Brandýs nad Labem  CZ 250 01 
 MA-L,50DE06,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -26267,3 +26270,5 @@ MA-L,1460CB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,507AC5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,4CDC0D,Coral Telecom Limited,"E-2, Sector 63 Noida Uttar Pradesh IN 201301 "
 MA-L,D05F64,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,D4F027,Trust Power Ltd.,13 Berkley Street London  GB W1J 8DU 
+MA-L,ECA5DE,ONYX WIFI Inc,"9891 Irvine Center Drive, Suite 200 Irvine  US 92618 "
