@@ -4753,13 +4753,6 @@ MA-L,B8259A,Thalmic Labs ,24 Charles Street West  Kitchener  Ontario  CA N2G 1H2
 MA-L,40B30E,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,04CE7E,NXP France Semiconductors France,"Parc les Algorithmes,Saint Aubin Gif sur Yvette  FR 91193 "
 MA-L,A40C66,"Shenzhen Colorful Yugong Technology and Development Co., Ltd.","13F, Central Business Tower, No.88 Fuhua First Rd., Futian District, Shenzhen, Guangdong, China Shenzhen Guangdong CN 518000 "
-MA-L,D8A01D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,ECFABC,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,B4E62D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,807D3A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,3C71BF,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,545AA6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,240AC4,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,98CC4D,"Shenzhen mantunsci co., LTD","3 floor, 3 environmental protection industrial park, Nanshan District Shenzhen  Guangdong CN 518000 "
 MA-L,F8E94E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F40616,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -5271,13 +5264,21 @@ MA-L,64DF10,JingLue Semiconductor(SH) Ltd.,No.800 Naxian Rd Shanghai  CN 201210
 MA-L,A8D0E3,Systech Electronics Ltd,"Lever Tech Centre, 69-71 King Yip Street,   HK 852 "
 MA-L,90BDE6,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,ACFE05,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
-MA-L,500291,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,5CCAD3,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
 MA-L,BCBAC2,"Hangzhou Hikvision Digital Technology Co.,Ltd.","No.555 Qianmo Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,786559,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,782A79,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,0004AB,Mavenir Inc.,1700 International Parkway Richardson TX US 75081 
 MA-L,1063C8,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
+MA-L,3C71BF,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,807D3A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,B4E62D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,ECFABC,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,D8A01D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,240AC4,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,545AA6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,500291,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,B03E51,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -9648,9 +9649,6 @@ MA-L,181E95,AuVerte,14 Riverview Road Niantic CT US 06357
 MA-L,184BDF,Caavo Inc,"1525 McCarthy Blvd., #1182 Milpitas  US 95035 "
 MA-L,1C549E,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,703A51,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
-MA-L,A020A6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,84F3EB,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,840D8E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,549B72,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
 MA-L,DC080F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F82D7C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -9743,7 +9741,6 @@ MA-L,40A5EF,"Shenzhen Four Seas Global Link Network Technology Co., Ltd.","Room 
 MA-L,48E6C0,"SIMCom Wireless Solutions Co.,Ltd.","Building B,SIM Technology Building,No.633,Jinzhong Road Shanghai  CN 200335 "
 MA-L,CCD81F,"Maipu Communication Technology Co.,Ltd.","Maipu Mansion, No.288 Tianfu 3rd Street, High-tech Zone Chengdu Sichuan CN 610094 "
 MA-L,100C6B,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
-MA-L,2CF432,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,ACBB61,"YSTen Technology Co.,Ltd","Room 1715,17/F North Star Times Tower,Chaoyang District,Beijing. Beijing  CN 100101 "
 MA-L,606ED0,SEAL AG,Landstrasse 176 Wettingen  CH 5430 
 MA-L,2479F8,KUPSON spol. s r.o.,Hradecka 787/14 Opava Czech Republic CZ 74601 
@@ -10568,12 +10565,12 @@ MA-L,FC7D6C,"HYESUNG TECHWIN Co., Ltd","#1509,545,Dunchon-daero, Jungwon-gu Seon
 MA-L,E86F38,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,347563,"SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.","Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District, Shenzhen Guangdong CN 518000 "
 MA-L,00C017,NetAlly,2075 Research Parkway Colorado Springs CO US 80920 
-MA-L,64FF0A,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,F4CE36,Nordic Semiconductor ASA,Otto Nielsens veg 12 Trondheim  NO NO-7052 
 MA-L,A0BDCD,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,D058FC,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,64FF0A,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,783E53,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,7050AF,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
-MA-L,F4CE36,Nordic Semiconductor ASA,Otto Nielsens veg 12 Trondheim  NO NO-7052 
 MA-L,3CECEF,"Super Micro Computer, Inc.",980 Rock Ave San Jose CA US 95131 
 MA-L,FCA47A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,1C4176,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
@@ -10590,18 +10587,24 @@ MA-L,2CA89C,Creatz inc.,"16, Deogyeong-daero 1556beon-gil, Yeongtong-gu Suwon-si
 MA-L,308BB2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C463FB,Neatframe AS,Martin Linges Vei 25 Fornebu Fornebu NO 1364 
 MA-L,E4CC9D,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
-MA-L,001D29,Doro AB,Magistratsvägen 10 Lund  SE 226 43 
 MA-L,205F3D,Cambridge Communication Systems Ltd,"Victory House, Vision Park, Chivers Way, Histon Cambridge  GB CB24 9ZR "
 MA-L,8C0FFA,"Hutec co.,ltd","46, Gunpocheomdansaneop 2-ro Gunpo-si Gyeonggi-do KR 15880 "
-MA-L,082697,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
+MA-L,001D29,Doro AB,Magistratsvägen 10 Lund  SE 226 43 
 MA-L,E00084,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,5CE883,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,3C9D56,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D46BA6,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,082697,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,24526A,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
 MA-L,44D5F2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,087190,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,90272B,Algorab S.r.l.,"Via Luigi Negrelli, 21/13 Lavis TN IT 38015 "
+MA-L,087190,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,7CB27D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,A020A6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,2CF432,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,840D8E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,84F3EB,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,04819B,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15485,15 +15488,8 @@ MA-L,0CD0F8,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,700B4F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,102C6B,"AMPAK Technology, Inc.","3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.) Hsinchu Taiwan ROC. TW 30352 "
 MA-L,207918,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
-MA-L,18FE34,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,9097D5,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,600194,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,D8CE3A,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,B8C74A,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
-MA-L,2C3AE8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,A47B9D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,DC4F22,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,BCDDC2,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,FC183C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C0E862,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,EC2CE2,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -15626,7 +15622,6 @@ MA-L,2034FB,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO
 MA-L,D43FCB,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,C85261,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,C08ACD,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
-MA-L,A4CF12,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,94BFC4,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,0004DF,TERACOM TELEMATICA S.A,RUA AMERICA N.1000 Eldorado do Sul - RS  BR Brazil 
 MA-L,0836C9,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
@@ -15773,11 +15768,11 @@ MA-L,74D637,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507
 MA-L,F09919,Garmin International,1200 E. 151st St Olathe KS US 66062 
 MA-L,C4AC59,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,5816D7,"ALPS ELECTRIC CO., LTD.",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
-MA-L,F0C371,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,305714,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,1495CE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E450EB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F06865,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
+MA-L,F0C371,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,BCC31B,Kygo Life A,Sjolyst Plass 3 Oslo  NO 0278 
 MA-L,A89352,"SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD","RM510,418 Guiping Road,xuhui-Park shanghai shanghai CN 200233 "
 MA-L,8C4962,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
@@ -15786,6 +15781,19 @@ MA-L,001DDF,"Sunitec Enterprise Co.,Ltd","3F., No. 98-1, Mincyuan Rd. Sindian Ci
 MA-L,70FD45,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,582059,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,98523D,"Sunitec Enterprise Co.,Ltd","3F.,No.98-1,Mincyuan Rd.Sindian City Taipei County 231  CN 231141 "
+MA-L,A47B9D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,2C3AE8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,600194,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,9097D5,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,18FE34,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,A4CF12,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,B8F653,"Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd","3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District Shenzhen Guangdong CN 518055 "
+MA-L,6C9E7C,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,BCDDC2,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,DC4F22,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,047F0E,Barrot Technology Limited,"C7-1-1,East Area, No.2,Shangdi Xinxi Road, Haidian District Beijing  CN 100085 "
+MA-L,84D15A,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
+MA-L,94D505,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -20795,7 +20803,6 @@ MA-L,0CFE5D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,00A068,BHP LIMITED,1500 Post Oak Boulevard #11.08 B Houston TX US 77056-3030 
 MA-L,508CF5,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,A047D7,Best IT World (India) Pvt Ltd,"87, Mistry Complex,, Midc Cross Road ""A"", Andheri-East Mumbai Maharashtra IN 400093 "
-MA-L,5CCF7F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,0C9541,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
 MA-L,98F9C7,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,B0C387,"GOEFER, Inc.",118 N. Market St. Frederick MD US 21701 
@@ -20956,7 +20963,6 @@ MA-L,C86314,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,3C0C7D,Tiny Mesh AS,Elisabeth von Hübschs gate 6 MOSS  NO 1534 
 MA-L,C821DA,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,78E2BD,Vodafone Automotive S.p.A.,via Astico 41 Varese Italy/VA IT 21100 
-MA-L,4C11AE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,E41E0A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,0020E0,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,A091A2,"OnePlus Electronics (Shenzhen) Co., Ltd.","Room 201, Block A, No.1, 1st Qian Wan Road, Qianhai Shenzhen-Hong Kong Cooperation Zone, Shenzhen, China. Shenzhen Guangdong CN 518000 "
@@ -20981,7 +20987,6 @@ MA-L,201742,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 
 MA-L,000631,Calix Inc.,2777 Orchard Parkway San Jose CA US 95134 
 MA-L,EC4F82,Calix Inc.,2777 Orchard Parkway San Jose CA US 95134 
 MA-L,CCBE59,Calix Inc.,2777 Orchard Parkway San Jose CA US 95134 
-MA-L,2462AB,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,88B436,Private,
 MA-L,48E1E9,"Chengdu Meross Technology Co., Ltd.","No. 25, Yizhou Avenue, Gaoxin Chengdu Sichuan CN 610000 "
 MA-L,6C8AEC,"Nantong Coship Electronics Co., Ltd.",No.188 Xinsheng Road Nantong Jiangsu CN 226001 
@@ -21027,8 +21032,8 @@ MA-L,44237C,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office B
 MA-L,00A00E,NetAlly,310 Littleton Road Westford MA US 01886  
 MA-L,D44BB6,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province Shenzhen GuangDong CN 518000 "
 MA-L,64CB9F,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
-MA-L,3C8994,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,08688D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,3C8994,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,C03E0F,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,18A4A9,Vanu Inc.,81 Hartwell Ave Lexington MA US 02421 
 MA-L,004E01,Dell Inc.,One Dell Way Round Rock TX US 78682 
@@ -21038,8 +21043,8 @@ MA-L,608B0E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,F40E01,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6070C0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F4B5BB,CERAGON NETWORKS,24 RAUEL WALLENBERG STREET TEL-AVIV  IL 96719 
-MA-L,AC7713,"Honeywell Safety Products (Shanghai) Co.,Ltd",430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area Shanghai Shanghai CN 201203 
 MA-L,08849D,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,AC7713,"Honeywell Safety Products (Shanghai) Co.,Ltd",430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area Shanghai Shanghai CN 201203 
 MA-L,24A52C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,100177,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,44A191,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -21047,6 +21052,10 @@ MA-L,E067B3,"Shenzhen C-Data Technology Co., Ltd","#601, Fl6, Bldg F, No.1008  Y
 MA-L,4801C5,"OnePlus Technology (Shenzhen) Co., Ltd","18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING, Shenzhen Guangdong CN 518000 "
 MA-L,E0EB62,"Shanghai Hulu Devices Co., Ltd","509 Caobao Road,  Rm 101-2 Bld 9 Shanghai  CN 200233 "
 MA-L,7C5189,SG Wireless Limited,RM 504 5/F Sun Fung Industrial Building 8-12 Ma Kok Street Tsuen Wan  HK NA 
+MA-L,5CCF7F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,4C11AE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,2462AB,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,C03656,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -26030,12 +26039,6 @@ MA-L,C82E47,"Suzhou SmartChip Semiconductor Co., LTD","9A,Science Plaza,1355 Jin
 MA-L,FC7774,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,B40B78,Brusa Elektronik AG,Neudorf 14 Sennwald St. Gallen CH 9466 
 MA-L,2CAA8E,Wyze Labs Inc,4030 Lake Washington Boulevard NE Kirkland WA US 98033 
-MA-L,24B2DE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,68C63A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,CC50E3,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,C44F33,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,ACD074,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,30AEA4,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,C01B23,"SICHUAN TIANYI COMHEART TELECOM CO.,LTD","NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, CHENGDU SICHUAN CN 611330 "
 MA-L,2CA9F0,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,586B14,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -26182,7 +26185,6 @@ MA-L,48F8DB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,2C58E8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,A4975C,VTech Telecommunications Ltd.,"23/F,Tai Ping Industrial Centre ,Block 1 Hong Kong  CN 000000 "
 MA-L,5078B3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
-MA-L,246F28,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,C4B36A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F8BBBF,eero inc.,500 Howard St Suite 900 San Francisco CA US 94105 
 MA-L,605F8D,eero inc.,"500 Howard Street, Suite 900 SAN FRANCISCO CA US 94105 "
@@ -26234,7 +26236,6 @@ MA-L,9C7BEF,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070
 MA-L,90735A,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,A8F94B,Eltex Enterprise Ltd.,Okruzhnaya st. 29v Novosibirsk  RU 630020 
 MA-L,F82387,"Shenzhen Horn Audio Co.,Ltd.","NO.6 4th GuiHua road,PingShan, Shenzhen Guangdong CN 518118 "
-MA-L,D8F15B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,78D347,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
 MA-L,9C93E4,Private,
 MA-L,7C2302,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -26282,10 +26283,10 @@ MA-L,142E5E,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsua
 MA-L,A4530E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,1CD5E2,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,C0CBF1,"Mobiwire Mobiles (NingBo) Co., LTD","No.999 Dacheng East Road, Fenghua District, Ningbo City , Zhejiang Province, PRC Ningbo Zhejiang CN 315500 "
-MA-L,1033BF,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30044 
-MA-L,0019FB,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,2047ED,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,1033BF,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30044 
 MA-L,0CF9C0,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
+MA-L,0019FB,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,80E82C,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
 MA-L,9C28BF,Continental Automotive Czech Republic s.r.o.,Průmyslová 1851 Brandýs nad Labem  CZ 250 01 
 MA-L,50DE06,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -26304,3 +26305,11 @@ MA-L,D015A6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa 
 MA-L,28167F,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,4CBCB4,ABB SpA - DIN Rail,V.le dell'industria 18 Vittuone Milan IT 20010 
 MA-L,B84DEE,"Hisense broadband multimedia technology Co.,Ltd",Song ling Road 399 Qingdao  CN 266000 
+MA-L,C44F33,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,CC50E3,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,68C63A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,24B2DE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,30AEA4,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,ACD074,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,246F28,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,D8F15B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
