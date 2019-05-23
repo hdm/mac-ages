@@ -5280,6 +5280,8 @@ MA-L,545AA6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,500291,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B03E51,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,98E8FA,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
+MA-L,34DD7E,"Umeox Innovations Co.,Ltd","Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000 "
+MA-L,38C4E8,NSS Sp. z o.o.,Modularna 11 Warszawa  PL 02-238 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10607,8 +10609,10 @@ MA-L,84F3EB,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,7CB27D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,04819B,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,8CB84A,SAMSUNG ELECTRO-MECHANICS(THAILAND),"93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE Bangpakong Chachoengsao TH 24180 "
-MA-L,084FA9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,B4EE25,"Shenzhen Belon Technology CO.,LTD",Tsinghua Information Shenzhen Guangdong CN 518052 
+MA-L,084FA9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,189088,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,542A1B,"Sonos, Inc.",614 Chapala St Santa Barbara CA US 93101 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -22010,7 +22014,6 @@ MA-L,ACCC8E,Axis Communications AB,Emdalavägen 14 LUND  SE 22369
 MA-L,187C81,Valeo Vision Systems,Dunmore Road County Galway  IE  
 MA-L,DC1EA3,Accensus LLC,200 South Wacker Drive Chicago IL US 60606 
 MA-L,A40130,"ABIsystems Co., LTD",308 ACE Techno Tower8 191-7 Guro-dong  Seoul KR  
-MA-L,68F125,Data Controls Inc.,3-17-4 Ueno Taito-ku Tokyo JP 1100005 
 MA-L,706F81,Private,
 MA-L,30E4DB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,742B0F,Infinidat Ltd.,11 Galgalei Haplada St. Herzliya Pituach Center IL 46722 
@@ -26326,3 +26329,4 @@ MA-L,BC62D2,Genexis International B.V.,Waldfeuchterbaan 124 Maria Hoop Maria Hoo
 MA-L,980637,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,084FF9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,5C925E,Zioncom Electronics (Shenzhen) Ltd.,"A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District Shenzhen Guangdong CN 518000 "
+MA-L,68F125,Data Controls Inc.,"Fukashiro Bldg, 8F Taito-ku Tokyo JP 111-0052 "
