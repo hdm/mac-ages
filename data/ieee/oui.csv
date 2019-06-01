@@ -2138,7 +2138,6 @@ MA-L,000F6C,ADDI-DATA GmbH,Airport Boulevard B210 RHEINMUENSTER BW DE 77836
 MA-L,000F6B,GateWare Communications GmbH,Allersberger Strasse 185 F Nuernberg Bavaria DE D-90461 
 MA-L,000F5F,Nicety Technologies Inc. (NTS),792-3 Tomioka Toyoda-cho Iwata-gun Shizuoka JP 438-0803 
 MA-L,000F5A,Peribit Networks,2855 Bowers Ave Santa Clara CA US 95051 
-MA-L,000F53,Solarflare Communications Inc,9501 Jeronimo Road Irvine CA US 92618 
 MA-L,000F47,ROBOX SPA,via Sempione 82 Castelletto S.Ticino NO IT 28053 
 MA-L,000F4C,Elextech INC,"554-2, Gasan-Dong, Gumcheon-Gu Seoul  KR 153-023 "
 MA-L,001170,GSC SRL,VIA PER VIMERCATE USMATE VELATE MILANO IT 20040 
@@ -4924,7 +4923,6 @@ MA-L,283F69,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagaw
 MA-L,E8C57A,"Ufispace Co., LTD.","9F., No. 81 Jhongcheng Rd., Tucheng Dist., New Taipei  TW 23674 "
 MA-L,C4B8B4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,F89910,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
-MA-L,111111,Private,
 MA-L,289EFC,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,84C9C6,"SHENZHEN GONGJIN ELECTRONICS CO.,LT",SONGGANG SHENZHEN GUANGDONG CN 518105 
 MA-L,20163D,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
@@ -5289,7 +5287,9 @@ MA-L,5098B8,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District
 MA-L,E0E8E6,"Shenzhen C-Data Technology Co., Ltd.","#601, Fl6, Bldg F, No.1008  Yangguang Community, Xili, Nanshan Shenzhen Guangdong CN 518055 "
 MA-L,6C4D51,"Shenzhen Ceres Technology Co., Ltd.","#601, Fl6, Bldg F, No.1008  Yangguang Community, Xili, Nanshan Shenzhen Guangdong CN 518055 "
 MA-L,F83CBF,BOTATO ELECTRONICS SDN BHD,"c-1-2, JALAN BK5A/2B 47180,BANDAR KINRARA PUCHONG SELANGOR MY 47180 "
+MA-L,000F53,Solarflare Communications Inc.,"Suite 100, 7505 Irvine Center Drive Irvine CA US 92618 "
 MA-L,241510,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,111111,Private,
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10383,7 +10383,6 @@ MA-L,0012EE,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagaw
 MA-L,001620,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,289E97,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,24FAF3,"Shanghai Flexem Technology Co.,Ltd.","Room 804, C6 Building,No.52 Bay Valley Technology Park, Lane 1688 North Guoquan Road, Yangpu District. Shanghai  CN 200438 "
-MA-L,ACDE48,Private,
 MA-L,0C8C24,SHENZHEN BILIAN ELECTRONIC CO.，LTD,"NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
 MA-L,7C6B9C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,1CC3EB,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -10624,6 +10623,8 @@ MA-L,542A1B,"Sonos, Inc.",614 Chapala St Santa Barbara CA US 93101
 MA-L,A8C0EA,Pepwave Limited,"A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road Cheung Sha Wan Hong Kong HK 0 "
 MA-L,18BF1C,"Jiangsu Huitong Group Co.,Ltd.","No. 24, Block 2, Taohuawu New District Zhenjiang Jiangsu CN 212003 "
 MA-L,34F62D,SHARP Corporation,"1 Takumi-cho, Sakai-ku Sakai City Osaka JP 590-8522 "
+MA-L,44AEAB,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,ACDE48,Private,
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -14389,7 +14390,6 @@ MA-L,D8D43C,Sony Corporation,1-7-1 Konan Minato-ku Tokyo JP 108-0075
 MA-L,00A012,"Telco Systems, Inc. ",15 Berkshire Road Mansfield MA US 02048 
 MA-L,94611E,"Wata Electronics Co.,Ltd. ","No 142,South Tanshen Road, Tanzhou Town,Zhongshan City,Guangdong,China Zhongshan Guangdong CN 528467 "
 MA-L,5CA86A,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,000A68,Solarflare Communications Inc,9501 Jeronimo Irvine CA US 92618 
 MA-L,0CD502,Westell Technologies Inc.,750 N Commons Dr Aurora IL US 60504 
 MA-L,001636,QUANTA COMPUTER INC.,"No. 211, Wen Hwa 2Rd., Kuei Shan Hsiang Tao Yuan Shien  TW 0000 "
 MA-L,00C09F,QUANTA COMPUTER INC.,"7F., 116, HOU-KANG ST., TAIWAN TAIWAN TW R.O.C. "
@@ -15165,7 +15165,6 @@ MA-L,70C833,Wirepas Oy,Visiokatu 4 Tampere  FI 33720
 MA-L,E8FAF7,"Guangdong Uniteddata Holding Group Co., Ltd.","39L, Pearl River Tower, No.15 Zhujiang West Road,Tianhe District GUANGZHOU GUANGDONG CN 510623 "
 MA-L,C08135,"Ningbo Forfan technology Co., LTD","Room B308,Tianjing Building,Tianan Cyber Park,Futian Shenzhen Guangdong CN 518040 "
 MA-L,B46BFC,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
-MA-L,0050C7,Private,
 MA-L,001477,Trilliant,950 Cowie st. Granby Quebec CA J2J 1P2 
 MA-L,F85C4D,Nokia,1 Robbins Road Westford MA US 01886-4113 
 MA-L,F82DC0,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
@@ -15821,7 +15820,9 @@ MA-L,7869D4,Shenyang Vibrotech Instruments Inc.,No 23-2 Yunfeng St. Tiexi Dist. 
 MA-L,5885A2,Realme Chongqing MobileTelecommunications Corp Ltd,"No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing. Chongqing China CN 401120 "
 MA-L,803896,SHARP Corporation,"1 Takumi-cho, Sakai-ku Sakai City Osaka JP 590-8522 "
 MA-L,68070A,TPVision Europe B.V,Prins Bernhardplein 200 Amsterdam Noord-Holland NL 1097 JB 
+MA-L,000A68,Solarflare Communications Inc.,"Suite 100, 7505 Irvine Center Drive Irvine CA US 92618 "
 MA-L,FC589A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,0050C7,Private,
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -20353,7 +20354,6 @@ MA-L,94193A,Elvaco AB,Kabelgatan 2T Kungsbacka  SE 43437
 MA-L,3868DD,INVENTEC CORPORATION,"NO.88, DAZHI RD. TAOYUAN  TW 33068 "
 MA-L,3C6AA7,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,FC6BF0,TOPWELL INTERNATIONAL HOLDINDS LIMITED,"Room 1301-5,Buliding China Youshe,NO.6013,ShenNan Road,CheGong Temple,FuTian District,ShenZhen,GuangDong province,China SHENZHEN GUANGDONG CN 518000 "
-MA-L,1100AA,Private,
 MA-L,80029C,"Gemtek Technology Co., Ltd.",No.15-1 Zhonghua Road Hukou Hsinchu TW 30352 
 MA-L,D4FC13,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,1C965A,"WEIFANG GOERTEK ELECTRONICS CO.,LTD","Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China Wei Fang Shan Dong CN 261205 "
@@ -20672,7 +20672,6 @@ MA-L,DC8B28,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,AC9232,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,3412F9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,4CD1A1,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,002067,Private,
 MA-L,700B01,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,304B07,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,4017E2,INTAI TECHNOLOGY CORP.,"No.9, JINGKE RD.,NANTUN DIST. TAICHUNG CITY  TW 40852 "
@@ -21087,6 +21086,9 @@ MA-L,24DFA7,"Hangzhou BroadLink Technology Co.,Ltd","Room 101,1/F,Unit C,Buildin
 MA-L,889D98,Allied-telesisK.K.,7-21-11 Nishi-Gotannda Shinagawa-ku Tokyo JP 141-0031 
 MA-L,70879E,Beken Corporation,"Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District Shanghai  CN 201203 "
 MA-L,2884FA,SHARP Corporation,"1 Takumi-cho, Sakai-ku Sakai City Osaka JP 590-8522 "
+MA-L,A4F05E,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,1100AA,Private,
+MA-L,002067,Private,
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 

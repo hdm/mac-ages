@@ -1734,7 +1734,6 @@ MA-S,70B3D5B43,ZAO ZEO,Khachaturiana 14a Moscow  RU 127562
 MA-S,70B3D51A6,"Robotelf Technologies (Chengdu) Co., Ltd.","N3-4-1-1914, Global Center, No. 1700, Tianfu Road North, High-rech Zone Chengdu City Sichuan CN 610041 "
 MA-S,70B3D5257,LG Electronics,"10, Magokjungang 10-ro, Gangseo-gu Seoul  KR 07796 "
 MA-S,70B3D5920,SLAT,11 Rue Jean-Elysée DUPUY Champagne au Mont d'Or Rhône FR 69543 
-MA-S,70B3D5FFF,Private,
 MA-S,70B3D54C0,Technica Engineering GmbH,Leopoldstraße 236 Munich  DE 80807 
 MA-S,70B3D51D3,AIROBOT OÜ,Pardi 32-1 Pärnu  EE 80016 
 MA-S,70B3D5478,Touchnet/OneCard,2115 Chapman Rd. Suite 159 Chattanooga TN US 37421 
@@ -1941,6 +1940,7 @@ MA-S,70B3D5543,wallbe GmbH,Paderborner Straße 76 Schlangen  NRW DE 33189
 MA-S,70B3D5F6C,VisioGreen,"26, Avenue Winston Churchill Louviers 27 Eure FR 27400 "
 MA-S,70B3D5C8A,WTE Limited,"1 Pukeko Place, Southshore Christchurch Canterbury NZ 8062 "
 MA-S,70B3D579F,Green Instruments A/S,Erhvervsparken 29 Broenderslev  DK 9700 
+MA-S,70B3D5FFF,Private,
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -2596,6 +2596,8 @@ MA-S,70B3D559A,Wagner Group GmbH,Schleswigstrasse 1-5 Langenhagen  DE 30853
 MA-S,70B3D5C7A,"ENTEC Electric & Electronic Co., LTD.","78-2 Buncheon-ri, Bongdam-eup Hwaseong-city Gyungki-do KR 445-894 "
 MA-S,70B3D5783,"CHIeru., CO., Ltd. ","Tennozu Central Tower 3F, 2-2-24, Higashi-shinagawa, Shinagawa-ku tokyo  JP 140-0002 "
 MA-S,70B3D5C83,CertusNet Inc.,"No.699-22 Xuanwu Avenue, Xuanwu District  Nanjing Jiangsu CN 210042 "
+MA-S,70B3D5356,BRS Sistemas Eletrônicos,"Rua Gomes de Freitas, 491 / 204 Porto Alegre RS BR 91380-000 "
+MA-S,70B3D58EA,JLCooper Electronics,142 Arena St El Segundo CA US 90245 
 MA-S,70B3D58AB,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5729,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5E93,ECON Technology Co.Ltd,Mogan Road 1418-41-4 Hangzhou Zhejiang  CN 310015 
@@ -3231,3 +3233,4 @@ MA-S,70B3D57FF,eumig industrie-TV GmbH.,Gewerbeparkstrasse 9 Anif Salzburg AT 50
 MA-S,70B3D5E8D,Natav Services Ltd.,Binyamin 39/1 Modiin Israel IL 7175260 
 MA-S,70B3D5170,Mutelcor GmbH,"An der Bastei, 42A Duisburg NRW DE 47259 "
 MA-S,70B3D58C7,Henschel-Robotics GmbH,"Mulchlingerstrasse, 67 Winterthur Zuerich CH 8405 "
+MA-S,70B3D5DCD,C Tech Bilişim Teknolojileri San. ve Tic. AŞ,"Teknopark İstanbul, TGB, Sanayi Mah. Teknopark Bulvarı, No:1, Blok:1 Kat:2, Kurtköy-Pendik 34912, İSTANBUL Istanbul  TR 34912 "
