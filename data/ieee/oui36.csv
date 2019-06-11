@@ -517,7 +517,6 @@ MA-S,70B3D58FA,DEA SYSTEM SPA,VIA DELLA TECNICA 6 PIOVENE ROCCHETTE VICENZA IT 3
 MA-S,70B3D564B,Kalfire,Geloërveldweg 21 Belfeld Limburg NL 5951 DH 
 MA-S,70B3D5363,Contec DTx,1800 Penn St Suite 1 Melbourne FL US 32901 
 MA-S,70B3D5720,Private,
-MA-S,70B3D5292,Private,
 MA-S,70B3D5C7D,Metatronics B.V.,Torenallee 42-54 Eindhoven  NL 5617 BD 
 MA-S,70B3D50AC,RoboCore Tecnologia,Estrada das Lagrimas 1986 sala 22 Sao Caetano do Sul SP BR 09580500 
 MA-S,70B3D521C,Enyx SA,8 rue greneta Paris  FR 75003 
@@ -621,6 +620,9 @@ MA-S,70B3D5C7B,EM Clarity Pty Ltd,55 Curzon St Tennyson QLD AU 4105
 MA-S,70B3D59FC,Truecom Telesoft Private Limited,"2nd Floor, Block N, Safal Mondeal Retail Park, S.G Highway, Bodakdev Ahmedabad Gujarat IN 380056 "
 MA-S,70B3D54BC,TIAMA,ZA des Plattes - 1 Chemin des Plattes VOURLES   FR 69390  
 MA-S,70B3D5FB8,Hyannis Port Research,"75 2nd Ave, Suite 210 Needham MA US 02494 "
+MA-S,70B3D5292,Boston Dynamics,     
+MA-S,70B3D5A0F,"OSAKI DATATECH CO., LTD.",2-1-10 Higashi-Gotanda Shinagawa-ku Tokyo  JP 141-0022 
+MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D5D60,Flintab AB,Kabelvägen 4 Jönköping  SE 55302 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5522,Syncopated Engineering Inc,13136 Williamfield Dr Ellicott City MD US 21042 
@@ -1297,6 +1299,9 @@ MA-S,70B3D5787,Den Automation,"Unit 6.05, Metropolitan Wharf London  GB E1W 3SS 
 MA-S,70B3D5832,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D5414,"Smith Meter, Inc.",1602 Wagner Ave. Erie PA US 16514 
 MA-S,70B3D5F3E,"ООО ""РОНЕКС""","Автомобильный проезд, д. 10, стр. 4, пом. 201 Москва Россия, Московская область RU 109052 "
+MA-S,70B3D5D15,3DGence sp. z o.o.,Mickiewicza 29 Katowice Slaskie PL 40-085 
+MA-S,70B3D5D39,ASHIDA Electronics Pvt. Ltd,ASHIDA House Plot No A308 Road No. 21 Wagle Ind. Estate Thane Maharashtra IN 400604 
+MA-S,70B3D5824,"Songwoo Information & Technology Co., Ltd","24-9, Jinju-daero 404beon-gil, Jinju-si, Gyeongsangnam-do, Korea  Jinju Gyeongsangnam-do KR 52826 "
 MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711 
 MA-S,70B3D5BF2,TWIN DEVELOPMENT,FAUBOURG DE BRUXELLES 320 GOSSSELIES  BE 6041 
 MA-S,70B3D5901,ATS-CONVERS,"Yana Fabrittsyusa str., 10 Pskov  RU 180017 "
@@ -1945,6 +1950,7 @@ MA-S,70B3D5C8A,WTE Limited,"1 Pukeko Place, Southshore Christchurch Canterbury N
 MA-S,70B3D579F,Green Instruments A/S,Erhvervsparken 29 Broenderslev  DK 9700 
 MA-S,70B3D5FFF,Private,
 MA-S,70B3D51AA,"Echo Ridge, LLC",100 Carpenter Drive Sterling VA US 20164 
+MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D58F6,"Dofuntech Co.,LTD.","RM306, Block E, RD Xinjunhuan,Pujiang Minghang Shanghai CN 201113 "
 MA-S,70B3D5A06,Kopis Mobile LLC,3010 Lakeland Cv Suite M Flowood MS US 39232 
@@ -2602,8 +2608,8 @@ MA-S,70B3D5783,"CHIeru., CO., Ltd. ","Tennozu Central Tower 3F, 2-2-24, Higashi-
 MA-S,70B3D5C83,CertusNet Inc.,"No.699-22 Xuanwu Avenue, Xuanwu District  Nanjing Jiangsu CN 210042 "
 MA-S,70B3D5356,BRS Sistemas Eletrônicos,"Rua Gomes de Freitas, 491 / 204 Porto Alegre RS BR 91380-000 "
 MA-S,70B3D58EA,JLCooper Electronics,142 Arena St El Segundo CA US 90245 
-MA-S,70B3D55AE,"TinTec Co., Ltd.","#825 101, Magokseo-ro, Gangseo-gu Seoul  KR 07798 "
 MA-S,70B3D5F94,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
+MA-S,70B3D55AE,"TinTec Co., Ltd.","#825 101, Magokseo-ro, Gangseo-gu Seoul  KR 07798 "
 MA-S,70B3D58AB,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5729,"EMAC, Inc.",2390 EMAC Way Carbondale IL US 62901 
 MA-S,70B3D5E93,ECON Technology Co.Ltd,Mogan Road 1418-41-4 Hangzhou Zhejiang  CN 310015 
@@ -3240,3 +3246,4 @@ MA-S,70B3D5E8D,Natav Services Ltd.,Binyamin 39/1 Modiin Israel IL 7175260
 MA-S,70B3D5170,Mutelcor GmbH,"An der Bastei, 42A Duisburg NRW DE 47259 "
 MA-S,70B3D58C7,Henschel-Robotics GmbH,"Mulchlingerstrasse, 67 Winterthur Zuerich CH 8405 "
 MA-S,70B3D5DCD,C Tech Bilişim Teknolojileri San. ve Tic. AŞ,"Teknopark İstanbul, TGB, Sanayi Mah. Teknopark Bulvarı, No:1, Blok:1 Kat:2, Kurtköy-Pendik 34912, İSTANBUL Istanbul  TR 34912 "
+MA-S,70B3D5F0A,Neuyronal Innovation Control S.L.,Anade Real 11 Oleiros A Coruna ES 15179 
