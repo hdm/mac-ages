@@ -10637,8 +10637,9 @@ MA-L,08318B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E02481,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,ACE342,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,70441C,"SHENZHEN KAIFA TECHNOLOGY CO.,LTD.","7006 Caitian Rd., Futian Dist.  Shen Zhen Guang Dong CN 518035 "
-MA-L,6C4907,Intelligent Security Systems (ISS),1480 US Highway 9 North Suite 202 Woodbridge NJ US 07095 
 MA-L,4CB1CD,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
+MA-L,4C7A48,Nippon Seiki (Europe) B.V.,Antareslaan 27 Hoofddorp  NL 2132 
+MA-L,E8D0B9,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15840,6 +15841,8 @@ MA-L,0050C7,Private,
 MA-L,847637,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,F0E4A2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,083A88,"Universal Global Scientific Industrial Co., Ltd.","141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261 "
+MA-L,ECFA5C,"Beijing Xiaomi Electronics Co., Ltd.","Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085 "
+MA-L,0C20D3,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -21109,6 +21112,7 @@ MA-L,002067,Private,
 MA-L,38FB14,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,2446C8,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,F8B46A,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
+MA-L,1802AE,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -23564,7 +23568,6 @@ MA-L,000B51,Micetek International Inc.,"7F-1, #237, Sec. 1, wu Chuan W. Rd. Taic
 MA-L,000B54,"BiTMICRO Networks, Inc.",47929 Fremont Blvd Fremont CA US 94538 
 MA-L,000B45,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,000B4C,Clarion (M) Sdn Bhd,Phase 3 Bayan Lepas Penang MY 11900 
-MA-L,000B40,Oclaro,2560 Junction Avenue San Jose New Jersey US 95134 
 MA-L,000B32,"VORMETRIC, INC.",2060 CORPORATE CT SAN JOSE CA US 95131 
 MA-L,000B39,"Keisoku Giken Co.,Ltd.",Tsuzuki-ku Yokohama Kanagawa JP 224-0037 
 MA-L,000B3E,"BittWare, Inc",31 B South Main St Concord NH US 03301 
@@ -26385,4 +26388,6 @@ MA-L,44D791,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,9017C8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D0D003,"Samsung Electronics Co.,LTD","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,8CF112,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,000B40,Cambridge Industries Group (CIG),2560 Junction Avenue San Jose New Jersey US 95134 
 MA-L,68DBF5,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,B899AE,"Shenzhen MiaoMing  Intelligent Technology Co.,Ltd","Chudong science and technology park, 111 shaxin road, tangxia town, dongguan city guangdong province CN 523710 "
