@@ -527,8 +527,8 @@ MA-M,2415106,SHANDONG KEHUI POWER AUTOMATION CO. LTD.," No. 16,Sanying Road Zibo
 MA-M,241510C,"Shenzhen Xtooltech Co., Ltd","10574 Acacia St, Suite D4 Rancho Cucamonga CA US 91730 "
 MA-M,241510E,"Satellite Link Technology CO.,LTD","1305 ,SED science and technology Building,No.1 science and technology road,Nanshan District Shenzhen Guangdong CN 518057 "
 MA-M,208593D,"Shanghai Kenmyond Industrial Network Equipment Co.,Ltd","15/F,NO3003,Baoyang Road,Baoshan District Shanghai Shanghai CN 201201 "
-MA-M,208593A,"H3 Industries, Inc.",12758 W Deep Canyon Dr. Star ID US 83669 
 MA-M,2085935,Wave-In Communication,"8F, No.322, Sec. 1, Neihu Rd., Neihu Dist. Taipei City  TW 114 "
+MA-M,208593A,"H3 Industries, Inc.",12758 W Deep Canyon Dr. Star ID US 83669 
 MA-M,208593B,IOG Products LLC,9737 LURLINE AVENUE CHATSWORTH CA US 91311 
 MA-M,1C8776C,Strone Technology,13 Ellis Street South Yarra Victoria AU 3141 
 MA-M,1C87795,BEIDIAN  GROUP,A2 501 Jingang Road Pudong Jinqiao Shanghai Shanghai Shanghai CN 200126 
@@ -1598,6 +1598,7 @@ MA-M,7419F8F,Private,
 MA-M,DC4427F,Private,
 MA-M,1C21D1F,Private,
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
+MA-M,2085932,"Mid Continent Controls, Inc.",901 North River Street Derby KS US 67037 
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -1850,7 +1851,6 @@ MA-M,A4580F8,AIR LIQUIDE MEDICAL SYSTEMS,
 MA-M,40ED98C,"BloomSky,Inc.",723 N Shoreline Blvd. Mountain view CA US 94043 
 MA-M,40ED98E,BORDA TECHNOLOGY,ITU ARI TEKNOKENT ARI 3 NO 504 ISTANBUL  TR 34369 
 MA-M,34049E6,"Life Interface Co., Ltd.",2-1-16 Minato Tokyo JP 1050013 
-MA-M,34049E1,Connected IO Inc.,573 University Ave Los Gatos CA US 95032 
 MA-M,34049EB,"Eginity, Inc.",37 N Orange Ave STE 770 Orlando  US 32801 
 MA-M,34049E5,"Seeiner Technology Co.,LTD","floor 6,Building 14,No.1008 Xiangwang street,Hangzhou City,Zhejiang province hangzhou  CN 311121 "
 MA-M,50A4D09,OEM PRODUCTION INC.,1461-3 San Mateo Ave. South San Francisco CA US 94080 
@@ -2117,6 +2117,7 @@ MA-M,74F8DBF,Private,
 MA-M,BC6641F,Private,
 MA-M,2415109,Topgolf Sweden AB,Svärdvägen 11 Danderyd Stockholm SE 182 33 
 MA-M,2085934,Kloudspot Inc,1285 Oakmead Parkway Sunnyvale  US 94085 
+MA-M,34049E1,Connected IO,573 University Ave Los Gatos CA US 95032 
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
