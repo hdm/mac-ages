@@ -657,6 +657,9 @@ MA-S,001BC500A,Mercury HMI Ltd,George House Malton North Yorkshire GB Y017 6YB
 MA-S,001BC5010,Softel SA de CV,Camino a Santa Teresa  Tlalpan  MX 14010 
 MA-S,001BC500C,"Quantum Technology Sciences, Inc.","1980 N. Atlantic Ave., Suite 930 Cocoa Beach FL US 32931 "
 MA-S,001BC5009,Solomon Systech Pte Ltd,"3 Bishan Place,   SG 579838 "
+MA-S,70B3D5043,cal4care Pte Ltd,118 Aljunied AVE 2 SINGAPORE SINGAPORE SG 380118 
+MA-S,70B3D5537,Biennebi s.r.l.,Via Santi 23 Bione Brescia IT 25070 
+MA-S,70B3D53D0,"ORtek Technology, Inc.","13F, no.150, Jian-Yi Rd., ZhongHe Dist. New Taipei City Taiwan TW 23511 "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1422,7 +1425,6 @@ MA-S,70B3D545B,KOMZ - IZMERENIYA,Pravobulachnaya 35/2 Kazan  RU 420111
 MA-S,70B3D5B38,GoTrustID Inc.,"800 N. State Street, Suite 402, Dover County of Kent DE US 19901 "
 MA-S,70B3D5E0C,Communication Systems Solutions,6030 S. 58th Street Lincoln NE US 68516 
 MA-S,70B3D5591,Private,
-MA-S,70B3D5279,Private,
 MA-S,70B3D5376,Private,
 MA-S,001BC5015,Corporate Systems Engineering ,1215 Brookville Way Indianapolis  IN US 46239 
 MA-S,70B3D515B,"Armstrong International, Inc.",816 Maple Street Three Rivers MI US 49093 
@@ -1982,6 +1984,9 @@ MA-S,001BC500D,"Advanced Scientific Concepts, Inc.",135 E. Ortega Street Santa B
 MA-S,001BC5014,Private,
 MA-S,001BC5004,Intellvisions Software Ltd,"303, Steel House, 24 Mahal Indl Estate Mumbai Maharashtra IN 400093 "
 MA-S,001BC5001,"OpenRB.com, Direct SIA",E. Birznieka-Upisha Riga  LV LV-1050 
+MA-S,70B3D5053,"YAMAKATSU ELECTRONICS INDUSTRY CO., LTD.","1-37-23, Suenaga, Takatsu Kawasaki-City Kanagawa JP 213-0013 "
+MA-S,70B3D5206,ard sa,Micropolis Bat Clematis Gap France FR 05000 
+MA-S,70B3D5279,"Medicomp, Inc",600 Atlantis Rd Melbourne FL US 32904 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -2646,6 +2651,7 @@ MA-S,001BC5002,GORAMO - Janusz Gorecki,ul. Szancowa 82   PL PL 01-458
 MA-S,001BC500F,Simavita Pty Ltd,492 St Kilda Road Melbourne Victoria AU 3004 
 MA-S,001BC5008,Dalaj Electro-Telecom,"1st Floor, Confidence Insurance Building Akure Ondo NG 2341 "
 MA-S,70B3D5539,Tempris GmbH,Industriestr. 7 Holzkirchen  DE 83607 
+MA-S,70B3D5057,RCH ITALIA SPA ,VIA CENDON 39 SILEA  TREVISO  IT 31057 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -3316,3 +3322,4 @@ MA-S,001BC5007,Energy Aware Technology,Suite 515 Vancouver BC CA V6A3X3
 MA-S,001BC500B,Private,
 MA-S,70B3D555F,Deep BV,Johan van Hasseltweg 39d Amsterdam  NL 1021KN 
 MA-S,70B3D56E3,"SHEN ZHEN QLS ELECTRONIC TECHNOLOGY CO.,LTD.","Room A1502, NiuLanQian Building, MinZhi Road, LongHua Town ShenZhen GuangDong CN 518109 "
+MA-S,70B3D51EB,Xavant,"309 Derdepoort Rylaan, Silverton Pretoria Gauteng ZA 0181 "
