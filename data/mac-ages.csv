@@ -240,6 +240,7 @@
 70b3d5ec8000/36,2017-01-22,wireshark.org
 70b3d5ec7000/36,2017-06-25,wireshark.org
 70b3d5ec6000/36,2014-10-05,wireshark.org
+70b3d5ec4000/36,2019-07-18,ieee-oui36.csv
 70b3d5ec3000/36,2018-09-07,wireshark.org
 70b3d5ec1000/36,2014-06-29,wireshark.org
 70b3d5ebe000/36,2017-01-08,wireshark.org
@@ -10544,6 +10545,8 @@ a019b2000000/28,2018-03-11,wireshark.org
 141fba000000/28,2015-10-16,wireshark.org
 10dcb6d00000/28,2019-07-16,ieee-mam.csv
 10dcb6c00000/28,2019-07-17,ieee-mam.csv
+10dcb6b00000/28,2019-07-18,ieee-mam.csv
+10dcb6a00000/28,2019-07-18,ieee-mam.csv
 10dcb6300000/28,2019-07-13,ieee-mam.csv
 10dcb6000000/28,2019-07-17,ieee-mam.csv
 100723f00000/28,2015-10-16,wireshark.org
