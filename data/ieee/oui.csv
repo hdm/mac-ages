@@ -5412,6 +5412,7 @@ MA-L,54A493,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,040E3C,HP Inc.,10300 Energy Dr Spring TX US 77389 
 MA-L,185A58,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,04D16E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,C43A35,FN-LINK TECHNOLOGY LIMITED,"A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District SHENZHEN GUANGDONG CN 518100 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13267,7 +13268,6 @@ MA-L,784405,"FUJITU(HONG KONG) ELECTRONIC Co.,LTD.","8/F,QingHai Building,Xiang 
 MA-L,E804F3,"Throughtek Co., Ltd.","4F, no. 221, Chong-yang Rd. Taipei  TW 11573 "
 MA-L,0868EA,"EITO ELECTRONICS CO., LTD.",1-34-1 Shinmeidai Hamura-shi Tokyo JP 205-0023 
 MA-L,803FD6,bytes at work AG,Konradstrasse 15 Winterthur ZH CH 8400 
-MA-L,E0AAB0,GENERAL VISION ELECTRONICS CO. LTD.,"ROOM 528 5 Floor , MINLE BUILDING 117-13 , OLD MINLE Village ,MINZI STREET , LONGHUA NEW ZONE SHENZHEN Guangdong CN 518040 "
 MA-L,20C1AF,"i Wit Digital Co., Limited","303,Buiding1,Nanhai Ecool Innovation Park, Shenzhen GuangDong US 518000 "
 MA-L,EC42F0,"ADL Embedded Solutions, Inc.",4411 Morena Blvd. San Diego CA US 92117 
 MA-L,502ECE,"Asahi Electronics Co.,Ltd",29-25 Kariyado  Kanagawa-ken JP 211-0022 
@@ -13354,7 +13354,6 @@ MA-L,BCA4E1,Nabto,Aabogade 15 Aarhus Jutland DK 8200
 MA-L,2818FD,Aditya Infotech Ltd.,"Khemka Square, A-12, Sector-4, Noida Uttar Pradesh IN 201301 "
 MA-L,0C7523,"BEIJING GEHUA CATV NETWORK CO.,LTD","No.35,N.Huayuan RD.,Haidian District BEIJING  CN 100083 "
 MA-L,B08E1A,"URadio Systems Co., Ltd","Phase II D202-2, 1355 JinJiHu Blvd Suzhou Jiangsu CN 215021 "
-MA-L,645299,"The Chamberlain Group, Inc",845 N Larch Ave Elmhurst Illinois US 60126 
 MA-L,D8B90E,"Triple Domain Vision Co.,Ltd.","No.9, Aly. 1, Ln. 585, Sec.3, Fulin Rd., Hsinchu Conuty  TW 307 "
 MA-L,34D09B,MobilMAX Technology Inc.,"2F-5, No.28, Tai-Yuan St. Chupei City, Hsinchu Country  TW 302 "
 MA-L,506441,Greenlee,219 S Main St Dallas TX US 76104 
@@ -16004,6 +16003,8 @@ MA-L,F0264C,Sigrist-Photometer AG,Hofurlistrasse 1 Ennetbürgen  CH 6373
 MA-L,E0D083,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,D80B9A,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,AC8D34,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,E0AAB0,"Suntaii Enterprise Co., Ltd.","No. 6 ALY 3,LN 64 XINGFU RD, XINZHUNAG DISTRICT NEW TAIPEI CITY  TW 242 "
+MA-L,645299,"The Chamberlain Group, Inc",300 Windsor Drive Oak Brook IL US 60523 
 MA-L,D03D52,Vaion Limited,"The Charter Building, Charter Place Uxbridge  GB UB8 1JG  "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -26666,3 +26667,4 @@ MA-L,F4E5F2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,541310,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,8CE5EF,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E4AAEA,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
+MA-L,5CB13E,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
