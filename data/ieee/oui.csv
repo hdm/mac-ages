@@ -5442,14 +5442,16 @@ MA-L,383FB3,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville
 MA-L,70CE8C,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,7817BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,F072EA,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
-MA-L,B87BC5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,4070F5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,B035B5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,800C67,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,90812A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,1C1E38,"PCCW Global, Inc.",475 Spring Park Pl Suite 100 Herndon VA 20170 Herndon WA US 20170 
-MA-L,90FD73,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,88ACC0,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
+MA-L,90FD73,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,B87BC5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,4070F5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,F05136,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
+MA-L,1C1E38,"PCCW Global, Inc.",475 Spring Park Pl Suite 100 Herndon VA 20170 Herndon WA US 20170 
+MA-L,105932,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -10734,13 +10736,17 @@ MA-L,4CF55B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E83F67,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,3446EC,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,643139,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,40A6B7,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,A44BD5,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
+MA-L,64956C,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
 MA-L,14876A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E0B55F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F8FFC2,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E0EB40,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,A44BD5,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
-MA-L,64956C,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
+MA-L,40A6B7,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,64694E,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,F83331,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,B4ECF2,"Shanghai Listent Medical Tech Co., Ltd.",No. 668 Qingdai Road Pudong District Shanghai Shanghai CN 201318 
+MA-L,C4954D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -16126,14 +16132,17 @@ MA-L,08CC27,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart 
 MA-L,6C310E,"Cisco Systems, Inc",80 West Tasman Dr. San Jose CA US 94568 
 MA-L,2877F1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,74428B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,A8E77D,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,DC543D,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,04D395,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,E09806,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,F4CFA2,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,6C410E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,149138,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,50C6AD,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,0C8447,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,9C6B72,Realme Chongqing MobileTelecommunications Corp Ltd,"No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing. Chongqing China CN 401120 "
+MA-L,149138,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,6C410E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,748A28,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -21485,6 +21494,7 @@ MA-L,7CA1AE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,3C22FB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,58EAFC,ELL-IoT Inc,32 Journey Aliso Viejo CA US 92656 
 MA-L,9013DA,Athom B.V.,Rigtersbleek-Zandvoort 10 Enschede  NL 7521BE  
+MA-L,10082C,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -26874,3 +26884,4 @@ MA-L,84C5A6,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,F07807,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,38144E,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,E0CCF8,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
+MA-L,98524A,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
