@@ -5460,13 +5460,14 @@ MA-L,0045E2,CyberTAN Technology Inc.,"99 Park Ave III, Hsinchu Science Park Hsin
 MA-L,006967,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,F86FDE,"Shenzhen Goodix Technology Co.,Ltd."," F13,Phase B,Tengfei Industrial Building,Futian Free Trade Zone,Shenzhen,China Shenzhen Guangdong CN 518045 "
 MA-L,98DF82,"Hangzhou Hikvision Digital Technology Co.,Ltd.","No.555 Qianmo Road, Binjiang District Hangzhou Zhejiang CN 310052 "
-MA-L,043F72,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
-MA-L,0CE4A0,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,BC1AE4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,740AE1,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,B4A898,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,646624,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,B0F530,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
+MA-L,740AE1,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,B4A898,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,0CE4A0,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,BC1AE4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,043F72,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
+MA-L,1C4D66,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -10767,9 +10768,10 @@ MA-L,C4954D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,C49878,"SHANGHAI MOAAN INTELLIGENT TECHNOLOGY CO.,LTD","BLOCK B, 4TH FLOOR, BUILDING 2, NO. 401 CAOBAO ROAD, XUHUI DISTRICT, SHANGHAI SHANGHAI  CN 200030 "
 MA-L,18E777,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,6C639C,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
-MA-L,0C8E29,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,5C2AEF,  r2p Asia-Pacific Pty Ltd,65 Epping Road Sydney NSW AU 2113 
+MA-L,A4BB6D,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,6C06D6,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,0C8E29,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,A0224E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -21534,13 +21536,13 @@ MA-L,A03C31,"Shenzhen Belon Technology CO.,LTD",Tsinghua Information Shenzhen Gu
 MA-L,E82E0C,NETINT Technologies Inc.,"#306, 3500 Gilmore Way Burnaby BC CA V5G0B8 "
 MA-L,1892A4,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,10082C,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,0022A0,"APTIV SERVICES US, LLC",5725 Innovation Drive Troy MI US 48098 
-MA-L,404C77,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
-MA-L,A897CD,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,B0735D,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,F0B4D2,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,5C3A45,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
+MA-L,404C77,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,A897CD,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,2CE310,Stratacache,"40 N Main St, Suite 2600 Dayton OH US 45423 "
+MA-L,0022A0,"APTIV SERVICES US, LLC",5725 Innovation Drive Troy MI US 48098 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -22258,7 +22260,6 @@ MA-L,CC2237,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,38D620,Limidea Concept Pte. Ltd.,"101 Cecil Street #09-07, Tong Eng Building Singapore Singapore SG 069533 "
 MA-L,74F91A,Onface,"#1408, Mario Tower, 30Gil-28, Digital-ro, Guro-gu Seoul  KR 08389 "
 MA-L,A434F1,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,8CE38E,Toshiba Memory Corporation,"1-1, Shibaura 1-chome Minato-ku Tokyo JP 105-8001 "
 MA-L,186024,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
 MA-L,BC3D85,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,2054FA,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -26946,3 +26947,5 @@ MA-L,E82689,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa 
 MA-L,20F375,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,84BB69,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,105FD4,Tendyron Corporation,"Tendyron Building,Zhongguancun NO.1 Park,Beiqing Road,Haidian District,Beijing,China Beijing  CN 100000 "
+MA-L,A0B439,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,8CE38E,Kioxia Corporation,"1-21, Shibaura 3-chome Minato-ku Tokyo JP 108-0023 "
