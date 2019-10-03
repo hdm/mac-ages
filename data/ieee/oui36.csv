@@ -225,7 +225,6 @@ MA-S,70B3D5716,Lode BV,Zernikepark 16 Groningen  NL 9747 AN
 MA-S,70B3D561D,Telonic Berkeley Inc,1080 La Mirada Ct. Vista CA US 92081 
 MA-S,70B3D5D93,PAMIR Inc,"B-222, 606, Seobusaet-gil, Geumcheon-gu Seoul  KR 08504 "
 MA-S,70B3D5CAB,"NOTICE Co., Ltd.","A-1307/8, Keumkang Penterium IT Tower, 282, Hagui-ro Anyang Gyeonggi-do KR 14056 "
-MA-S,70B3D54FC,Mettler Toledo,6005 Benjamin Road Tampa FL US 33634 
 MA-S,70B3D5D6B,Uwinloc,57 Avenue Jean Monnet Colomiers  FR 31770 
 MA-S,70B3D55F3,Rtone,120 rue de Saint cyr Lyon  FR 69009 
 MA-S,70B3D5608,EIIT SA,Camino Robledo de Chavela 9B Valdemorillo Madrid / Madrid ES 28210 
@@ -685,6 +684,7 @@ MA-S,70B3D5A05,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70
 MA-S,70B3D5ED8,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D5082,"Sakura Seiki Co.,Ltd.","75-5, Imojiya Chikuma-city Nagano Prefecture JP 387-0015 "
 MA-S,70B3D5E6F,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-S,70B3D54FC,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1389,7 +1389,9 @@ MA-S,70B3D59D4,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70
 MA-S,70B3D5F97,Typhon Treatment Systems Ltd,"Unit 10, Newton Gate Industrial Estate Penrith Cumbria GB CA11 0BF "
 MA-S,70B3D5C44,Franz Kessler GmbH,Franz-Kessler-Str. 2 Bad Buchau Baden-Wuerttemberg DE 88422 
 MA-S,70B3D597B,WIKA Alexander Wiegand SE & Co. KG,Alexander-Wiegand-Strasse 30 Klingenberg  DE 63911 
+MA-S,70B3D5310,Conserv Solutions,2222 2nd Ave N. Suite 204 Birmingham AL US 35203 
 MA-S,70B3D503E,"Guan Show Technologe Co., Ltd.","No.127, Jianguo 1st Rd., Lingya Dist.  Kaohsiung City   TW 802 "
+MA-S,70B3D5DA9,RCH Vietnam Limited Liability Company,"Workshop F.01B-2, Lot No. F.01B Long Hau Ho Chi Minh City Ho Chi Minh VN 70000 "
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -1543,7 +1545,6 @@ MA-S,70B3D5985,Burk Technology,7 Beaver Brook road Littleton MA US 01460
 MA-S,70B3D5B1E,Fen Systems Ltd,110 Cromwell Road Cambridge  GB CB1 3EG 
 MA-S,70B3D5B7F,JSK System,"Wiośniana, 30/32 Łódź  PL 93-228 "
 MA-S,70B3D5DC8,Enertex Bayern GmbH,Ebermannstädter Str. 8 Forchheim Bayern DE 91301 
-MA-S,70B3D5D64,Mettler Toledo Hi Speed,5 Barr Road Ithaca NY US 14850 
 MA-S,70B3D5CE2,Centero,1640 Powers Ferry Road Bldg.14-360 Marietta GA US 30067 
 MA-S,70B3D5073,Liteon Technology Corporation,"8F, 866, Chung-Cheng Road, Chung Ho New Taipei City Taiwan TW 23585 "
 MA-S,70B3D5240,Orlaco Products B.V.,Albert Plesmanstraat 42 Barneveld  NL 3772MN 
@@ -1620,7 +1621,6 @@ MA-S,70B3D5C6C,McQ Inc,1551 FORBES ST Fredericksburg VA US 22405
 MA-S,70B3D595C,Wilson Electronics,3301 E. Deseret Dr. Saint George UT US 84790 
 MA-S,70B3D5940,Paradigm Technology Services B.V.,Ambachtsweg 7 Groot-Ammers  NL 2964LG 
 MA-S,70B3D5760,QUALITTEQ LLC,16th Parkovaya 26/1 Moscow  RU 105484 
-MA-S,70B3D574A,Mettler Toledo Hi Speed,5 Barr Road Ithaca NY US 14850 
 MA-S,70B3D5705,Digital Matter Pty Ltd,9/100 Railway Rd Subiaco WA AU 6008 
 MA-S,70B3D52BD,mg-sensor GmbH,Airport Boulevard B 210 Rheinmuenster  DE 77836 
 MA-S,70B3D59B5,Ideetron b.v.,Dorpsstraat 81 Doorn Utrecht NL 3941JL 
@@ -2077,6 +2077,10 @@ MA-S,70B3D5AB6,SmartD Technologies Inc,400 Montfort Montreal Qc CA H3C4J9
 MA-S,70B3D52BA,Active Brains,Yokohama Dia BLDG 8F 1-7 Kinkocho Kanagawa-ku Yokohama Kanagawa JP 221-0056 
 MA-S,70B3D512A,Elvys s.r.o,Polska 9 Kosice  SK 04011 
 MA-S,70B3D5EE2,MONTRADE SPA,Via Armando Sarti 6 Bologna  IT 40132 
+MA-S,70B3D58B8,GDI Technology Inc ,12400 SW 134 Ct #14 Miami FL US 33186 
+MA-S,70B3D5D64,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
+MA-S,70B3D574A,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
+MA-S,70B3D584F,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -2303,7 +2307,6 @@ MA-S,70B3D5877,Polynet Telecommunications Consulting and Contractor Ltd.,Montevi
 MA-S,70B3D5999,LOGICUBE INC,19755 Nordhoff Place Chatsworth CA US 91311 
 MA-S,70B3D5153,Schneider Electric Motion USA,370 N. Main St. Marlborough CT US 06447 
 MA-S,70B3D524B,TOSEI ENGINEERING CORP.," 4-6, Higashi-Nakanuki-machi Tsuchiura-city Ibaraki JP 300-0006 "
-MA-S,70B3D5BB2,Mettler Toledo Hi Speed,5 Barr Rd Ithaca NY US 14850 
 MA-S,70B3D52CD,Korea Airports Corporation,78 Haneul-gil Gangseo-gu SEOUL  KR 07505 
 MA-S,70B3D5D22,DEK Technologies,cnr Riggall Street and Maldon Street Broadmeadows Victoria AU 3047 
 MA-S,70B3D5A3F,PHPower Srl,Via Borgonuovo 27 Milano MI IT 20121 
@@ -2399,7 +2402,6 @@ MA-S,70B3D51D4,Brinkmann Audio GmbH,Im Himmelreich 13 Achberg  DE 88147
 MA-S,70B3D586E,Profcon AB,Victor Hasselblads gata 9 Västra Frölunda  SE 42131 
 MA-S,70B3D5222,Marioff Corporation Oy,Äyritie 24 Vantaa  FI 01510 
 MA-S,70B3D55BC,LAMTEC Meß- und Regeltechnik für Feuerungen GmbH & Co. KG,Wiesenstraße 6 Walldorf Baden Württemberg DE 69190 
-MA-S,70B3D527E,Mettler Toledo Hi Speed,5 Barr Road Ithaca NY US 14850 
 MA-S,70B3D5CF5,Petring Energietechnik GmbH,Paderborner Str.76 Schlangen Deutschland DE 33189 
 MA-S,70B3D521D,"iRF - Intelligent RF Solutions, LLC","14600 York Road, Suite B Sparks MD US 21152 "
 MA-S,70B3D5269,Gilbarco Veeder-Root  ‎,"Level 1, 20 Highgate Street Auburn NSW AU 2144 "
@@ -2772,6 +2774,8 @@ MA-S,70B3D526A,Talleres de Escoriaza SA,"Barrio Ventas, 35 Irun Gipuzkoa ES 2030
 MA-S,70B3D5B12,SFR,12 rue jean-philippe Rameau CS 80001 La plaine saint denis  FRANCE FR 93634 
 MA-S,70B3D5843,"OOO Research and Production Center ""Computer Technologies""","Komsomolsky avenue, 90-17 Perm Perm Region RU 614010 "
 MA-S,70B3D574B,Code Blue Corporation,259 Hedcor St. Holland MI US 49423 
+MA-S,70B3D5BB2,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
+MA-S,70B3D527E,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 

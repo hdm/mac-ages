@@ -5468,6 +5468,8 @@ MA-L,0CE4A0,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,BC1AE4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,043F72,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
 MA-L,1C4D66,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,984914,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,502CC6,"GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI","Jinji West Road, Qianshan, Zhuhai Guangdong CN 519070 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -10773,6 +10775,7 @@ MA-L,A4BB6D,Dell Inc.,One Dell Way Round Rock TX US 78682
 MA-L,6C06D6,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,0C8E29,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,A0224E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,3027CF,Private,
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -16174,11 +16177,13 @@ MA-L,ECA940,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,FC8596,Axonne Inc.,1290 Kifer Rd. #301 Sunnyvale CA US 94086 
 MA-L,5CB4E2,Inspur Software Group Ltd.,"No. 1036, Langchao Road Jinan Shandong CN 250101 "
 MA-L,3C510E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,D8AED0,"Shanghai Engineering Science & Technology Co.,LTD CGNPC","No.1588, Rd Zixing Shanghai Shanghai CN 200241 "
 MA-L,E0859A,"SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.","Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District, Shenzhen Guangdong CN 518000 "
 MA-L,0C42A1,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
-MA-L,D8AED0,"Shanghai Engineering Science & Technology Co.,LTD CGNPC","No.1588, Rd Zixing Shanghai Shanghai CN 200241 "
 MA-L,B47AF1,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,349F7B,CANON INC.,"30-2 Shimomaruko 3-chome, Ohta-ku Tokyo JP 146-8501 "
+MA-L,CC5D78,JTD Consulting,"92 King Street South, Suite 200 Waterloo Ontario CA N2J 1P5 "
+MA-L,CC5289,"SHENZHEN OPTFOCUS TECHNOLOGY.,LTD","Floor 3, Building No.7,Tangtou 3rd Industrial Park,Shiyan Street of BaoAn District ShenZhen  CN 518000 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -21543,6 +21548,7 @@ MA-L,404C77,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,A897CD,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,2CE310,Stratacache,"40 N Main St, Suite 2600 Dayton OH US 45423 "
 MA-L,0022A0,"APTIV SERVICES US, LLC",5725 Innovation Drive Troy MI US 48098 
+MA-L,FC8E5B,China Mobile Iot Limited company,"No. 8 Yangliu North Road, Yubei District, Chongqing, China Chong Qing Chong Qing CN 401120 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -26949,3 +26955,5 @@ MA-L,84BB69,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,105FD4,Tendyron Corporation,"Tendyron Building,Zhongguancun NO.1 Park,Beiqing Road,Haidian District,Beijing,China Beijing  CN 100000 "
 MA-L,A0B439,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,8CE38E,Kioxia Corporation,"1-21, Shibaura 3-chome Minato-ku Tokyo JP 108-0023 "
+MA-L,A4B439,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,E81B4B,amnimo Inc.,"M21-4, 2-9-32 Nakacho Musashino-shi Tokyo JP 180-8750 "
