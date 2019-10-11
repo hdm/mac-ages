@@ -3996,7 +3996,6 @@ MA-L,0011DB,Land-Cellular Corporation,12054 Miramar Parkway Miramar FL US 33025
 MA-L,001224,NexQL Corporation,12250 Inwood Road #6 Dallas TX US 75244 
 MA-L,0011BD,Bombardier Transportation,1501 Lebanon Church Road Pittsburgh PA US 15236 
 MA-L,0011AA,"Uniclass Technology, Co., LTD","4F, No. 98, Ming chuan Rd Hsintien City Taipei Hsien TW 231 "
-MA-L,00117E,Midmark Corp,675 Heathrow Drive Lincolnshire IL US 60089 
 MA-L,001179,Singular Technology Co. Ltd.,"21F, No.37, Sec.2, San Min Rd., Taipei  TW 220 "
 MA-L,00118A,Viewtran Technology Limited,"3/F, R2-A builiding, High Tech Industrial Park, Shenzhen Guangdong CN 518057 "
 MA-L,001184,"Humo Laboratory,Ltd.",Nishiogi-Kita 5-19-11 Suginami-ku Tokyo JP 167-0042 
@@ -5472,6 +5471,8 @@ MA-L,984914,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park
 MA-L,646624,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,1C4D66,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,0CEE99,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,00117E,Midmark Corp,1001 Asbury Dr Buffalo Grove IL US 60089 
+MA-L,D83BBF,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -8872,7 +8873,6 @@ MA-L,001C2F,Pfister GmbH,Stätzlinger  SStraße 70 Augsburg Bavaria DE 86165
 MA-L,001C27,Sunell Electronics Co.,"3rd Floor,Bldg.514,BaGua Rd ShenZhen Guangdong CN 518029 "
 MA-L,001C0F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,001C48,"WiDeFi, Inc.",1333 Gateway Blvd Melbourne FL US 32901 
-MA-L,001BB0,BHARAT ELECTRONICS,JALAHALLI POST BANGALORE KARNATAKA IN 560013 
 MA-L,001BAD,iControl Incorporated,3235 Kifer Road Santa Clara California US 95051 
 MA-L,001BA7,Lorica Solutions,275 Northpointe Parkway Amherst NY US 14228 
 MA-L,001BA5,"MyungMin Systems, Inc.","#410,Doosan Venture Dime 2-cha,1307-37 Kyungki-do  KR 431-060 "
@@ -10781,6 +10781,8 @@ MA-L,548D5A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,3843E5,Grotech Inc,"19, Ojeongongeop-gil Uiwang-si Gyeonggi-do KR 16072 "
 MA-L,CC593E,Sensium Healthcare Limited,115 MILTON PARK ABINGDON OXFORDSHIRE GB OX14 4SA 
 MA-L,A4B239,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,001BB0,Bharat Electronics Limited,JALAHALLI POST BANGALORE KARNATAKA IN 560013 
+MA-L,00B810,"Yichip Microelectronics (Hangzhou) Co.,Ltd","Room 401, Building 15, No.498 Guoshoujing Road, Pudong Software Park Shanghai  CN 200120 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -16192,6 +16194,9 @@ MA-L,005084,Quantum Corp.,8560 Upland Dr. Englewood CO US 80112
 MA-L,BCF9F2,TEKO,"Prospect Pobedy, 19 Kazan Republic of Tatarstan RU 420138 "
 MA-L,F4D9C6,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,34F150,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
+MA-L,C4B239,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,ACEB51,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
+MA-L,B0A454,Tripwire Inc.,308 SW 2nd Avenue Suite 400 Portland OR US 97204 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -21558,6 +21563,7 @@ MA-L,2CE310,Stratacache,"40 N Main St, Suite 2600 Dayton OH US 45423 "
 MA-L,0022A0,"APTIV SERVICES US, LLC",5725 Innovation Drive Troy MI US 48098 
 MA-L,A4307A,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,FC8E5B,China Mobile Iot Limited company,"No. 8 Yangliu North Road, Yubei District, Chongqing, China Chong Qing Chong Qing CN 401120 "
+MA-L,200A0D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
