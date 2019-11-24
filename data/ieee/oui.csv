@@ -5515,6 +5515,8 @@ MA-L,00DD25,"Shenzhen hechengdong Technology Co., Ltd","302, floor 3, no.90-5, D
 MA-L,8020E1,BVBA DPTechnics,Westkapellestraat 396/44 Knokke-Heist West-Vlaanderen BE 8300 
 MA-L,0445A1,"NIRIT- Xinwei  Telecom Technology Co., Ltd.","2-? ??????????? ??????, ?.12, ???.2 Moscow  RU 115432 "
 MA-L,8C97EA,FREEBOX SAS,16 rue de la Ville l'Eveque PARIS IdF FR 75008 
+MA-L,4C6371,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
+MA-L,5CBAEF,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -16320,15 +16322,18 @@ MA-L,9CFCE8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,342FBD,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,A02D13,AirTies Wireless Networks,"Esentepe Mah., Kore ?ehitleri Cad. Istanbul ?i?li TR 34360 "
 MA-L,8468C8,TOTOLINK TECHNOLOGY INT‘L LIMITED,"ROOM 702,7/F SPA CENTER NO 53055 LOCKHART ROAD  WAN CHAI  HK 999077 "
+MA-L,9C28F7,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
+MA-L,10521C,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,6C42AB,"Subscriber Networks, Inc.",148 W. State Street Kennett Square PA US 19348 
 MA-L,64F6F7,"Anhui Dynamic Power Co., Ltd.","NO.20 Jinniu Mid Road, Xuancheng Anhui CN 242100 "
 MA-L,941C56,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,D80BCB,"Telink Semiconductor (Shanghai) Co., Ltd.","No. 1500 Zuchongzhi Rd, Building #3 Shanghai  CN 201203 "
-MA-L,C0D682,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
-MA-L,80E540,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
-MA-L,CC2D1B,SFR,12 rue jean-philippe Rameau CS 80001 La plaine saint denis  FRANCE FR 93634 
 MA-L,F0F0A4,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
+MA-L,C0D682,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,CC2D1B,SFR,12 rue jean-philippe Rameau CS 80001 La plaine saint denis  FRANCE FR 93634 
+MA-L,80E540,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,000DB4,Stormshield,2-10 rue Marceau ISSY LES MOULINEAUX  FR 92130 
+MA-L,803049,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -21730,6 +21735,7 @@ MA-L,94BE46,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.","No
 MA-L,E0BB9E,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,48D24F,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,E4AAEC,"Tianjin Hualai Technology Co., Ltd","Overseas Chinese business building No. 10, Jinping Road, Nankai District, Tianjin TIANJIN  CN 300190 "
+MA-L,483FDA,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -27171,7 +27177,8 @@ MA-L,786DEB,GE Lighting,1975 Noble Rd East Cleveland OH US 44112
 MA-L,88E9A4,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,2863BD,"APTIV SERVICES US, LLC",5725 Innovation Drive Troy MI US 48098 
 MA-L,1C721D,Dell Inc.,One Dell Way Round Rock TX US 78682 
-MA-L,9C9789,1MORE,"TianliaoBuilding F14, New Materials Industrial Park, Xueyuan Blvd?Nanshan Shenzhen Guangdong CN 518055 "
+MA-L,F41C95,"BEIJING YUNYI TIMES TECHNOLOGY CO,.LTD","Room 2005, 2f, building B, No.1 Kaituo Road, Shangdi Information Industry base, Haidian District BEIJING  CN 100085 "
 MA-L,A0687E,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,A8705D,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,546503,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,9C9789,1MORE,"TianliaoBuilding F14, New Materials Industrial Park, Xueyuan Blvd?Nanshan Shenzhen Guangdong CN 518055 "
