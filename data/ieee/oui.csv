@@ -5577,6 +5577,7 @@ MA-L,4CCE2D,Danlaw Inc,23700 research Dr. Farmington Hills MI US 48335
 MA-L,B87CF2,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,BC0F9A,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,BC5A56,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,30B237,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -16521,7 +16522,6 @@ MA-L,5471DD,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,40F520,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,38F601,Solid State Storage Technology Corporation,"21F, 392, Ruey Kuang Road, Neihu  Taipei  TW 11492 "
 MA-L,605464,Eyedro Green Solutions Inc.,"130 Weber St W, Suite 201 Kitchener Ontario CA N2H4A2 "
-MA-L,C88314,Tempo Communicaitons,1390 Aspen Way Vista CA US 92081 
 MA-L,206C8A,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,348584,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,4018B1,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
@@ -16529,6 +16529,10 @@ MA-L,E4A749,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054
 MA-L,84D6C5,SolarEdge Technologies,1 Abba Eban St. Herzelia  IL 46725 
 MA-L,885BDD,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,B8E3EE,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
+MA-L,D89136,Dover Fueling Solutions,Industrieweg 5 Bladel NBR NL 5531AD 
+MA-L,C88314,Tempo Communications,1390 Aspen Way Vista CA US 92081 
+MA-L,24C8D3,McWane India Pvt Ltd,"483, Kamaraj Road, Upplipalayam Coimbatore Tamil Nadu IN 641015 "
+MA-L,AC7A56,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -20659,7 +20663,6 @@ MA-L,000C0D,Communications & Power Industries / Satcom Division,811 Hansen Way M
 MA-L,000C04,Tecnova,1486 St. Paul Ave. Gurnee Illinois US 60031 
 MA-L,000C01,Abatron AG,Lettenstrasse 9 Rotkreuz  CH CH-6343 
 MA-L,000C39,Sentinel Wireless Inc.,439 S. Union St. South Lawrence MA US 01843 
-MA-L,000C32,Avionic Design Development GmbH,Sthamerstrasse 24a Hamburg  DE 22397 
 MA-L,000C33,Compucase Enterprise Co. Ltd.,"225 Lane 54, An Ho Road, Section 2nd. Tainan City  TW 70942 "
 MA-L,000C36,"SHARP TAKAYA ELECTRONICS INDUSTRY CO.,LTD.",3121-1 Satomi Satosho-cho Asakuchi-gun Okayama JP 719-0301 
 MA-L,000BF6,"Nitgen Co., Ltd","4th FL. 1337-31 Seocho-dong, Seocho-ku Seoul  KR 137-860 "
@@ -22007,6 +22010,8 @@ MA-L,F4EB9F,Ellu Company 2019 SL,Paseo de la Castellana 144 14B Madrid Madrid ES
 MA-L,E898C2,ZETLAB Company,"Savelkinsky passage, 4 Zelenograd Moscow RU 124482 "
 MA-L,5061F6,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,D41AC8,Nippon Printer Engineering,2660 Katsuyama Fujikawaguchiko-town Yamanashi-Pref. JP 401-0310 
+MA-L,000C32,Avionic Design GmbH,Wragekamp 10 Hamburg  DE 22397 
+MA-L,A4B1C1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -27509,13 +27514,14 @@ MA-L,B82FCB,CMS Electracom,24 Binney Road Kings Park NSW AU 2148
 MA-L,6C61F4,SFR,12 rue jean-philippe Rameau CS 80001 La plaine saint denis  FRANCE FR 93634 
 MA-L,00107F,"CRESTRON ELECTRONICS, INC.",15 Volvo Drive Rockleigh NJ US 07647 
 MA-L,001B85,MAN Energy Solutions,Teglholmsgade 41 Copenhagen  DK 2450 
-MA-L,EC6881,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
-MA-L,786D94,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
-MA-L,58493B,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
-MA-L,001B17,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,CCAB2C,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
 MA-L,5859C2,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,787D53,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,7C95B1,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
-MA-L,CCAB2C,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
+MA-L,786D94,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,58493B,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,001B17,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
 MA-L,2443E2,DASAN Network Solutions,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
 MA-L,A86ABB,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,EC6881,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,6C6D09,"Kyowa Electronics Co.,Ltd.",4-3-31 Takatsukasa Takarazuka Hyogo JP 665-0051 

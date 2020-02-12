@@ -1209,6 +1209,7 @@ MA-M,D0C857D,"IFLYTEK CO.,LTD.","National Intelligent Speech High-tech Industria
 MA-M,9405BB6,ZIGPOS GmbH,Räcknitzhöhe 35a Dresden Saxony DE 01217 
 MA-M,9405BBA,SolarEdge Technologies,1 Abba Eban St. Herzelia  IL 46725 
 MA-M,F490CB6,Airbeam Wireless Technologies Inc.,"#125, 21320 Gordon Way Richmond British Columbia CA V6W 1J8 "
+MA-M,F490CBE,RSAE Labs Inc,400 E 16th St Panama City FL US 32405 
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -1802,8 +1803,8 @@ MA-M,9405BBB,"AUSTAR HEARING SCIENCE AND TECHNILIGY(XIAMEN)CO.,LTD","RM201,No.2G
 MA-M,9405BBC,LAO INDUSTRIA LTDA,"AV DR MAURO LINDENBERG MONTEIRO, 1003 OSASCO SÃO PAULO BR 06278010 "
 MA-M,F490CB5,Avilution,103 Shoreline Dr Madison AL US 35758 
 MA-M,F490CB4,OmniNet,6410 Del Rio Rd Charlotte NC US 28277 
-MA-M,F490CB9,Fractyl Labs,17 HARTWELL AVE LEXINGTON MA US 02421 
 MA-M,F490CB0,"Epitel, Inc.","630 S. Stringfellow Ct., Unit #B Salt Lake City UT US 84111 "
+MA-M,F490CB9,Fractyl Labs,17 HARTWELL AVE LEXINGTON MA US 02421 
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -2404,6 +2405,8 @@ MA-M,94CC049,"ENTEC Electric & Electronic Co., LTD.","78-2 Buncheon-ri, Bongdam-
 MA-M,94CC04E,SynchronicIT BV,"Spoorstraat 155, room 413 Gennep Nederland NL 6591 GT "
 MA-M,F490CBD,Simavita (Aust) Pty Ltd,"Suite 2.02, L2, 54 Miller Street North Sydney NSW AU 2060 "
 MA-M,F490CB3,Ricker Lyman Robotic,319 Main Street Beacon NY US 12508 
+MA-M,F490CB8,"Beijing Penslink Co., Ltd.","502,12rd floor,no.2,Fangheng International Center Beijing, Chaoyang district 100102 Beijing Beijing CN 100102 "
+MA-M,F490CBA,Private,
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
@@ -3002,3 +3005,4 @@ MA-M,9405BBD,"Sunthink S&T Development Co.,Ltd","A3-f1, xinghezhong Technology G
 MA-M,9405BB3,Neurik AG,Im alten Riet 143 Schaan SCHAAN LI 9494 
 MA-M,DC44271,"Tesla,Inc.",3500 Deer Creek Road Palo Alto CA US 94304 
 MA-M,F490CB2,ICE Gateway GmbH,Am Studio 2 Berlin Berlin DE 12489 
+MA-M,F490CB1,DELEM BV,LUCHTHAVEN WEG 42 5657 EB EINDHOVEN  NL  
