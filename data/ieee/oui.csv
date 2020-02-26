@@ -1839,8 +1839,6 @@ MA-L,0019C6,zte corporation,"Technology Management Department,  Shenzhen Guangdo
 MA-L,001DD9,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,00197D,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,7C4CA5,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
-MA-L,CC4E24,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,00E052,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,0014A4,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,78DD08,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,9CD21E,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
@@ -1854,8 +1852,6 @@ MA-L,0007D8,Hitron Technologies. Inc,135-220 Hitron B/D 726-5 Seoul  KR 13456
 MA-L,C03E0F,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,904E2B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,2008ED,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,00010F,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,080088,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,0034FE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,C85195,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,40CBA8,"HUAWEI TECHNOLOGIES CO.,LTD","Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate Shenzhen GuangDong CN 518057 "
@@ -5587,8 +5583,16 @@ MA-L,400589,"T-Mobile, USA",3625 132nd Ave SE BELLEVUE WA US 98006
 MA-L,C09BF4,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,F4308B,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,DC6B12,worldcns inc.,"174, Namjo-ro 1-gil, Jocheon-eup Jeju-si Jeju-do KR 63335 "
-MA-L,045FB9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,70039F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,A0DE0F,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,F487C5,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,080088,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,00010F,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,08B055,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
+MA-L,045FB9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,CC4E24,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,00E052,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,7458F3,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -7230,7 +7234,6 @@ MA-L,847778,Cochlear Limited,1 University Avenue Sydney New South Wales AU 2109
 MA-L,887F03,Comper Technology Investment Limited,"Room 710, Wangjing SOHO Tower 1-B Beijing Beijing CN 100102 "
 MA-L,0019E0,"TP-LINK TECHNOLOGIES CO.,LTD.","South Building, No.5 Keyuan Road Nanshan Shenzhen CN 518057 "
 MA-L,002586,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 7, Second Part, Honghualing Industrial Zone Shenzhen Guangdong CN 518057 "
-MA-L,D81FCC,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,F431C3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,64A5C3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,28565A,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
@@ -7244,16 +7247,11 @@ MA-L,5CDAD4,"Murata Manufacturing Co., Ltd.","2288, Oaza-Ohshinohara, Yasu-cho, 
 MA-L,0026E8,"Murata Manufacturing Co., Ltd.","2288, Oaza-Ohshinohara, Yasu-cho, Yasu-gun Shiga JP 520-2393 "
 MA-L,002512,zte corporation,"12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District, Shenzhen GUANGDONG CN 518057 "
 MA-L,001C26,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
-MA-L,0027F8,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,748EF8,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,002438,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,0014C9,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,14E6E4,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24 (floors 1,3,4,5) and 28 (floors1-4)  Central Science and Technology Park,Shennan Rd, Nanshan, Shenzhen Guangdong Province, CN 518057 "
 MA-L,344B50,zte corporation,"12/F,ZTE R&D Building,Kejinan Road, Shenzhen Guangdong CN 518057 "
 MA-L,FCC897,zte corporation,"12/F.,zte R&D building,kejinan Road, shenzhen guangdong CN 518057 "
 MA-L,0016CE,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,002268,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
-MA-L,50EB1A,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,001882,"HUAWEI TECHNOLOGIES CO.,LTD","F1-20,Section F,Huawei Base,Bantian, Longgang District ShenZhen GuangDong CN 518129 "
 MA-L,D4EA0E,Avaya Inc,360 Mt Kemble Ave Morristown NJ US 07960 
 MA-L,6CFA58,Avaya Inc,360 Mt Kemble Ave Morristown NJ US 07960 
@@ -11033,6 +11031,13 @@ MA-L,488F5A,Routerboard.com,Mikrotikls SIA Riga Riga LV LV1009
 MA-L,100645,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,C489ED,Solid Optics EU N.V.,De Huchtstraat 35 Almere Flevoland NL 1327 EC 
 MA-L,58A87B,"Fitbit, Inc.","199 Fremont Street, 14th Fl San Francisco CA US 94105 "
+MA-L,60F43A,Edifier International,"Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway Hong Kong  CN 070 "
+MA-L,0014C9,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,002438,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,748EF8,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,0027F8,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,50EB1A,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,D81FCC,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12825,11 +12830,8 @@ MA-L,0026ED,zte corporation,"12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial P
 MA-L,006057,"Murata Manufacturing Co., Ltd.",1-18-1 HAKUSAN MIDORI-KU YOKOHAMA  226  JP 12345 
 MA-L,783E53,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,0019FB,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
-MA-L,C4F57C,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,14B968,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,5CF96A,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,0012F2,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,00051E,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,083E8E,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,002293,zte corporation,"12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District, Shenzhen GUANGDONG CN 518057 "
 MA-L,10A5D0,"Murata Manufacturing Co., Ltd.","1-10-1,Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
@@ -16564,11 +16566,17 @@ MA-L,40B31E,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 
 MA-L,884033,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E0F6B5,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,AC7A56,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,C0A66D,"Inspur Group Co., Ltd.",No.1036 Langchao Rd. Jinan Shandong CN 250101 
-MA-L,70F096,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,448DBF,Rhino Mobility LLC,"8 The Green, Suite A Dover DE US 19901 "
 MA-L,948AC6,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,C0A66D,"Inspur Group Co., Ltd.",No.1036 Langchao Rd. Jinan Shandong CN 250101 
+MA-L,70F096,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0020A6,Proxim Wireless,2114 Ringwood Ave San Jose CA US 95131 
+MA-L,00051E,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,0012F2,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,C4F57C,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,E0D462,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,909838,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,5850ED,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -18234,11 +18242,6 @@ MA-L,940C6D,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 7, Second Part, Honghualin
 MA-L,A4516F,Microsoft Mobile Oy,Keilalahdentie 4 Espoo  FI 02150 
 MA-L,542758,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.","No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan Wuhan Hubei CN 430000 "
 MA-L,00242B,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
-MA-L,000480,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,000CDB,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,001BED,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,000533,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,006069,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,08181A,zte corporation,"12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District, Shenzhen GUANGDONG CN 518057 "
 MA-L,001E73,zte corporation,"12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District, Shenzhen GUANGDONG CN 518057 "
 MA-L,0015EB,zte corporation,"5/F,A Wing,ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District Shenzhen  US 518057 "
@@ -18259,8 +18262,6 @@ MA-L,EC26CA,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24 (floors 1,3,4,5) and 
 MA-L,9471AC,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,2C088C,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
 MA-L,1C994C,"Murata Manufacturing Co., Ltd.",1-10-1 Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 
-MA-L,0060DF,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,000088,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,F4559C,"HUAWEI TECHNOLOGIES CO.,LTD","Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District  Shenzhen Guangdong CN 518057 "
 MA-L,80B686,"HUAWEI TECHNOLOGIES CO.,LTD","Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District  Shenzhen Guangdong CN 518057 "
 MA-L,10C61F,"HUAWEI TECHNOLOGIES CO.,LTD","Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District  Shenzhen Guangdong CN 518057 "
@@ -18521,7 +18522,6 @@ MA-L,800184,HTC Corporation,"No. 23, Xinghua Rd., Taoyuan City Taoyuan County Ta
 MA-L,44C69B,"Wuhan Feng Tian Information Network CO.,LTD","Room 1002,10th Floor,Oversea talent Building A, Wuhan City Hubei Province CN 430074 "
 MA-L,FCE33C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,C02567,Nexxt Solutions,3505 NW 107TH AVENUE MIAMI FLORIDA US 33178 
-MA-L,609C9F,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,A8827F,"CIBN Oriental Network(Beijing) CO.,Ltd","Floor 18B,Block B(International Resources Building),No.18B(Wanda Plaza),Shijingshan Road,Shijingshan,Beijing(100043) Beijing Beijing CN 100043 "
 MA-L,D048F3,DATTUS Inc,3000 Kent Ave W Lafayette IN US 47906 
 MA-L,B8C3BF,Henan Chengshi NetWork Technology Co.，Ltd,Ruhe Road South，Kunlun Road West，Zhongyuan District，Zhengzhou，Henan，P.R.China，450007 Zhengzhou Henan CN 450007 
@@ -22055,6 +22055,17 @@ MA-L,0C817D,EEP Elektro-Elektronik Pranjic GmbH,Am Luftschacht 21 Gelsenkirchen 
 MA-L,04F5F4,Proxim Wireless,2114 Ringwood Ave San Jose CA US 95131 
 MA-L,C8BCE5,Sense Things Japan INC.,"3-5-7 Kawaramachi,Chuo-ku Osaka  JP 541-0048 "
 MA-L,E8B470,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,609C9F,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,000088,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,0060DF,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,006069,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,000533,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,001BED,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,000CDB,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,000480,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,B04502,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,1C1FF1,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,14DE39,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -22783,7 +22794,6 @@ MA-L,B8EE0E,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Ced
 MA-L,ECD09F,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,78E103,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,000659,EAL (Apeldoorn) B.V.,Molenmakershoek 14 Apeldoorn  NL 7328JK 
-MA-L,78A6E1,"Brocade Communications Systems, Inc.",130 Holger Way San Jose  US 95134 
 MA-L,E4EC10,Nokia Corporation,Elektroniikkatie 10 Oulu Ou FI 90590 
 MA-L,002692,Mitsubishi Electric Corporation,2-7-3 Marunouchi Chiyoda-ku Tokyo JP 100-8310 
 MA-L,8CC121,Panasonic Corporation AVC Networks Company,1-15 Matsuo-cho Kadoma Osaka JP 571-8504 
@@ -23864,8 +23874,6 @@ MA-L,BC4699,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24 (floors 1,3,4,5) and 
 MA-L,F483CD,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24 (floors 1,3,4,5) and 28 (floors1-4)  Shennan Rd, Nanshan Shenzhen,Guangdong Province CN 518057 "
 MA-L,002127,"TP-LINK TECHNOLOGIES CO.,LTD.","South Building, No.5 Keyuan Road, Central Zone, Shenzhen Guangdong CN 518000 "
 MA-L,5C63BF,"TP-LINK TECHNOLOGIES CO.,LTD.","1-6F, Building 2, Pingshandayuan Industrial, South Zone, Shenzhen Guangdong CN 518000 "
-MA-L,889471,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
-MA-L,8C7CFF,"Brocade Communications Systems, Inc.",130 Holger Way San Jose CA US 95134 
 MA-L,142D27,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,88E3AB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,C40528,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -27575,3 +27583,10 @@ MA-L,A0FF70,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville
 MA-L,607ECD,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,548ABA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C80739,NAKAYO Inc,"1-3-2, Soja-machi Maebashi-shi Gunma JP 371-0853 "
+MA-L,080342,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,8C7CFF,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,889471,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,78A6E1,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,80CFA2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,0094EC,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,74452D,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
