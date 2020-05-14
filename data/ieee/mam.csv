@@ -650,6 +650,7 @@ MA-M,D014114,powerall,"75,Ojeong-ro,Bucheon-si,Gyeonggi-do,Republic of korea Gye
 MA-M,D01411B,"CYLTek Co.,LTD.","R603,6F.,NO.168,Sec.2,Fuxing 3rd.Rd. Zhubei City,Hsinchu County  TW 30273 "
 MA-M,D0D94F7,"Mitsubishi Electric US, Inc.",1340 Satellite Boulevard Suwanee GA US 30345 
 MA-M,D014119,Airthings,Wergelandsveien 7 Oslo  NO 0167 
+MA-M,D01411A,ABB EVI SPA,"VIA DI SAN GIORGIO, 642 TERRANUOVA BRACCIOLINI AREZZO IT 52028 "
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -1884,6 +1885,7 @@ MA-M,D014118,"Video Security, Inc.","No. 59, Cinghua St. San Min Dist. Kaohsiung
 MA-M,304950D,"Xio Research, Inc","405 Lexington Avenue, Suite 3504 New York NY US 10174 "
 MA-M,D014117,Realwave Inc.,"5857 Owens Avenue, Suite 300 Carlsbad CA US 92008-5507 "
 MA-M,D014113,iLOQ Oy,Yrttipellontie 10 Oulu EMEA FI 90230 
+MA-M,D01411E,Tecnosoft srl,"via Galvani, 4 Peschiera Borromeo Milan IT 20068 "
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -2506,12 +2508,12 @@ MA-M,CCC261A,"Shenzhen Uyesee Technology Co.,Ltd","201C, C6 Building, HengFeng I
 MA-M,CCC261E,Toong In Electronic Corp.,"10F-8, No.738, Chung Cheng Road, Chung Ho Dist,. New Taipei City Taiwan TW 235 "
 MA-M,3049507,"Shenzhen iTG robot Co.,Ltd.","3rd Floor, 5th Floor, No. 5, Elephant Factory Building, Baiyunshan New Village, Tongsheng Community, Dalang Street, Longhua District Shenzhen  CN 518109 "
 MA-M,3049504,ADVANCED MICROWAVE ENGINEERING SRL,VIA LUCCA 50/54 FIRENZE  IT 50142 
-MA-M,3049505,IK Elektronik GmbH,Friedrichsgruener Str. 11-13 Muldenhammer  DE 08248 
 MA-M,3049503,Morgan Schaffer Inc.,8300 rue St-Patrick bureau 150 LaSalle Quebec CA H8N 2H1 
-MA-M,D014111,Private,
 MA-M,D014112,"Evoco Labs CO., LTD","Room 315, Building 1, No.58 Xiangke Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-M,D01411C,"Shen Zhen HaiHe Hi-Tech Co., Ltd","Bldg 10,Fumin Industrial Zone,Pinghu Subdistrict,Longgang District Shen Zhen Guang Dong CN 518111 "
 MA-M,D014110,EkkoSense Ltd,"Sir Colin Campbell Building, UNIP Triumph Road, Nottingham UK Mainland GB NG7 2TU "
+MA-M,3049505,IK Elektronik GmbH,Friedrichsgruener Str. 11-13 Muldenhammer  DE 08262 
+MA-M,D014111,Private,
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
@@ -3134,5 +3136,6 @@ MA-M,94FBA7D,"Rosenberger Technologies Co.,Ltd.","NO.6, ShenAn Rd, Dianshanhu To
 MA-M,F0D7AF8,"SHEN ZHEN MICHIP TECHNOLOGIES CO.,LTD.",Fuxingda Indestrial park.Floor4?Building4 SHEN ZHEN GUANG DONG CN 518126 
 MA-M,3049500,"Guangzhou Lian-med Technology Co.,Ltd.","Room 501, Building G1,No. 31 Kefeng Road, Huangpu district Guangzhou  CN 510670 "
 MA-M,304950E,IoTmaxx GmbH,Bultstrasse 5a Hannover  DE 30159 
-MA-M,1C88791,ANDRA Sp. z o. o.,Pryzmaty 6/8 Warszawa  PL 02-226 
+MA-M,D01411D,"Guangdong Shiqi Manufacture Co., Ltd.","No. D10~11, Lunjiao intensive industrial Zone,  Licun  Village committee, Lunjiao street office, Shunde District Foshan Guangdong CN 528300 "
 MA-M,D014116,Ahnnet,"B-313, Samhwan HIPEX, 230, Pangyoyeok-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
+MA-M,1C88791,ANDRA Sp. z o. o.,Pryzmaty 6/8 Warszawa  PL 02-226 
