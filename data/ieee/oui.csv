@@ -3701,7 +3701,6 @@ MA-L,001739,Bright Headphone Electronics Company,"8F, 109, Li De Street Chung Ho
 MA-L,00172C,TAEJIN INFOTECH,"6F Woolim e-Biz Center, 170-5 Seoul  KR 152-769 "
 MA-L,001751,Online Corporation,"22F-3, No. 398, Huan Pei Road, Chung Li Taoyuan TW 320 "
 MA-L,00174C,Millipore,"1, rue Jacques Monod Guyancourt  FR 78280 "
-MA-L,001711,GE Healthcare Bio-Sciences AB,Björkgatan 30 Uppsala SE SE 75184 
 MA-L,001745,"INNOTZ CO., Ltd","14F, Prime Center 546-4 Guui-Dong Kwanggin-Gu Seoul Seoul KR  "
 MA-L,001748,Neokoros Brasil Ltda,"Rua 86, numero 501, Setor Sul Goiania Goias BR 74083-330 "
 MA-L,001763,Essentia S.p.A.,"Via G.B. Vico, 29 Cella (RE) Reggio Emilia IT 42040 "
@@ -5678,6 +5677,7 @@ MA-L,9012A1,We Corporation Inc.,"201, 33, Deokcheon-ro, Manan-gu Anyang-si Gyeon
 MA-L,64B623,CCS Care Communication Solutions GmbH,Computerstrasse 6 Vienna  AT 1100 
 MA-L,B88035,Shenzhen Qihu Intelligent Technology Company Limited,"Room 201, Block A, No.1, Qianwan Road 1,Qianhai Shenzhen HongKong Modern Service Industry Cooperation Zone Shenzhen Guangdong CN 518057 "
 MA-L,B4C26A,Garmin International,1200 E. 151st St Olathe KS US 66062 
+MA-L,001711,Cytiva Sweden AB,Björkgatan 30 Uppsala SE SE 75184 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11236,6 +11236,7 @@ MA-L,C40D96,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,A0681C,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,842AFD,HP Inc.,10300 Energy Dr Spring TX US 77389 
 MA-L,F85C7D,"Shenzhen Honesty Electronics Co.,Ltd.","5/F,Zone B,Chitat Industrial Park,West Longping Road, Longgang District,Shenzhen City Shenzhen Guangdong CN 518172 "
+MA-L,84225E,"SHENZHEN TECHNEWCHIP TECHNOLOGY CO.,LTD.",XILI STREET SHENZHEN GUANGDONG CN 5180000 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -22483,12 +22484,12 @@ MA-L,40DDD1,Beautiful Card Corporation,"Wenming 1st St., Taoyuan  TW 33383 "
 MA-L,C0E7BF,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
 MA-L,54778A,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,247152,Dell Inc.,One Dell Way Round Rock TX US 78682 
-MA-L,0012B4,Work Microwave GmbH,Rudolf-Diesel-Ring 2 Holzkirchen  DE 83607 
-MA-L,0040AB,ROLAND DG CORPORATION,"1-1-3 Shinmiyakoda, Kita-ku Hamamatsu-shi Shizuoka-ken JP 431-2103 "
 MA-L,6433DB,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,A406E9,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,B0B113,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,4CAEEC,"Guangzhou limee technology co.,LTD","No.2, Yichuang Street, Zhongxin Guangzhou Knowledge City, Huangpu District, Guangzhou Guangzhou Guangdong CN 510555 "
+MA-L,0040AB,ROLAND DG CORPORATION,"1-1-3 Shinmiyakoda, Kita-ku Hamamatsu-shi Shizuoka-ken JP 431-2103 "
+MA-L,0012B4,Work Microwave GmbH,Rudolf-Diesel-Ring 2 Holzkirchen  DE 83607 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
