@@ -438,7 +438,6 @@ MA-S,70B3D5FB5,Orange Tree Technologies Ltd,"173 Curie Avenue, Harwell Oxford Di
 MA-S,70B3D523E,Tornado Modular Systems,Inzhenernaya st. 4a Novosibirsk  RU 630128 
 MA-S,70B3D5286,Pedax Danmark,Tinvej 5 Espergærde Sjælland DK 3060 
 MA-S,70B3D5F65,MARKUS LABS,Potocna 16 Kosice  SK 04001 
-MA-S,70B3D5261,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D509E,MobiPromo,"10, 64-72 Beresford Rd Lilydale Victoria AU 3140 "
 MA-S,70B3D5B02,Nordic Automation Systems AS,Strandgata 12 Hareid Møre og Romsdal NO 6060 
 MA-S,70B3D5187,Elektronik & Präzisionsbau Saalfeld GmbH,Remschützer Straße 1 Saalfeld Thüringen DE 07318 
@@ -765,6 +764,7 @@ MA-S,70B3D5626,KRONOTECH SRL,VIALE UNGHERIA 125 UDINE ITALY/UDINE IT 33100
 MA-S,70B3D52AF,Enlaps,"29 chemin du vieux chene, Tarmac MEYLAN  FR 38240 "
 MA-S,70B3D5242,"Comeo Technology Co.,Ltd","5F-2,NO.237 , Zhong-Xiao  RD., BANG-QIAO Dist., New Taipei City New Taipei CIty  TW 22064 "
 MA-S,70B3D5864,BORMANN EDV und Zubehoer,Lohwaldstr. 53 Neusaess Bayern DE 85356 
+MA-S,70B3D5261,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -878,7 +878,6 @@ MA-S,70B3D5D01,Vision4ce Ltd,"Unit 4, Wokingham Commercial Centre Wokingham Berk
 MA-S,70B3D5EC3,Virtual Control Systems Ltd,"27 Main Street, Overton Morecambe Lancashire GB LA3 3HF "
 MA-S,70B3D5A84,SOREL GmbH Mikroelektronik,REME-Str. 12 Wetter  DE 58300 
 MA-S,70B3D5990,Energy Wall,1002 New Holland Ave Lancaster PA US 17601 
-MA-S,70B3D5B9A,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D549E,"CAPTEMP, Lda","Rua São João, s/n - Ladeira das Leais Pombal  PT 3100-346 "
 MA-S,70B3D5302,DogWatch Inc,10 Michigan Drive Natick MA US 01760 
 MA-S,70B3D5510,PSL ELEKTRONİK SANAYİ VE TİCARET A.S.,Antalya OSB 3. Kısım 25. Cadde No:30 ANTALYA  TR 07190 
@@ -942,7 +941,6 @@ MA-S,70B3D5015,EN ElectronicNetwork Hamburg GmbH,Meiendorfer Strasse 205 Hamburg
 MA-S,70B3D51F8,Convergent Design,4525 Northpark Drive Colorado Springs CO US 80918 
 MA-S,70B3D5F8A,FRS GmbH & Co. KG,Weingartenstr. 1-3 Dortmund NW DE 44263 
 MA-S,70B3D5E9E,MSB Elektronik und Gerätebau GmbH,Hofwiesenstr. 23 Crailsheim  DE 74564 
-MA-S,70B3D51BE,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D5109,DiTEST Fahrzeugdiagnose GmbH,ALTE POSTSTRASSE 152 A-8020 GRAZ AT STEIERMARK 
 MA-S,70B3D5C41,Merlin CSI,10755 Scripps Poway Pkwy # 524 San Diego CA US 92131 
 MA-S,70B3D521F,CHRONOMEDIA,"#508, 1130, Beoman-ro, Geumcheon-gu Seoul  KR 08595 "
@@ -1540,7 +1538,9 @@ MA-S,70B3D5905,Wexiodisk AB,Mardvagen 4 Vaxjo Kronoberg SE 352 45
 MA-S,70B3D5DB3,Klaxoon,3 av de Belle Fontaine Cesson-Sevigne  FR 35510 
 MA-S,70B3D55CB,ECoCoMS Ltd.,"BIC-ISOT, Tzarigradsko shose blvd., 7-th km, Corpus 3, fl. 4, Sofia BG BG 1784 "
 MA-S,70B3D5D18,MetCom Solutions GmbH,Marie-Curie-Str. 19 Mannheim Baden-Wuerttemberg DE 68219 
+MA-S,70B3D51BE,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 MA-S,70B3D5D53,"BeiLi eTek (Zhangjiagang) Co., Ltd.","Dongnan Industrial Park, Nanfeng Town Zhangjiagang Jiangsu CN 215619 "
+MA-S,70B3D5B9A,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -1814,7 +1814,6 @@ MA-S,70B3D5763,"A Trap, USA","2021 Sperry Ave, Unit 11 Ventura CA US 93003 "
 MA-S,70B3D5F25,"JSC “Scientific Industrial Enterprise ""Rubin""","2, Baydukov str. Penza Penza reg. RU 440000 "
 MA-S,70B3D5AA3,"LINEAGE POWER PVT LTD.,","30-A1, KIADB, 1ST PHASE INDUSTRIAL ESTATE,KUMBALGODU, BANGALORE-MYSORE ROAD BANGALORE KARNATAKA IN 560074 "
 MA-S,70B3D5967,TATTILE SRL,"VIA DONIZETTI, 1/3/5 MAIRANO BRESCIA IT 25030 "
-MA-S,70B3D5C17,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood  US 63042 
 MA-S,70B3D5A28,PEEK TRAFFIC,5401 N SAM HOUSTON PKWY W HOUSTON null US 77086 
 MA-S,70B3D59DC,"Shanghai Daorech Industry Developmnet Co.,Ltd",21F Hitech Plaza No.488 South Wu Ning Road shanghai  shanghai  CN 200042 
 MA-S,70B3D502E,Monnit Corporation,3400 S WEST TEMPLE SALT LAKE CITY UT US 84115 
@@ -2298,7 +2297,6 @@ MA-S,70B3D5AD9,aelettronica group srl,"via matteotti,22 gaggiano milano IT 20083
 MA-S,70B3D5165,"Wuhan Xingtuxinke ELectronic Co.,Ltd","NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074 "
 MA-S,70B3D5D7D,BESO sp. z o.o.,Mlynska 1a Brzeg Dolny  PL 56-120 
 MA-S,70B3D5ED2,PCTEL,"22600 gateway center drive, Suite 100 Clarksburg MD US 20871 "
-MA-S,70B3D570C,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D57D4,Computechnic AG,Rietlistrasse 3 Rorschacherberg Goldach CH 9403 
 MA-S,70B3D5846,National Time & Signal Corp.,28045 Oakland Oaks Ct Wixom MI US 48393 
 MA-S,70B3D5D19,Senior Group LLC,1300 West Main Street Louisville KY US 40203 
@@ -2316,6 +2314,8 @@ MA-S,70B3D5D0F,Alto Aviation,86 Leominster Road Sterling MA US 01564
 MA-S,70B3D55A1,"BOE Technology Group Co., Ltd.","No.12 Xihuanzhong RD, BDA Beijing Beijing CN 100176 "
 MA-S,70B3D5992,KAEONIT,51 boulevard Tristan Corbiere Marseille  FR 13012 
 MA-S,70B3D5A23,LG Electronics,"LG Science Park, 10, Magokjungang 10-ro, GangSeo-gu SEOUL  KR 07796 "
+MA-S,70B3D5C17,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
+MA-S,70B3D570C,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -2670,7 +2670,6 @@ MA-S,70B3D587E,Septentrio NV,Interleuvenlaan 15i Leuven  BE 3001
 MA-S,70B3D573B,S-I-C,Schornbacher Weg 37-8 Schorndorf BW DE 73614 
 MA-S,70B3D5DFC,ELECTRONIC SYSTEMS DESIGN SPRL,Rue de l'Etang 40 Waterloo  BE 1410 
 MA-S,70B3D5A89,"GBS COMMUNICATIONS, LLC","10773 NW 58TH STREET, STE 712 DORAL FL US 33178 "
-MA-S,70B3D5A1B,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D50DA,Aquavision Distribution Ltd,"unit 7 Riverpark, Billet Lane Berkhamsted Hertfordshire GB HP4 1HL "
 MA-S,70B3D5B37,"CODEC Co., Ltd.",1-29-18 Tamagawa Choufu-shi Tokyo JP 182-0025 
 MA-S,70B3D5A5A,RCS Energy Management Ltd,RMS House Newbury Berkshire GB RG14 5PX 
@@ -3108,6 +3107,8 @@ MA-S,70B3D57F0,"Yokogawa Denshikiki Co.,Ltd",Minami Shinjuku Hoshino Bldg.  5-23
 MA-S,70B3D52FB,IK MULTIMEDIA PRODUCTION SRL,Via dell'Industria 46 Modena Italy IT 41122 
 MA-S,70B3D5A8C,CYG CONTRON CO.LTD,"BUILDING A.NO.11 OF THE 6TH TECHNOGY ROAD,PHASE III OF TECNOLOGY INNOVATION COAST,ZHUHAI NATIONAL HI-TECH INDUSTRIES DEVELOPMENT ZONE Zhuhai  CN 519000 "
 MA-S,70B3D5D14,LIGPT,"167, Jukdong-ro Daejeon  Yuseong-gu KR 34127 "
+MA-S,70B3D534F,Royal Engineering Consultancy Private Limited,203 2nd Floor Jyoti Building 66 Nehru Place New Delhi  IN 110019 
+MA-S,70B3D5A1B,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -3122,7 +3123,6 @@ MA-S,70B3D5D31,Solace Systems Inc.,"535 Legget Drive, Kanata Ontario CA K2K3B8 "
 MA-S,70B3D5787,Den Automation,"Unit 6.05, Metropolitan Wharf London  GB E1W 3SS "
 MA-S,70B3D52A0,Airthings,Wergelandsveien 7 Oslo  NO 0167 
 MA-S,70B3D567A,Micatu,315 Daniel Zenker Drive Horseheads NY US 14845 
-MA-S,70B3D5832,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D5170,Mutelcor GmbH,"An der Bastei, 42A Duisburg NRW DE 47259 "
 MA-S,70B3D5CDB,"Wuhan Xingtuxinke ELectronic Co.,Ltd","NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074 "
 MA-S,70B3D5C8A,WTE Limited,"1 Pukeko Place, Southshore Christchurch Canterbury NZ 8062 "
@@ -3479,7 +3479,6 @@ MA-S,70B3D57B0,Medisafe International,Twyford Road Bishops Stortford Hertfordshi
 MA-S,70B3D5F81,Littlemore Scientific,Gutchpool Farm Gillingham Dorset GB SP8 5QP 
 MA-S,70B3D5C80,Link Care Services,3bis rue Taylor Paris Paris FR 75010 
 MA-S,70B3D55C4,TATTILE SRL,"VIA DONIZETTI, 1/3/5 MAIRANO BRESCIA IT 25030 "
-MA-S,70B3D57A4,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood  US 63042 
 MA-S,70B3D5238,Arete Associates,9301 Corbin Ave Suite 2000 Northridge CA US 91324 
 MA-S,70B3D5E4F,RWS Automation GmbH,Neuer Weg 2 Niefern - Öschelbronn  DE 75223 
 MA-S,70B3D5CCD,"Suzhou PowerCore Technology Co.,Ltd.","Building #3,No.9 Xuesen Road,Science&Technology Town,Suzhou New District Suzhou Jiangsu CN 215000 "
@@ -3822,7 +3821,6 @@ MA-S,70B3D5306," LEMZ-T, LLC","Razvitia pr., 8 Tomsk  RU 634031 "
 MA-S,70B3D534B,LEAFF ENGINEERING SRL,Via Pastore 10 Osimo AN IT 60027 
 MA-S,70B3D5E2A,"CONTES, spol. s r.o.",U podolskeho hrbitova 667/6 Prague  CZ 14700 
 MA-S,70B3D593A,"Braemar Manufacturing, LLC",1285 Corporate Center Drive Suite 150 Eagan MN US 55121 
-MA-S,70B3D5F5D,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D5899,Viotec USA,3 East Third Ave San Mateo CA US 94401 
 MA-S,70B3D56CE,Eredi Giuseppe Mercuri SPA,"via Cupa Vicinale S.Aniello, 88 Naples  IT 80146 "
 MA-S,70B3D558A,ITK Dr. Kassen GmbH,Beim Eberacker 3 D-35633 Lahnau  DE  
@@ -3883,3 +3881,6 @@ MA-S,70B3D5F59,KOREA SPECTRAL PRODUCTS,"Room #402, 273, DIGITAL-RO, GURO-GU SEOU
 MA-S,70B3D53B4,YOUSUNG,"76, Gaetbeol-ro, Yeonsu-gu Incheon  KR 21999 "
 MA-S,70B3D59E9,LiveCopper Inc.,600 Greer Rd Palo Alto CA US 94303 
 MA-S,70B3D56D6,KMtronic ltd,Dobri Czintulov 28A str. Gorna Oryahovica VT BG 5100 
+MA-S,70B3D57A4,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
+MA-S,70B3D5832,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
+MA-S,70B3D5F5D,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
