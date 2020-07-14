@@ -952,7 +952,6 @@ IAB,40D85500B,Gogo BA ,303 S Technology Ct Broomfield CO US 80021
 IAB,0050C2F8F,"Computerwise, Inc.",302 N. Winchester Olathe KS US 66062 
 IAB,0050C20B5,"EXTREME COPPER,  INC.",4342 Avenida Gregory Spring Valley CA US 91977 
 IAB,0050C2E98,i3 International Inc.,780 Birchmount Road Toronto Ontario CA M1K5H4 
-IAB,0050C2C63,Potter Electric Signal Co. LLC,11790 Troy Lane North Maple Grove MN US 55369 
 IAB,0050C29DF,"CODEC Co., Ltd.",1-29-18 Tamagawa Choufu-shi Tokyo JP 182-0025 
 IAB,0050C2B04,Ubiquiti Networks Inc.,91 E Tasman Dr San Jose CA US 95134 
 IAB,0050C2DE6,Fr. Sauter AG,Im Surinam 55 Basel BS CH CH 4016 
@@ -1763,6 +1762,7 @@ IAB,0050C2005,"GD California, Inc.",1799 Portola Ave. Livermore CA US 94550
 IAB,0050C224D,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 IAB,0050C2AB5,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 IAB,40D85504C,Serveron Corporation,13550 SW Karl Braun Drive Beaverton OR US 97077 
+IAB,0050C2C63,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 IAB,40D855163,KMtronic ltd,Dobry Czintulov 28A Gorna Oriahovitca VT BG 5100 
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
@@ -3632,7 +3632,6 @@ IAB,0050C250C,"AIRWISE TECHNOLOGY CO., LTD.","21 Fl-3, No. 107, Sec. Jhongshan R
 IAB,0050C2455,Gogo BA ,1172 Century Drive Louisville  US 80027 
 IAB,0050C2163,"Computerwise, Inc.",302 N. Winchester Olathe KS US 66062 
 IAB,0050C2909,Elisra,"48, Mivtza Kadesh Bene Beraq  IL 51203 "
-IAB,0050C2DF4,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood  US 63042 
 IAB,0050C2B9C,DAVE SRL,Via  Talponedo 29 Porcia PN IT A-33080 
 IAB,0050C2F3E,Vtron Pty Ltd,"Unit 2, 62 Township Drive West West Burleigh Queensland AU 4219 "
 IAB,0050C22F0,LECO Corporation,"3000 Lakeview Ave., CC1 St. Joseph MI US 49085 "
@@ -4574,3 +4573,4 @@ IAB,40D8550C8,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558
 IAB,0050C2F48,Phoenix Audio Technologies,"2552 White Road, Suite A Irvine CA US 92614 "
 IAB,0050C2139,SR RESEARCH LTD,740 Meadow Wood Road Mississauga Ontario CA L5J 2S6 
 IAB,0050C25E3,Computechnic AG,Rietlistrasse 3 Rorschacherberg Goldach CH 9403 
+IAB,0050C2DF4,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
