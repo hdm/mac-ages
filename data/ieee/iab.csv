@@ -1762,8 +1762,8 @@ IAB,0050C2005,"GD California, Inc.",1799 Portola Ave. Livermore CA US 94550
 IAB,0050C224D,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 IAB,0050C2AB5,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 IAB,40D85504C,Serveron Corporation,13550 SW Karl Braun Drive Beaverton OR US 97077 
-IAB,40D855163,KMtronic ltd,Dobry Czintulov 28A Gorna Oriahovitca VT BG 5100 
 IAB,0050C2C63,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
+IAB,40D855163,KMtronic ltd,Dobry Czintulov 28A Gorna Oriahovitca VT BG 5100 
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C21DD,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
@@ -3482,7 +3482,6 @@ IAB,0050C22A2,"Epelsa, SL","C/albasanz, 6 y 8 Madrid  ES 28037 "
 IAB,0050C226D,DSP DESIGN,TAPTON PK INNOVATION CENTRE CHESTERFIELD DERBYSHIRE GB S41 0TZ 
 IAB,0050C2270,S4 Technology Pty Ltd,325 Pitt Street Sydney NSW 2000 NZ  
 IAB,0050C2286,ATEME,26 Burospace BIEVRES Cedex  FR 91573 
-IAB,0050C2281,CabTronix GmbH,Hohstrass 1 Kloten Zuerich CH 8302 
 IAB,0050C2283,ANSITEX CORP.,"24F., No.56, Liansing Rd., Sijhih City, Taipei County  TW 221 "
 IAB,0050C227D,ALLIED TELESIS K.K.,PIAZZA TIRANA N. 24/4 B MILANO  IT 20147 
 IAB,0050C2271,VLSIP TECHNOLOGIES INC.,750 PRESIDENTIAL DR RICHARDSON TEXAS US 75081 
@@ -3600,6 +3599,7 @@ IAB,0050C2DD6,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70
 IAB,0050C2EA9,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 IAB,40D8551D8,"Owl Cyber Defense Solutions, LLC",38A Grove Street Ridgefield CT US 06877 
 IAB,0050C23F3,ABB Power Grids Germany AG – Grid Automation,Kallstadter Strasse 1 Mannheim  DE 68309 
+IAB,0050C2281,Cabtronix AG,Hohstrass 1 Kloten Zuerich CH 8302 
 IAB,0050C2CB3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2DE0,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. Edificio Oficentro Tres Cantos Madrid ES 28760 
 IAB,40D855076,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. local 26 Tres Cantos Madrid ES 28760 
@@ -4571,6 +4571,6 @@ IAB,0050C2007,Clive Green & Co. Ltd.,1 New Street  England GB LU1 SDX
 IAB,0050C2886,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 IAB,40D8550C8,Mettler Toledo,1571 Northpointe Parkway Lutz FL US 33558 
 IAB,0050C2F48,Phoenix Audio Technologies,"2552 White Road, Suite A Irvine CA US 92614 "
-IAB,0050C25E3,Computechnic AG,Rietlistrasse 3 Rorschacherberg Goldach CH 9403 
 IAB,0050C2139,SR RESEARCH LTD,740 Meadow Wood Road Mississauga Ontario CA L5J 2S6 
+IAB,0050C25E3,Computechnic AG,Rietlistrasse 3 Rorschacherberg Goldach CH 9403 
 IAB,0050C2DF4,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
