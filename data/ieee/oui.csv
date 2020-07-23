@@ -5705,11 +5705,11 @@ MA-L,80F1F1,"Tech4home, Lda",Rua de Fundoes N151 Sao Joao da Madeira Aveiro PT 3
 MA-L,14A9D0,"F5 Networks, Inc.",801 5th Avenue Seattle WA US 98104 
 MA-L,1C501E,"Sunplus Technology Co., Ltd.","19, Innovation First Road, Hsinchu Science Park Hsinchu  TW 300 "
 MA-L,409505,"ACOINFO TECHNOLOGY CO.,LTD","Building No.12,Zhongguancun Cuihu Technology Park,Haidian District,Beijing,China Beijing  CN 100095 "
-MA-L,5CD89E,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,F81093,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,FC66CF,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,AC1D06,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,44A8FC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,F81093,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,5CD89E,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11302,6 +11302,10 @@ MA-L,748F3C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,40F946,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,445943,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,343654,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,64F947,"Senscomm Semiconductor Co., Ltd.","Room 303-309, 3rd Floor International Building, NO.2 Suzhou Avenue West Suzhou Jiangsu CN 215000 "
+MA-L,DC00B0,FREEBOX SAS,16 rue de la Ville l'Eveque PARIS IdF FR 75008 
+MA-L,707414,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
+MA-L,A0764E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -25223,7 +25227,6 @@ MA-L,1C43EC,"JAPAN CIRCUIT CO.,LTD",NKF-Kawasaki-Building 7F Kawasaki Kanagawa J
 MA-L,54D1B0,"Universal Laser Systems, Inc",16008 N 81st street scottsdale az US 85260 
 MA-L,785262,"Shenzhen Hojy Software Co., Ltd.","3F,East of Building25,Keyuanxi,Number 5,Kezhixi Road, Science & Industry Park ,Nan Shan District ,Shenzhen ShenZhen GuangDong CN 508057 "
 MA-L,746A89,Rezolt Corporation,2855 Bowers Avenue Santa Clara CA US 95051 
-MA-L,702F4B,PolyVision Inc.,3970 Johns Creek Ct. Suwanee Georgia US 30024 
 MA-L,741489,SRT Wireless,4101 SW 47th Avenue #102 Davie Florida US 33314 
 MA-L,241B13,"Shanghai Nutshell Electronic Co., Ltd.","365 Guoshoujing RD.,Zhangjiang Hi-Tech Park, Pudong District Shanghai Shanghai CN 201203 "
 MA-L,20014F,Linea Research Ltd,1 Marquis Business Centre Baldock Hertfordshire GB SG7 6XL 
@@ -28284,3 +28287,7 @@ MA-L,BCA5A9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,20E2A8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,A0FBC5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,007D60,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,702F4B,Steelcase Inc.,901 44th Street SE Grand Rapids MI US 49508-7594 
+MA-L,E475DC,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,C4DD57,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,58208A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
