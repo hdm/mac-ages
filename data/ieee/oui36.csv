@@ -775,6 +775,7 @@ MA-S,70B3D5A1A,Nueon - The COR,101 Jefferson Drive Menlo Park  US 94025
 MA-S,70B3D5F7F,ABL Space Systems,224 Oregon St El Segundo CA US 90245 
 MA-S,70B3D5F41,DUEVI SRL,VIA BARD 12/A TORINO TORINO IT 10142 
 MA-S,70B3D5485,CLARESYS LIMITED,"154E Brook Drive, Milton Park Abingdon  GB OX14 4SD "
+MA-S,70B3D53A2,"Daifuku CO., Ltd.","1225 Nakazaiji, Hino-cho, Gamo-gun, Shiga Gamo-gun Shiga-ken JP 529-1692 "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1645,7 +1646,6 @@ MA-S,70B3D545B,KOMZ - IZMERENIYA,Pravobulachnaya 35/2 Kazan  RU 420111
 MA-S,70B3D5B38,GoTrustID Inc.,"800 N. State Street, Suite 402, Dover County of Kent DE US 19901 "
 MA-S,70B3D5E0C,Communication Systems Solutions,6030 S. 58th Street Lincoln NE US 68516 
 MA-S,70B3D5591,Private,
-MA-S,70B3D5376,Private,
 MA-S,001BC5015,Corporate Systems Engineering ,1215 Brookville Way Indianapolis  IN US 46239 
 MA-S,70B3D515B,"Armstrong International, Inc.",816 Maple Street Three Rivers MI US 49093 
 MA-S,70B3D5738,Private,
@@ -2339,6 +2339,7 @@ MA-S,70B3D5A03,Proemion GmbH,Donaustraße 14 Fulda Hessen DE 36043
 MA-S,70B3D5386,GPSat Systems,Suite 1 22 Aberdeen Road Macleod VIC AU 3085 
 MA-S,70B3D50F5,Season Electronics Ltd,600 Nest Business Park  Havant Hampshire GB PO9 5TL 
 MA-S,70B3D549C,AC Power Corp.,"3F, No.200, Gangqian Rd., Neihu District Taipei City  TW 11494 "
+MA-S,70B3D5376,"Magenta Labs, Inc.",164 Townsend Street Unit 1 San Francisco CA US 94107 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -2476,7 +2477,6 @@ MA-S,70B3D5BCB,Smart Vision Lights,2359 Holton Rd Muskegon MI US 49445
 MA-S,70B3D5C64,SYS TEC electronic GmbH,Am Windrad 2 Heinsdorfergrund   DE D-08468 
 MA-S,70B3D52A3,ATT Nussbaum Prüftechnik GmbH,Robert-Koch-Str. 35 Kehl-Auenheim  DE 77694 
 MA-S,70B3D58A2,WINNERS DIGITAL CORPORATION,"3F, No. 4, Ln. 263, Chongyang Rd., Nangang Dist., Taipei City Taiwan TW 115-73 "
-MA-S,70B3D5E22,Private,
 MA-S,70B3D53F2,"H3D, Inc.",812 Avis Drive Ann Arbor MI US 48108 
 MA-S,70B3D5360,PT. Emsonic Indonesia,"Jl.Timor Blok E5, MM2100 Industrial Town Jatiwangi Cikarang Barat Bekasi Jawa Barat ID 17530 "
 MA-S,70B3D5415,IDEA SPA,VIA PARALLELA 2/4 VILLA BARTOLOMEA VERONA IT 37049 
@@ -3141,6 +3141,8 @@ MA-S,70B3D540C,Tornado Modular Systems,Inzhenernaya st. 4a Novosibirsk Novosibir
 MA-S,70B3D510B,"SECUREAN CO.,Ltd","danny@securean.com Incheon 2nd floor, 16 Giljuro, Seogu KR 22793 "
 MA-S,70B3D525E,RFHIC,"41-14, Burim-ro 170beon-gil Dongan-gu, Anyang-si Gyeonggi-do KR 14055 "
 MA-S,70B3D579C,ADDE,21 impasse frédéric faÿs Villeurbanne  FR 69100 
+MA-S,70B3D5E22,"Federated Wireless, Inc. ","4301 North Fairfax Drive, Suite 310  Arlington  VA US 22203 "
+MA-S,70B3D5BE2,"Nocix, LLC",201 East 16th Ave North Kansas City MO US 64116 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -3923,3 +3925,4 @@ MA-S,70B3D55C0,"Shenzhen Lianfaxun Electronic Technology Co., Ltd","No. 25, Tian
 MA-S,70B3D53AB,Camozzi Automation SpA,Via Eritrea 20/I BRESCIA ITALY IT 25080 
 MA-S,70B3D5322,PuS GmbH und Co. KG,Hainstr. 13 Gera Germany DE 07545 
 MA-S,70B3D5195,Ci4Rail,Vogelweiherstrasse 20 Nürnberg Bavaria DE 90441 
+MA-S,70B3D5116,Momentum Data Systems,5432 Bolsa Ave Unit B Huntington Beach CA US 92649 
