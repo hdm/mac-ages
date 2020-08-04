@@ -11081,7 +11081,6 @@ MA-L,105072,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsua
 MA-L,900A84,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
 MA-L,AC4A67,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,70CA97,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
-MA-L,30B216,ABB Power Grids Germany AG – Grid Automation,Kallstadter Strasse 1 Mannheim  DE 68309 
 MA-L,000991,"Intelligent Platforms, LLC.",2500 Austin Drive Charlottesville VA US 22911 
 MA-L,C8665D,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
 MA-L,E01C41,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
@@ -11319,6 +11318,8 @@ MA-L,343654,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,748F3C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,40F946,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6C09BF,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,FC6DD1,"APRESIA Systems, Ltd.","Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026 "
+MA-L,30B216,Hitachi ABB Power Grids – Grid Automation,Kallstadter Strasse 1 Mannheim  DE 68309 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -22652,11 +22653,11 @@ MA-L,5C91FD,Jaewoncnc,"A-501~507, H-Businesspark, 25 Beobwon-ro11gil, Songpa-gu,
 MA-L,FC449F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,204EF6,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,443583,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,84EA97,"Shenzhen iComm Semiconductor CO.,LTD","Room 501A,Block B,Digital Building,Garden City,No.1079 Nanhai Road,Nanshan District Shenzhen  CN 518067 "
-MA-L,A47D9F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
 MA-L,38CA73,"Shenzhen MiaoMing  Intelligent Technology Co.,Ltd","Chudong science and technology park, 111 shaxin road, tangxia town, dongguan city guangdong province CN 523710 "
 MA-L,6C0DC4,"Beijing Xiaomi Electronics Co., Ltd.","Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085 "
 MA-L,C440F6,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,A47D9F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
+MA-L,84EA97,"Shenzhen iComm Semiconductor CO.,LTD","Room 501A,Block B,Digital Building,Garden City,No.1079 Nanhai Road,Nanshan District Shenzhen  CN 518067 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -27491,7 +27492,6 @@ MA-L,001006,Thales Contact Solutions Ltd.,"Tolbar Way Southampton, SO30 2ZP  GB 
 MA-L,009009,"I Controls, Inc.","2nd Fl, I'Park 302, 11 Jeongja-Dong, Seongnam Gyeonggi-Do KR 463-859 "
 MA-L,00908E,Nortel Networks Broadband Access,39660 Eureka Drive Newark CA US 94560 
 MA-L,00907C,"DIGITALCAST, INC.","503, ILKWANG BLDG., 1656-2 SEOCHO-KU  SEOUL KR  "
-MA-L,0090D2,ARTEL VIDEO SYSTEMS,237 CEDAR HILL ST. MARLBORO MA US 01752 
 MA-L,0001FE,DIGITAL EQUIPMENT CORPORATION,"301 ROCKRIMMON BLVD, SOUTH COLORADO SPRINGS CO US 80919 "
 MA-L,0090BE,IBC/INTEGRATED BUSINESS COMPUTERS,2685 C PARK CENTER DRIVE SIMI VALLEY CA US 93065 
 MA-L,00103C,"IC ENSEMBLE, INC.",3255-2 SCOTT BLVD.--STE.#105 SANTA CLARA CA US 95054 
@@ -28318,3 +28318,4 @@ MA-L,007D60,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,58208A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,00C343,E-T-A Circuit Breakers Ltd,6 Telford Close Aylesbury Buckinghamshire GB HP198DG 
 MA-L,98C97C,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Garden City,No.1079 Nanhai Road,Nanshan District,Shenzhen shenzhen Guangdong CN 518067 "
+MA-L,0090D2,Artel Video Systems,5B Lyberty Way Westford MA US 01886 
