@@ -774,7 +774,6 @@ MA-L,68C63A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,A0648F,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,C850E9,"Raisecom Technology CO., LTD","No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
 MA-L,10F163,"TNK CO.,LTD",1 Kasugayama.Iitoyo Tenei-village.Iwase-country Fukushima-prefecture JP 962-0512 
-MA-L,88DA1A,"Redpine Signals, Inc.","2107, N. First St San Jose CA US 95131-2019 "
 MA-L,98EF9B,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 730-030 "
 MA-L,14CF8D,OHSUNG,181 GUMI KYUNGBUK KR 730-030 
 MA-L,104400,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -5718,6 +5717,8 @@ MA-L,387A3C,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road
 MA-L,B82D28,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,C44137,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,8CCE4E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,F80DAC,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,88DA1A,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11321,6 +11322,7 @@ MA-L,6C09BF,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road
 MA-L,FC6DD1,"APRESIA Systems, Ltd.","Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026 "
 MA-L,10D7B0,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,CC4F5C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,80C955,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -14547,7 +14549,6 @@ MA-L,0023D5,WAREMA electronic GmbH,Dillberg 33 Marktheidenfeld Bavaria DE 97828
 MA-L,0023C9,"Sichuan Tianyi Information Science & Technology Stock CO.,LTD","No.1,Hot Spring Highway,Dayi County Chengdu Sichuan US 611330 "
 MA-L,0023CE,KITA DENSHI CORPORATION,"12F TOKYO-NISHIIKEBUKURO Bilg., Toshima-ku, Tokyo JP 171-0021 "
 MA-L,0023A9,"Beijing Detianquan Electromechanical Equipment Co., Ltd","No. 2 Chapeng Road, Haidian District, Beijing  CN 100091 "
-MA-L,0023A7,"Redpine Signals, Inc.","Plot 87, Sagar Society Hyderabad AP IN 500034 "
 MA-L,00239B,"Elster Solutions, LLC",208 South Rogers Lane Raleigh North Carolina US 27610 
 MA-L,00237B,WHDI LLC,2350 Mission College Blvd. Santa Clara CA US 95054 
 MA-L,002324,G-PRO COMPUTER,"first arrange C, YingHu industrial estate DongGuan City GuangDong Province CN 523648 "
@@ -17015,6 +17016,8 @@ MA-L,141B30,"Shenzhen Yipingfang Network Technology Co., Ltd.","21 / F, Kangjia 
 MA-L,D8F3BC,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
 MA-L,B8477A,"Dasan Electron Co., Ltd.","705 HaeAn-Ro #307, SangRok-Gu Ansan KyungKi KR 15588 "
 MA-L,D8373B,"Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd","3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District Shenzhen Guangdong CN 518055 "
+MA-L,800384,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
+MA-L,0023A7,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
