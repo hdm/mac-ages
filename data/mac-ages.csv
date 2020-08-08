@@ -137,6 +137,7 @@
 70b3d5f6e000/36,2015-10-04,wireshark.org
 70b3d5f6d000/36,2015-11-01,wireshark.org
 70b3d5f6c000/36,2019-05-07,ieee-oui36.csv
+70b3d5f6b000/36,2020-08-08,ieee-oui36.csv
 70b3d5f6a000/36,2020-02-03,ieee-oui36.csv
 70b3d5f69000/36,2020-01-09,ieee-oui36.csv
 70b3d5f68000/36,2014-04-20,wireshark.org
@@ -9049,6 +9050,7 @@ ccc261000000/28,2020-04-09,ieee-mam.csv
 cc4f5cc00000/28,2020-08-06,ieee-mam.csv
 cc4f5cb00000/28,2020-08-05,ieee-mam.csv
 cc4f5ca00000/28,2020-08-06,ieee-mam.csv
+cc4f5c800000/28,2020-08-08,ieee-mam.csv
 cc4f5c700000/28,2020-08-05,ieee-mam.csv
 cc4f5c500000/28,2020-08-05,ieee-mam.csv
 cc4f5c200000/28,2020-08-07,ieee-mam.csv
