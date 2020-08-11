@@ -5719,6 +5719,9 @@ MA-L,C44137,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, 
 MA-L,F80DAC,HP Inc.,10300 Energy Dr Spring TX US 77389 
 MA-L,88DA1A,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
 MA-L,006065,B&R Industrial Automation GmbH ,B&R Straße 1 Eggelsberg  AT 5142 
+MA-L,E44791,"Iris ID Systems, Inc.",8 Clarke Drive Cranbury  US 08512 
+MA-L,F013C1,"Hannto Technology Co., Ltd","Rm 704,No.1,Lane 88,Shengrong Road, Free Trade Pilot Area, Shanghai Shanghai CN 200120 "
+MA-L,40B5C1,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11324,6 +11327,9 @@ MA-L,FC6DD1,"APRESIA Systems, Ltd.","Tsukuba Network Technical Center, Kidamari 
 MA-L,80C955,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
 MA-L,CC4F5C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,30B216,Hitachi ABB Power Grids – Grid Automation,Kallstadter Strasse 1 Mannheim  DE 68309 
+MA-L,5CED8C,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,30D042,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,4C6D58,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -17019,6 +17025,8 @@ MA-L,7C78B2,Wyze Labs Inc,4030 Lake Washington Boulevard NE Kirkland WA US 98033
 MA-L,D8373B,"Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd","3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,800384,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,0023A7,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
+MA-L,B8AE1C,"Smart Cube., Ltd","13F.-3, No. 78, Sec. 2, Anhe Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.) Taipei  TW 106 "
+MA-L,6C2D24,"Zhen Shi Information Technology (Shanghai) Co., Ltd.","5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, China Shanghai Shanghai CN 200233 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -22666,6 +22674,10 @@ MA-L,6C0DC4,"Beijing Xiaomi Electronics Co., Ltd.","Building C, QingHe ShunShiJi
 MA-L,C440F6,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,A47D9F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
 MA-L,84EA97,"Shenzhen iComm Semiconductor CO.,LTD","Room 501A,Block B,Digital Building,Garden City,No.1079 Nanhai Road,Nanshan District Shenzhen  CN 518067 "
+MA-L,0055B1,"Shanghai Baud Data Communication Co.,Ltd.",NO.123 JULI RD PUDONG ZHANGJIANG HIGH-TECH PARK SHANGHAI CN 201203 
+MA-L,74901F,Ragile Networks Inc.,35649 Embassy common Fremont ca 94536 Fremont CA US 94536 
+MA-L,549FC6,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,F01D2D,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -28331,3 +28343,5 @@ MA-L,0090D2,Artel Video Systems,5B Lyberty Way Westford MA US 01886
 MA-L,6C1ED7,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,F0AA0B,Arra Networks/ Spectramesh,9201 Ward Pkwy #101 Kansas City MO US 64114 
 MA-L,945641,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,183672,"Shaoxing ShunChuang Technology CO.,LTD",N.O.398 west tongjiang load shangyu Shaoxing Zhejiang CN 312300 
+MA-L,B0A651,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
