@@ -5521,7 +5521,6 @@ MA-L,00869C,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054
 MA-L,40476A,Astro Gaming,"340 Bryant St., Suite 101 San Francisco CA US 94107 "
 MA-L,4CCE2D,Danlaw Inc,23700 research Dr. Farmington Hills MI US 48335 
 MA-L,B87CF2,"Extreme Networks, Inc.",1011 McCarthy Blvd Milpitas CA US 95035 
-MA-L,BC0F9A,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,30B237,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,2462CE,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,BC5A56,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -5774,6 +5773,7 @@ MA-L,A4CCB9,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulo
 MA-L,90FFD6,"Honor Device Co., Ltd.","A1701, Block AB, Building 1, Tianan Yungu Phase I, Gangtou Community, Bantian Street Shenzhen Guangdong CN 518129 "
 MA-L,6CB881,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,989AB9,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,BC0F9A,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -6442,7 +6442,6 @@ MA-L,182D98,Jinwoo Industrial system,"7F,Jinwoo Building,149 dosan-daero seoul g
 MA-L,D8A534,Spectronix Corporation,"3-28-15, Tarumi-cho Suita-city Osaka JP 564-0062 "
 MA-L,EC51BC,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,F079E8,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
-MA-L,78321B,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,601803,"Daikin Air-conditioning (Shanghai) Co., Ltd.","318 Shen Fu Road, Xin Zhuang Industry Zone, Shanghai, 201108, China Shanghai  CN 201108 "
 MA-L,00A096,"MITSUMI ELECTRIC CO.,LTD.","2-11-2, Tsurumaki Tama-shi Tokyo JP 206-8567 "
 MA-L,78617C,"MITSUMI ELECTRIC CO.,LTD.","2-11-2, Tsurumaki Tama-shi Tokyo JP 206-8567 "
@@ -11445,18 +11444,21 @@ MA-L,74B7B3,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University
 MA-L,DC8C1B,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,DC9BD6,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,F85329,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,A4AAFE,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,04E77E,We Corporation Inc.,"201, 33, Deokcheon-ro, Manan-gu Anyang-si Gyeonggi-do KR 14088 "
+MA-L,74ECB2,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,F83B7E,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,8815C5,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,9C28B3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,A07817,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,5C8730,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,B41BB0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,58D349,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,A4AAFE,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,F434F0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,B08C75,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,146B9A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,9C28B3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,4C52EC,SOLARWATT GmbH,Maria-Reiche-Str. 2a Dresden  DE 01109 
+MA-L,78321B,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11918,7 +11920,6 @@ MA-L,A4EA8E,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119
 MA-L,882D53,"Baidu Online Network Technology (Beijing) Co., Ltd.","Baidu Campus, No.10 Shangdi 10th Street, Haidian District Beijing 100085 CN Beijing  CN 100085 "
 MA-L,00D0B5,IPricot formerly DotCom,"10-12, avenue de Verdun La-Garenne-Colombes  FR F-92250 "
 MA-L,746BAB,"GUANGDONG ENOK COMMUNICATION CO., LTD","NO.139 Lixiang road, Songmushan Dalang Town Dongguan, Guangdong  CN 523770 "
-MA-L,0CB6D2,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,7829ED,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,5061BF,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0009DF,Vestel Elektronik San ve Tic. A.Ş.,Organize san Manisa Turket TR 45030 
@@ -12066,7 +12067,6 @@ MA-L,6C54CD,LAMPEX ELECTRONICS LIMITED,"6-2/231/B, Kukatpally, Hyderabad Telanga
 MA-L,000889,Dish Technologies Corp,94 Inverness Terrace E Englewood CO US 80112 
 MA-L,F0B5B7,Disruptive Technologies Research AS,Ytrebygdsvegen 215 Blomsterdalen Hordaland NO 5258 
 MA-L,B4DEDF,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
-MA-L,283B82,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,D4909C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E4E0A6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,580454,ICOMM HK LIMITED,"SUITES 2302-6, 23/F GREAT EAGLE CTR 23 HARBOUR RD  WANCHAI  HK NA "
@@ -17224,6 +17224,9 @@ MA-L,A8817E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,EC6488,"Honor Device Co., Ltd.","A1701, Block AB, Building 1, Tianan Yungu Phase I, Gangtou Community, Bantian Street Shenzhen Guangdong CN 518129 "
 MA-L,74D6CB,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C3AFA,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,283B82,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,0CB6D2,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,8C476E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -17266,7 +17269,6 @@ MA-L,C82B96,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,98523D,"Sunitec Enterprise Co.,Ltd","3F.,No.98-1,Mincyuan Rd.Sindian City Taipei County 231  CN 231141 "
 MA-L,D015A6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,000163,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,60634C,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,205F3D,Cambridge Communication Systems Ltd,"Victory House, Vision Park, Chivers Way, Histon Cambridge  GB CB24 9ZR "
 MA-L,04819B,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,E00084,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -17539,7 +17541,6 @@ MA-L,900EB3,"Shenzhen Amediatech Technology Co., Ltd.","2th floor, block A, buil
 MA-L,549FAE,iBASE Gaming Inc,"2F., No.542-17, Zhongzheng Rd Xinzhuang Dist., New Taipei City  TW 24255 "
 MA-L,1469A2,"SICHUAN TIANYI COMHEART TELECOM CO.,LTD","NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY,  CHENGDU SICHUAN CN 611330 "
 MA-L,548028,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,00AD24,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,54068B,Ningbo Deli Kebei Technology Co.LTD,"zone 2nd , 301#, Road Xuxiake, Ninghai yuelong district ningbo Zhejiang CN 315600 "
 MA-L,60CE92,The Refined Industry Company Limited,"7/F Sun King Factory Bldg,1 - 7 Shing Chuen Road, Shatin, NT Hong Kong NT HK 000000 "
 MA-L,105BAD,Mega Well Limited,"Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
@@ -17757,7 +17758,6 @@ MA-L,002705,Sectronic,Z.I. Les Saulniers Sainte-Maure de Touraine  FR 37800
 MA-L,48BD3D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,184C08,Rockwell Automation,1 Allen-Bradley Dr. Mayfield Heights OH US 44124-6118 
 MA-L,DC0265,Meditech Kft,Üllõi út 200. Budapest  HU 1191 
-MA-L,180F76,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,14A72B,currentoptronics Pvt.Ltd,"CRT Building, Jupitor Jn , Near Time kids Koothattukulam - Piravom Rd ERNAKULAM Time Kids day care IN 686662 "
 MA-L,A4DA22,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,3C1710,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
@@ -22481,7 +22481,6 @@ MA-L,18D0C5,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN R
 MA-L,34ED1B,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,BCA511,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
 MA-L,000A7B,Cornelius Consult,Im Vogelsang 21 Hattingen NRW DE 45527 
-MA-L,C4E90A,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,C4447D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,30E98E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,748B34,"Shanghai Smart System Technology Co., Ltd","Room 902C-1, 560 Shengxia Road, Zhangjiang Hi-Tech Park, Shanghai 201203, China Shanghai Shanghai CN 201210 "
@@ -22525,7 +22524,6 @@ MA-L,E82E0C,NETINT Technologies Inc.,"#306, 3500 Gilmore Way Burnaby BC CA V5G0B
 MA-L,1892A4,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,10082C,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,B0735D,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,F0B4D2,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,5C3A45,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,A03C31,"Shenzhen Belon Technology CO.,LTD",Tsinghua Information Shenzhen Guangdong CN 518052 
 MA-L,A897CD,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
@@ -22916,7 +22914,6 @@ MA-L,60DB98,Calix Inc.,2777 Orchard Pkwy San Jose CA US 95131
 MA-L,249494,Hong Kong Bouffalo Lab Limited,"RM 1903, 19/F Lee Garden One 33 Hysan Avenue, Causeway Bay HongKong  HK 999077 "
 MA-L,30BE3B,Mitsubishi Electric Corporation,"2-7-3 Marunouchi, Chiyoda-ku Tokyo  JP 100-8310 "
 MA-L,0CB789,"Honor Device Co., Ltd.","A1701, Block AB, Building 1, Tianan Yungu Phase I, Gangtou Community, Bantian Street Shenzhen Guangdong CN 518129 "
-MA-L,7898E8,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,7891E9,"Raisecom Technology CO.,LTD","No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
 MA-L,8C3401,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,0034A1,RF-LAMBDA USA INC.,9115 Brown Deer Road | San Diego CA  US 92121 
@@ -22932,6 +22929,13 @@ MA-L,E06D17,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,F0B3EC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F465A6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,ACF85C,"Chengdu Higon Integrated Circuit Design Co,. Ltd.","Suite22-31, 11Floor, Block E5,Tianfu Software Park, Chengdu Gaoxin District Chengdu Sichuan CN 610041 "
+MA-L,180F76,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,00AD24,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,60634C,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,C4E90A,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,F0B4D2,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,E01CFC,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,7898E8,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -23074,7 +23078,6 @@ MA-L,88BCC1,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,1CBFCE,"Shenzhen Century Xinyang Technology Co., Ltd","3F, North Building, Bantian High-tech industrial Zone, No. 2 of Bell Road Shenzhen Guangdong CN 518129 "
 MA-L,F83002,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,A8A159,ASRock Incorporation,"2F., No. 37, Sec. 2, Jhongyang S. Rd., Beitou District, Taipei  TW 112 "
-MA-L,ECADE0,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,78DA07,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000 "
 MA-L,44A61E,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,38D2CA,"Zhejiang Tmall Technology Co., Ltd.","Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province Shenzhen GuangDong CN 518000 "
@@ -23183,7 +23186,6 @@ MA-L,4C218C,Panasonic India Private limited,"12th floor, Ambience tower, Ambienc
 MA-L,2C4E7D,Chunghua Intelligent Network Equipment Inc.,"2F-3, No.5, Sec. 3, New Taipei Blvd.,, XinZhung Dist,  New Taipei City 選擇州 TW 242 "
 MA-L,A4F465,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,4C917A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,F48CEB,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,743A65,NEC Corporation,"7-1, Shiba 5-chome, Minato-ku Tokyo  JP 108-8001 "
 MA-L,00255C,NEC Corporation,"1753, Shimonumabe, Nakahara-Ku, Kawasaki Kanagawa  JP 211-8666 "
 MA-L,684F64,Dell Inc.,One Dell Way Round Rock TX US 78682 
@@ -23323,7 +23325,6 @@ MA-L,48A0F8,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road
 MA-L,F85E3C,"SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD","4F,Bldg A2,Hedian Industrial Park,NO.8 Shijing Rd,Guanlan,Longhua District,ShenZhen,China shengzhen  CN 518110 "
 MA-L,283E76,Common Networks,1390 Market St. Suite 820 San Francisco CA US 94102 
 MA-L,DC3979,"Cisco Systems, Inc",280 Hope Street Mountain View CA US 94041 
-MA-L,58D56E,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,0C5331,ETH Zurich,"Dept. Computer Science, Universitätstr. 6 Zurich ZH CH 8092 "
 MA-L,DC9088,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,54812D,PAX Computer Technology(Shenzhen) Ltd.,"4/F, No.3 Building, Software Park, Second Central Science-Tech Road, High-Tech Shenzhen GuangDong CN 518057 "
@@ -28503,7 +28504,6 @@ MA-L,3C846A,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(f
 MA-L,84D81B,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,7C2ADB,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,8C0E60,"Nanjing Juplink Intelligent Technologies Co., Ltd."," No. 757 Dixiu Road, Binjiang Economic Development Zone, Jiangning District Nanjing Jiangsu CN 211100 "
-MA-L,340A33,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,24A160,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,DCAEEB,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,E8A245,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
@@ -28658,3 +28658,8 @@ MA-L,C40B31,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,BC62CE,"SHENZHEN NETIS TECHNOLOGY CO.,LTD","8 Floor, Bd B, information port, Langshan RD, Nanshan district,  Shenzhen Guangdong CN 518057 "
 MA-L,9409D3,"shenzhen maxtopic technology co.,ltd","F3,Building 4, Ji'an Industrial Park, Songbai Blvd shenzhen guangdong CN 518108 "
 MA-L,3024A9,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,782E56,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,58D56E,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,F48CEB,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,ECADE0,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
+MA-L,340A33,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
