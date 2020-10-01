@@ -556,7 +556,6 @@ IAB,0050C278C,"Giga-tronics, Inc.",4650 Norris Canyon Road San Ramon CA US 94583
 IAB,0050C278F,ELMAR electronic,Hrvatske mornarice 1F Split  HR 21000 
 IAB,0050C278E,GLOBALCOM ENGINEERING SRL,Via Volta 9 MORNAGO VA IT 21020 
 IAB,0050C278D,Telairity,3375 Scott Blvd. #300 Santa Clara CA US 95054 
-IAB,0050C2787,Austco Communication Systems Pty Ltd,40 O'Malley Street Osborne Park Western Australia AU 6017 
 IAB,0050C27A5,Quantum Medical Imaging,"2002 Orville Drive, North Ronkonkoma NY US 11779 "
 IAB,0050C2793,Enertex Bayern GmbH,Erlachstrasse 13 Forchheim Bayern DE 91301 
 IAB,0050C279F,ZAO NPC,"Ostrovskogo, 65 Perm Perm region RU 614007 "
@@ -917,6 +916,7 @@ IAB,0050C2023,"Zabacom, Inc.",5 Choke Cherry Road Rockville MD US 20850
 IAB,0050C2022,Ashling Microsystems Ltd.,National Technology Park   IE  
 IAB,0050C201C,Tadiran Scopus,5 Hatzorf St.   IL  
 IAB,0050C2008,Portable Add-Ons,"Chineham Court, Lutyens Close Hampshire  GB RG24 8AH "
+IAB,0050C2787,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,0050C2065,Clever Devices,1662 Route 300 Newburgh NY US 12550 
 IAB,0050C29F4,"FSR, INC.",244 Bergen Blvd West Paterson  US 07424 
 IAB,0050C2255,STMicroelectronics SRL,"Stradale Primosole, 50 CATANIA  IT 95121 "
@@ -1236,7 +1236,6 @@ IAB,0050C2C31,4D Technology Corporation,"3280 E. Hemisphere Loop,  Tucson Arizon
 IAB,0050C2C2C,bach-messtechnik gmbh,Gotzweg 103 Monchengladbach  DE 41238 
 IAB,0050C2C3B,ELEKTRO-AUTOMATIK GmbH & Co. KG,Helmholtzstraße 31-33 Viersen NRW DE 41747 
 IAB,0050C2C39,SECAD SA,Zac des Pellants St Martin du Fresne  FR 01430 
-IAB,0050C2C26,Austco Communication Systems Pty Ltd,40 O'Malley Street Osborne Park Western Australia AU 6017 
 IAB,0050C2C22,Audient Ltd,1 Stable Court Herriard Hampshire GB RG25 2PL 
 IAB,0050C2C19,Ibercomp SA,C/Lluis Alemany i Pujol 4 Palma de Mallorca Baleares ES 07010 
 IAB,0050C2C1A,"SAM Co., Ltd.",Meguro F2 Building Meguro-ku Tokyo JP 153-0061 
@@ -1742,7 +1741,6 @@ IAB,0050C2090,Invensys Controls Network Systems,1701 Byrd Ave. Richmond VA US 23
 IAB,0050C207D,Caspian Networks,2880 West Bayshore Rd Palo Alto CA US 94303 
 IAB,0050C206D,Advanced Signal Corp.,PO Box 713 Quincy IL US 62306-0713 
 IAB,0050C2061,Simple Network Magic Corporation,401 Kentucky Lane McKinney TX US 75069 
-IAB,0050C2059,"Austco Communication Systems Pty, Ltd",40 O'Malley St Osborne Park Western Australia 6017 AU  
 IAB,0050C2040,"MiSPO Co., Ltd.","Kanagawa Prefecture, Kawasaki City,  JP 213-0002 "
 IAB,0050C203C,BrainBoxes Ltd,"Unit 3C, Wavertree Boulevard South Liverpool L7 9PF, England GB  "
 IAB,0050C203E,MSU UK Ltd,526-528 Elder House Milton Keynes MK9 1LR  GB  
@@ -1764,6 +1762,8 @@ IAB,40D85504C,Serveron Corporation,13550 SW Karl Braun Drive Beaverton OR US 970
 IAB,0050C2C63,Potter Electric Signal Co. LLC,"5757 Phantom Drive, Suite 125 Hazelwood MO US 63042 "
 IAB,40D855163,KMtronic ltd,Dobry Czintulov 28A Gorna Oriahovitca VT BG 5100 
 IAB,0050C20F1,Steelcase Inc.,901 44th Street SE Grand Rapids MI US 49508-7594 
+IAB,0050C2C26,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
+IAB,0050C2059,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C21DD,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
@@ -2243,7 +2243,6 @@ IAB,0050C29D8,"SAMSUNG HEAVY INDUSTRIES CO.,LTD.",Institute of industrial Techno
 IAB,0050C29D6,"Innovation, Institute, Inc",P.O. Box 9359 Caguas Puerto Rico PR 00726-9359 
 IAB,0050C29D7,Melex Inc.,1417-27 Toke-cho Midori-ku  CHIBA JP 2670061 
 IAB,0050C29F6,Ion Sense Inc.,999 Broadway Saugus MA US 01906 
-IAB,0050C29F8,Austco Communication Systems Pty Ltd,40 O'Malley Street Osborne Park Western Australia AU 6017 
 IAB,0050C2A05,Adgil Design Inc.,12915 Brault Mirabel Quebec CA J7J 1P3 
 IAB,0050C2A01,Patronics International LTD,Eurotech House Plymouth Devon GB PL5 3LZ 
 IAB,0050C29FB,Villbau Kft.,Üllői út 611. BUdapest  HU H-1182 
@@ -2724,6 +2723,7 @@ IAB,0050C201D,Princeton Gamma Tech,1010 Commerce Park Dr. Old Ridge TN US 37830
 IAB,0050C200F,XLN-t,Waran De Straat 9B   BE  
 IAB,0050C2A7E,Densitron Technologies Ltd,Saxon Way Royston Herts GB SG8 6DN 
 IAB,0050C2ACC,ProPhotonix,3020 Euro Business Park Co Cork Little Island IE n/A 
+IAB,0050C29F8,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,40D855054,VITEC,"99, rue Pierre Semard Chatillon Ile de France FR 92324 "
 IAB,0050C2DA4,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2E44,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
