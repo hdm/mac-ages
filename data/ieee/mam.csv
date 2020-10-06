@@ -168,7 +168,6 @@ MA-M,A019B2B,"HangZhou iMagic Technology Co., Ltd ","Block F, 11th Floor, Buildi
 MA-M,A019B2D,"RYD Electronic Technology Co.,Ltd.","Room1602,No68 Taidong Road,Siming District,Xiamen City Xiamen FuJian CN 361000 "
 MA-M,D47C44C,STRIVE ORTHOPEDICS INC,505 PARK AVE FL 17 NEW YORK NY US 10022 
 MA-M,D47C44B,OPTiM Corporation,1 Honjo-machi Saga  JP 840-8502 
-MA-M,34049EC,Private,
 MA-M,2C4835D,Phasor Solutions Ltd,"The Record Hall, 16 Baldwin Gardens London  GB EC1N 7RJ "
 MA-M,2C48357,FAST,4740 44th Ave SW Suite #201 Seattle WA US 98116 
 MA-M,3C24F07,Swissdotnet SA,Route Saint-Nicolas-de-Flüe 2 Fribourg  CH 1700 
@@ -703,6 +702,7 @@ MA-M,6879125,"Copper Labs, Inc.",3015 Sterling Circle #200 Boulder CO US 80301
 MA-M,8411C20,Kazdream Technologies LLP,"10, Turkestan Str. Nur-Sultan  KZ 010000 "
 MA-M,8C476E0,Chipsafer Pte. Ltd.,2 Changi South Lane Singapore  SG 486123 
 MA-M,8C476E2,"HuiZhou MIKI Communication Equipment Co.,LTD","NO.39,GuangTai Road HuiNan HI-techindustrial Park.Zhongkai Hi-tech Zone Huizhou  CN 516000 "
+MA-M,34049EC,ClearCaptions LLC,595 Menlo Drive Rocklin  CA US 95765 
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -1350,6 +1350,8 @@ MA-M,687912E,Ametek Solidstate Controls,875 DEARBORN DR COLUMBUS OH US 43085-158
 MA-M,6879129,LEAPS s.r.o.,Na rolich 655/8 Praha 4 Czech CZ 141 00 
 MA-M,34049E9,"Church & Dwight Co., Inc.",500 Charles Ewing Blvd Ewing NJ US 08628 
 MA-M,2415108,Private,     
+MA-M,8C476EA,AU Optronics Corporation,"No. 1 Li-Hsin Rd. 2, Hsinchu Science Park Hsinchu 30078, Taiwan, R.O.C.  TW 802 "
+MA-M,8C476E8,IntelliVIX Co. Ltd.,"4, Hyoryeong-ro 34-gil, Seocho-gu Seoul  KR 06704 "
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -2020,7 +2022,8 @@ MA-M,8411C2A,igus GmbH,Spicher Str. 1a Köln  DE 51147
 MA-M,687912D,Neurolab,"Naberezhnaya Shlyuzovaya, d. 6, str. 3, et. 3, pom. 1 Moscow - RU 115114 "
 MA-M,6879121,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,6879124,McDonald's Corporation,110 N. Carpenter Street Chicago  US 60607 
-MA-M,8C476ED,innolectric AG,Universitaetsstr. 136 Bochum  DE 44879 
+MA-M,8C476E6,Oxford Nanopore Technologies Ltd.,"Gosling Building, Edmund Halley Road, Oxford Science Park Oxford Oxfordshire GB OX4 4DQ "
+MA-M,8C476ED,innolectric AG,Universitaetsstr. 136 Bochum  DE 44799  
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -3354,3 +3357,4 @@ MA-M,8C476E5,Square Inc.,1455 Market St. San Francisco CA US 94103
 MA-M,8C476E4,"Shenzhen Juding Electronics Co., Ltd.","5th Floor, Building B5, Fenghuanggang Third Industrial Zone, No.231, Baotian 1st Road, Baoan District Shenzhen Guangdong CN 518100 "
 MA-M,8C476E1,TelWare Corporation,1824 Industrial Center Circle Charlotte NC US 28213 
 MA-M,8C476EB,Faravid Communication&Data Analysis,"18th unit, No.2, Houman Alley Abbaspour Av.,  Vanak Sq. Tehran IR 1435633413 "
+MA-M,8C476EC,Edge Networks Inc,"943 W. Overland Road, Suite 152 Meridian ID US 83642 "
