@@ -753,7 +753,6 @@ MA-L,84E327,TAILYN TECHNOLOGIES INC,"NO 10 RUNG-AN ROAD, LU-ZHU DISTRICT TAOYUAN
 MA-L,0021B8,Inphi Corporation,"112 S. Lakeview Canyon Rd., Suite 100 Westlake Village CA US 91362 "
 MA-L,0C9160,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,D8ED1C,Magna Technology SL,"C/Principe de Vergara, 55. 3ª planta Madrid  ES 28006 "
-MA-L,D83134,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,408BF6,"Shenzhen TCL New Technology Co., Ltd","TCL Building, #5 Central Nanhai Road, Nanshan District, Shenzhen, Guangdong,  CN 518067 "
 MA-L,00006B,Silicon Graphics,2011 NORTH SHORELINE BLVD. MOUNTAIN VIEW CA US 94039-7311 
 MA-L,74373B,"UNINET Co.,Ltd.","#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu Anyang-si Gyunggi-do KR 14057 "
@@ -1038,7 +1037,6 @@ MA-L,80D4A5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,04B0E7,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,446A2E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,0C8DDB,Cisco Meraki,500 Terry A. Francois Blvd San Francisco null US 94158 
-MA-L,B0EE7B,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,AC587B,JCT Healthcare,1/25 London Road Mile End South South Australia AU 5031 
 MA-L,1062EB,D-Link International,"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
 MA-L,000894,InnoVISION Multimedia Ltd.,"Rm 608, 6/F Tins Enterprises Centre, Kowloon,  HK  "
@@ -5377,7 +5375,6 @@ MA-L,7817BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,F072EA,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,B87BC5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F05136,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
-MA-L,105932,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,207454,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,B8C9B5,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,88ACC0,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
@@ -5773,17 +5770,22 @@ MA-L,0C1773,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,E81E92,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,888E68,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,807484,ALL Winner (Hong Kong) Limited,"Unit No.1301,13F,Sunbeam Plaza,1155 Canton Road,Mongkok,Kowloon,Hong Kong Hong Kong  CN 999077 "
-MA-L,8CAE49,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,7495EC,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595 
-MA-L,00214F,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,0498F3,"ALPSALPINE CO,.LTD",6-1 NISHIDA KAKUDA MIYAGI PREF JP 9876-8501 
 MA-L,64D4BD,"ALPSALPINE CO,.LTD",6-1 KAKUDA-CITY MIYAGI-PREF JP 981-1595 
 MA-L,34C731,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
 MA-L,0006F5,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
 MA-L,000704,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
 MA-L,0006F7,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
-MA-L,BC428C,"ALPSALPINE CO,.LTD",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
+MA-L,88238C,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,20FF36,"IFLYTEK CO.,LTD.","National Intelligent Speech High-tech Industrialization Base, No. 666, Wangjiang Road West, Hefei An hui CN 230088 "
+MA-L,BC428C,"ALPSALPINE CO,.LTD",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
+MA-L,7495EC,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595 
+MA-L,98ED7E,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,8CAE49,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,00214F,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
+MA-L,B0EE7B,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
+MA-L,D83134,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
+MA-L,105932,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11474,6 +11476,7 @@ MA-L,AC7A4D,"ALPSALPINE CO,.LTD",6-1 KAKUDA-CITY MIYAGI-PREF JP 981-1595
 MA-L,04766E,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
 MA-L,687627,"Zhuhai Dingzhi Electronic Technology Co., Ltd","6th floor, No.2 Jinliang Road, Hongqi Town, Jinwan District Zhuhai GuangDong CN 519000 "
 MA-L,200BCF,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
+MA-L,24E4C8,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11521,7 +11524,6 @@ MA-L,8C861E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,542B8D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,001D29,Doro AB,Magistratsvägen 10 Lund  SE 226 43 
 MA-L,ECA5DE,ONYX WIFI Inc,"9891 Irvine Center Drive, Suite 200 Irvine  US 92618 "
-MA-L,8C4962,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,1033BF,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
 MA-L,347563,"SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.","Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District, Shenzhen Guangdong CN 518000 "
 MA-L,142E5E,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115 "
@@ -12338,7 +12340,6 @@ MA-L,EC8A4C,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,D45F25,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,40C8CB,"AM Telecom co., Ltd.","#608,YatapLeaders B/D, Jangmi-ro 42, Bundang-gu Seongnam-si Gyeonggi-do KR 463-828 "
 MA-L,2CABEB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,C83A6B,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,B4C6F8,Axilspot Communication,"A302 Han's Innovation Building, No.9018 Beihuan Ave., Nanshan District Shenzhen  CN 518000 "
 MA-L,9CE951,"Shenzhen Sang Fei Consumer Communications Ltd., Co.","11,Science And Technology Road, Shenzhen Hi-tech Industrial Park, Nanshan District  Shenzhen City Guangdong CN 518057 "
 MA-L,B8D50B,"Sunitec Enterprise Co.,Ltd","3F.,No.98-1,Mincyuan Rd.Sindian City Taipei County 231  CN 231141 "
@@ -17235,18 +17236,22 @@ MA-L,48701E,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,E8C320,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 MA-L,508E49,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,AC3328,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,D476A0,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
-MA-L,B4EC02,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595 
 MA-L,002306,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,002433,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,9C8D7C,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595 
 MA-L,0016FE,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,0019C1,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
-MA-L,E0750A,"ALPSALPINE CO,.LTD",6-1 kakuda-City  US 981-1595 
-MA-L,E0AE5E,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
+MA-L,D476A0,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
+MA-L,80B97A,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,BC7536,"ALPSALPINE CO,.LTD",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
 MA-L,5816D7,"ALPSALPINE CO,.LTD",nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595 
-MA-L,80B97A,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,E0750A,"ALPSALPINE CO,.LTD",6-1 kakuda-City  US 981-1595 
+MA-L,E0AE5E,"ALPSALPINE CO,.LTD","6-3-36 Furukawanakazato, Osaki Miyagi-pref JP 989-6181 "
+MA-L,608D26,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,B4EC02,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595 
+MA-L,1C3929,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 730-030 "
+MA-L,C83A6B,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
+MA-L,8C4962,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -17524,7 +17529,6 @@ MA-L,C03DD9,MitraStar Technology Corp.,"No. 6, Innovation Road II, Hsinchu  TW 3
 MA-L,2CAA8E,Wyze Labs Inc,4030 Lake Washington Boulevard NE Kirkland WA US 98033 
 MA-L,703A51,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,DC48B2,Baraja Pty. Ltd.,36 Bradfield Road West Lindfield NSW AU 2070 
-MA-L,ACAE19,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,181E95,AuVerte,14 Riverview Road Niantic CT US 06357 
 MA-L,0C9541,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
 MA-L,3C3786,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
@@ -22977,6 +22981,8 @@ MA-L,F87A41,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,D439B8,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,30C3D9,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595 
 MA-L,001BFB,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
+MA-L,ACAE19,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
+MA-L,34FEC5,"Shenzhen Sunwoda intelligent hardware Co.,Ltd","No.6-6,Yan Shan Rd.,Baoan District,Shenzhen City,China Shenzhen Guangdong CN 518105 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -28504,7 +28510,6 @@ MA-L,F8F21E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,74A7EA,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,4C7CD9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F0D7AF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,84EAED,"Roku, Inc",150 Winchester Circle Los Gatos CA US 95032 
 MA-L,7CB27D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,04ED33,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,5C80B6,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
@@ -28718,3 +28723,5 @@ MA-L,48F07B,"ALPSALPINE CO,.LTD",6-1 Kakuda Miyagi-Pref JP 981-1595
 MA-L,00145A,Westermo Neratec AG,Rosswiesstrasse 29 CH-8608 Bubikon CH ZH 
 MA-L,A899DC,"i-TOP DESING TECHNOLOGY CO.,LTD","301-302,Rongchengda Building,Dabao Road, Bao an District Shenzhen  CN 518101 "
 MA-L,B07B25,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,1CD1BA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,84EAED,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
