@@ -802,6 +802,7 @@ MA-S,70B3D5560,"DaiShin Information & Communications Co., Ltd","DaiShin I&C Bldg
 MA-S,70B3D51B7,ULSee Inc,"9F, No.97, Jingye 1st Road  Zhongshan Dist.,Taipei City 104451 Taiwan Taipei Taipei TW 104451 "
 MA-S,70B3D5B4B,Network Customizing Technologies Inc,"29, Yuseong-daero 1184beon-gil, Yuseong-gu Daejeon  KR 34109 "
 MA-S,70B3D5CD8,Nexus Electric S.A.,Serú 63 Mendoza Mendoza AR M5500FNA 
+MA-S,70B3D5491,VONSCH,Budovatelska 13 Brezno  SK 97703 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1604,7 +1605,6 @@ MA-S,70B3D5B9A,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO U
 MA-S,70B3D51BE,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D5FAC,"Integrated Protein Technologies, Inc.",PO box 1839 Evanston IL US 60204 
 MA-S,70B3D5290,GETT Geraetetechnik GmbH,Mittlerer Ring 1 Treuen  DE 08233 
-MA-S,70B3D5CEE,ACRIOS Systems s.r.o.,"Tvar?žkova, 2738 Rožnov pod Radhošt?m  CZ 75661 "
 MA-S,70B3D5C47,ABB,Fulachstrasse 150 Schaffhausen  CH 8200 
 MA-S,70B3D5A65,CREATIVE,"801 Chenil Bldg. 266 Hwagokro, Gangseogu seoul KR 07673 "
 MA-S,70B3D5B42,Samwell International Inc,"No. 317-1, Sec.2, An Kang Rd., Hsintien Dist New Taipei City  TW 231 "
@@ -1615,6 +1615,7 @@ MA-S,70B3D5EC2,Lightside Instruments AS,Thorvald Meyers gate 34A Oslo  NO 0555
 MA-S,70B3D55A8,"Farmobile, LLC",4001 West 114th Street  Suite 300 Leawood KS US 66211 
 MA-S,70B3D559E,i2-electronics,Kitazakae 4-13-15-701 Urayasu city Chiba JP 2790002 
 MA-S,70B3D5065,EXATEL,Perkuna 46 Warsaw Mazowieckie PL 04-164 
+MA-S,70B3D5CEE,ACRIOS Systems s.r.o.,"Tvaruzkova, 2738  Roznov pod Radhostem CZ 756 61 "
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2428,8 +2429,8 @@ MA-S,70B3D5C17,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO U
 MA-S,70B3D58D1,Field Design Inc.,"BrightCore 4F, Kita-Shinagaw 5-5-15 Shinagawa-ku Tokyo JP 1410001 "
 MA-S,70B3D5BF0,Alfa Elettronica srl,"Via Amman, 35 Cordenons - - not required - - IT 33084 "
 MA-S,70B3D58E8,PREO INDUSTRIES FAR EAST LTD,"UNIT B, 26/F, AMIATA IND'L BLDG HONG KONG  HK NIL "
-MA-S,70B3D5887,Entec Solar S.L.,C/ Bambú 4 Madrid Madrid ES 28036 
 MA-S,70B3D580E,Utopi Ltd,3 Candymill Lane Hamilton  GB ML3 0FD 
+MA-S,70B3D5887,Entec Solar S.L.,C/ Bambú 4 Madrid Madrid ES 28036 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -4066,3 +4067,6 @@ MA-S,70B3D531A,Terratel Technology s.r.o.,Dukelska 2192 Benesov CZ CZ 25601
 MA-S,70B3D5F9D,Teledyne API,9970 Carroll Canyon Road San Diego CA US 92131-1106 
 MA-S,70B3D581C,"QIT Co., Ltd.","#713, ACE Gwanggyo Tower1, 17, Daehak 4-ro, Yeongtong-gu Suwon-si Gyeonggi-do KR 16226 "
 MA-S,70B3D513F,"Farmobile, LLC",4001 West 114th Street  Suite 300 Leawood KS US 66211 
+MA-S,70B3D5DB9,PULOON Tech,"23-10, Hyoryeong-ro 60 gil, Seocho-gu, Seoul, korea seoul  KR 06721 "
+MA-S,70B3D5C30,Polskie Sady Nowe Podole Sp. z o.o.,Rzymowskiego 17/48 Warsaw Mazowieckie PL 02-297 
+MA-S,70B3D54DA,Private,
