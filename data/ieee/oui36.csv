@@ -69,7 +69,6 @@ MA-S,70B3D5574,Cloud Intelligence Pty Ltd,43/10 Gladstone Rd Castle Hill NSW AU 
 MA-S,70B3D54F2,"COMPAL ELECTRONICS, INC.","No.500, Ruiguang Rd., Neihu District, Taipei  TW 11492 "
 MA-S,70B3D55D4,RCH ITALIA SPA ,VIA CENDON 39 SILEA  TREVISO  IT 31057 
 MA-S,70B3D5330,iOne,"8F-2, #75, sec 1, Hsin Tai Wu Rd., Hsi Chih District New Taipei City, Taiwan  TW 22101 "
-MA-S,70B3D59EE,Private,
 MA-S,70B3D570E,"Wuhan Xingtuxinke ELectronic Co.,Ltd","NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074 "
 MA-S,70B3D5545,Airity Technologies Inc.,1505 Woodside Rd Redwood City CA US 94061 
 MA-S,70B3D5C24,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
@@ -815,6 +814,8 @@ MA-S,70B3D55BD,nexgenwave,"1209 sicox tower, 484 Dunchon-daero, jungwon-gu Sungn
 MA-S,70B3D51FA,EBZ SysTec GmbH,Bleicherstraße 7 Ravensburg  DE  DE 88212 
 MA-S,70B3D5A11,TRIOPTICS,Strandbaddamm 6 Wedel Schleswig-Holstein DE 22880 
 MA-S,70B3D5BD7,TT Group SRL,Via Pazzano 112 Roma RM IT 00118 
+MA-S,70B3D59EE,Lockheed Martin - THAAD,4800 Bradford Drive Huntsville AL US 35805 
+MA-S,70B3D566E,SIAME,RUE DES MATHEMATIQUES GROMBALIA  TN 8030 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1621,7 +1622,6 @@ MA-S,70B3D5C47,ABB,Fulachstrasse 150 Schaffhausen  CH 8200
 MA-S,70B3D5A65,CREATIVE,"801 Chenil Bldg. 266 Hwagokro, Gangseogu seoul KR 07673 "
 MA-S,70B3D5B42,Samwell International Inc,"No. 317-1, Sec.2, An Kang Rd., Hsintien Dist New Taipei City  TW 231 "
 MA-S,70B3D5AFC,BAE Systems,1098 Clark Street Endicott NY US 13760 
-MA-S,70B3D5474,DAYOUPLUS,"3F 509, Dunchon-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea Seongnam-si Gyeonggi-do KR 13217 "
 MA-S,70B3D5C13,"Guangzhou Xianhe Technology Engineering Co., Ltd","No. 30-6, Jiantai Road, Dongyong Town, Nansha District Guangzhou Guangdong CN 511453 "
 MA-S,70B3D5EC2,Lightside Instruments AS,Thorvald Meyers gate 34A Oslo  NO 0555 
 MA-S,70B3D55A8,"Farmobile, LLC",4001 West 114th Street  Suite 300 Leawood KS US 66211 
@@ -1637,6 +1637,7 @@ MA-S,70B3D5E66,Eneon sp. z o.o.,Aleje Jerozolimskie 200 Warsaw  PL 02-486
 MA-S,70B3D58D2,"WIZAPPLY CO.,LTD","1-3-13-5107, Benten Osaka-shi, Minato-ku Osaka-fu JP 552-0007 "
 MA-S,70B3D5B4C,AmericanPharma Technologies,222 N 13th Street   Suite 200 Boise ID US 83702 
 MA-S,70B3D5B0D,ALFI,Via Castelletto 20 Borgo Ticino NO IT 28040 
+MA-S,70B3D572B,Medipense Inc.,9145 rue Boivin Montreal Quebec CA H8R 2E5 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2456,6 +2457,7 @@ MA-S,70B3D5527,Procon Electronics Pty Ltd,P O Box 164 Seven Hills NSW AU 1730
 MA-S,001BC5030,OctoGate IT Security Systems GmbH,Klingender Strasse 5 Paderborn NRW DE 33100 
 MA-S,70B3D5D83,AKASAKATEC  INC.,3F Marina Plaza 4-2 Shiraho kanazawa-ku Yokohamashi  JP 2360007 
 MA-S,70B3D5B12,VTEQ,Conca de Barbera Castellar del Vallés Barcelona / Spain ES 08122 
+MA-S,70B3D5520,promedias AG,Grabenackerstrasse 27 Oberhasli ZH CH CH-8156 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3295,7 +3297,10 @@ MA-S,70B3D598D,Motohaus Powersports Limited,"Motohaus Powersports Limited, 1a Ro
 MA-S,70B3D5792,IMMOLAS,Aleje Jerozolimskie 85/21 Warszawa  PL 02-001 
 MA-S,70B3D504F,EVPU Defence a.s.,Jaktare 1781 Uherske Hradiste  CZ 686 01 
 MA-S,70B3D55A4,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
+MA-S,70B3D51B0,NAL Research Corporation,"11100 Endeavor Ct, Suite 300 Manassas VA US 20109 "
+MA-S,70B3D56C0,"LLC ""NTZ ""Mekhanotronika""","Pionerstroya, build 23a Saint-Petersburg  RU 198206 "
 MA-S,70B3D5CA6,AXING AG,Gewerbehaus Moskau Ramsen  CH 8262 
+MA-S,70B3D5128,Akse srl,"Via Aldo Moro, 39 Reggio Emilia Italy IT 42124 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
