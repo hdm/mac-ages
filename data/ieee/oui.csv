@@ -5869,6 +5869,8 @@ MA-L,CC9C3E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158
 MA-L,4829E4,"   ZAO ""NPK Rotek""",Prospekt Mira Moscow  RU 129223 
 MA-L,FCA9DC,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,FC584A,"xiamenshi c-chip technology co., ltd",Baoyuan Road Shenzhen City Guangdong Province CN 518101 
+MA-L,78653B,"Shaoxing Ourten Electronics Co., Ltd.","3rd Floor # 7, No. 1732 Yanhua industrial park West Renmin Road,Shangyu Shaoxing Zhejiang CN 312000 "
+MA-L,E0E656,Nethesis  srl,strada degli olmi 12 Pesaro Pesaro e Urbino IT 61122 
 MA-L,9023B4,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,882A5E,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
@@ -11639,8 +11641,10 @@ MA-L,A47E36,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074
 MA-L,B05DD4,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,24E853,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,307C4A,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,F021E0,eero inc.,660 3rd Street San Francisco  US 94107 
 MA-L,2CCE1E,Cloudtronics Pty Ltd,Unit 1 6 Powells Road Brookvale Sydney NSW AU 2100 
+MA-L,F021E0,eero inc.,660 3rd Street San Francisco  US 94107 
+MA-L,2CFDB3,"TCL Technoly Electronics(Huizhou).,Ltd","Section 37, Zhongkai Hi-Tech Development Zone Huizhou Guangdong CN 516006 "
+MA-L,9CDBCB,"Wuhan Funshion Online Technologies Co.,Ltd","5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -17490,6 +17494,8 @@ MA-L,00682B,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,F09E4A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,F077C3,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,CCDB04,DataRemote Inc.,18001 Old Cutler Rd. Suite 600 Palmetto Bay FL US 33157 
+MA-L,D85ED3,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
+MA-L,249AD8,"YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.","309, 3th Floor, No.16, Yun Ding North Road, Huli District xiamen Fujian CN 361015 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -23291,12 +23297,12 @@ MA-L,00E0DF,DZS GmbH,Wohlenbergstrasse. 3 Hannover  DE 30179
 MA-L,E0E8BB,"Unicom Vsens Telecommunications Co., Ltd.","Room612,613,615,6Floors,Block3,Hengji center,N0.18 Jianguomen inner Street,Dondcheng Distict, Beijing,P.R.China Beijing  CN 100005 "
 MA-L,E4C90B,Radwin,Habarzel 27 Tel Aviv -- select -- IL 6971039 
 MA-L,982782,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,E455A8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,38A067,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,CC812A,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,7C1B93,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,DC2D3C,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,38A067,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,041119,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,E455A8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -29118,6 +29124,6 @@ MA-L,509707,"Xiamen Paperang Technology Co.,Ltd.","Unit 1702-1703, 17/F, No.55, 
 MA-L,EC63D7,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,14857F,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,7C9F07,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road SHANGHAI  CN 201114 "
-MA-L,94E23C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,1C87E3,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
+MA-L,94E23C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,20B730,"TeconGroup, Inc","3rd Khoroshevskaya str., 20, floor 1, room 112 Moscow  RU 123423 "
