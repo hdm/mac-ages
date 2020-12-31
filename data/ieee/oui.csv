@@ -5888,12 +5888,13 @@ MA-L,4044FD,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulo
 MA-L,E8FD35,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,ECC5D2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,B4608C,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,B814DB,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 730-030 "
 MA-L,8C2A8E,DongGuan Ramaxel Memory Technology,"No.32, Industrial East Road,Innovation Park, High-tech Industrial Development Zone, Songshan Lake, Dongguan City, Guangdong Province,China DongGuan Guangdong CN 523808 "
 MA-L,80071B,"VSOLUTION TELECOMMUNICATION TECHNOLOGY CO.,LTD.","Room 601,Originality Building B2, NO.162 Science Avenue,Science Town Guangzhou Guangdong CN 510663 "
-MA-L,1C6EE6,NHNETWORKS,"54,Chemdanyeonsin-ro 30beon-gil,Buk-gu Gwangju  KR 61080 "
-MA-L,08F606,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,FC9C98,Arlo Technology,3030 Orchard Parkway San Jose CA US 95134 
+MA-L,1C6EE6,NHNETWORKS,"54,Chemdanyeonsin-ro 30beon-gil,Buk-gu Gwangju  KR 61080 "
+MA-L,FC13F0,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
+MA-L,08F606,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,B814DB,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 730-030 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11680,6 +11681,8 @@ MA-L,E86CC7,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,147D05,SERCOMM PHILIPPINES INC,"Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City Calamba  PH Lot 1 "
 MA-L,787A6F,Juice Technology AG,Gewerbestrasse 7 Cham Select State CH CH-6330 
 MA-L,8C31E2,DAYOUPLUS,"3F 509, Dunchon-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea Seongnam-si Gyeonggi-do KR 13217 "
+MA-L,4024B2,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
+MA-L,640D22,LG Electronics (Mobile Communications),"60-39, Gasan-dong, Geumcheon-gu Seoul  KR 153-801 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -17546,8 +17549,9 @@ MA-L,D8CD2C,"WUXI NEIHUA NETWORK TECHNOLOGY CO., LTD","16 Lexing Road, Xinwu  Di
 MA-L,58D391,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,08474C,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,90C119,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,E405F8,Bytedance,"China Digital Kingdom Building, Chaoyang District Beijing Beijing CN 100102 "
 MA-L,7CF880,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,E405F8,Bytedance,"E World Center,11 Zhongguancun Street Haidian Dist Beijing City Beijing CN 100102 "
+MA-L,F845C4,"Shenzhen Netforward Micro-Electronic Co., Ltd.","Room 611-2?6st Floor,Building 1, The Sunmax Technology Park, No 8 Keyuan Road, Nanshan District Shenzhen Guangdong CN 518000 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -29219,3 +29223,5 @@ MA-L,F46AD7,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052
 MA-L,481F2D,"Shenzhen Jie Shi Lian Industrial Co.,LTD","6F,C Building,Jinao Industrial Park,Juling Rd,Guanlan Town,Longhua Shenzhen Guangdong CN 518000 "
 MA-L,1409B4,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,101081,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,08A189,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
+MA-L,04C29B,"Aura Home, Inc.","50 Eldridge Street, Suite 5D New York NY US 10002 "
