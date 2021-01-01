@@ -49,11 +49,11 @@ end
 
 def load_ieee_urls
 	ieee_urls =  [
-		["http://standards-oui.ieee.org/oui/oui.csv", 25453],
-		["http://standards-oui.ieee.org/cid/cid.csv", 79], 
+		["http://standards-oui.ieee.org/oui/oui.csv", 29227],
+		["http://standards-oui.ieee.org/cid/cid.csv", 115], 
 		["http://standards-oui.ieee.org/iab/iab.csv", 4576],
-		["http://standards-oui.ieee.org/oui28/mam.csv", 2252],
-		["http://standards-oui.ieee.org/oui36/oui36.csv", 2878],
+		["http://standards-oui.ieee.org/oui28/mam.csv", 3484],
+		["http://standards-oui.ieee.org/oui36/oui36.csv", 4154],
     ]
     ieee_urls.each do |url_info|
     	url_path, url_min_records = url_info
