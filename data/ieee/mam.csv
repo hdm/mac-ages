@@ -938,7 +938,6 @@ MA-M,C4FFBCB,"KAGA ELECTRONICS CO.,LTD.",20 Kandamatsunaga-cho Chiyoda-ku TOKYO 
 MA-M,9C431E4,"Wireless Environment, LLC","600 Beta Drive Unit 100 Mayfield Village, OH 44143,US Mayfield Village OH US 44143 "
 MA-M,9C431E1,Symfun Telecom Ltd,Floor 4 Building 11 Xi Qi Dian Jia Yuan Beijing  CN 100083 
 MA-M,9C431E7,Optris GmbH,Ferdinand-Buisson-Str. 14 Berlin  DE 13127 
-MA-M,2CD141D,Private,
 MA-M,282C022,Shenzhen emb-star technology co. LTD,"2/f,building C,qinghu science park,qingxiang road,qinghu,longhua new district shenzhen Guangdong CN 518131 "
 MA-M,F8B568B,Whizpace Pte. Ltd.,"77 Ayer Rajah Crescent, #02-30 Singapore  SG 139954 "
 MA-M,F8B5688,Maven Wireless AB,Torshamnsgatan 35 KISTA  SE 164 40 
@@ -1419,6 +1418,7 @@ MA-M,1CA0EF8,Zillnk,"No. 505, 5 / F, Unit 2, building 1, No. 777, North Section 
 MA-M,1CA0EF4,Leviathan Solutions Ltd.,Abel Jeno utca 23 Budapest  HU 1113 
 MA-M,20CE2A1,"Shanghai Digicube Info&Tech Co.,Ltd.","Room B, 9th floor, building 1, Hongqiao headquarters, 100 Zixiu Road,  Shanghai Minhang District CN 201103 "
 MA-M,20CE2A8,Intelligraphics,"11615 Angus Road, Suite #104L Austin TX US 78759 "
+MA-M,2CD141D,Square Inc.,1455 Market St. San Francisco CA US 94103 
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -2833,6 +2833,9 @@ MA-M,20CE2AD,LAUDA DR R WOBSER GMBH & CO KG,Pfarrstrasse 41/43 Lauda-Koenigshofe
 MA-M,20CE2A9,Rugged Monitoring,"1415 Frank-Carrel, Suite 230 Quebec City Quebec CA G1N4N7 "
 MA-M,20CE2A5,Zaber Technologies Inc.,#2 - 605 West Kent Ave. N. Vancouver B.C. CA V6P 6T7 
 MA-M,20CE2AB,Swarovski Optik KG,Daniel Swarovski Street 70 Absam  AT 6067 
+MA-M,88C9B35,"Brabender Technologie GmbH & Co, KG",Kulturstrasse 49 Duisburg  DE 47055 
+MA-M,20CE2AE,Funkwerk Systems GmbH,Im Funkwerk 5 Koelleda  DE 99625 
+MA-M,88C9B34,Hasbro Inc,1027 Newport Ave Pawtucket RI US 02861 
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
