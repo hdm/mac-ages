@@ -5939,11 +5939,13 @@ MA-L,D047C1,Elma Electronic AG,Hofstrasse 93 Wetzikon Zuerich CH 8620
 MA-L,103D1C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,3887D5,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,C42360,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,C0CC42,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
-MA-L,DC215C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,08010F,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,185207,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,E0C63C,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,DC215C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,C0CC42,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
+MA-L,BCECA0,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
+MA-L,F8BAE6,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11794,17 +11796,19 @@ MA-L,4456E2,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow
 MA-L,54AED2,CSL Dualcom Ltd,"Salamander Quay West, Park Lane Harefield Middlesex GB UB9 6NZ "
 MA-L,4CD3AF,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
 MA-L,C47469,BT9,Dolev 33 Tefen  IL 2495900 
-MA-L,C85142,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,10E4C2,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,0C8DCA,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,40F420,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
-MA-L,CCA260,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
-MA-L,ACE77B,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,645D92,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan Chengdu Sichuan CN 610000 "
 MA-L,9C6121,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,E04FBD,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
-MA-L,5CA176,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,582FF7,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,40F420,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,CCA260,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,ACE77B,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,5CA176,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,C85142,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,10E4C2,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,0C8DCA,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,B027CF,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
+MA-L,683A48,"SAMJIN Co., Ltd.","199-6, Anyang 7-dong, Manan-gu Anyang-si Gyeonggi-do KR 430-817 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -17736,6 +17740,9 @@ MA-L,5049B0,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,E805DC,Verifone Inc.,"2560 North First Street, Suite 220 San Jose CA US 95131 "
 MA-L,C4A151,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,7847E3,"Sichuan Tianyi Comheart Telecom Co.,LTD","NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY,  CHENGDU SICHUAN CN 611330 "
+MA-L,107BCE,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,2897B8,myenergi Ltd,"Church View Business Centre, Binbrook Market Rasen Lincolnshire GB LN8 6BY "
+MA-L,48062B,Private,
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -23623,18 +23630,20 @@ MA-L,201E88,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,5466F9,ConMet,5701 SE Columbia Way Vancouver   WA US 98661 
 MA-L,1012B4,"Sichuan Tianyi Comheart Telecom Co.,LTD","NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY,  CHENGDU SICHUAN CN 611330 "
 MA-L,5813D3,"Gemtek Technology Co., Ltd.",No.15-1 Zhonghua Road Hukou Hsinchu TW 30352 
-MA-L,88C9B3,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,C8BD69,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,A87650,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,54D17D,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,603AAF,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,8048A5,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,TianYi International Hotel Chengdu Sichuan CN 61000 "
-MA-L,643AB1,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan Chengdu Sichuan CN 610000 "
-MA-L,44BA46,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,9C32A9,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,68262A,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,B8224F,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
 MA-L,908674,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,643AB1,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan Chengdu Sichuan CN 610000 "
+MA-L,44BA46,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu Sichuan CN 610000 "
+MA-L,C8BD69,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,A87650,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,54D17D,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,603AAF,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,88C9B3,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,8048A5,"Sichuan Tianyi Comheart Telecom Co.,LTD","FL12,TowerB,TianYi International Hotel Chengdu Sichuan CN 61000 "
+MA-L,589153,China Mobile IOT Company Limited,"NO.8 Yu Ma Road, NanAn Area Chongqing Chongqing CN 401336 "
+MA-L,987DDD,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
