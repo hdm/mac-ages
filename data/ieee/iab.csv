@@ -963,7 +963,6 @@ IAB,0050C2C0A,"ABB Transmission and Distribution Automation Equipment (Xiamen) C
 IAB,0050C2403,Rohde&Schwarz Topex SA,"71th-73th Nicolae Caramfil street, 2nd floor, 1th district Bucuresti Romania RO 014142 "
 IAB,0050C242C,Trapeze Software Group Inc,5265 Rockwell Drive NE Cedar Rapids IA US 52402 
 IAB,0050C21F3,Radionor Communications,Ingvald Ystgaards vei 23 N-7047 Trondheim NO 0000 
-IAB,40D85500C,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2E6A,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2E00,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2DAB,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
@@ -1764,6 +1763,7 @@ IAB,0050C20F1,Steelcase Inc.,901 44th Street SE Grand Rapids MI US 49508-7594
 IAB,0050C2C26,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,0050C2059,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,0050C2C63,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
+IAB,40D85500C,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C21DD,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
@@ -1822,8 +1822,6 @@ IAB,0050C2DE1,"ABB Transmission and Distribution Automation Equipment (Xiamen) C
 IAB,0050C25E2,PYRAMID Computer GmbH,Boetzinger Strasse 60 Freiburg BW DE 79111 
 IAB,0050C28C8,Pumatronix Equipamentos Eletronicos Ltda.,"Rua Algacyr Munhoz Mader, 3775 Curitiba Paraná BR 81350-010 "
 IAB,40D85506C,Rohde&Schwarz Topex SA,"71th-73th Nicolae Caramfil street, 2nd floor, 1th district Bucuresti Romania RO 014142 "
-IAB,40D85518A,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
-IAB,40D855110,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2B49,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,40D855102,"Power Electronics Espana, S.L.","Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
 IAB,0050C2ED5,"RFL Electronics, Inc.",353 Powerville Road Boonton Township NJ US 07005 
@@ -2724,6 +2722,8 @@ IAB,0050C200F,XLN-t,Waran De Straat 9B   BE
 IAB,0050C2A7E,Densitron Technologies Ltd,Saxon Way Royston Herts GB SG8 6DN 
 IAB,0050C2ACC,ProPhotonix,3020 Euro Business Park Co Cork Little Island IE n/A 
 IAB,0050C29F8,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
+IAB,40D855110,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
+IAB,40D85518A,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
 IAB,40D855054,VITEC,"99, rue Pierre Semard Chatillon Ile de France FR 92324 "
 IAB,0050C2DA4,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2E44,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
@@ -2778,8 +2778,6 @@ IAB,0050C2855,Rohde&Schwarz Topex SA,"71th-73th Nicolae Caramfil street, 2nd flo
 IAB,0050C2E2A,Rohde&Schwarz Topex SA,"71th-73th Nicolae Caramfil street, 2nd floor, 1th district Bucuresti Romania RO 014142 "
 IAB,0050C2EE4,Rohde&Schwarz Topex SA,"71th-73th Nicolae Caramfil street, 2nd floor, 1th district Bucuresti Romania RO 014142 "
 IAB,40D85519A,Rohde&Schwarz Topex SA,"71th-73th Nicolae Caramfil street, 2nd floor, 1th district Bucuresti Romania RO 014142 "
-IAB,40D8550BC,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
-IAB,40D855060,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2F08,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C20F8,Tecnint HTE SRL,Via della tecnica 16/18 Osnago (Lecco)  IT 23875 
 IAB,0050C27F4,Wireless Cables Inc.,"1414 Soquel Ave, Ste 212 Santa Cruz CA US 95062 "
@@ -3600,6 +3598,8 @@ IAB,0050C2281,Cabtronix AG,Hohstrass 1 Kloten Zuerich CH 8302
 IAB,0050C23F3,Hitachi ABB Power Grids – Grid Automation,Kallstadter Strasse 1 Mannheim  DE 68309 
 IAB,40D85506A,elgris UG,Krantzstr 7 Aachen NRW DE 52070 
 IAB,40D8550C7,insensiv GmbH,Auf dem Esch 28 Bielefeld Nordrhein-Westfalen DE 33619 
+IAB,40D855060,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
+IAB,40D8550BC,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
 IAB,0050C2CB3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2DE0,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. Edificio Oficentro Tres Cantos Madrid ES 28760 
 IAB,40D855076,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. local 26 Tres Cantos Madrid ES 28760 
@@ -3652,9 +3652,6 @@ IAB,0050C28FB,Alfred Kuhse GmbH,An der Kleinbahn 39 Winsen (Luhe) Niedersachsen 
 IAB,0050C2594,"Pixel Velocity, Inc",3917 Research Park Drive Ann Arbor MI US 48108 
 IAB,0050C2186,Pantec Engineering AG,Industriezone Mauren Liechtenstein LI 9493 
 IAB,0050C2FB7,Pounce Consulting,Av 8 de Julio 1295 Guadalajara  Jalisco MX 44190 
-IAB,40D8551DC,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
-IAB,40D85516A,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
-IAB,40D855147,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2F6F,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2EC3,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
 IAB,0050C2D11,Aplex Technology Inc.,"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054 "
@@ -4574,3 +4571,6 @@ IAB,0050C2139,SR RESEARCH LTD,740 Meadow Wood Road Mississauga Ontario CA L5J 2S
 IAB,0050C2DF4,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 IAB,0050C27EC,Lyngsoe Systems,101 Simona Dr Unit 2 Bolton Ontario CA L7E 4E8 
 IAB,0050C23D4,"Wisnu and Supak Co.,Ltd.",102/111-112 Moo-Ban Sinpattanathanee Jatujak Bangkok TH 10900 
+IAB,40D855147,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
+IAB,40D85516A,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
+IAB,40D8551DC,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
