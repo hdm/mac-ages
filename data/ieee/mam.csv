@@ -755,6 +755,7 @@ MA-M,1874E26,"Beijing Jrunion Technology Co., Ltd.","Room 01, 2nd Floor, Buildin
 MA-M,FCCD2F5,"QCTEK CO.,LTD.","6F-1., No.496, Bannan Rd., Zhonghe Dist., New Taipei City New Taipei City TW 235 "
 MA-M,E878297,"FAIOT Co., LTD","Room 1101, Building 23, No.1999 Yishan Road, Minhang District Shanghai  CN 200233 "
 MA-M,E878298,"JVISMall CO.,LTD","Rm903, BY B/D, Seogang-ro133, Mapo Gu Seoul  KR 04058 "
+MA-M,E878294,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -3047,7 +3048,6 @@ MA-M,3C427E6,Edit Srl,Via Grotte di Nottola 10 Cisterna di Latina Latina IT 0401
 MA-M,3C427E8,UBTECH ROBOTICS CORP,"22 Floor, Block C1, Nanshan I Park, No. 1001 Xueyuan Road, Nanshan District, Shenzhen guangdong CN 518071 "
 MA-M,A0C5F20,"Quantlab Financial, LLC","3 Greenway Plaza, Suite 200 3 Greenway Plaza TX US 77046 "
 MA-M,B44BD65,ShenZhen Comstar Technology Company,Pengnian Science Park Building A 314 Shenzhen Guangdong CN 518040 
-MA-M,B44BD62,"Shenzhen Cudy Technology Co., Ltd.","The Great Wall Building,No3 Kefa Road Shenzhen Guangdong CN 518000 "
 MA-M,B44BD6D,ELLETA SOLUTIONS LTD,Yetsi'at Eropa Street 20 Hadera  IL 3848427 
 MA-M,3C427EB,Compal Electronics INC.,"No.8 , Nandong Road , PingZhen Dist. Taoyuan  Taiwan  TW 32455 "
 MA-M,A019B25,"SZBROAD   TECHNOLOGY (HK) CO.,LTMITED",FLAT/RM 5 BLK B 14/F WAH HEN COMMERCIAL CENTRE  383 HENNESSY ROAD WANCHAI Hong Kong HK 00000 
@@ -3632,7 +3632,9 @@ MA-M,1874E27,"Sansec Technology Co.,Ltd",Bejing Chaoyang District Guangshun Nort
 MA-M,D09FD9B,"Cablewireless Laboratory Co., Ltd","Room 218,  Block E1, Yuanchenxin Building, 12 Yumin Road, Chaoyang District Beijing  CN 100029 "
 MA-M,1874E23,CT Company,"Godovikova , 9, Moscow Moscow RUSSIA RU 129085 "
 MA-M,1874E20,Ensor AG,Riedstrasse 11 Cham Zug CH CH - 6330 
-MA-M,1874E24,Private,
 MA-M,E878299,Ryu Tech. LTD,"No.10 Lane 369,Yuan Taung Rd.JhoneHe City Taipei Taiwan,R.O.C TW 235 "
-MA-M,E878292,Galcon,Kfar Blum  israel Kfar Blum Israel  IL 121500 
 MA-M,E87829B,Private,
+MA-M,B44BD62,"Shenzhen Cudy Technology Co., Ltd.","Room A606, Gaoxinqi Industrial Park, Baoan 67 Dist Baoan 67 District, Shenzhen  CN 518000 "
+MA-M,E878292,Galcon,Kfar Blum  israel Kfar Blum Israel  IL 121500 
+MA-M,1874E24,Private,
+MA-M,E878295,"SHEN ZHEN SKYSI WISDOM TECHNOLOGY CO.,LTD.","Room 1106,11th floor, National Technology Building, no. 109, Baoshen Road, Songpingshan community, Xili Street, Nanshan district, Shenzhen City SHENZHEN GUANGDONG CN 518000 "
