@@ -780,7 +780,6 @@ MA-L,8C5F48,Continental Intelligent Transportation Systems LLC,3901 North First 
 MA-L,947EB9,National Narrowband Network Communications Pty Ltd,"Unit 10, 1 Talavera Road Macquarie Park New South Wales AU 2113 "
 MA-L,646E69,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
 MA-L,706BB9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,D4389C,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,00C0EE,KYOCERA Display Corporation,2-14-9 TAMAGAWADAI tokyo 158 JP 0000 
 MA-L,245FDF,KYOCERA CORPORATION ,"2-1-1,Kagahara, Yokohama-shi Kanagawa JP 224-8502 "
 MA-L,9C63ED,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
@@ -1561,15 +1560,6 @@ MA-L,40F02F,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsi
 MA-L,74C246,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,000FA3,Alpha Networks Inc.,"No.8 Li-shing 7th Rd.,Science-based Industrial Park Hsinchu  TW 300 "
 MA-L,001D6A,Alpha Networks Inc.,"No.8 Li-shing Seventh Road,Science-based Hsinchu  US 300 "
-MA-L,002345,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,6C0E0D,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,6C23B9,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,3017C8,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,0012EE,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001620,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001963,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001FE4,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,205476,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,001A80,Sony Corporation,"Gotenyama Tec, 5-1-2 Kitashinagawa Tokyo  JP 141-0001 "
 MA-L,8841FC,AirTies Wireless Networks,"Gulbahar Mahallesi, Avni Diligil Sokak ISTANBUL ISTANBUL TR 34394 "
 MA-L,0030D3,"Agilent Technologies, Inc.",1501 Page Mill Road Palo Alto CA US 94304-1126 
@@ -2300,7 +2290,6 @@ MA-L,7C6AB3,IBC TECHNOLOGIES INC.,1445 CHARLES STREET Vancouver British Columbia
 MA-L,181BEB,"Actiontec Electronics, Inc",3301 Olcott St. Santa Clara CA US 95054 
 MA-L,84A783,Alcatel Lucent,"Via Energy Park, 14 Vimercate MB IT 20871 "
 MA-L,041A04,WaveIP,1 Sky street Misgav  IL 20179 
-MA-L,68764F,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,34A5E1,Sensorist ApS,Nyhavn 16 Copenhagen K Sjaelland DK 1051 
 MA-L,8079AE,"ShanDong Tecsunrise  Co.,Ltd","B316,F-2,QiLu Soft Park, JiNan ShanDong CN 250101 "
 MA-L,7CBD06,AE REFUsol,Uracher Str. 91 Metzingen Baden-Württemberg DE 72555 
@@ -5954,44 +5943,55 @@ MA-L,047153,SERNET (SUZHOU) TECHNOLOGIES CORPORATION,"NO.8 Tangzhuang Road,Suzho
 MA-L,48E7DA,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,40C48C,"N-iTUS CO.,LTD.","NiTUS 85, Deokcheon-ro Anyang-si Gyeonggi-do, Korea KR 14086 "
 MA-L,482218,"Shenzhen Yipingfang Network Technology Co., Ltd.","21 / F, Kangjia R & D building, No.28, Keji South 12th Road, Nanshan District, Shenzhen City, Guangdong Province, China Shenzhen Nanshan District CN 518000 "
+MA-L,2C4881,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
+MA-L,30A176,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,E40CFD,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,58D697,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,5437BB,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,60F8F2,Synaptec,204 George Street Glasgow  GB G1 1XW 
 MA-L,AC74B1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,30A176,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,F4E451,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,1C3CD4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,F4E451,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,6026EF,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,F46077,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,249AC8,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,C03C04,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,A4D73C,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
-MA-L,2C4881,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
-MA-L,6026EF,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,6C108B,WeLink Communications,4186 N Red Maple Court Lehi UT US 84043 
 MA-L,F88EA1,Edgecore Networks Corporation,1 Creation RD 3. Hsinchu  TW 30077 
 MA-L,7C8530,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,64D02D,NEXT GENERATION INTEGRATION LIMITED (NGI),"Unit 1102, 11 / F, 29 Austin Road, TSIM SHA TSUI KOWLOON Hong Kong HK 999077 "
+MA-L,F463E7,"Nanjing Maxon O.E. Tech. Co., LTD","6/F, Building A3, Zidong International Creative Park, Zidong Road, Qixia District, Nanjing NAN JING JIANG SU CN 210000 "
 MA-L,2428FD,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
 MA-L,88AEDD,"EliteGroup Computer Systems Co., LTD","No. 239, Sec. 2, Ti ding Blvd. Taipei City  TW 11493 "
+MA-L,64D02D,NEXT GENERATION INTEGRATION LIMITED (NGI),"Unit 1102, 11 / F, 29 Austin Road, TSIM SHA TSUI KOWLOON Hong Kong HK 999077 "
 MA-L,A0E70B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,B0D888,Panasonic Corporation Automotive,5652 Matsumoto City Nagano JP 399-8730 
-MA-L,F463E7,"Nanjing Maxon O.E. Tech. Co., LTD","6/F, Building A3, Zidong International Creative Park, Zidong Road, Qixia District, Nanjing NAN JING JIANG SU CN 210000 "
 MA-L,04EEEE,"Laplace System Co., Ltd.","1-245 Kyo-machi Fushimi, Kyoto Kyoto JP 6128083 "
-MA-L,6C108B,WeLink Communications,4186 N Red Maple Court Lehi UT US 84043 
-MA-L,902E16,"LCFC(HeFei) Electronics Technology co., ltd",YunGu Road 3188-1 Hefei Anhui CN 230000 
 MA-L,68966A,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 730-030 "
-MA-L,38453B,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
+MA-L,902E16,"LCFC(HeFei) Electronics Technology co., ltd",YunGu Road 3188-1 Hefei Anhui CN 230000 
 MA-L,7806C9,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,34FE9E,Fujitsu Limited,"4-1-1 Kamikodanaka, Nakahara-ku Kawasaki-shi Kanagawa JP 211-8588 "
 MA-L,E8A6CA,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,CCFA66,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,34243E,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,1C7D22,FUJIFILM Business Innovation Corp.,"6-1 Minatomirai, Nishi-ku Yokohama Kanagawa JP 220-8668 "
-MA-L,24085D,Continental Aftermarket & Services GmbH,Sodener Strasse 9 Schwalbach am Taunus Hessen DE 65824 
+MA-L,34FE9E,Fujitsu Limited,"4-1-1 Kamikodanaka, Nakahara-ku Kawasaki-shi Kanagawa JP 211-8588 "
 MA-L,0C718C,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,E030F9,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,24085D,Continental Aftermarket & Services GmbH,Sodener Strasse 9 Schwalbach am Taunus Hessen DE 65824 
+MA-L,34243E,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,38453B,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,F44637,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,6450D6,Liquidtool Systems,Winterseistrasse 22 Hasle-Rüegsau Bern CH 3415 
+MA-L,68764F,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,205476,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,3017C8,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,6C23B9,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,6C0E0D,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,002345,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001FE4,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001963,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,001620,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,0012EE,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,D4389C,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -7379,14 +7379,8 @@ MA-L,ACE010,Liteon Technology Corporation,"4F, 90, Chien 1 Road, ChungHo New Tai
 MA-L,747548,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,0000B1,Alpha Micro,3501 SUNFLOWER SANTA ANA CA US 92704 
 MA-L,001802,Alpha Networks Inc.,"No.8 Li-shing Seventh Road,Science-based Industrial Park Hsinchu  TW 300 "
-MA-L,001E45,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001CA4,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001A75,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,78843C,Sony Corporation,"Gotenyama Tec,5-1-12, Shinagawa-ku Tokyo JP 141-0001 "
 MA-L,0013A9,Sony Corporation,"Gotenyama Tec, 5-1-2 Kitashinagawa Tokyo  JP 141-0001 "
-MA-L,000AD9,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,000E07,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,94CE2C,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,FC0FE6,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,74DE2B,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan, TaiPei TaiWan TW 23585 "
 MA-L,00225F,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan, TaiPei TaiWan TW 23585 "
@@ -7396,7 +7390,6 @@ MA-L,2CD05A,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo New Taipei
 MA-L,74E543,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
 MA-L,0015CF,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,6CFAA7,"AMPAK Technology, Inc.","No.1,Jen Ai Road Hsinchu  TW 30352 "
-MA-L,0023F1,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,54E4BD,FN-LINK TECHNOLOGY LIMITED,"5th Floor, A Building, Haoye Logistics Park, Shugang Channel, Bao'an District, SHENZHEN GUANGDONG CN 518000 "
 MA-L,5414FD,Orbbec 3D Technology International,950 Stephenson Hwy Suite 208 Troy MI US 48083 
 MA-L,900BC1,"Sprocomm Technologies CO.,Ltd","5D-506 F1.6 Block,Tianfa Building,Tianan Chegongmiao Industrial Park,Futian Dist,Shenzhen China Shenzhen Guangdong CN 518000 "
@@ -7922,7 +7915,6 @@ MA-L,C8E130,Milkyway Group Ltd,RM 405 Tung Ming Building Hong Kong Hong Kong HK 
 MA-L,486EFB,"Davit System Technology Co., Ltd.","#304 Hanlim Human Tower, LS-Ro 172 Gunpo-si Gyeonggi-Do KR 435-824 "
 MA-L,B0966C,Lanbowan Technology Ltd.,No. 60 Langbao Xi Road Foshan Guangdong CN 528051 
 MA-L,1CF03E,Wearhaus Inc.,2041 Bancroft Way Berkeley CA US 94704 
-MA-L,C43ABE,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,883B8B,Cheering Connection Co. Ltd.,"Room 602, Shenzhen Software Park T2-B Shenzhen Guangdong CN 518057 "
 MA-L,E4F939,Minxon Hotel Technology INC.,"3F, No.37, Dongxing Rd., Xinyi Dist. Taipei Taiwan TW 11070 "
 MA-L,146B72,"Shenzhen Fortune Ship Technology Co., Ltd.","Room 701-716, 7th Floor, Nanshan District, Shenzhen Guangdong CN 518000 "
@@ -7995,7 +7987,6 @@ MA-L,1CA2B1,ruwido austria gmbh,Koestendorferstrasse 8 Neumarkt a.W. Salzburg AT
 MA-L,384B76,AIRTAME ApS,Vestergade 20C Copenhagen C Copenhagen DK 1456 
 MA-L,38B1DB,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,34F6D2,"Panasonic Taiwan Co.,Ltd.","579,Yuan Shan Road New Taipei Taiwan  235 "
-MA-L,307512,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,64002D,"Powerlinq Co., LTD","13 PingDong Road 4 , Zhuhai GD   519060 "
 MA-L,B47C29,"Shenzhen Guzidi Technology Co.,Ltd","South 6/F,Yingtang Building,No.5 Kejiyuan Road,Nanshan District,Shenzhen City,Guangdong Province,P.R. China Shenzhen Guangdong CN 518000 "
 MA-L,D48F33,Microsoft Corporation,1 Microsoft Way Redmond Washington FI 98052 
@@ -8121,7 +8112,6 @@ MA-L,3CF748,"Shenzhen Linsn Technology Development Co.,Ltd","Floor 4,Block 7,Zon
 MA-L,B07908,Cummings Engineering,"145 S. 79th St., Ste. 26 Chandler AZ US 85226 "
 MA-L,E47723,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,1C63B7,OpenProducts 237 AB,Barsebäcksvägen 27 Löddeköpinge  SE 24630 
-MA-L,B4527E,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,94B9B4,Aptos Technology,"5F., No.65, Guangfu N. Rd., Zhongxing Vil., Hsinchu  TW 303 "
 MA-L,6C15F9,Nautronix Limited,Blackwood House Aberdeen  GB AB10 6XU 
 MA-L,18AA45,Fon Technology,"C/Quintanavides, 15 Edificio 2 Planta 1   ES  "
@@ -11866,51 +11856,62 @@ MA-L,C4808A,Cloud Diagnostics Canada ULC,"72 Victoria St. S., Unit 100 Kitchener
 MA-L,E408E7,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,7C70DB,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,8C94CC,SFR,12 rue jean-philippe Rameau CS 80001 La plaine saint denis  FRANCE FR 93634 
-MA-L,60DB15,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
-MA-L,5CA721,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
-MA-L,98F217,Castlenet Technology Inc.,"5F., No. 10, Daye Rd., Beitou Dist. Taipei City  TW 112030 "
-MA-L,6C433C,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
-MA-L,445BED,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,70A6CC,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,84EBEF,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,908060,Nilfisk A/S,Kornmarksvej 1 Broendby   DK 2605 
-MA-L,1009F9,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,D03E7D,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
+MA-L,60B6E1,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,6C79B8,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,A4D094,VIVAVIS AG,Nobelstr. 18 Ettlingen  DE D-76375 
 MA-L,8CA399,SERVERCOM (INDIA) PRIVATE LIMITED,E-43/1 OKHLA INDUSTRIAL AREA PHASE-II NEW DELHI SOUTH DELHI NEW DELHI  IN NA 
-MA-L,D4548B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,60A5E2,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,FC9257,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
+MA-L,60DB15,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,5CA721,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,98F217,Castlenet Technology Inc.,"5F., No. 10, Daye Rd., Beitou Dist. Taipei City  TW 112030 "
+MA-L,908060,Nilfisk A/S,Kornmarksvej 1 Broendby   DK 2605 
+MA-L,70A6CC,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,6C433C,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
+MA-L,445BED,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,84EBEF,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,D03E7D,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
 MA-L,906976,Withrobot Inc.,"#1001, Seoul Forest M-tower, 31, Ttukseom-ro 1-gil, Seongdong-gu Seoul Seoul KR 04778 "
-MA-L,60B6E1,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,FC9257,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
+MA-L,60A5E2,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,A42A71,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
+MA-L,D4548B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,1009F9,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,D01E1D,SaiNXT Technologies LLP,"Shop No. 7, Sonawala Building, 1st Floor, Proctor Road, Grant Road (E) Mumbai Maharashtra IN 400007 "
+MA-L,584D42,"Dragos, Inc.","1745 Dorsey Rd, Suite R Hanover MD US 21076 "
+MA-L,608A10,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 85224 
 MA-L,A82316,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,38E39F,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
-MA-L,A42A71,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,446752,Wistron INFOCOMM (Zhongshan) CORPORATION,"15 Cuiwei Road, Cuiheng New District zhongshan Guangdong CN 528400 "
 MA-L,78BB88,Maxio Technology (Hangzhou) Ltd.,"6F, Building C, No.459 Qianmo Road, Juguang Center Hangzhou Zhejiang CN 310051 "
 MA-L,A864F1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,584D42,"Dragos, Inc.","1745 Dorsey Rd, Suite R Hanover MD US 21076 "
-MA-L,608A10,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 85224 
 MA-L,106FD9,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,E06781,"Dongguan Liesheng Electronic Co., Ltd.","F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci dongguan  guangdong CN 523000 "
 MA-L,000324,"SANYO Techno Solutions Tottori Co., Ltd.",7-101 Tachikawa-cho Tottori City  JP 680-8634 
 MA-L,B8AE1D,"Guangzhou Xingyi Electronic Technology Co.,Ltd","Room 805-808, Room 801, Self-made Building 4, No. 1, 3 and 5, Kesheng Road, Guangzhou Private Science Park, No. 1633, Beitai Road, Baiyun District, Guangzhou Guangzhou  CN 51000 "
-MA-L,E06781,"Dongguan Liesheng Electronic Co., Ltd.","F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci dongguan  guangdong CN 523000 "
+MA-L,3CCD57,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,B8DAE8,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,28DEA8,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,808ABD,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,D8BE65,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,60E32B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,ACEC85,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,3CCD57,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
-MA-L,808ABD,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
-MA-L,20E7B6,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,ECA81F,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
 MA-L,90B57F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
-MA-L,E42AAC,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
-MA-L,DC8D8A,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
+MA-L,C0F827,Rapidmax Technology Corporation,"3F., No.531, Zhongzheng Rd. Xindian Dist. New Taipei City  TW 23148 "
+MA-L,B4527E,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,7086CE,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
+MA-L,307512,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,C43ABE,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,94CE2C,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,DC8D8A,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
+MA-L,20E7B6,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,500F59,STMicrolectronics International NV,"39, Chemin du Champ-des-Filles  Geneva, Plan-les-Quates  CH 1228 "
+MA-L,E42AAC,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,0023F1,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001A75,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001CA4,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001E45,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,000E07,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,000AD9,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12460,7 +12461,6 @@ MA-L,34D712,"Smartisan Digital Co., Ltd","4F, China Digital Kingdom, No.1 Wangji
 MA-L,A06610,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 "
 MA-L,44FFBA,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,E0E62E,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
-MA-L,387862,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,E42D7B,China Mobile IOT Company Limited,"NO.8 Yu Ma Road, NanAn Area Chongqing Chongqing CN 401336 "
 MA-L,C464E3,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,8817A3,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
@@ -13051,7 +13051,6 @@ MA-L,44AAF5,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,E09DFA,Wanan Hongsheng Electronic Co.Ltd,"1st section of industrial pack,Wan'An County,Ji'An City,jiangxi province Wanan China/jiangxi CN 343800 "
 MA-L,5C3C27,"Samsung Electronics Co.,Ltd","#94-1,Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,70A84C,"MONAD., Inc.","702, Hanlla Sigma Vally, 545, Dunchon-daero, Jungwon-gu Seongnam-Shi  KR 13215 "
-MA-L,84C7EA,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,24E43F,"Wenzhou Kunmei Communication Technology Co.,Ltd.","Baitawang industrial zone,Yueqing,Zhejiang Yueqing Zhejiang CN 310025 "
 MA-L,287AEE,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,88797E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
@@ -13298,7 +13297,6 @@ MA-L,40D357,"Ison Technology Co., Ltd.","Room 6, 20F, No. 77, section 1, Xintai 
 MA-L,A41588,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,F45C89,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,20768F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,9C5CF9,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,0011D1,Soft Imaging System GmbH,Johann-Krane-Weg 39 Muenster  DE 48149 
 MA-L,98D686,"Chyi Lee industry Co., ltd.","No.25, Wufu Rd., Xinying Dist. Tainan city  TW 73054 "
 MA-L,8CC661,"Current, powered by GE",1975 Noble Road B335C East Cleveland OH US 44112 
@@ -13414,10 +13412,6 @@ MA-L,0019A6,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,E8C74F,Liteon Technology Corporation,"4F, No. 90, Chien 1 Road, New Taipei City Taiwan TW 23585 "
 MA-L,D05349,Liteon Technology Corporation,"4F, 90, Chien 1 Road ChungHo New Taipei City Taiwan TW 23585 "
 MA-L,E8F724,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,5CB524,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,90C115,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,D05162,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,18002D,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,280DFC,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,001311,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,D0DF9A,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan, TaiPei TaiWan TW 23585 "
@@ -13426,10 +13420,6 @@ MA-L,3010B3,Liteon Technology Corporation,"4F,90,Chien 1 Road, ChungHo, TaiPei H
 MA-L,701A04,Liteon Technology Corporation,4F 90 Chien 1 Rd.ChungHo Taipei  TW 23585 
 MA-L,48D224,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
 MA-L,20689D,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
-MA-L,0024EF,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,0025E7,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,58170C,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,0016B8,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,7CBFB1,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,080046,Sony Corporation,"Gotenyama Tec, 5-1-2 Kitashinagawa Tokyo  JP 141-0001 "
 MA-L,ECF00E,AboCom,"1F , No. 21, Yanfa 2nd Rd., SBIP Hsinchu City  300  TW 886 "
@@ -13892,7 +13882,6 @@ MA-L,F0182B,LG Chem,"128, Yeoui-daero, Yeongdeungpo-gu, Seoul Seoul KR 150-721 "
 MA-L,3481F4,SST Taiwan Ltd.,"5F, No. 5, Industry E Rd. VII, Hsin Chu, Taiwan TW 30077 "
 MA-L,7CA237,"King Slide Technology CO., LTD.","No. 6, Luke 9th Rd., Kaohsiung Taiwan TW 82151 "
 MA-L,D404CD,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
-MA-L,584822,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,747336,MICRODIGTAL Inc,"10F, Ace High-End Tower 9th,  Seoul KR 153-803 "
 MA-L,382B78,"ECO PLUGS ENTERPRISE CO., LTD","10F,-6, No.117, Sec.2, Zhongbei Rd., Zhongli Dist., Taoyuan Taiwan TW 32097 "
 MA-L,A47B2C,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
@@ -13989,7 +13978,6 @@ MA-L,8C0551,Koubachi AG,Technoparkstrasse 1 Zurich Zurich CH 8005
 MA-L,D897BA,PEGATRON CORPORATION,"5F No. 76, Ligong St., Beitou District Taipei City Taiwan TW 112 "
 MA-L,A8D88A,Wyconn,Rennweg 97-99 Vienna  AT 1030 
 MA-L,40EACE,"FOUNDER BROADBAND NETWORK SERVICE CO.,LTD","5F,Tower B,Beifa Plaza,No.16 Building Haisdian District Beijing CN 100088 "
-MA-L,848EDF,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,A49D49,"Ketra, Inc.",3815 S. Capital of Texas Hwy Austin TX US 78704 
 MA-L,C03896,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,2C5089,"Shenzhen Kaixuan Visual Technology Co.,Limited","No.19th Xifu Road, Hongxing Community Shenzhen Guangdong CN 518000 "
@@ -14091,7 +14079,6 @@ MA-L,0874F6,Winterhalter Gastronom GmbH,Tettnanger Straße 72 Meckenbeuren Baden
 MA-L,D8492F,CANON INC.,"30-2 Shimomaruko 3-chome, Ohta-ku Tokyo JP 146-8501 "
 MA-L,800E24,ForgetBox,61 rue de Sèvres Ville d'Avray IDF FR 92140 
 MA-L,3C25D7,Nokia Corporation,Joensuunkatu 7 Salo N.A. FI 24101 
-MA-L,30A8DB,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,18FF2E,"Shenzhen Rui Ying Da Technology Co., Ltd","KaiXinda Electronic Science and Technology Park, Zhoushi Road 49,Shiyan Street,Baoan  District,ShenZhen,China shenzhen guangdong CN 518108 "
 MA-L,847207,I&C Technology,"24,Pangyo-ro 255beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, 463-400,Korea Seongnam-si Gyeonggi-do US 463-400,Korea "
 MA-L,CCA614,AIFA TECHNOLOGY CORP.,"1F., No.230, Sec. 2, Bade Rd., Fongshan Dist. Kaohsiung City Taiwan TW 83053 "
@@ -14130,7 +14117,6 @@ MA-L,2C957F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,3C0C48,"Servergy, Inc.",1700 N. Redbud McKinney TEXAS US 75069 
 MA-L,10DEE4,automationNEXT GmbH,Millennium Park 4 Lustenau Vorarlberg AT 6890 
 MA-L,F03A4B,"Bloombase, Inc.",955 Benecia Ave Sunnyvale California US 94085 
-MA-L,A0E453,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,404A18,Addrek Smart Solutions,Al Gharrafa Thani Bin Jassim St Doha  QA  
 MA-L,C0C569,"SHANGHAI LYNUC CNC TECHNOLOGY CO.,LTD","Building 3,No.25 Cangwu Rd  Shanghai CN 200233 "
 MA-L,C4C0AE,"MIDORI ELECTRONIC CO., LTD.",397 Chikuma Nagano JP 389-0804 
@@ -17852,46 +17838,61 @@ MA-L,08A842,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,C8F5D6,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,405899,Logitech Far East,"#2 Creation Rd. 4, Hsinchu  TW 300 "
 MA-L,8C4DEA,Cerio Corporation,"4F.-3., No.192, Sec. 2, Zhongxing Rd., Xindian Dist. New Taipei City  TW 231 "
+MA-L,04B9E3,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,9843FA,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,94AA0A,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,7CF462,BEIJING HUAWOO TECHNOLOGIES CO.LTD,"A411-3, floor 3, block A, 9 Shangdi 3rd Street, Haidian District, Beijing beijing  CN 100094 "
-MA-L,04B9E3,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,C45E5C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E85C0A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,2C6DC1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,70B950,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,D09FD9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,54C250,Iskratel d.o.o.,Ljubljanska cesta 24a Kranj  SI 4000 
+MA-L,00FAB6,Kontakt Micro-Location Sp z o.o.,Stoczniowcow 3 Krakow  PL 30-709 
+MA-L,D01769,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,A0B086,Hirschmann Automation and Control GmbH,Stuttgarter Straße 45-51 Neckartenzlingen  DE D-72654 
 MA-L,30B346,CJSC NORSI-TRANS,"B.Novodmitrovskaya, 12/15 floor 2 r. 36 Moscow MOSCOW RU 127015 "
 MA-L,20C19B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,2C6DC1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,00FAB6,Kontakt Micro-Location Sp z o.o.,Stoczniowcow 3 Krakow  PL 30-709 
-MA-L,54C250,Iskratel d.o.o.,Ljubljanska cesta 24a Kranj  SI 4000 
+MA-L,A8556A,3S System Technology Inc.,"6F, No. 5, Ln. 16, Sec. 2, Sichuan Rd., Banqiao Dist., New Taipei City  TW 220620 "
 MA-L,000B3A,PESA,"103 Quality Circle, Suite 210 Huntsville AL US 35806 "
 MA-L,5CE42A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,1874E2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,F0C814,SHENZHEN BILIAN ELECTRONIC CO.，LTD,"NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
-MA-L,D01769,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,CC3ADF,Neptune Technology Group Inc.,1600 AL Highway 229 S Tallassee AL US 36078 
-MA-L,A8556A,3S System Technology Inc.,"6F, No. 5, Ln. 16, Sec. 2, Sichuan Rd., Banqiao Dist., New Taipei City  TW 220620 "
 MA-L,68EC8A,Private,
-MA-L,705FA3,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,3C62F0,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115 "
+MA-L,983B67,DWnet Technologies(Suzhou) Corporation,"No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China Suzhou  CN 21500 "
 MA-L,58355D,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,AC7E01,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,983B67,DWnet Technologies(Suzhou) Corporation,"No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China Suzhou  CN 21500 "
+MA-L,705FA3,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,6C9392,BEKO Technologies GmbH,Im Taubental 7 Neuss Nordrhein-Westfalen DE 41468 
 MA-L,FC8A3D,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,F8F082,NAGTECH LLC,"12A, Krasnolesya Str., off 507 Ekaterinburg Sverdlovskaya oblast RU 620110 "
+MA-L,8C1F64,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,085A11,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,50325F,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
 MA-L,F47B09,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,E87829,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,8C1F64,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,B4C810,Umpi srl,"Via Consolare Rimini-San Marino, 11  Rimini  IT 47923 "
 MA-L,EC9468,META SYSTEM SPA ,"VIA LAGHETTO 1 MORNAGO, VARESE ITALY IT 21020 "
 MA-L,1C4190,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
-MA-L,C025A5,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,64C403,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,A0E453,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,30A8DB,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,848EDF,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,584822,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,C025A5,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,B4C810,Umpi srl,"Via Consolare Rimini-San Marino, 11  Rimini  IT 47923 "
+MA-L,18002D,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,D05162,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,90C115,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,5CB524,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,58170C,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,0025E7,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,0024EF,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,0016B8,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,9C5CF9,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,84C7EA,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,387862,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -18173,7 +18174,6 @@ MA-L,B82CA0,Resideo,2 Corporate Center Dr. Melville NY US 11747
 MA-L,6CC7EC,SAMSUNG ELECTRO-MECHANICS(THAILAND),"93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE Bangpakong Chachoengsao TH 24180 "
 MA-L,B033A6,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,D89685,GoPro,3000 Clearview Way San Mateo CA US 94402 
-MA-L,3C01EF,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,C0BDC8,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,647BCE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,A887B3,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -19260,19 +19260,12 @@ MA-L,04E676,"AMPAK Technology, Inc.","No.1,Jen Ai Road Hsinchu  TW 30352 "
 MA-L,0022F4,"AMPAK Technology, Inc.","No. 8-1, Nanyuan 2nd Rd. Jhongli Taoyuan TW 320 "
 MA-L,001DBA,Sony Corporation,"Gotenyama Tec,5-1-12, Shinagawa-ku Tokyo JP 141-0001 "
 MA-L,0024BE,Sony Corporation,Gotenyama Tec. 5-1-12 Shinagawa-ku Tokyo JP 141-0001 
-MA-L,000FDE,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,0CFE45,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,2016D8,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
-MA-L,E063E5,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,F8D0AC,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
-MA-L,2421AB,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,B8F934,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,8C6422,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,20E564,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,90B134,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,40B7F3,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
-MA-L,001B59,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,002298,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,0017E2,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,001675,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,000CE5,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
@@ -19781,7 +19774,6 @@ MA-L,74852A,PEGATRON CORPORATION,"5F No. 76, Ligong St., Beitou District Taipei 
 MA-L,9CB6D0,Rivet Networks,11940 Jollyville Rd Austin tx US 78759 
 MA-L,40B89A,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
 MA-L,1CB72C,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
-MA-L,40B837,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,4CEEB0,SHC Netzwerktechnik GmbH,Ludwigstrasse 33-37 Frankfurt am Main Hessen DE 60327 
 MA-L,800184,HTC Corporation,"No. 23, Xinghua Rd., Taoyuan City Taoyuan County Taiwan TW 330 "
 MA-L,44C69B,"Wuhan Feng Tian Information Network CO.,LTD","Room 1002,10th Floor,Oversea talent Building A, Wuhan City Hubei Province CN 430074 "
@@ -20045,7 +20037,6 @@ MA-L,98D331,"Shenzhen Bolutek Technology Co.,Ltd.","Building B, District A, Inte
 MA-L,38EC11,Novatek Microelectronics Corp.,"No.1-2 Innovation Rd I., Hsinchu  TW 300 "
 MA-L,1C4158,Gemalto M2M GmbH,Siemensdamm 50 Berlin Berlin DE 13629 
 MA-L,9C2840,"Discovery Technology,LTD..","5th floor Building 2,Block A,Internet industrial park, Shenzhen Guangzhou CN 518100 "
-MA-L,1C7B21,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,E0AF4B,"Pluribus Networks, Inc.",1808 Embarcadero Rd Suite B Palo Alto CA US 94303 
 MA-L,840F45,"Shanghai GMT Digital Technologies Co., Ltd",Room 501-505 Zhangjiang Hi-tech Park Shanghai CN 201204 
 MA-L,2C5FF3,Pertronic Industries,17 Eastern Hutt Road Wingate  NZ 5019 
@@ -20076,7 +20067,6 @@ MA-L,78D38D,HONGKONG YUNLINK TECHNOLOGY LIMITED,15B 15/F CHEUK NANG PLAZA 250 HE
 MA-L,DCAE04,CELOXICA Ltd,34 Porchester Road  London GB W2 6ES 
 MA-L,8005DF,Montage Technology Group Limited,"Rm#A16F, Technolgy Blgd.,Yishan Rd. Shanghai  CN 200233 "
 MA-L,681D64,"Sunwave Communications Co., Ltd","581,huoju Avenue,BinJiang District  Hangzhou Zhejiang Province CN 310053 "
-MA-L,4C21D0,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,907A0A,Gebr. Bode GmbH & Co KG,Ochshaeuser Str. 14 Kassel  DE 34266 
 MA-L,A0C6EC,"ShenZhen ANYK Technology Co.,LTD","5F,12B,ZhongXing Industrial Zone, Venture Road ShenZhen GuangDong CN 518054 "
 MA-L,78E8B6,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
@@ -23802,43 +23792,55 @@ MA-L,2CEADC,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI 
 MA-L,ACE14F,"Autonomic Controls, Inc.",28 Kaysal Ct ARMONK NY US 10504 
 MA-L,AC976C,Greenliant,"3970 Freedom Circle, Suite 100 Santa Clara CA US 95054 "
 MA-L,381428,Dell Inc.,One Dell Way Round Rock TX US 78682 
-MA-L,98499F,Domo Tactical Communications,"DTC Fusion 2, 1100 Parkway Whiteley Hampshire GB PO15 7AB "
-MA-L,C0238D,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
-MA-L,2811A8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,20CFAE,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,C0FBF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,609BB4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,7C27BC,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,745D68,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,EC08E5,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
-MA-L,80CC9C,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
-MA-L,0C6046,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
+MA-L,20CFAE,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,98499F,Domo Tactical Communications,"DTC Fusion 2, 1100 Parkway Whiteley Hampshire GB PO15 7AB "
 MA-L,C0F9B0,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,148C4A,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,609BB4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,C0238D,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+MA-L,2811A8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,C0FBF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,4CD577,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
+MA-L,EC08E5,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,80CC9C,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
+MA-L,7C27BC,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
+MA-L,0C6046,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,507097,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,CC1531,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,280FEB,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
-MA-L,4CD577,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332 "
 MA-L,74E20C,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,844709,"Shenzhen IP3 Century Intelligent Technology CO.,Ltd",aiying.li@ip3-tech.com Shenzhen  CN 518057 
-MA-L,5CD06E,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,105403,INTARSO GmbH,Schuchardstr. 3 Düsseldorf NRW DE 40595 
 MA-L,000C04,Tecnova,2383 N Delany Rd Waukegan IL US 60087-1836 
-MA-L,000060,Kontron Europe GmbH,Gutenbergstraße 2 Ismaning  DE 85737 
+MA-L,844709,"Shenzhen IP3 Century Intelligent Technology CO.,Ltd",aiying.li@ip3-tech.com Shenzhen  CN 518057 
+MA-L,5CD06E,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,0091EB,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
-MA-L,C0D063,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,449F46,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,345184,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,FCF77B,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,8CAEDB,NAGTECH LLC,"12A, Krasnolesya Str., off 507 Ekaterinburg Sverdlovskaya oblast RU 620110 "
 MA-L,DCF56E,Wellysis Corp.,311 Gangnam-daero Seocho-gu Seoul KR 06628 
+MA-L,000060,Kontron Europe GmbH,Gutenbergstraße 2 Ismaning  DE 85737 
 MA-L,60FCF1,Private,
 MA-L,E84FA7,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,449F46,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,C0D063,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,7C10C9,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
 MA-L,00C06F,KOMATSU LTD.,"3-25-1, Shinomiya Hiratsuka-Shi Kanagawa-Ken JP 254-8555 "
 MA-L,A8671E,RATP,"117, AVENUE MICHELET SAINT-OUEN  FR 93400 "
 MA-L,8CE9B4,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
 MA-L,08855B,Kontron Europe GmbH,Gutenbergstraße 2 Ismaning  DE 85737 
+MA-L,4C21D0,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,1C7B21,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,40B837,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,E063E5,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,8C6422,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,B8F934,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,2421AB,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,002298,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001B59,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,000FDE,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,3C01EF,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,102CEF,EMU Electronic AG,Joechlerweg 2 Baar Zug CH 6340 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -24673,7 +24675,6 @@ MA-L,98DDEA,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE
 MA-L,001D44,Krohne,Ludwig-Krohne-Str. 5 Duisburg  DE 47058 
 MA-L,A8A198,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,E0C0D1,CK Telecom (Shenzhen) Limited,"Floor 9th, Building 4C,Software Industry Base, Xuefu Road, Hi-Tech Park, Nanshan Dist. Shenzhen Guangdong CN 518057 "
-MA-L,00219E,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,ACB57D,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
 MA-L,D4619D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,D0498B,ZOOM SERVER,North keyuan Road Shenzhen  CN 518057 
@@ -24690,7 +24691,6 @@ MA-L,D83214,"Tenda Technology Co.,Ltd.Dongguan branch","Room 79,Yuanyi Road,Dala
 MA-L,10954B,Megabyte Ltd.,"Unit 507, 5/F, Building 12W, NO.12 Science Park Avenue, Hong Kong Science Park, Shatin, New Territories Hong Kong  HK NA "
 MA-L,D8325A,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,9CDA3E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
-MA-L,283F69,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,002CC8,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C0028D,"WINSTAR Display CO.,Ltd","1F., No.77, Ln. 188, Pinghe S. Rd., Daya Dist., Taichung City 428, Taiwan (R.O.C.) Taichung City  TW 428 "
 MA-L,E89FEC,"CHENGDU KT ELECTRONIC HI-TECH CO.,LTD","No.9, 3rd Wuke Road, Wuhou District Chengdu Sichuan Province CN 610045 "
@@ -25371,19 +25371,11 @@ MA-L,446D57,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsi
 MA-L,9CB70D,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan, TaiPei TaiWan TW 23585 "
 MA-L,68A3C4,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan, TaiPei TaiWan TW 23585 "
 MA-L,70F1A1,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan, TaiPei TaiWan TW 23585 "
-MA-L,8400D2,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,303926,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,00EB2D,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,B4527D,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,00D9D1,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,B00594,Liteon Technology Corporation,"4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
 MA-L,EC086B,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,94A1A2,"AMPAK Technology, Inc.","No.1,Jen Ai Road Hukou Hsinchu TW 30352 "
 MA-L,00014A,Sony Corporation,"Gotenyama Tec, 5-1-2 Kitashinagawa Tokyo  JP 141-0001 "
-MA-L,001EDC,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001D28,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,001813,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,402BA1,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,983B16,"AMPAK Technology, Inc.","No.1,Jen Ai Road Hsinchu  TW 30352 "
 MA-L,409558,Aisino Corporation,"No.18A, Xingshikou Road, Beijing  CN 100195 "
 MA-L,182861,AirTies Wireless Networks,"Gulbahar Mahallesi, Avni Diligil Sokak ISTANBUL ISTANBUL TR 34394 "
@@ -25809,7 +25801,6 @@ MA-L,A8474A,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st 
 MA-L,C40049,Kamama,100 Enterprise Way Scotts Valley CA US 95066 
 MA-L,80D605,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,98E848,Axiim,12126 NE 106th Pl Kirkland WA US 98033 
-MA-L,4040A7,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,C04A09,"Zhejiang Everbright Communication Equip. Co,. Ltd",291# Wei 19th Rd. Wenzhou Zhejiang CN 325600 
 MA-L,A01E0B,MINIX Technology Limited,"Unit 1501, Chevalier Commercial Center Kowloon Bay Kowloon HK 000000 "
 MA-L,68E8EB,"Linktel Technologies Co.,Ltd","No.20 University Science Park Road, Wuhan Hubei CN 430223 "
@@ -25931,7 +25922,6 @@ MA-L,ECE2FD,"SKG Electric Group(Thailand) Co., Ltd.","3F,The Second Building,San
 MA-L,148F21,Garmin International,1200 E. 151st St Olathe KS US 66062 
 MA-L,9C685B,Octonion SA,"EPFL Innovation Park, Bâtiment C Lausanne Vaud CH 1015 "
 MA-L,7C534A,Metamako,Suite 207 Sydney Other AU 2000 
-MA-L,BC6E64,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,BCB308,"HONGKONG RAGENTEK COMMUNICATION TECHNOLOGY CO.,LIMITED",Building D10-D11 PuDong District Shanghai CN 201315 
 MA-L,6C2E72,B&B EXPORTING LIMITED,"Bldg.#D,Xinhe Industrial Park Guangzhou Guangdong CN 510880 "
 MA-L,5CCCFF,Techroutes Network Pvt Ltd,"WW1-SF, Malibu Towne Gurgaon Haryana IN 122002 "
@@ -26007,7 +25997,6 @@ MA-L,B8BD79,TrendPoint Systems,1595 East 6th Street Corona CA US 92879
 MA-L,74F413,Maxwell Forest,"Level 2, 51 Murray Street Pyrmont NSW AU 2009 "
 MA-L,A00627,NEXPA System,"#105, YBS bldg,227-1 Yongdap-Dong  Seoul KR ASI/KR/KS013/SEOUL "
 MA-L,303335,Boosty,40 Princes Street Ipswich Suffolk GB IP11RJ 
-MA-L,44746C,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,4C9EFF,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,BC9CC5,"Beijing Huafei Technology Co., Ltd.","2 floor, Research building, Guanghua Pioneer Park, No.18, Anningzhuang East Rd, Haidian District, Beijing, China. Beijing Beijing CN 100085 "
 MA-L,5CB8CB,Allis Communications,"10F.-3,No.31-1, Lane 169 Kangning St., New Taipei City New Taipei City TW 221 "
@@ -26034,7 +26023,6 @@ MA-L,64EAC5,"SiboTech Automation Co., Ltd.","5th Floor, Bld 3 Shanghai Shanghai 
 MA-L,30F7D7,"Thread Technology Co., Ltd","4F, A Block, CYG, No.2,Mid GaoXin Shenzhen GuangDong CN 518055 "
 MA-L,18227E,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,30C7AE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,44D4E0,Sony Mobile Communications Inc,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,FCD5D9,"Shenzhen SDMC Technology Co., Ltd.","7/F,Block A,Huahan Bldg., Shenzhen GuangDong CN 518000 "
 MA-L,74DA38,Edimax Technology Co. Ltd.,"No. 278, Xinhu 1st Road Taipei City Neihu Dist TW 248 "
 MA-L,E4F4C6,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
@@ -29742,41 +29730,56 @@ MA-L,C89D18,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,C48025,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,DC0398,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,E8DA00,"Kivo Technology, Inc.","218 Main Street, Suite #724 Kirkland  US 98033 "
+MA-L,CCB5D1,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,78D6DC,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.","No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan Wuhan Hubei CN 430000 "
 MA-L,0C4314,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
-MA-L,F4C02F,BlueBite,"230, Simin-daero Anyang-si Gyeonggi-do KR 14067 "
 MA-L,7886B6,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
-MA-L,CCB5D1,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,24E124,"Xiamen Milesight IoT Co., Ltd.","4/F, No. 63-2 Wanghai Road, 2nd Software Park Xiamen Fujian CN 361008 "
-MA-L,28FBAE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,88A0BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,A47806,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,D05475,SAVI Controls,"2420 Tarpley Rd, Suite 205 Carrollton TX US 75006 "
-MA-L,0805E2,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
-MA-L,B8D56B,Mirka Ltd.,Pensalavägen 210 Jeppo  FI 66850 
-MA-L,B8A14A,"Raisecom Technology CO.,LTD","No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
-MA-L,BCA37F,Rail-Mil Sp. z o.o. Sp. K.,Kosmatki 82 Warsaw  PL 03-982 
-MA-L,000818,"Pixelworks, Inc.","226 Airport Parkway, Suite 595 San Jose CA US 95110 "
-MA-L,949010,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,F4C02F,BlueBite,"230, Simin-daero Anyang-si Gyeonggi-do KR 14067 "
 MA-L,98F083,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,8C64A2,"OnePlus Technology (Shenzhen) Co., Ltd","18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING, Shenzhen Guangdong CN 518000 "
+MA-L,D05475,SAVI Controls,"2420 Tarpley Rd, Suite 205 Carrollton TX US 75006 "
+MA-L,88A0BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,949010,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,28FBAE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,A47806,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,0805E2,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,B8D56B,Mirka Ltd.,Pensalavägen 210 Jeppo  FI 66850 
+MA-L,BCA37F,Rail-Mil Sp. z o.o. Sp. K.,Kosmatki 82 Warsaw  PL 03-982 
+MA-L,000818,"Pixelworks, Inc.","226 Airport Parkway, Suite 595 San Jose CA US 95110 "
 MA-L,28FA19,"Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd","3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District Shenzhen Guangdong CN 518055 "
+MA-L,64B379,Private,
+MA-L,5009E5,"Drimsys,Inc","147, Baumoe-ro Seocho-gu Seoul KR 06752 "
 MA-L,203CC0,"Beijing Tosee Technology Co., Ltd.","Room S125, 1st Floor, Building 1, No. 9, Keyuan Road, Economic Development Zone, Daxing District beijing  CN 102600  "
 MA-L,D8A011,WiZ,"Unit 1203-5, 12/F, Tower 1, Enterprise Square, 9 Sheung Yuet Road Kowloon Bay Hong Kong HK 0000 "
-MA-L,5009E5,"Drimsys,Inc","147, Baumoe-ro Seocho-gu Seoul KR 06752 "
-MA-L,64B379,Private,
+MA-L,B8A14A,"Raisecom Technology CO.,LTD","No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
+MA-L,AC7A42,iConnectivity,"4620 Manilla Road SE, Unit 58 Calgary Alberta CA T2G 4B7 "
 MA-L,28DFEB,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,88FCA6,devolo AG,Charlottenburger Allee 67 Aachen NRW DE 52068 
-MA-L,AC7A42,iConnectivity,"4620 Manilla Road SE, Unit 58 Calgary Alberta CA T2G 4B7 "
 MA-L,489EBD,HP Inc.,10300 Energy Dr Spring TX US 77389 
-MA-L,003059,Kontron Europe GmbH,Nordstrasse 11/F  LUTERBACH  CH 4542 
+MA-L,080037,FUJIFILM Business Innovation Corp.,ADVANCED TECH & ENG'G CENTER Yokohama  JP 220-8668 
 MA-L,888E7F,ATOP CORPORATION,"ATOP Information Harbor, Jinjialin Experimental Economic Zone, Mianyang City, Sichuan Province, China Mianyang  CN 621000 "
 MA-L,E8EDD6,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
+MA-L,003059,Kontron Europe GmbH,Nordstrasse 11/F  LUTERBACH  CH 4542 
 MA-L,547787,Earda Technologies co Ltd,"Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
+MA-L,5C0CE6,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,D0C24E,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,345B98,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
-MA-L,080037,FUJIFILM Business Innovation Corp.,ADVANCED TECH & ENG'G CENTER Yokohama  JP 220-8668 
-MA-L,5C0CE6,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,70CD0D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,043926,China Dragon Technology Limited,"B4 Bldg.Haoshan 1st Industry Park, Shenzhen Guangdong CN 518104 "
+MA-L,BC6E64,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,4040A7,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,B4527D,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,00EB2D,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,303926,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,8400D2,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,402BA1,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001813,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001D28,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,001EDC,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,840112,"Kaonmedia CO., LTD.","884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517 "
+MA-L,44D4E0,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,44746C,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
+MA-L,283F69,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,00219E,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,D04DC6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
