@@ -5992,6 +5992,7 @@ MA-L,001963,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075
 MA-L,001620,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,0012EE,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,D4389C,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,781305,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11912,6 +11913,7 @@ MA-L,001CA4,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 
 MA-L,001E45,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
 MA-L,000E07,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,000AD9,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,806A10,Whisker Labs - Ting,"12410 Milestone Center Dr, Suite 325 Germantown MD US 20876 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -23841,6 +23843,11 @@ MA-L,001B59,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 
 MA-L,000FDE,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,3C01EF,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,102CEF,EMU Electronic AG,Joechlerweg 2 Baar Zug CH 6340 
+MA-L,E4B503,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,ECF40C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,1006ED,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,D4EB68,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,C44D84,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -24665,7 +24672,6 @@ MA-L,D06F82,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,A0F479,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,844765,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,C4FF1F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,A0C4A5,"SYGN HOUSE CO.,LTD",2-9-14 Tamagawa-denenchofu Setagaya-ku Tokyo JP 1580085 
 MA-L,B83765,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,345BBB,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,C40BCB,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
@@ -29783,3 +29789,4 @@ MA-L,44746C,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 
 MA-L,283F69,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,00219E,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,D04DC6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,A0C4A5,SYGN HOUSE INC.,2-9-14 Tamagawa-denenchofu Setagaya-ku Tokyo JP 1580085 
