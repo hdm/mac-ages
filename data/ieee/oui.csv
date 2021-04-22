@@ -5994,17 +5994,17 @@ MA-L,001FE4,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 
 MA-L,F44637,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,6450D6,Liquidtool Systems,Winterseistrasse 22 Hasle-Rüegsau Bern CH 3415 
 MA-L,68764F,Sony Corporation,4-12-3 Higashi – Shinagawa Shinagawa-ku Tokyo JP 140-0002 
-MA-L,FC58DF,Interphone Service,"Inwestorow, 8 Mielec Select a state or province PL 39-300 "
-MA-L,981082,"Nsolution Co., Ltd.","1001-1, 387, Simin-daero, Dongan-gu Anyang-si Gyeonggi-do KR 14057 "
 MA-L,38A659,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
-MA-L,4CAB4F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,9C583C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,C41234,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,3CA6F6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,E4DC5F,"Cofractal, Inc.",209 E Java Dr. #61593 Sunnyvale CA US 94089 
 MA-L,606134,Genesis Technical Systems Corp,"Suite 1720, 510 5th St SW Calgary Alberta CA T2P 3S2 "
 MA-L,A848FA,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,505D7A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,FC58DF,Interphone Service,"Inwestorow, 8 Mielec Select a state or province PL 39-300 "
+MA-L,981082,"Nsolution Co., Ltd.","1001-1, 387, Simin-daero, Dongan-gu Anyang-si Gyeonggi-do KR 14057 "
+MA-L,C41234,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,3CA6F6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,4CAB4F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,9C583C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,E4DC5F,"Cofractal, Inc.",209 E Java Dr. #61593 Sunnyvale CA US 94089 
 MA-L,508140,HP Inc.,10300 Energy Dr Spring TX US 77389 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
@@ -11941,6 +11941,7 @@ MA-L,241D48,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow
 MA-L,287777,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,64DCDE,"ZheJiang FuChunJiang Information Technology Co.,Ltd","608 Golf Road, Dongzhou Street, Fuyang District, Hangzhou City, Zhejiang Province, China Hangzhou City Zhejiang Province CN 311400 "
 MA-L,A029BD,Team Group Inc,"3F., No. 166 Jian 1st Rd.,  Zhonghe Dist. New Taipei City,  TW 235 "
+MA-L,98B177,LANDIS + GYR,78th km Old National Road Athens-Corinth  Corinth   GR 20100 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -17929,6 +17930,8 @@ MA-L,945C9A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,00F39F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,4C77CB,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,44953B,RLTech India Private Limited,"C-2, Sector-85, Noida Gautam Buddha Nagar Uttar Pradesh IN 201301 "
+MA-L,84144D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,9C6BF0,"Shenzhen Yipingfang Network Technology Co., Ltd.","21 / F, Kangjia R & D building, No.28, Keji South 12th Road, Nanshan District, Shenzhen City, Guangdong Province, China Shenzhen Nanshan District CN 518000 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -29848,3 +29851,4 @@ MA-L,1856C3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,68F38E,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,7C87CE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,8C8172,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
+MA-L,44E517,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
