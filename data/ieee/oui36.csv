@@ -863,6 +863,7 @@ MA-S,70B3D5509,Tinkerforge GmbH,Zur Brinke 7 Schloss Holte-Stukenbrock NRW DE 33
 MA-S,70B3D5D0B,Vendanor AS,Grandevegen 13 Stryn  NO 6783 
 MA-S,70B3D5E41,4neXt S.r.l.s.,Via Leonardo da Vinci 15/4 Vigonovo Veneto IT 30030 
 MA-S,8C1F64460,Solace Systems Inc.,"535 Legget Drive, Kanata Ontario CA K2K3B8 "
+MA-S,8C1F64F41,AUTOMATIZACION Y CONECTIVIDAD SA DE CV,LA GARITA ANDADOR 6 DUPLEX 1 CASA 2 CDMX TLALPAN MX 14390 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1720,10 +1721,10 @@ MA-S,8C1F64C41,Katronic AG & Co. KG,Gießerweg 5 Wernigerode  DE 38855
 MA-S,8C1F64991,DB Systel GmbH,Jürgen-Ponto-Platz1 Frankfurt Hessen DE 60329 
 MA-S,8C1F6429F,NAGTECH LLC,"12A, Krasnolesya Str., off 507 Ekaterinburg Sverdlovskaya oblast RU 620110 "
 MA-S,8C1F643A4,QLM Technology Ltd,"Unit DX, Albert Road Bristol  GB BS20XJ "
-MA-S,8C1F64CF1,"ROBOfiber, Inc.","3000F Danville Blvd, #300 Alamo CA US 94507 "
 MA-S,8C1F64C03,Abiman Engineering,"34, Pureundeulpan-ro 567 Beon-gil, Paltan-myeon Hwaseong-si Gyeonggi-do KR 18529 "
 MA-S,8C1F64438,Integer.pl S.A.,Wielicka 28 Krakow  PL 30-552 
 MA-S,8C1F64947,"LLC ""TC ""Vympel""","Bolshaya Serpukhovskaya street 25, bld. 2, 1 st floor, room III Moscow  RU 115093 "
+MA-S,8C1F64CF1,"ROBOfiber, Inc.","3000F Danville Blvd, #300 Alamo CA US 94507 "
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -3458,6 +3459,8 @@ MA-S,8C1F64135,Yuval Fichman,37 Mishmar Hayarden St. Tel Aviv  IL 6986519
 MA-S,8C1F64BC0,GS Elektromedizinsiche Geräte G. Stemple GmbH,Hauswiesenstr. 26 Kaufering Bayern DE 86916 
 MA-S,8C1F64A57,EkspertStroyProekt,"office 422, str.1, d.1, ul. Eniseyskaya Moscow  RU 129344 "
 MA-S,8C1F64264,BR. Voss Ingenjörsfirma AB,Getängsvägen 4 Borås  SE 50468 
+MA-S,8C1F64856,Garten Automation,"Av. Herbert Hadler, 1367 Pelotas Rio Grande do Sul BR 96050460 "
+MA-S,8C1F64903,"Portrait Displays, Inc.",6663 OWENS DR PLEASANTON CA US 94588 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -4309,3 +4312,4 @@ MA-S,8C1F64FD1,Edgeware AB,Master Samuelsgatan 42 Stockholm  SE 11157
 MA-S,8C1F64391,CPC (UK),Unit 3 Beta Way Egham Surrey GB TW208RE 
 MA-S,8C1F64C2F,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
 MA-S,8C1F64466,Intamsys Technology Co.Ltd,"3/F, Building C9, No.3188 Xiupu Road Pudong New District,Shanghai Shanghai  CN 201315 "
+MA-S,8C1F64166,Hikari Alphax Inc.,"2-2-2, Nakanoshima, Kita-ku Osaka Osaka JP 530-0005 "
