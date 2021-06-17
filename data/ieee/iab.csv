@@ -270,7 +270,6 @@ IAB,0050C2E1E,Lo-Q plc,"Unit 2, The Pavilions Twyford  GB RG10 9NN "
 IAB,0050C2E10,"Radinetworks Co., Ltd","7F-5, No.229, Fuhsing 2nd Rd Jubei Hsinchu County TW 30271  "
 IAB,0050C2DF8,Tommotek (WA) Pty Ltd.,72 Achievement Way Wangara Western Australia AU 6065 
 IAB,0050C2DF2,Ocean Sonics,Hill House Great Village Nova Scotia CA B0M 1L0 
-IAB,0050C2DD8,Leonardo MW Ltd (Land & Naval Defence Electronic),11300 W 89th St Overland Park  US 66214 
 IAB,0050C2DDD,A&A GENERAL SRL,"Calea Victoriei 85, bl.1, ap.30 Bucuresti  RO 010066 "
 IAB,0050C2DD9,Metraware,Quartier Cime de Vieres CABRIERES D AIGUES  FR 84240 
 IAB,0050C2DD0,IDC Solutions Pty Ltd,"Suite 8, 21 Regent Street Sydney  NSW AU 2016 "
@@ -915,8 +914,9 @@ IAB,0050C2787,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Ir
 IAB,0050C2A2A,Astronics Custom Control Concepts,6020 S 190th St Kent WA US 98032 
 IAB,0050C234D, BMK professional electronics GmbH,Werner-von-Siemens-Straße 6 Augsburg   DE 86159 
 IAB,0050C2F3C,Vemco Sp. z o. o.,ul. Biala 1 Gdansk  PL 80-435 
-IAB,0050C21AF,PESA,"103 Quality Circle, Suite 210 Huntsville AL US 35806 "
 IAB,0050C2E60,HORIZON.INC,"1600 Aza-Shironoshita Asahi Shin Asahi-cho Takashima, Shiga JP 520-1501 "
+IAB,0050C21AF,PESA,"103 Quality Circle, Suite 210 Huntsville AL US 35806 "
+IAB,0050C2DD8,Leonardo UK Ltd,Christopher Martin Road Basildon Essex GB SS14 3EL 
 IAB,0050C2065,Clever Devices,1662 Route 300 Newburgh NY US 12550 
 IAB,0050C29F4,"FSR, INC.",244 Bergen Blvd West Paterson  US 07424 
 IAB,0050C2255,STMicroelectronics SRL,"Stradale Primosole, 50 CATANIA  IT 95121 "
@@ -933,7 +933,6 @@ IAB,0050C2083,ard sa,Micropolis Bat Clematis Gap France FR 05000
 IAB,0050C20BF,Private,
 IAB,0050C2D88,T+A elektroakustik GmbH & Co.KG,Planckstraße 9-11 Herford NRW DE 32052 
 IAB,0050C2379,Control LAN S.A.,Ortiz de Ocampo 3060 - Piso 2 Buenos Aires CF AR 1425 
-IAB,0050C2913,Leonardo MW Ltd (Land & Naval Defence Electronic),A Finmeccanica Company Basildon Essex GB SS14 3EL 
 IAB,0050C2FBD,EATON FHF Funke + Huster Fernsig GmbH,Gewerbeallee 15-19 Mülheim an der Ruhr NRW DE D-45478 
 IAB,0050C23DE,ABB Power Technologies S.p.A.  Unità  Operativa SACE (PTMV),via Friuli 4 Dalmine Bergamo IT 24044 
 IAB,0050C2FD4,"Insitu, Inc",118 E Columbia River Way Bingen WA US 98605 
@@ -1764,6 +1763,7 @@ IAB,0050C2C26,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Ir
 IAB,0050C2059,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,0050C2C63,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 IAB,40D85500C,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
+IAB,0050C2913,Leonardo UK Ltd,Christopher Martin Road Basildon Essex GB SS14 3EL 
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C21DD,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
