@@ -913,8 +913,8 @@ IAB,0050C2787,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Ir
 IAB,0050C2A2A,Astronics Custom Control Concepts,6020 S 190th St Kent WA US 98032 
 IAB,0050C234D, BMK professional electronics GmbH,Werner-von-Siemens-Straße 6 Augsburg   DE 86159 
 IAB,0050C2F3C,Vemco Sp. z o. o.,ul. Biala 1 Gdansk  PL 80-435 
-IAB,0050C21AF,PESA,"103 Quality Circle, Suite 210 Huntsville AL US 35806 "
 IAB,0050C2E60,HORIZON.INC,"1600 Aza-Shironoshita Asahi Shin Asahi-cho Takashima, Shiga JP 520-1501 "
+IAB,0050C21AF,PESA,"103 Quality Circle, Suite 210 Huntsville AL US 35806 "
 IAB,0050C2F05,"ESI Ventures, LLC",902 Incentive Drive Fort Wayne Indiana US 46825 
 IAB,0050C2DD8,Leonardo UK Ltd,Christopher Martin Road Basildon Essex  GB SS14 3EL 
 IAB,0050C2065,Clever Devices,1662 Route 300 Newburgh NY US 12550 
@@ -1294,7 +1294,6 @@ IAB,0050C2A86,LIMAB AB,Almedalsvägen Göteborg  SE 41263
 IAB,0050C2AA0,"Smith Meter, Inc.",1602 Wagner Ave. Erie PA US 16514 
 IAB,0050C2A99,Haivision Systems Inc,4445 Garand Montreal QC CA H4R 2H9 
 IAB,0050C2A9A,Absolutron. LLC,1107 Fair Oaks Ave. #476 South Pasadena CA US 91030 
-IAB,0050C2A93,SPX Dehydration & Filtration,4647 S.W. 40th Ave. Ocala FL US 34474 
 IAB,0050C2A94,"Par-Tech, Inc.",139 Premier Dr. Lake Orion MI US 48359 
 IAB,0050C2A96,FEP SRL,"VIA MODENA, 68 SAN GIOVANNI IN PERSICETO BOLOGNA IT 40017 "
 IAB,0050C2A50,i-RED Infrarot Systeme GmbH,Hafenstr. 47-51 Linz Upper Austria AT 4020 
@@ -1764,6 +1763,7 @@ IAB,0050C2059,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Ir
 IAB,0050C2C63,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 IAB,40D85500C,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
 IAB,0050C2913,Leonardo UK Ltd,Christopher Martin Road Basildon Essex  GB SS14 3EL 
+IAB,0050C2A93,SPX Flow Technology,4647 S.W. 40th Ave. Ocala FL US 34474 
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C21DD,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
@@ -1779,7 +1779,6 @@ IAB,0050C2A2E,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841
 IAB,0050C2717,MB connect line GmbH Fernwartungssysteme,Winnettener Str.6 Dinkelsbuehl bavaria DE 91550 
 IAB,0050C2FE9,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 5 Dinkelsbühl Bavaria DE 91550 
 IAB,0050C2D09,"Guardtec,Inc","#1203, Hansin IT Tower, 235, Seoul  KR 152-768 "
-IAB,0050C21D8,Guardian Controls International Ltd,"56, Crewe Road, Sandbach Cheshire GB CW11 4NN "
 IAB,0050C231D,Imarda New Zealand Limited,"Suite G16, National Innovation Centre, Eveleigh NSW   NZ 2015 "
 IAB,0050C2FE7,Erhardt+Leimer GmbH,Albert-Leimer-Platz 1 Stadtbergen  DE 86391 
 IAB,0050C2E24,DiTEST Fahrzeugdiagnose GmbH,Alte Poststrasse 152 Graz Steiermark AT 8020 
@@ -2724,6 +2723,7 @@ IAB,0050C2ACC,ProPhotonix,3020 Euro Business Park Co Cork Little Island IE n/A
 IAB,0050C29F8,Austco Marketing & Service (USA) ltd.,9155 Sterling St Unit 100 Irving TX US 75063 
 IAB,40D855110,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
 IAB,40D85518A,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district Shenzhen City Guangdong CN 518129 "
+IAB,0050C21D8,Guardian Controls International Ltd," The Dairy, Spring Bank Farm Arclid Cheshire GB CW11 2UD "
 IAB,40D855054,VITEC,"99, rue Pierre Semard Chatillon Ile de France FR 92324 "
 IAB,0050C2DA4,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2E44,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
