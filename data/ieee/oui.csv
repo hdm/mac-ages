@@ -3173,7 +3173,6 @@ MA-L,00248E,Infoware ZRt.,Huseg u. 10/a Budapest  HU 1223
 MA-L,002494,"Shenzhen Baoxin Tech CO., Ltd.","6F Huale BLDG., Zhonghangbei Rd., Shenzhen GuangDong CN 518028 "
 MA-L,002489,Vodafone Omnitel N.V.,Via Jervis 13 10015 Ivrea IT Torino 
 MA-L,00246F,Onda Communication spa,via del lavoro 9 pordenone  IT 33170 
-MA-L,002469,Smart Doorphones,Klipsenstraat 18A Lokeren  BE 9160 
 MA-L,00247F,Nortel Networks,2221 Lakeside Blvd Richardson TX US 75081 
 MA-L,002475,Compass System(Embedded Dept.),1403 ACE TechnoTower 8th Seoul  KR 152-050 
 MA-L,0024C3,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -5343,7 +5342,6 @@ MA-L,7817BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,F072EA,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,B87BC5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F05136,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
-MA-L,207454,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,B8C9B5,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,88ACC0,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,90FD73,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
@@ -5585,7 +5583,6 @@ MA-L,1C08C1,LG Innotek,"978-1 Jangduk dong, Gwangsangu Gwangju Gwangju KR 506-73
 MA-L,34873D,"Quectel Wireless Solutions Co., Ltd.","RM501,Building 13,No.99 TianZhou Road,Xuhui District,Shanghai,China Shanghai Shanghai CN 200233 "
 MA-L,9CF61A,Carrier Fire & Security,Kelvinstraat 7 DH Weert  NL 6003 
 MA-L,58B623,"Beijing Xiaomi Mobile Software Co., Ltd","Xiaomi Campus, No. 33 Xi erqi Middle Road, Haidian District Beijing Beijing CN 100085 "
-MA-L,A022DE,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,FC73FB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,044562,ANDRA Sp. z o. o.,Pryzmaty 6/8 Warszawa  PL 02-226 
 MA-L,00269E,Quanta Computer Inc.,"NO. 211, WEN HWA 2RD., KUEI SHAN HSIANG, TAIPEI, SHIEN TAO YUAN  TW 333 "
@@ -5868,7 +5865,6 @@ MA-L,78B554,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,689E6A,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,282B96,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,CC68B6,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
-MA-L,14DD9C,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,64644A,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,A439B6,SHENZHEN PEIZHE MICROELECTRONICS CO .LTD,"1110 Nanshan Street, Nanshan District, Shenzhen, China Petroleum Building 2012 Shenzhen  CN 518000 "
 MA-L,F4FBB8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -5931,7 +5927,6 @@ MA-L,047153,SERNET (SUZHOU) TECHNOLOGIES CORPORATION,"NO.8 Tangzhuang Road,Suzho
 MA-L,48E7DA,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,40C48C,"N-iTUS CO.,LTD.","NiTUS 85, Deokcheon-ro Anyang-si Gyeonggi-do, Korea KR 14086 "
 MA-L,482218,"Shenzhen Yipingfang Network Technology Co., Ltd.","21 / F, Kangjia R & D building, No.28, Keji South 12th Road, Nanshan District, Shenzhen City, Guangdong Province, China Shenzhen Nanshan District CN 518000 "
-MA-L,2C4881,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,30A176,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,E40CFD,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,58D697,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -6111,6 +6106,11 @@ MA-L,D48A3B,HUNAN FN-LINK TECHNOLOGY LIMITED,"No.8, Litong Road, Liuyan Economic
 MA-L,4006D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,A0B4BF,Infinet-EKB LLC,"office 11, 24 S.Deryabinoy st. Yekaterinburg Sverdlovsk region RU 620102 "
 MA-L,103C59,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,002469,Fasttel - Smart Doorphones,Klipsenstraat 18A Lokeren  BE 9160 
+MA-L,207454,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,A022DE,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,14DD9C,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,2C4881,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -11302,7 +11302,6 @@ MA-L,E0EB40,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,64694E,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,94D6DB,NexFi,"Room 417, Building 14, No. 498, Guoshoujing Road, Pudong New Area Shanghai  CN 201203 "
 MA-L,B4ECF2,"Shanghai Listent Medical Tech Co., Ltd.",No. 668 Qingdai Road Pudong District Shanghai Shanghai CN 201318 
-MA-L,18E777,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,4077A9,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,F83331,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,C4954D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -11383,7 +11382,6 @@ MA-L,1005E1,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,08F458,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,5CBA2C,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,343794,Hamee Corp.,Square O2 2-12-10 Sakae-cho Odawara Kanagawa JP 250-0011 
-MA-L,6CD94C,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,EC316D,Hansgrohe,Auestraße 5-9 Schiltach  DE 77761 
 MA-L,4410FE,"Huizhou Foryou General Electronics Co., Ltd.","North Shangxia Road, Dongjiang Hi-tech Industry Park Huizhou Guangdong CN 516000 "
 MA-L,7CAB60,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -11538,7 +11536,6 @@ MA-L,40EC99,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,BC542F,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,34CFF6,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,C87EA1,TCL MOKA International Limited,"7/F, Building 22E 22 Science Park East Avenue Hong Kong  HK 999077 "
-MA-L,642C0F,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,A0510B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,DCFB48,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,84FDD1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
@@ -11656,7 +11653,6 @@ MA-L,343654,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,748F3C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,40F946,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6C09BF,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,30AFCE,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,FC6DD1,"APRESIA Systems, Ltd.","Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026 "
 MA-L,80C955,"Redpine Signals, Inc.","Plot 87, Sagar Society  Hyderabad AP IN 500034 "
 MA-L,CC4F5C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -11718,7 +11714,6 @@ MA-L,E8EB34,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,5860D8,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,9C9AC0,LEGO System A/S,Aastvej 1 Billund  DK DK-7190 
 MA-L,3CBDC5,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
-MA-L,DC8C1B,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,A8DA0C,SERVERCOM (INDIA) PRIVATE LIMITED,E-43/1 OKHLA INDUSTRIAL AREA PHASE-II NEW DELHI SOUTH DELHI NEW DELHI  IN 110001 
 MA-L,F85329,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,50A5DC,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
@@ -12150,6 +12145,12 @@ MA-L,FC5F49,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hang
 MA-L,6CB0FD,"Shenzhen Xinghai Iot Technology Co.,Ltd","South 8th Road, science and Technology Park, Nanshan District Shenzhen  CN 518063 "
 MA-L,541F8D,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,2CF1BB,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,0C9043,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,18E777,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,6CD94C,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,642C0F,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,30AFCE,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,DC8C1B,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -15529,7 +15530,6 @@ MA-L,001D34,SYRIS Technology Corp,"21 F-2,  NO. 12,  SEC. 1,  Taijunggang Rd. Ta
 MA-L,001D32,Longkay Communication & Technology (Shanghai) Co. Ltd,"No.5 Building, Unit 2, Lane 299 Bisheng Rd, Shanghai  CN 201204 "
 MA-L,001D2A,"SHENZHEN BUL-TECH CO.,LTD.","4/F, COFCO Bdlg , 3rd District,Baoan District, Shenzhen City, shengzhen guangdong CN 518101 "
 MA-L,001D2D,"Pylone, Inc.","4F Nakano Bldg. 4-30-8 Kita-Shinjuku Shinjuku-ku, Tokyo JP 169-0074 "
-MA-L,001D5B,Tecvan Informática Ltda,"Rua Guaicurus, 145 Diadema São Paulo BR 09911-630 "
 MA-L,001D5D,Control Dynamics Pty. Ltd.,PO Box 636 MORLEY Western Australia AU 6943 
 MA-L,001D59,Mitra Energy & Infrastructure,Boulevard de l'Europe 131 1301 Wavre BE  
 MA-L,001D2B,"Wuhan Pont Technology CO. , LTD","Building E, Guandong Science and Technology Industry  Park, Wuhan Hubei CN 430074 "
@@ -17659,7 +17659,6 @@ MA-L,D8C0A6,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City
 MA-L,9CFCE8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,F8AC65,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,1012FB,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
-MA-L,08FA79,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,F09BB8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,BC17B8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,B8CB29,Dell Inc.,One Dell Way Round Rock TX US 78682 
@@ -18234,6 +18233,9 @@ MA-L,E4C0E2,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Ced
 MA-L,D86C5A,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
 MA-L,249745,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,4C3FA7,uGrid Network Inc.,602 Gabriola Way Ottawa Ontario CA K2T 0M2 
+MA-L,1CAE3E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,001D5B,Tecvan Informatica Ltda,"Rua Guaicurus, 145 Diadema São Paulo BR 09911-630 "
+MA-L,08FA79,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -23737,7 +23739,6 @@ MA-L,3C53D7,CEDES AG,Kantonsstrasse 14 Landquart  CH 7302
 MA-L,E8136E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,4CAE13,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,4C2EFE,"Shenzhen Comnect Technology Co.,LTD","G Zone, 3/F, Building 1, Baisha High-Tech Park, No. 3011, Shahe Road West, XiLi Street, Nanshan District Shenzhen  CN 518055 "
-MA-L,10BC97,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,DCD444,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,E0B260,TENO NETWORK TECHNOLOGIES COMPANY LIMITED,"RM 1302, 13/F CHEONG K BLDG 84-86 DES VOEUX RD CENTRAL  HONG KONG Hong Kong  HK 999077 "
 MA-L,A446B4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -23995,7 +23996,6 @@ MA-L,E0E8BB,"Unicom Vsens Telecommunications Co., Ltd.","Room612,613,615,6Floors
 MA-L,E4C90B,Radwin,Habarzel 27 Tel Aviv -- select -- IL 6971039 
 MA-L,982782,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,38A067,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
-MA-L,CC812A,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,7C1B93,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,DC2D3C,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,041119,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24027,7 +24027,6 @@ MA-L,8C4361,Hailo Digital Hub GmbH & Co. KG,Lahnstrasse 3a Giessen Hessen DE 353
 MA-L,54725E,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,98C3D2,"Ningbo Sanxing Medical Electric Co.,Ltd","No.26 FengWan Road,Cicheng Town,Jiangbei District,Ningbo,China  Ningbo  CN 315029 "
 MA-L,245DFC,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,9C8281,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,487E48,Earda Technologies co Ltd,"Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
 MA-L,E0E37C,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,2418C6,HUNAN FN-LINK TECHNOLOGY LIMITED,"No.8, Litong Road, Liuyan Economic & Tec Changsha HUNAN CN 410329 "
@@ -24056,7 +24055,6 @@ MA-L,E84F25,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-s
 MA-L,0425E0,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,3085EB,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,8406FA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,B8D43E,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,C0DCD7,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,3037B3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,14CB19,HP Inc.,10300 Energy Dr Spring TX US 77389 
@@ -24133,7 +24131,6 @@ MA-L,4CD577,"CHONGQING FUGUI ELECTRONICS CO.,LTD.","Building D21,No.1, East Zone
 MA-L,EC08E5,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,80CC9C,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
 MA-L,7C27BC,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
-MA-L,0C6046,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,507097,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,CC1531,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,280FEB,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
@@ -24210,7 +24207,6 @@ MA-L,642677,BKM-Micronic Richtfunkanlagen GmbH,Im Steinernen Kreuz 19 Wurmberg  
 MA-L,4C2FD7,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,D47415,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,50586F,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,8C6794,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,F0B13F,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,1CE639,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,20D778,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
@@ -24255,7 +24251,6 @@ MA-L,0CE5A3,SharkNinja,85 Cude Ln Madison TN US 37115
 MA-L,6C9106,Private,
 MA-L,409151,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,CC3F8A,KOMATSU LTD.,"3-25-1, Shinomiya Hiratsuka-Shi Kanagawa-Ken JP 254-8555 "
-MA-L,987EE3,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,34317F,Panasonic Appliances Company,2-3-1-2 Noji-higashi Kusatsu City Shiga JP 525-8555 
 MA-L,F4EE08,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,100020,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -24313,6 +24308,15 @@ MA-L,D41AD1,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science 
 MA-L,B845F4,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,EC01D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,28937D,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
+MA-L,90F3B8,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,38563D,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,10BC97,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,CC812A,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,9C8281,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,B8D43E,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,0C6046,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,8C6794,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,987EE3,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -29687,7 +29691,6 @@ MA-L,78530D,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyw
 MA-L,0C48C6,CELESTICA INC.,1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 
 MA-L,A42985,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
 MA-L,78AC44,Dell Inc.,One Dell Way Round Rock TX US 78682 
-MA-L,98C8B8,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,B8D4E7,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,D84C90,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,24D0DF,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -29734,8 +29737,6 @@ MA-L,6C6D09,"Kyowa Electronics Co.,Ltd.",4-3-31 Takatsukasa Takarazuka Hyogo JP 
 MA-L,2443E2,DASAN Network Solutions,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
 MA-L,A86ABB,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,90173F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,540E2D,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
-MA-L,708F47,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,A0FF70,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
 MA-L,607ECD,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,548ABA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -29906,7 +29907,6 @@ MA-L,98C97C,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Bu
 MA-L,00C343,E-T-A Circuit Breakers Ltd,6 Telford Close Aylesbury Buckinghamshire GB HP198DG 
 MA-L,58208A,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,0090D2,Artel Video Systems,5B Lyberty Way Westford MA US 01886 
-MA-L,6C1ED7,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,F0AA0B,Arra Networks/ Spectramesh,9201 Ward Pkwy #101 Kansas City MO US 64114 
 MA-L,945641,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
 MA-L,80F5B5,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
@@ -29964,7 +29964,6 @@ MA-L,24A487,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,C45A86,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,20AC9C,China Telecom Corporation Limited,"31 Jinrong Street, Xicheng District, Beijing, China Beijing, China  CN 100033 "
 MA-L,747827,Dell Inc.,One Dell Way Round Rock TX US 78682 
-MA-L,E4F1D4,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,9409D3,"shenzhen maxtopic technology co.,ltd","F3,Building 4, Ji'an Industrial Park, Songbai Blvd shenzhen guangdong CN 518108 "
 MA-L,58D56E,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,F48CEB,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
@@ -30011,8 +30010,6 @@ MA-L,804B50,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701
 MA-L,4089A8,"WiredIQ, LLC",1 South School Avenue sarasota FL US 34237 
 MA-L,683F7D,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,748F4D,duagon Germany GmbH,Neuwieder Straße 1-7 Nuremberg Bavaria DE 90411 
-MA-L,D4ECAB,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
-MA-L,BC3ECB,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,08798C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,50C3A2,"nFore Technology Co.,Ltd.","5F., No.31, Ln. 258, Ruiguang Rd. Neihu Dist., Taipei City 114, Taiwan Taipei  TW 114 "
 MA-L,54DBA2,Fibrain,Zaczernie 190F Zaczernie Subcarpathia PL 36-062 
@@ -30077,7 +30074,6 @@ MA-L,64E0AB,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Par
 MA-L,AC2316,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,2C00AB,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,3CE36B,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
-MA-L,203B69,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,5C1720,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,983F66,"Wuhan Funshion Online Technologies Co.,Ltd","5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000 "
 MA-L,605E4F,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -30132,7 +30128,6 @@ MA-L,109497,Logitech Hong Kong,"Room 1002-1003, 10/F, Tower 1, Cheung Sha Wan Pl
 MA-L,00141D,KEBA Industrial Automation Germany GmbH,Gewerbestrasse 5-9 Lahnau Hessen DE 35633 
 MA-L,E0DA90,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,A4A46B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,C04754,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,A0D7A0,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,40E64B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,B4FA48,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -30273,7 +30268,6 @@ MA-L,509A88,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,506F0C,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,487397,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,A0445C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,D09CAE,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,7C2ADB,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,941700,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,64A200,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -30311,7 +30305,6 @@ MA-L,4448B9,MitraStar Technology Corp.,"No. 6, Innovation Road II, Hsinchu  TW 3
 MA-L,A0D05B,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,04D442,"GUANGDONG GENIUS TECHNOLOGY CO., LTD.","No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851 "
 MA-L,24D7EB,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,FC1D2A,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
 MA-L,A4E11A,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,E86E44,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,00E7E3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
@@ -30336,7 +30329,6 @@ MA-L,204B22,Sunnovo International Limited,1717 Haitai Building Beijing Beijing C
 MA-L,D81F12,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,B06A41,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,BCCE25,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
-MA-L,B4AC8C,Berner Fachhochschule,Dammweg 3 Bern Bern CH 3013 
 MA-L,B010A0,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,24FC4E,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,98C854,"Chiun MaiCommunication System, Inc","No.4, MingSheng St. TuCheng District New Taipei City  TW 23679 "
@@ -30359,4 +30351,18 @@ MA-L,DC9166,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,9035EA,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
 MA-L,6C3C7C,CANON INC.,"30-2 Shimomaruko 3-chome, Ohta-ku Tokyo JP 146-8501 "
 MA-L,F82F5B,eGauge Systems LLC,"1644 Conestoga St, Suite 2 Boulder CO US 80301 "
+MA-L,6C1ED7,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,E4F1D4,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,D4ECAB,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,BC3ECB,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,203B69,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,C04754,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,D09CAE,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,B4AC8C,Bern University of Applied Sciences,Dammweg 3 Bern Bern CH 3013 
+MA-L,B894E7,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,34B98D,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,304F00,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,98C8B8,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,540E2D,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,708F47,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,FC1D2A,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
