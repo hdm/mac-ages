@@ -6144,6 +6144,8 @@ MA-L,2426BA,"Shenzhen Toptel Technology Co., Ltd.","Floor 6th, Building C, Guanc
 MA-L,282A87,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,A8B57C,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
 MA-L,78C6BB,"Analog Devices, Inc.","5635 Jefferson St. NE, Suite A Albuquerque NM US 87109 "
+MA-L,10A51D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,088E90,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18328,6 +18330,7 @@ MA-L,70A741,Ubiquiti Networks Inc.,2580 Orchard Pkwy San Jose CA US 95131
 MA-L,F84E17,Sony Corporation,Sony City Osaki 2-10-1 Shinagawa-ku  Tokyo JP 141-8610 
 MA-L,D4D7CF,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
 MA-L,F4E4D7,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
+MA-L,BCDB09,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24393,7 +24396,6 @@ MA-L,4CEAAE,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN R
 MA-L,045170,"Zhongshan K-mate General Electronics Co.,Ltd","NO.2 ,5th Xinsheng Street,East Mu He Jing Road, Gangkou Town Zhongshan Guangdong CN 528447 "
 MA-L,384554,Harman/Becker Automotive Systems GmbH,Becker-Göring-Straße 16 Karlsbad Baden-Württemberg DE 76307 
 MA-L,88D82E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,D0A0D6,TÜV Rheinland (China) Ltd.,"3-5F,Building 3, No.219 Tian Hua Road 2, Software Park C,High-Tech Zone Chengdu Sichuan CN 610041 "
 MA-L,D41AD1,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,B845F4,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,EC01D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -24439,6 +24441,7 @@ MA-L,703217,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,1859F5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,14C9CF,Sigmastar Technology Ltd.,"15th Floor ,Unit A,Chuangxin Building, Software Park, Xiamen Torch Hi-Tech Industrial Development Zone, Xiamen,China Xiamen City Fujian Province CN 361001 "
 MA-L,6444D5,Private,
+MA-L,D0A0D6,TD Tech,"3-5F,Building 3, No.219 Tian Hua Road 2, Software Park C,High-Tech Zone Chengdu Sichuan CN 610041 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30516,3 +30519,5 @@ MA-L,387A0E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,787264,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,9CC2C4,"Inspur Electronic Information Industry Co.,Ltd.",No 224 Shanda Road Jinan Shandong CN 250013 
 MA-L,BC6EE2,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,C48BA3,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,A02919,Dell Inc.,One Dell Way Round Rock TX US 78682 
