@@ -616,7 +616,6 @@ MA-M,F490CBC,Cheetah Medical,2A Hashlosha st. Tel Aviv  IL 6706055
 MA-M,9405BB9,Zimmer GmbH,Im Salmenkopf 5 Rheinau Baden-Württemberg DE 77866 
 MA-M,9405BBE,BAE Systems,21 continental boulevard Merrimack NH US 03054 
 MA-M,F490CBB,A-dec Inc.,2601 Crestview Drive Newberg OR US 97132 
-MA-M,9405BB7,"LTE-X, Inc",4F Ginza Showa Dori Building 8-14-14 Ginza Chuo-ku Tokyo JP 104-0062 
 MA-M,C09BF46,LTD Delovoy Office,"Block “B”, floor 6, build 4/1, Stroiteley blvd Krasnogorsk  RU 143401 "
 MA-M,F490CB7,TEQ SA,Via al Municipio 16 Barbengo Ticino CH 6917 
 MA-M,A4DA22A,Grundig,Steinhof 39 Erkrath  North Rhine-Westphalia DE 40699 
@@ -787,6 +786,7 @@ MA-M,986EE8C,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsu
 MA-M,9880BB4,"Shenzhen Ginto E-commerce CO.,LTD","Room 1308-1309, Building B, Huihai Square, Chuangye Road, Longhua District, Shenzhen Shenzhen Guangdong CN 570100 "
 MA-M,787264D,QT systems ab,Finnbacksgatan 11 Lycksele Västerbotten SE 921 32 
 MA-M,7872649,"SHENZHEN FANGZHICHENG TECHNOLOGY CO., LTD.","SHENZHEN FANGZHICHENG TECHNOLOGY CO., LTD. SHENZHEN GUANGDONG CN 518000 "
+MA-M,9405BB7,closip Inc.,4F Ginza Showa Dori Building 8-14-14 Ginza Chuo-ku Tokyo JP 104-0062 
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -3844,3 +3844,4 @@ MA-M,9880BB3,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 
 MA-M,9880BBC,"Shenzhen Xin Kingbrand Enterprises Co., Ltd","First and Third Floor of Building B,Building A, NO. 90 Nanpu Road, Shajing Street, Baoan District Shenzhen  CN 518000 "
 MA-M,9880BBD,"Wyebot, Inc.",2 Mount Royal Ave. Marlborough MA US 01752 
 MA-M,787264A,"Typhoon HIL, Inc.","15 Ward Street, 2nd Floor Somerville  US 02143 "
+MA-M,7872647,Conjing Networks Inc.,"4F., No.108, Zhenxing Rd., East Dist. Hsinchu City  TW 300081 "
