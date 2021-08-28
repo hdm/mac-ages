@@ -2808,7 +2808,6 @@ MA-L,A88792,Broadband Antenna Tracking Systems,"8902 Vincennes Circle, Suite D-2
 MA-L,14F0C5,Xtremio Ltd.,POB 5246 Herzelyia  IL 46152 
 MA-L,E8C229,H-Displays (MSC) Bhd,"No. 31 & 32, Jalan Gangsa Dua Johor Bahru  MY 81700 "
 MA-L,3CA72B,MRV Communications (Networks) LTD,P.O Box 614 Yokneam   IL 20692 
-MA-L,301A28,Mako Networks Ltd,1/62 Paul Matthews Rd Auckland  NZ 0632 
 MA-L,04E662,Acroname Inc.,4822 Sterling Drive Boulder CO US 80301-2350 
 MA-L,F87B8C,Amped Wireless,13089 Peyton Dr. #C307 Chino Hills CA US 91709 
 MA-L,283410,Enigma Diagnostics Limited,Building 224 DSTL Porton Down Salisbury GB SP4 0JQ 
@@ -6146,10 +6145,11 @@ MA-L,ACBCD9,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,58CE2A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,10A51D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,088E90,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,98DD60,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C04442,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,D468AA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,98DD60,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F8C3CC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,301A28,Mako Networks Ltd,1355 North Maclean Blvd Elgin IL US 60123 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -24459,9 +24459,9 @@ MA-L,DC6294,"Guangzhou Lango Electronics Technology Co.,Ltd.","Room 238, Room 40
 MA-L,5C46B0,SIMCom Wireless Solutions Limited,"SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China Shanghai  CN 200335 "
 MA-L,3C219C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,EC4269,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
-MA-L,D0A0D6,TD Tech,"15F, building D, Yeqing building, No. 9, Wangjing  Beijing Wangjing North Road, Chaoyang District CN 610041 "
 MA-L,D45763,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C02C5C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,D0A0D6,Cheng Du TD Tech,"C3 floor, software park, No. 219, Tianhua Second Road Chengdu Tianfu Avenue, high tech Zone CN 610041 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30553,3 +30553,4 @@ MA-L,1CB3C9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,FCAA81,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,609316,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,646D2F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,5C9666,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
