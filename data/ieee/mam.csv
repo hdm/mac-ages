@@ -496,7 +496,6 @@ MA-M,A44F290,Dermalog Identification Systems GmbH,Mittelweg 120 Hamburg Hamburg 
 MA-M,3C39E75,Attrackting AG,Falkenstrasse 44 Biel/Bienne Berne CH 2502 
 MA-M,0CEFAF1,Goerlitz AG,August-Thyssen-Strasse 32 Koblenz Rheinland-Pfalz DE 56070 
 MA-M,3C39E78,Martem AS,Akadeemia tee 21/6 Tallinn Harjumaa EE 12618 
-MA-M,3C39E72,HomeWizard B.V.,Scheepmakerstraat 40 Katwijk ZH NL 2222AC 
 MA-M,1007235,"BEIJING SOOALL INFORMATION TECHNOLOGY CO.,LTD","Room 1028,Block B,No.11 XinghuoRoad,Science City,Fengtai District Beijing Beijing CN 100070 "
 MA-M,E81863B,"Protek Electronics Group Co.,LTD","Homecare Technology Park,5/F,No.30,Langdong Shenzhen Guangdong CN 518105 "
 MA-M,D022120,Spirit IT B.V.,prof. dr. Dorgelolaan 20 Eindhoven Noord-Brabant NL 5613 AM 
@@ -660,7 +659,6 @@ MA-M,28B77C8,"Shenzhen PUAS Industrial Co.,LTD","2/F, C/Building, Huawang Indust
 MA-M,28B77C1,SolarEdge Technologies,1 Abba Eban St. Herzelia  IL 46725 
 MA-M,C0619A7,MAD PIECE LLC.,2196 flatbush ave. BROOKLYN NY US 11234 
 MA-M,C0619A5,"Nanjing Balance Network Technology Co., Ltd","9-10/F,building 01, No.8,Bailongjiang East Street,Jianye District Nanjing Jiangsu CN 210017 "
-MA-M,98FC843,Shanghai ZeXin Information Technologies Co. Ltd.,"Room 205E Building 5#,545 Hulan Road,Baoshan District,Shanghai City Shanghai  CN 200000 "
 MA-M,C0619AD,Uhnder,3409 Executive Center Drive Ste205 Austin TX US 78731 
 MA-M,98FC84D,Jazwares LLC,1067 Shotgun Rd Sunrise FL US 33326 
 MA-M,98FC844,Sferrum GmbH,"Kytyzovsky avenue, build 36/3, office 216 Moscow  RU 121170 "
@@ -788,6 +786,8 @@ MA-M,787264D,QT systems ab,Finnbacksgatan 11 Lycksele Västerbotten SE 921 32
 MA-M,7872649,"SHENZHEN FANGZHICHENG TECHNOLOGY CO., LTD.","SHENZHEN FANGZHICHENG TECHNOLOGY CO., LTD. SHENZHEN GUANGDONG CN 518000 "
 MA-M,7872648,"Gsou Technology(Shenzhen)Co.,Ltd","18B.Block B,First World Plaza,No.7002 West HongLi road,Futian, ShenZhen  CN 518000 "
 MA-M,9405BB7,closip Inc.,4F Ginza Showa Dori Building 8-14-14 Ginza Chuo-ku Tokyo JP 104-0062 
+MA-M,98FC843,"ZeXin (Shanghai) Information Technologies Co.,Ltd","Room 205E Building 5#,545 Hulan Road,Baoshan District,Shanghai City Shanghai  CN 200000 "
+MA-M,3C39E72,HomeWizard B.V.,Keyserswey 79 Noordwijk Zuid-Holland NL 2201CX 
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -1516,6 +1516,8 @@ MA-M,9880BB7,Guangdong-Hong Kong-Macao Greater Bay Area Research Innovation Inst
 MA-M,7872643,"Guangdong Hongqin Telecom Technology Co.,Ltd.","10 Keyuan Road, Songshan Lake Dongguan  Guangdong  CN 523429 "
 MA-M,9880BB9,"Shenzhen Hebang Electronic Co., Ltd","2nd Floor West, Bldg B, Kelunte Low Carbon Industry Park, Huarong Road, Dalang, Longhua District Shenzhen  CN 518000 "
 MA-M,7872640,"SmartMore Co.,ltd.","22nd Floor,Sanhang Technology Building,Nanshan ShenZhen,China  ShenZhen GuangDong CN 518000 "
+MA-M,7872642,BZBGEAR,830 National dr ste 140 Sacramento CA US 95834 
+MA-M,F4700CC,G.S.D GROUP INC.,"2010 RUE MICHELIN, SUITE 100 LAVAL Quebec CA H7L 5C2 "
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -2027,7 +2029,6 @@ MA-M,E4956E6,"SHENZHEN JOYETECH ELECTRONICS CO., LTD.","9th Blvd.Changxing New T
 MA-M,58FCDB8,Shanghai Qianjin Electronic Equipment Co. Ltd," 4/F,Building No.2,401 Caobao Road  Shanghai  200233 "
 MA-M,58FCDB5,"Shenzhen Siecom Communication Technology Development Co.,Ltd.","Wanwei building401 ,Industry 5th Road Shenzhen Guangdong CN 518067 "
 MA-M,58FCDBC,"Excenon Mobile Technology Co., Ltd.","5th Floor, Building 1, Software Park, Kejizhong 2nd Rd, High-Tech Zone, Nanshan Shenzhen Guangdong CN 518000 "
-MA-M,58FCDB7,"Open Roads Consulting, Inc.",103 Watson Rd. Chesapeake Virginia US 23320 
 MA-M,B01F81E,Advanced & Wise Technology Corp.,"5F, No. 3-2, Industry East 9th Road, Hsinchu Science Park, Hsinchu City Hsinchu TW 30075 "
 MA-M,58FCDB3,Custom Biogenic Systems,74100 Van Dyke Road MI Michigan US 48065 
 MA-M,B01F818,Technion Oy,Linkkikatu 15 Naantali Länsi-Suomi FI 21100 
@@ -2298,6 +2299,7 @@ MA-M,9880BB8,"Jyh Eng Technology Co., Ltd","5F, No. 50, Lane 1 , Sec.2, Guodao R
 MA-M,9880BB2,"Shanghai ECone Technology Co.,Ltd.","Room1418,Floor5Building9,YangmingRoad,Xinghu,Development Zone, Fengxian,District,Shanghai Shanghai  CN 200000 "
 MA-M,9880BB5,Melexis Technologies NV,Transportstraat 1 Tessenderlo Select State BE 3980 
 MA-M,7872646,"Shenzhen C-DIGI Technology Co.,Ltd.","MeishengChuanggu(Xiagu), No. 10 Longchang Rd., Xin'an, Bao'an, Shenzhen  CN 518000 "
+MA-M,58FCDB7,"Prometheus Security Group Global, Inc.","3019 Alvin Devane Boulevard  Building 4, Suite 400 Austin TX US 78741 "
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -3068,6 +3070,7 @@ MA-M,9880BB1,"GreatWall Information Co.,Ltd","No.5,3rd EastRoad,ChangshaEconomic
 MA-M,787264C,Comcast-SRL,Alejo Martinez 17 Sosua Puerto Plata DO 34443 
 MA-M,7872641,"Zhengzhou Reform Intelligent Device Co., Ltd","Kangqiao Business Plaza, Chengdong Road, Zhengbian Road, Guancheng District 2122 Zhengzhou City Henan Province CN 450000 "
 MA-M,7872645,"CALTTA TECHNOLOGIES CO.,LTD.","Building G2, International E-City, Nanshan District, ShenZhen Guangdong CN 518052 "
+MA-M,787264E,Heltec Automation,"64 Chenghong Rd., Longtan Industrial Park, Chenghua District Chengdu Sichuan CN 610000 "
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
