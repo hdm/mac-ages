@@ -5094,7 +5094,6 @@ MA-L,00C09A,PHOTONICS CORPORATION,2940 NORTH FIRST STREET SAN JOSE CA US 95123-2
 MA-L,00C01A,COROMETRICS MEDICAL SYSTEMS,61 BARNES PARK ROAD NORTH WALLINGFORD CT US 06492-0333 
 MA-L,00C068,HME Clear-Com LTD.,7400 Beach Drive Cambridgeshire  GB CB25 9TP 
 MA-L,00C0D8,UNIVERSAL DATA SYSTEMS,5000 BRADFORD DRIVE HUNTSVILLE AL US 35805-1993 
-MA-L,004036,"Zoom Telephonics, Inc",207 South St Boston MA US 02111 
 MA-L,004016,ADC - Global Connectivity Solutions Division,P.O. Box 1101 Minneapolis MN US 55440-1101 
 MA-L,00406A,"KENTEK INFORMATION SYSTEMS,INC",2945 WILDERNESS PLACE BOULDER CO US 80301 
 MA-L,00400A,"PIVOTAL TECHNOLOGIES, INC.",100 W. RINCON AVENUE-STE #211 CAMPBELL CA US 95008 
@@ -6165,16 +6164,17 @@ MA-L,1C4586,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO
 MA-L,507C6F,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,589B4A,DWnet Technologies(Suzhou) Corporation,"No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China Suzhou  CN 21500 "
 MA-L,5C83CD,New platforms,"Warshavskoe shosse, 35 bld 1 Moscow  RU 117105 "
+MA-L,384B24,SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 
+MA-L,F0AE66,"Cosonic Intelligent Technologies Co., Ltd.","Room 506, No.1 Building, No.6, South Industrial Road, Songshan Lake National High-tech Industrial Development Zone Dongguan City, Guangdong Province  CN 523808 "
 MA-L,208097,Shenzhen OXO Technology limited,"Room 1712-2, Building 4, Tian 'an Yungu Industrial Park, Gangtou Community, Bantian Street, Longgang District Shenzhen Guangdong CN 518000 "
 MA-L,7C1689,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
-MA-L,C41C07,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,4011C3,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,C47D9F,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,9C5440,Private,
-MA-L,384B24,SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 
-MA-L,F0AE66,"Cosonic Intelligent Technologies Co., Ltd.","Room 506, No.1 Building, No.6, South Industrial Road, Songshan Lake National High-tech Industrial Development Zone Dongguan City, Guangdong Province  CN 523808 "
 MA-L,3CA916,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,C41C07,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,58FCC6,TOZO INC,1546 NW 56TH ST # 743 SEATTLE WA US 98107-5209 
+MA-L,004036,Minim Inc.,848 Elm Street Manchester NH US 03101 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12266,6 +12266,7 @@ MA-L,9CEC61,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,747069,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,14FB70,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,84D3D5,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,D413F8,Peplink International Ltd.,"A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road Cheung Sha Wan Kowloon HK 0 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18405,6 +18406,7 @@ MA-L,F4F309,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,7857B0,GERTEC BRASIL LTDA,"Avenida Jabaquara, 3060, room 601 Sao Paulo São Paulo BR 04046500 "
 MA-L,C4F122,Nexar Ltd.,58 HaRakevet st Tel Aviv Tel Aviv IL 6777016 
 MA-L,14CB65,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,D07880,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24544,6 +24546,8 @@ MA-L,145594,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,08C06C,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,B4BA02,Agatel Ltd,"Apex House, Calthrope Road Birmingham — GB B15 1TR "
 MA-L,EC2A72,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,C44F96,Alps Alpine,"20-1, Yoshima Industrial Park Iwaki Fukushima JP 970-1192 "
+MA-L,685811,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30655,3 +30659,7 @@ MA-L,D405DE,eero inc.,660 3rd Street San Francisco CA US 94107
 MA-L,38384B,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,4873CB,Tiinlab Corporation,"No. 3333, Liuxian Avenue, Tower A, 32th Floor, Tanglang City, Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,789FAA,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,FC777B,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
+MA-L,14172A,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,005FBF,Toshiba Corp.,"1-1 Shibaura 1-Chome, Minato-Ku Tokyo  JP 105-8001 "
+MA-L,98192C,Edgecore Networks Corporation,1 Creation RD 3. Hsinchu  TW 30077 
