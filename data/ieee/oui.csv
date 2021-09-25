@@ -6183,6 +6183,9 @@ MA-L,D49400,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,A4EF15,AltoBeam (China) Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,EC50AA,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,10E8A7,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,806A00,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,D46C6D,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,A0E7AE,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12283,10 +12286,14 @@ MA-L,9C8566,"Wingtech Mobile Communications Co.,Ltd.","1F-3F,Yinfeng Mansion,No.
 MA-L,7070AA,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,48B423,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,94A9A8,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,C85ACF,HP Inc.,10300 Energy Dr Spring TX US 77389 
 MA-L,A83A48,Ubiqcom India Pvt Ltd,"First Floor, D-92, Sector-63 Noida Uttar Pradesh IN 201301 "
-MA-L,349454,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,641ABA,Dryad Networks GmbH,Eisenbahnstr. 37 Eberswalde Brandenburg DE 16225 
+MA-L,642FC7,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,C85ACF,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,6026AA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,5C3192,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,349454,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,A4438C,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18437,6 +18444,9 @@ MA-L,3C869A,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,3408E1,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,64BE63,STORDIS GmbH,Rosenwiesstr. 17 Stuttgart  DE 70567 
 MA-L,3CE038,Omnifi Inc.,"6701 Koll Center Parkway, Suite 250 Pleasanton CA US 94566 "
+MA-L,D46624,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,E06CF6,ESSENCORE limited," Suite 4006, 40/F Central Plaza, 18 Harbour Road, Wanchai, Hong Kong  HK No code "
+MA-L,78C62B,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24587,6 +24597,11 @@ MA-L,303F7B,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University
 MA-L,ECE744,Omntec mfg. inc,2420 Pond Road. Ronkonkoma NY US 11779 
 MA-L,2C4DDE,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
 MA-L,00C09B,"Tellabs Enterprise, Inc.",4240 International Parkway  Suite 105 Carrollton TX US 75007 
+MA-L,F863D9,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,A405D6,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,DCA633,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,1845B3,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,D8CFBF,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30705,8 +30720,11 @@ MA-L,E07E5F,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bay
 MA-L,789FAA,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,38BEAB,AltoBeam (China) Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,98192C,Edgecore Networks Corporation,1 Creation RD 3. Hsinchu  TW 30077 
-MA-L,AC8B6A,China Mobile IOT Company Limited,"NO.8 Yu Ma Road, NanAn Area Chongqing Chongqing CN 401336 "
-MA-L,B89EA6,SPBEC-MINING CO.LTD,"st. Kokkolevskaya, building 1/1 St. Petersburg  RU 196140 "
-MA-L,341343,GE Lighting,1975 Noble Rd East Cleveland OH US 44112 
-MA-L,88A4C2,"LCFC(Hefei) Electronics Technology Co., Ltd","No.3188-1,YunGu Road(Comprehensive Bonded Zone),Hefei Economic and Technological Development Area HEFEI ANHUI CN 230601 "
 MA-L,782184,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,88A4C2,"LCFC(Hefei) Electronics Technology Co., Ltd","No.3188-1,YunGu Road(Comprehensive Bonded Zone),Hefei Economic and Technological Development Area HEFEI ANHUI CN 230601 "
+MA-L,AC50DE,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,AC8B6A,China Mobile IOT Company Limited,"NO.8 Yu Ma Road, NanAn Area Chongqing Chongqing CN 401336 "
+MA-L,00DDB6,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,341343,GE Lighting,1975 Noble Rd East Cleveland OH US 44112 
+MA-L,B89EA6,SPBEC-MINING CO.LTD,"st. Kokkolevskaya, building 1/1 St. Petersburg  RU 196140 "
+MA-L,3083D2,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
