@@ -6193,12 +6193,15 @@ MA-L,6C3A36,Glowforge Inc,2200 1st Ave S Seattle WA US 98134
 MA-L,BCAF87,"smartAC.com, Inc.","5302 Egbert St, SmartACcom Houston TX US 77007 "
 MA-L,D42C46,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
 MA-L,1091A8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,78047A,Edge Networks LLC,14 Whistler Hill Lane  HUNTINGTON NY US 11743 
-MA-L,786299,BITSTREAM sp. z o.o.,"Melgiewska, 7/9 Lublin  PL 20-209 "
-MA-L,CC5B31,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,C02B31,"Phytium Technology Co.,Ltd.","Building5,XinAn Business Square,Haiyuan Middle Road Binhai New District, Tianjin  CN 300450 "
 MA-L,58CF79,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,78047A,Edge Networks LLC,14 Whistler Hill Lane  HUNTINGTON NY US 11743 
+MA-L,B03CDC,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,CC5B31,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,0009B0,Onkyo Technology K.K.,"Lux Building (5th floor),1-1-41 Kawamata Higashiosaka City Osaka JP 577-0063 "
+MA-L,786299,BITSTREAM sp. z o.o.,"Melgiewska, 7/9 Lublin  PL 20-209 "
+MA-L,4CC449,Icotera A/S,Vibeholms Allé 16 Brøndby  DK 2605 
+MA-L,BC455B,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18471,9 +18474,11 @@ MA-L,78C62B,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net S
 MA-L,D46624,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,9C9019,Beyless,"#725,42,Changeop-ro, Sujeong-gu Seongnam-si Gyeonggi-do KR 13449 "
 MA-L,3CE038,Omnifi Inc.,"6701 Koll Center Parkway, Suite 250 Pleasanton CA US 94566 "
-MA-L,04CE09,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+MA-L,1C869A,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,D8FBD6,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,9C47F9,LJU Automatisierungstechnik GmbH,Am Schlahn 1 Potsdam Brandenburg DE D-14476 
+MA-L,04CE09,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+MA-L,70A8D3,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24637,6 +24642,7 @@ MA-L,940D2D,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 
 MA-L,F814FE,"UNIONMAN TECHNOLOGY CO.,LTD","No.5, Huitai Road Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,34CE69,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,70B8F6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,149E5D,"JSC ""IB Reform""","Varshavskoe shosse, 125, bld. 1, s. 3, fl. 6, room 10/23 Moscow  RU 117587 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30768,6 +30774,7 @@ MA-L,1466B7,Advanced Design Technology Pty Ltd,GPO Box 2808 Canberra City ACT AU
 MA-L,185880,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,CC3F1D,HMS Industrial Networks SLU,Milà i Fontanals 7 Igualada Barcelona ES 08700 
 MA-L,08C8C2,GN Audio A/S,Lautrupbjerg 7 Ballerup  DK DK-2750 
-MA-L,B8F255,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
-MA-L,2CA327,Oraimo Technology Limited,RMS 05-15?13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HONG KONG HONG KONG HK 999077 
 MA-L,94944A,Particle Industries Inc.,548 Market St PMB 34833 San Francisco CA US 94104 
+MA-L,2CA327,Oraimo Technology Limited,RMS 05-15?13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HONG KONG HONG KONG HK 999077 
+MA-L,B8F255,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
+MA-L,10AEA5,Duskrise inc.,Empire State Building 350 Fifth Avenue 41st Floor  new york NY US 10118 
