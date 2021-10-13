@@ -925,6 +925,7 @@ MA-S,8C1F649C3,Camozzi Automation SpA,Via Eritrea 20/I BRESCIA ITALY IT 25080
 MA-S,8C1F64E41,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen  CH 9008 
 MA-S,8C1F64177,Emcom Systems,"92 N Main St, Building 18, Unit A,  Windsor NJ US 07762 "
 MA-S,8C1F64FE3,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
+MA-S,8C1F64F5A,Telco Antennas Pty Ltd,5/1 Roebuck St Hemmant QLD AU 4154 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1513,7 +1514,6 @@ MA-S,70B3D5112,DiTEST Fahrzeugdiagnose GmbH,Alte Poststraße 152 Graz Steiermark
 MA-S,70B3D5205,Esource Srl,via del Caravaggio 3 Milano Mi IT 20144 
 MA-S,70B3D5708,IBM Research GmbH,Saeumerstrasse 4 Rueschlikon ZH CH 8803 
 MA-S,70B3D5BEC,"Tokyo Communication Equipment MFG Co.,ltd.",3-8-13 Minato-ku Tokyo JP 1080074 
-MA-S,70B3D585C,Robot Pub Group,4 Gleneagles Court Wakefield UK GB WF6 1WW 
 MA-S,70B3D5025,Elsuhd Net Ltd Co.,Karrada dakhil-Q 909- St.20-Building 74 Karrada Baghdad IQ 10001 
 MA-S,70B3D5AA0,"Simple Works, Inc.",PO Box 345 Libertyville Illinois US 60048 
 MA-S,70B3D5709,AML,2190 Regal Parkway Euless TX US 76040 
@@ -1838,8 +1838,10 @@ MA-S,8C1F64328,"Com Video Security Systems Co., Ltd."," No.1, Aly. 2, Ln. 2, Sec
 MA-S,8C1F647B8,TimeMachines Inc.,"300 S 68th Street Place, Suite 100 Lincoln NE US 68510 "
 MA-S,8C1F64A07,GJD Manufacturing,"Unit 2, Birch Business Park, Whittle Lane Heywood  GB OL10 2SX "
 MA-S,8C1F64780,"HME Co.,ltd","292,Nukata Kuwana Mie JP 511-0911 "
+MA-S,8C1F64256,Landinger,Thalkirchen 19 Bad Endorf Bavaria DE 83093 
+MA-S,70B3D585C,Tabology,4 Gleneagles Court Wakefield UK GB WF6 1WW 
 MA-S,8C1F6457B,Potter Electric Signal Company,1609 Park 370 Place Hazelwood MO US 63042 
-MA-S,8C1F64DCA,Porsche egnieering,Radlicka 714/113a Praha 5  CZ 158 00 
+MA-S,8C1F64DCA,Porsche engineering,Radlicka 714/113a Praha 5  CZ 158 00 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2739,10 +2741,12 @@ MA-S,70B3D56C1,R.A.I.T.88 Srl,"Via di Cervara 49, Rome  IT 00155 "
 MA-S,8C1F64C01,HORIBA ABX SAS,rue du caducee Montpellier Herault FR 34000 
 MA-S,8C1F64D56,Wisdom Audio,1572 College Parkway Carson City NV US 89706 
 MA-S,8C1F64071,DORLET SAU,Albert Eistein 34 Alava SPAIN ES 01510 
-MA-S,8C1F647EC,Methods2Business B.V.,Burg. Wittestraat 21 EINDHOVEN Noord-Brabant NL 5616 DA 
+MA-S,8C1F64956,Paulmann Licht GmbH,Quezinger Feld 2 Springe  DE 31832 
+MA-S,8C1F64B22,BLIGHTER SURVEILLANCE SYSTEMS LTD,"Iceni House, London Road, Great Chesterford Saffron Walden Essex GB CB10 1NY "
 MA-S,8C1F648A4,Genesis Technologies AG,Werkstrasse 73 Lyss Bern CH 3250 
-MA-S,8C1F6445F,Toshniwal Security Solutions Pvt Ltd,"industrial estate, makhupura, ajmer, rajasthan ajmer Rajasthan IN 305002 "
 MA-S,8C1F64535,Columbus McKinnon,9415 Pioneer Avenue Charlotte NC US 28273 
+MA-S,8C1F6445F,Toshniwal Security Solutions Pvt Ltd,"industrial estate, makhupura, ajmer, rajasthan ajmer Rajasthan IN 305002 "
+MA-S,8C1F647EC,Methods2Business B.V.,Burg. Wittestraat 21 EINDHOVEN Noord-Brabant NL 5616 DA 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3663,6 +3667,7 @@ MA-S,8C1F64650,"L tec Co.,Ltd",670-1 Shinpikuji Chiyoda-machi Ora-gun Gunma-pref
 MA-S,8C1F644DA,DTDS Technology Pte Ltd,"Block 19 #05-153, Kallang Avenue Singapore  SG 339410 "
 MA-S,8C1F64EB9,KxS Technologies Oy,Zirkonipolku 2  A LH1 VANTAA  FI 01700 
 MA-S,70B3D5CCB,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
+MA-S,8C1F64787,Tabology,8-10 WOOD STREET WAKEFIELD Wakefield West Yorkshire GB WF1 2ED 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -4559,3 +4564,4 @@ MA-S,8C1F64472,"Surge Networks, Inc.","2035 Sunset Lake Road, Suite B-2 Newark D
 MA-S,8C1F646F4,Elsist Srl,"Via G. Brodolini, 15 Casale Monf.to Alessandria IT 15033 "
 MA-S,8C1F64B3D,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
 MA-S,8C1F64D52,Critical Software SA,"Parque Industrial de Taveiro, Lote 49 Coimbra 504208187 PT 3045-504 "
+MA-S,8C1F64B4C,Picocom Technology Ltd ,"DeskLodge House, Redcliffe Way Bristol  GB BS1 6NL "
