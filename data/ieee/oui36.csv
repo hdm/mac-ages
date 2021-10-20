@@ -1407,7 +1407,6 @@ MA-S,70B3D57AA,Sadel S.p.A.,"via Marino Serenari, 1 Castel Maggiore Bologna IT 4
 MA-S,70B3D5B34,Medtronic,7 Hamarpe Street Jerusalem Israel IL 97774 
 MA-S,70B3D5740,Prisma Telecom Testing Srl,"Via Petrocchi, 4 Milano MI IT 20127 "
 MA-S,70B3D5BED,Itrinegy Ltd.,Albany Chambers Welwyn Garden City Herts GB AL7 1HL 
-MA-S,70B3D5A1D,Fluid Components International,1755 La Costa Meadows Drive San Marcos CA US 92078 
 MA-S,70B3D52F6,TATTILE SRL,"VIA DONIZETTI, 1/3/5 MAIRANO BRESCIA IT 25030 "
 MA-S,70B3D5F85,Solystic,152/160 av Aristide Briand Bagneux Region Parisienne FR 92227 
 MA-S,70B3D5817,Aplex Technology Inc.,"2nd Floor,Tower3,District5,HongHuaLing industrial park,  Nanshan District Shenzhen Guangdong CN 518055 "
@@ -1842,6 +1841,7 @@ MA-S,8C1F64780,"HME Co.,ltd","292,Nukata Kuwana Mie JP 511-0911 "
 MA-S,8C1F6457B,Potter Electric Signal Company,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,8C1F64256,Landinger,Thalkirchen 19 Bad Endorf Bavaria DE 83093 
 MA-S,70B3D585C,Tabology,4 Gleneagles Court Wakefield UK GB WF6 1WW 
+MA-S,70B3D5A1D,Fluid Components Intl,1755 La Costa Meadows Drive San Marcos CA US 92078 
 MA-S,8C1F64DCA,Porsche engineering,Radlicka 714/113a Praha 5  CZ 158 00 
 MA-S,8C1F648D4,Recab Sweden AB,Västberga Allé 5 Hägersten  SE 126 30 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
@@ -2751,6 +2751,8 @@ MA-S,8C1F64535,Columbus McKinnon,9415 Pioneer Avenue Charlotte NC US 28273
 MA-S,8C1F64956,Paulmann Licht GmbH,Quezinger Feld 2 Springe  DE 31832 
 MA-S,8C1F64747,VisionTIR Multispectral Technology,C/Pierre Laffitte Nº8 Málaga Málaga ES 29590 
 MA-S,8C1F64298,Megger Germany GmbH,Röderaue 41 Radeburg  DE 01471 
+MA-S,8C1F640EA,SmartSky Networks LLC,"45610 Woodland Road, Suite 370 Sterling VA US 20166 "
+MA-S,8C1F64E5D,JinYuan International Corporation,"8F., No. 649-8, Zhongzheng Rd. Xinzhuang Dist. New Taipei City  TW 242051 "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3672,6 +3674,8 @@ MA-S,8C1F644DA,DTDS Technology Pte Ltd,"Block 19 #05-153, Kallang Avenue Singapo
 MA-S,8C1F64EB9,KxS Technologies Oy,Zirkonipolku 2  A LH1 VANTAA  FI 01700 
 MA-S,70B3D5CCB,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
 MA-S,8C1F64787,Tabology,8-10 WOOD STREET WAKEFIELD Wakefield West Yorkshire GB WF1 2ED 
+MA-S,8C1F64F5C,Flextronics International Kft.,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
+MA-S,8C1F646A8,Bulwark,2/3 Sahra Grove Carrum Downs VIC AU 3201 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -4565,7 +4569,7 @@ MA-S,8C1F6456D,ACOD,"Varshavskoye shosse, 125 Moscow Moscow RU 117587 "
 MA-S,8C1F64C0C,GIORDANO CONTROLS SPA,VIA PARALLELA 2/4 VILLA BARTOLOMEA IT IT 37049 
 MA-S,8C1F646B3,Feritech Ltd.,"Trelan Business Centre, Menerdue Lane Redruth Non-U.S. resident GB TR16 6PD "
 MA-S,8C1F64472,"Surge Networks, Inc.","2035 Sunset Lake Road, Suite B-2 Newark DE US 19702 "
-MA-S,8C1F646F4,Elsist Srl,"Via G. Brodolini, 15 Casale Monf.to Alessandria IT 15033 "
-MA-S,8C1F64B3D,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
 MA-S,8C1F64D52,Critical Software SA,"Parque Industrial de Taveiro, Lote 49 Coimbra 504208187 PT 3045-504 "
+MA-S,8C1F64B3D,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
+MA-S,8C1F646F4,Elsist Srl,"Via G. Brodolini, 15 Casale Monf.to Alessandria IT 15033 "
 MA-S,8C1F64B4C,Picocom Technology Ltd ,"DeskLodge House, Redcliffe Way Bristol  GB BS1 6NL "
