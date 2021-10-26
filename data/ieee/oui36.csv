@@ -927,8 +927,9 @@ MA-S,8C1F64177,Emcom Systems,"92 N Main St, Building 18, Unit A,  Windsor NJ US 
 MA-S,8C1F64FE3,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
 MA-S,8C1F64F5A,Telco Antennas Pty Ltd,5/1 Roebuck St Hemmant QLD AU 4154 
 MA-S,8C1F64F96,SACO Controls Inc.,550 McCaffrey Saint Laurent Quebec CA H4T1N1 
-MA-S,8C1F6419B,FeedFlo,1200 220 Portage Ave Winnipeg MB - Manitoba CA R3C0A5 
 MA-S,8C1F64BF4,Fluid Components Intl,1755 La Costa Meadows Dr. San Marcos CA US 92078 
+MA-S,8C1F6419B,FeedFlo,1200 220 Portage Ave Winnipeg MB - Manitoba CA R3C0A5 
+MA-S,8C1F64EB2,Aqua Broadcast Ltd,"C/O Able & Young Ltd , Airport House Croydon  GB CR0 0XZ "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1538,7 +1539,6 @@ MA-S,70B3D57E7,"Atessa, Inc.",5000 Hopyard Rd. Pleasanton CA US 94588
 MA-S,70B3D5ADD,GHL Systems Berhad,"Unit L8 C-G-15, Block C, Bandar Sri Damansara Kuala Lumpur MY 52200 "
 MA-S,70B3D5E74,"Exfrontier Co., Ltd.",5-27 Shinano-Cho Seto-City Aichi JP 480-1207 
 MA-S,70B3D5C78,NETA Elektronik AS,Yukari Dudullu Organize Sanayi Bolgesi Istanbul - TR 34775 
-MA-S,70B3D5EB0,Nautel Limted,10089 Peggy's Cove Road Hackett's Cove Nova Scotia CA B3Z 3J4 
 MA-S,70B3D5E08,Olssen,Schrank 9 Hardinxveld-Giessendam Zuid Holland NL 3371kj 
 MA-S,70B3D5D47,"YotaScope Technologies Co., Ltd.","3F, No. 7-1, Jhongsing Road., New Taipei City  TW 23678 "
 MA-S,70B3D5D86,WPGSYS Pte Ltd,5 Harper Road #04-01   SG 369673 
@@ -1846,6 +1846,7 @@ MA-S,8C1F6457B,Potter Electric Signal Company,1609 Park 370 Place Hazelwood MO U
 MA-S,70B3D5A1D,Fluid Components Intl,1755 La Costa Meadows Drive San Marcos CA US 92078 
 MA-S,8C1F64DCA,Porsche engineering,Radlicka 714/113a Praha 5  CZ 158 00 
 MA-S,8C1F648D4,Recab Sweden AB,Västberga Allé 5 Hägersten  SE 126 30 
+MA-S,70B3D5EB0,Nautel LTD,10089 Peggy's Cove Road Hackett's Cove Nova Scotia CA B3Z 3J4 
 MA-S,8C1F6477E,"Institute of geophysics, China earthquake administration","NO.5 minzuaxue south road, haidian district,  beijing   CN 100000 "
 MA-S,8C1F64848,Jena-Optronik GmbH,Otto-Eppenstein-Strasse 3 Jena  DE 07745 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
@@ -2009,7 +2010,6 @@ MA-S,70B3D5532,Talleres de Escoriaza SA,"Barrio Ventas, 35 Irun Gipuzkoa ES 2030
 MA-S,70B3D5F19,Vitro Technology Corporation,Box 91232 Austin TX US 78709-1232 
 MA-S,70B3D5F10,Riegl Laser Measurement Systems GmbH,Riedenburgstraße 48 Horn Niederösterreich AT A-3580 
 MA-S,70B3D51A6,"Robotelf Technologies (Chengdu) Co., Ltd.","N3-4-1-1914, Global Center, No. 1700, Tianfu Road North, High-rech Zone Chengdu City Sichuan CN 610041 "
-MA-S,70B3D587C,Nautel Limited,10089 Peggy's Cove Road Hackett's Cove Nova Scotia CA B3Z3J4 
 MA-S,70B3D5141,M.T. S.R.L.,VIA MONZA 83 GESSATE  IT 20060 
 MA-S,70B3D5154,"Walk Horizon Technology (Beijing) Co., Ltd.","Rm121 B1 Shouxindasha Building, 5 Jiangtailu Rd., Chaoyang District Beijing  CN 100015 "
 MA-S,70B3D5DF1,CoXlab Inc.,"312 Hannuri-daero, 309 Sejong  KR 30128 "
@@ -2759,6 +2759,8 @@ MA-S,8C1F64298,Megger Germany GmbH,Röderaue 41 Radeburg  DE 01471
 MA-S,8C1F640EA,SmartSky Networks LLC,"45610 Woodland Road, Suite 370 Sterling VA US 20166 "
 MA-S,8C1F64454,KJ Klimateknik A/S,Bommen 2 Kjellerup  DK 8620 
 MA-S,8C1F64498,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
+MA-S,70B3D587C,Nautel LTD,10089 Peggy's Cove Road Hackett's Cove Nova Scotia CA B3Z3J4 
+MA-S,8C1F64B10,MTU Aero Engines AG,Dachauer Straße 665 München Bavaria DE 80995 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3682,6 +3684,7 @@ MA-S,8C1F64650,"L tec Co.,Ltd","670-1 Shin ""Pu""kuji Chiyoda-machi Ora-gun Gunm
 MA-S,8C1F64787,Tabology,8-10 WOOD STREET WAKEFIELD Wakefield West Yorkshire GB WF1 2ED 
 MA-S,8C1F64F5C,Flextronics International Kft.,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,8C1F646A8,Bulwark,2/3 Sahra Grove Carrum Downs VIC AU 3201 
+MA-S,8C1F64521,MP-SENSOR GmbH,"Albstraße, 13 Neuhausen auf den Fildern  DE 73765 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
