@@ -847,7 +847,6 @@ MA-L,001C71,Emergent Electronics,Bldg 2 Level 3 Suite 305 Sewickley PA US 15143
 MA-L,001A93,ERCO Leuchten GmbH,Brockhauser Weg 80-82 Lüdenscheid NRW DE D-58507 
 MA-L,94F665,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,B090D4,"Shenzhen Hoin Internet Technology Co., Ltd","Xusheng Building, No. 4004, Bao’an, Room 1616 Bao’an District Shenzhen Guangdong CN 518000 "
-MA-L,C0BAE6,Application Solutions (Electronics and Vision) Ltd,The Riverside Centre Lewes East Sussex GB BN7 2AQ 
 MA-L,8C9F3B,"Qingdao Hisense Communications Co.,Ltd.",Qianwangang Road 218 Qingdao Shandong CN 266510 
 MA-L,0014B8,Hill-Rom,1125 E. Pearl Street Batesville IN US 47006 
 MA-L,ACED5C,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
@@ -6221,6 +6220,10 @@ MA-L,A41752,Hifocus Electronics India Private Limited,"No. 3 Sunguvar Street, Ch
 MA-L,2CDD5F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
 MA-L,40FE95,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,BCD074,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,C0BAE6,Application Solutions (Safety and Security) Ltd,The Riverside Centre Lewes East Sussex GB BN7 2AQ 
+MA-L,F061C0,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,DCCCE6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,F065AE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12356,11 +12359,14 @@ MA-L,C889F3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,E8FA23,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,EC3A52,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,60109E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,10B9C4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,7CB566,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,30E7BC,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,44EA30,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,9C2F9D,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
 MA-L,A4F33B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,30E7BC,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,7CB566,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,901195,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,10B9C4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,845F04,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18551,6 +18557,9 @@ MA-L,A8587C,Shoogee GmbH & Co. KG,Alter Fischmarkt 11a Muenster Nordrhein-Westfa
 MA-L,74E6B8,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
 MA-L,28D0F5,"Ruijie Networks Co.,LTD","No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city Fuzhou Fujian CN 350002 "
 MA-L,941865,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
+MA-L,D004B0,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,98B08B,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,9C2595,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24738,6 +24747,9 @@ MA-L,98A5F9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,E0D045,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,000C36,"S-Takaya Electronics Industry Co.,Ltd.",3121-1 Satomi Satosyo-cho Asakuchi-gun Okayama JP 719-0301 
 MA-L,ECA907,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,2887BA,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
+MA-L,3460F9,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
+MA-L,684AE9,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30902,3 +30914,7 @@ MA-L,6CE5C9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,10B1DF,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,F4F647,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,E88175,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,40F6BC,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,DC9758,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
+MA-L,78F238,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,64D0D6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
