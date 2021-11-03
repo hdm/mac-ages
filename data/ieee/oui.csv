@@ -419,7 +419,6 @@ MA-L,02C08C,3COM,5400 BAYFRONT PLAZA SANTA CLARA CA US 95052
 MA-L,0057C1,LG Electronics (Mobile Communications),"60-39, Gasan-dong, Geumcheon-gu Seoul  KR 153-801 "
 MA-L,7C240C,"Telechips, Inc.","19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu, Seoul Seoul KR 05510 "
 MA-L,00203D,Honeywell Environmental & Combustion Controls,1985 Douglas Drive Golden Valley MN US 55422 
-MA-L,004084,Honeywell International HPS,consolidation Fort Washington PA US 19034 
 MA-L,A4D990,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,006087,"KANSAI ELECTRIC CO., LTD.","6-14-9 MIDORII, ASAMINAMI-KU HIROSHIMA 731-01  JO  "
 MA-L,DCF719,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -6224,6 +6223,10 @@ MA-L,C0BAE6,Application Solutions (Safety and Security) Ltd,The Riverside Centre
 MA-L,F061C0,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,DCCCE6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F065AE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,9CB8B4,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
+MA-L,004084,Honeywell,512 Virginia Dr Ste A Fort Washington PA US 19034 
+MA-L,A05394,"Shenzhen zediel co., Ltd.",Xixiang Shenzhen guangdong CN 518000 
+MA-L,04EEE8,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18553,12 +18556,14 @@ MA-L,4CE6C0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,3888A4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,44DA30,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,84160C,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
-MA-L,A8587C,Shoogee GmbH & Co. KG,Alter Fischmarkt 11a Muenster Nordrhein-Westfalen DE 48143 
 MA-L,74E6B8,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
 MA-L,28D0F5,"Ruijie Networks Co.,LTD","No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city Fuzhou Fujian CN 350002 "
 MA-L,941865,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
+MA-L,C89BD7,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,28B133,"SHINEMAN(SHENZHEN) Tech. Cor., Ltd.",BanTian SHENZHEN GUANGDONG CN 518000 
 MA-L,D004B0,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,98B08B,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,A8587C,Shoogee GmbH & Co. KG,Alter Fischmarkt 11a Muenster Nordrhein-Westfalen DE 48143 
 MA-L,9C2595,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -23239,7 +23244,6 @@ MA-L,005089,SAFETY MANAGEMENT SYSTEMS,Burgemeester Burgerslaan 40 NH Rosmalen  N
 MA-L,0050F4,SIGMATEK GMBH & CO. KG,"A-5112 LAMPRECHTSHAUSEN,   AT  "
 MA-L,005021,"EIS INTERNATIONAL, INC.",1351 WASHINGTON BLVD. STAMFORD CT US 06902 
 MA-L,00505E,DIGITEK MICROLOGIC S.A.,SANT JOAN DE LA SALLE 6   ES  
-MA-L,0050E8,NOMADIX INC.,2701 OCEAN PARK BLVD.-STE.#231 SANTA MONICA CA US 90405 
 MA-L,0050AE,"FDK Co., Ltd",2281 Washizu Shizuoka-ken 431-0495 JP  
 MA-L,0050E7,PARADISE INNOVATIONS (ASIA),PTE. LTD.  SINGAPORE SG 554914 
 MA-L,0050FB,VSK ELECTRONICS,VENETIELAAN 39   BE  
@@ -24750,6 +24754,7 @@ MA-L,ECA907,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,2887BA,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,3460F9,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,684AE9,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,0050E8,"Nomadix, Inc","21600 Oxnard St. 19th Floor,  Woodland Hills CA US 91367 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30918,3 +30923,5 @@ MA-L,40F6BC,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507
 MA-L,DC9758,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
 MA-L,78F238,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,64D0D6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,40F4FD,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,9C0B05,eero inc.,660 3rd Street San Francisco CA US 94107 
