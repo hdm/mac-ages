@@ -4174,7 +4174,6 @@ MA-L,0009F6,Shenzhen Eastern Digital Tech Ltd.,Shenzhen Futian Chegongmiao Taira
 MA-L,000A20,"SVA Networks, Inc.","840 F Ave., Suite 104 Plano TX US 75074 "
 MA-L,000A24,Octave Communications,85 Northwest Boulevard Nashua NH US 03063 
 MA-L,000A19,"Valere Power, Inc.",661 N. Plano Rd. Richardson Texas US 75081 
-MA-L,0009E5,Hottinger Baldwin Messtechnik GmbH,Im Tiefen See 45 Darmstadt Hessen DE 64293 
 MA-L,0009DE,"Samjin Information & Communications Co., Ltd.",MajangMyun DukPyungRi 235-2 Ichon KyongGi KR 467-812 
 MA-L,0009E0,XEMICS S.A.,Rue de la Maladiere 71 CH-2007 Neuchatel Neuchatel CH 2007 
 MA-L,000A01,"SOHOware, Inc.",3050 Coronado Drive Santa Clara CA US 95054 
@@ -6219,14 +6218,17 @@ MA-L,A41752,Hifocus Electronics India Private Limited,"No. 3 Sunguvar Street, Ch
 MA-L,2CDD5F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
 MA-L,40FE95,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,BCD074,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,C0BAE6,Application Solutions (Safety and Security) Ltd,The Riverside Centre Lewes East Sussex GB BN7 2AQ 
 MA-L,F061C0,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,DCCCE6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F065AE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,1C70C9,"Jiangsu Aisida Electronic Co., Ltd","Aisida Industrial Park,Lanling Road,Danyang Development Zone DanYang JiangSu CN 212300 "
 MA-L,9CB8B4,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,004084,Honeywell,512 Virginia Dr Ste A Fort Washington PA US 19034 
 MA-L,A05394,"Shenzhen zediel co., Ltd.",Xixiang Shenzhen guangdong CN 518000 
+MA-L,C0BAE6,Application Solutions (Safety and Security) Ltd,The Riverside Centre Lewes East Sussex GB BN7 2AQ 
 MA-L,04EEE8,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,3CF7D1,OMRON Corporation,"Shiokoji Horikawa, Shimogyo-ku Kyoto  JP 600-8530 "
+MA-L,0009E5,Hottinger Baldwin Messtechnik GmbH,Teknikerbyen 28 Virum  DK DK-2830 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -30925,10 +30927,11 @@ MA-L,6CE5C9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,10B1DF,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,F4F647,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,E88175,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
-MA-L,40F6BC,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,DC9758,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
-MA-L,78F238,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,64D0D6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,40F4FD,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,9C0B05,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,78F238,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,64D0D6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,DC9758,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
+MA-L,F4F70C,neterbit,"No 56, 16th St., Ghanbarzadeh St., Beheshti Ave Tehran Tehran IR 1533963361 "
+MA-L,40F6BC,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,20AF1B,SteelSeries ApS,"656 West Randolph, Suite 2E Chicago IL US 60661 "
