@@ -6249,6 +6249,7 @@ MA-L,FC1193,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E43883,Ubiquiti Networks Inc.,2580 Orchard Pkwy San Jose CA US 95131 
 MA-L,34B883,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,7CCCFC,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,4CBAD7,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12420,6 +12421,7 @@ MA-L,F897A9,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80
 MA-L,30B216,Hitachi Energy,Kallstadter Strasse 1 Mannheim  DE 68309 
 MA-L,0857FB,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,DC152D,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,D06DC9,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -18642,6 +18644,7 @@ MA-L,F421AE,Shanghai Xiaodu Technology Limited,"	4th Floor Building No.1 , No.70
 MA-L,A069D9,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,20FE00,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,9CF155,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,DC99FE,Armatura LLC,16192 Coastal Hwy Lewes DE US 19958 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24867,6 +24870,7 @@ MA-L,4017F6,"TKH SECURITY,S.L.U.","Calle Paquiro, 32 Málaga Málaga ES 29006 "
 MA-L,004058,UKG,900 Chelmsford Street Lowell MA US 01851 
 MA-L,ECE7A7,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,E42B79,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,2C301A,Technicolor CH USA Inc for Telus,"4855 Peachtree Industrial Blvd, #200 Norcross GA US 30092 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -31064,10 +31068,10 @@ MA-L,7C45D0,"Shenzhen Wewins Wireless Co., ltd","17F., Mid Wing, Yuehai Building
 MA-L,A42A95,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,30CBC7,Cambium Networks Limited,"Unit B2, Linhay Business Park, Ashburton Devon GB TQ13 7UP "
 MA-L,482E72,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,8C477F,NambooSolution,"613 Room, 171, Magokjungang-ro, Gangseo-gu, Seoul, Republic of Korea Seoul  KR 07788 "
 MA-L,885046,LEAR,Industriestraße 48 Kronach Bayern DE 96317 
-MA-L,744687,"Kingsignal Technology Co., Ltd.","Floor 26,Unit B,Block 10,No.1819 Shahexi Road,Shenzhen Bay Eco-Technology Park,Nanshan District Shenzhen Guangdong CN 518000 "
 MA-L,70041D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,0826AE,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,BC2247,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,886F29,Pocketbook International SA,Crocicchio Cortogna 6 Lugano Ticino CH 6900 
+MA-L,744687,"Kingsignal Technology Co., Ltd.","Floor 26,Unit B,Block 10,No.1819 Shahexi Road,Shenzhen Bay Eco-Technology Park,Nanshan District Shenzhen Guangdong CN 518000 "
+MA-L,BC2247,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,0826AE,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,8C477F,NambooSolution,"613 Room, 171, Magokjungang-ro, Gangseo-gu, Seoul, Republic of Korea Seoul  KR 07788 "
