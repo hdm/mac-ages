@@ -945,6 +945,7 @@ MA-S,8C1F64E99,Pantherun Technologies Pvt Ltd,311 6th main road Hal 2nd stage Ba
 MA-S,8C1F64600,"Anhui Chaokun Testing Equipment Co., Ltd","E502, Workshop 2, Longshan Science and Technology Park, 35 Hengshan Road, Jiujiang District, Wuhu city, Anhui Province   Wuhu Anhui CN 241000 "
 MA-S,8C1F64FD3,"SMILICS TECHNOLOGIES, S.L.","C/Lepanto, 43 Barcelona Barcelona ES 08223 "
 MA-S,8C1F64E49,Samwell International Inc,"No. 317-1, Sec.2, An Kang Rd., Hsintien Dist New Taipei City  TW 231 "
+MA-S,8C1F64C97,Magnet-Physik Dr. Steingroever GmbH,Emil-Hoffmann Str. 3 Köln Nordrhein-W estfalen  DE 50996 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1871,8 +1872,8 @@ MA-S,8C1F64707,OAS AG,Caroline-Herschel-Straße 1 Bremen Deutschland DE 28359
 MA-S,8C1F64D40,Breas Medical AB,Företagsvägen 1 Mölnlycke  SE SE-435 33 
 MA-S,8C1F64417,Fracarro srl,via Cazzaro 3 Castelfranco Veneto  IT 31033 
 MA-S,8C1F64B8D,"Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd","Room 7-004, 7 / F, Tianxia IC Industrial Park, 133 Yiyuan Road, Nanshan District,  Shenzhen Guangdong CN 518000 "
-MA-S,8C1F646CF,Italora,sitia yomo 4 Vernate Milano IT 20080 
 MA-S,8C1F645AE,"Suzhou Motorcomm Electronic Technology Co., Ltd","No.78 Keling Rd, Building 4, Room 201, SND Suzhou Jiangsu CN 215000 "
+MA-S,8C1F646CF,Italora,sitia yomo 4 Vernate Milano IT 20080 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2202,7 +2203,6 @@ MA-S,70B3D504B,"Dream I System Co., Ltd","#510, 298, Beotkkot-ro, Ceumcheon-gu S
 MA-S,70B3D5C3E,DOSADORES ALLTRONIC,"RUA VALENTE DE NOVAIS, 270 SÃO PAULO SAO PAULO BR 08120-420 "
 MA-S,70B3D581E,Novathings,100 Impasse des houilleres MEYREUIL  FR 13590 
 MA-S,70B3D5C0F,"Honeywell Safety Products USA, Inc",7828 Waterville Road San Diego CA US 92154 
-MA-S,70B3D50E5,Delta Solutions LLC,"Kolokolnikov per., 22, building 5 Moscow  RU 107045 "
 MA-S,70B3D57E1,Applied Materials,35 Dory Rd Gloucester MA US 01930 
 MA-S,70B3D5BCC,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,70B3D5AB0,OSR R&D ISRAEL LTD,24 Magshimim St Petah-Tikva  IL 4934833 
@@ -2798,6 +2798,7 @@ MA-S,8C1F64FB0,MARIAN GmbH,Berggartenstr. 12 Leipzig  DE 04155
 MA-S,8C1F64E61,Stange Elektronik GmbH,Gutenbergstrasse 3 Gummersbach  DE 51645 
 MA-S,70B3D5904,PHB Eletronica Ltda.,12 Sao Bernardino São Paulo Parque Anhanguera BR 05120-050 
 MA-S,8C1F64224,PHB Eletronica Ltda.,12 Sao Bernardino São Paulo Parque Anhanguera BR 05120-050 
+MA-S,70B3D50E5,Delta Solutions LLC,"Kolhoznaya str., 8A, Room 20, 2nd Floor Lubertsy Lubertsy City District, Moscow Region RU 140002 "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
