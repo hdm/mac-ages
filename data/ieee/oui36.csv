@@ -962,9 +962,9 @@ MA-S,8C1F64967,DAVE SRL,VIA TALPONEDO 29/A PORCIA PORDENONE IT 330850
 MA-S,8C1F64775,Becton Dickinson,7 Loveton Circle Sparks MD US 21152 
 MA-S,8C1F64C68,FIBERME COMMUNICATIONS LLC,1749 Old Meadow Rd. McLean VA US 22102 
 MA-S,8C1F64BFB,TechArgos,Nizhnyaya Krasnoselskaya Str. 35-64 Moscow   RU 105066 
-MA-S,8C1F6440E,Baker Hughes EMEA,"Sensing House, Shannon Free Zone East Shannon Co. Clare IE V14 V99 "
 MA-S,8C1F64855,e.kundenservice Netz GmbH,Steindamm 100 Hamburg  DE 20099 
 MA-S,8C1F64EB5,Meiryo Denshi Corp.,38-23 higashi maeda Nishin City Aichi JP 470-0124 
+MA-S,8C1F6440E,Baker Hughes EMEA,"Sensing House, Shannon Free Zone East Shannon Co. Clare IE V14 V99 "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1861,7 +1861,6 @@ MA-S,8C1F64AD2,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0
 MA-S,8C1F6407E,FLOYD inc.,"121, Digital-ro, Geumcheon-gu, Acegasan Tower, rm 1506 seoul Seoul KR 08505 "
 MA-S,8C1F64973,Dorsett Technologies Inc,100 Woodlyn Dr Yadkinville NC US 27055 
 MA-S,8C1F641E1,VAF Co.,"No.3,6th Alley , Sabunchi St., Tehran  Tehran  IR 1533655514 "
-MA-S,8C1F64A4C,Flextronics International Kft.,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,8C1F649F2,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,70B3D5F1B,IndiNatus (IndiNatus India Private Limited),"D-92/6, 2nd Floor, Okhla Industrial Area, Okhla Phase -I New Delhi New Delhi IN 110020 "
 MA-S,8C1F649F0,"ePlant, Inc.","350 2nd St, STE 6 Los Altos CA US 94022 "
@@ -1908,6 +1907,7 @@ MA-S,8C1F6435C,Opgal Optronic Industries ltd,Hanapach 11 Karmiel   IL 2165317
 MA-S,8C1F64C24,Alifax S.r.l.,VIA PETRARCA 2/1 POLVERARA PD IT 35020 
 MA-S,8C1F64115,Neuralog LP,"4800 Sugar Grove Blvd., Ste. 200 Stafford TX US 77479 "
 MA-S,8C1F648D9,Pietro Fiorentini Spa,"Via Armenia, 16 San Vito al Tagliamento (PN)  IT 33078 "
+MA-S,8C1F64A4C,Flextronics International Kft,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2845,6 +2845,8 @@ MA-S,8C1F64BC2,Huz Electronics Ltd,10 Avondale road Cwmbran S Wales GB NP44 1UD
 MA-S,8C1F64F3C,Microlynx Systems Ltd,"#107, 1925 - 18 Ave NE Calgary AB CA T2E 7T8 "
 MA-S,8C1F646F9,ANDDORO LLC,1430 Broadway NY  New York NY US 10018 
 MA-S,8C1F640AF,FORSEE POWER,2 chemin du ruisseau ECULLY  FR 69130 
+MA-S,8C1F64807,GIORDANO CONTROLS SPA,VIA PARALLELA 2/4 VILLA BARTOLOMEA IT IT 37049 
+MA-S,8C1F64045,VEILUX INC.,802 GREENVIEW DR. STE 200 GRAND PRAIRIE  US 75050 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3591,7 +3593,6 @@ MA-S,70B3D5657,ID Quantique SA,3 chemin de la marbrerie Carouge  CH 1227
 MA-S,70B3D53A3,"CDS Institute of Management Strategy, Inc.","Fukuyoshi-cho Billding 7F, Roppongi 2-2-6 MINATO-KU TOKYO JP 1060032 "
 MA-S,70B3D5C75,"BIT Group USA, Inc.",15870 Bernardo center drive  San Diego  CA US 92127 
 MA-S,70B3D5E73,Zeus Control Systems Ltd,1-4 Alexander House Station Road Nuneaton  GB CV13 0PE 
-MA-S,70B3D5E2F,Flextronics International Kft.,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,70B3D5ED3,"Beijing Lihong Create Co., Ltd.","Changping, Zhenxinglu. 46 Beijing  CN 102299 "
 MA-S,70B3D5B6F,Integra Metering SAS,12 rue Font Grasse Blagnac  FR 31700 
 MA-S,70B3D5263,AXING AG,Gewerbehaus Moskau Ramsen  CH 8262 
@@ -3765,7 +3766,6 @@ MA-S,8C1F64EB9,KxS Technologies Oy,Zirkonipolku 2  A LH1 VANTAA  FI 01700
 MA-S,70B3D5CCB,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
 MA-S,8C1F64650,"L tec Co.,Ltd","670-1 Shin ""Pu""kuji Chiyoda-machi Ora-gun Gunma-pref JP 370-0505 "
 MA-S,8C1F64787,Tabology,8-10 WOOD STREET WAKEFIELD Wakefield West Yorkshire GB WF1 2ED 
-MA-S,8C1F64F5C,Flextronics International Kft.,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,8C1F646A8,Bulwark,2/3 Sahra Grove Carrum Downs VIC AU 3201 
 MA-S,8C1F645F5,HongSeok Ltd.,"166, Osan-ro, Osan-myeon Iksan-si Jeollabuk-do KR 54670 "
 MA-S,8C1F64521,MP-SENSOR GmbH,"Albstraße, 13 Neuhausen auf den Fildern  DE 73765 "
@@ -3798,6 +3798,8 @@ MA-S,8C1F64A1B,Zilica Limited,"8 Hasting Close, Bray, Bray Maidenhead Bray Berks
 MA-S,8C1F6473C,REO AG,Brühlerstr. 100 Solingen  DE 42657 
 MA-S,8C1F6438B,Borrell USA Corp,240 RIGGS AV MERCED  US 95341 
 MA-S,8C1F64BD6,NOVA Products GmbH,Thierschstr. 11 Munich  DE 80538 
+MA-S,70B3D5E2F,Flextronics International Kft,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
+MA-S,8C1F64F5C,Flextronics International Kft,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,8C1F64C38,ECO-ADAPT,39 Rue de Chateaudun Paris Ile-de-France FR 75009 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
