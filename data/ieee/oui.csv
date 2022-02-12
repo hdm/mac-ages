@@ -6327,6 +6327,8 @@ MA-L,0000BD,"RYOSEI, Ltd.","16-4, kitahatsushima-cho Amagasaki-shi Hyogo  JP 660
 MA-L,902CFB,"CanTops Co,.Ltd.","A-1002 Digital Empire, 16, Deogyong-daero 1556beon-gil Yeongtong-gu Suwon-si, Gyonggi-do KR 1660 "
 MA-L,F8AB82,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,EC30B3,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,00CB7A,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
+MA-L,A8A237,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -7494,7 +7496,6 @@ MA-L,54EDA3,"Navdy, Inc.",575 7th Street San Francisco CA US 94103
 MA-L,34A2A2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,749D8F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,945907,"Shanghai HITE-BELDEN Network Technology Co., Ltd.","No. 777, Xinjun Ring Road, Pujiang Hi-Tech Park, Minhang District Shanghai Shanghai CN 201114 "
-MA-L,001848,Vecima Networks Inc.,150 Cardinal Place Saskatoon SK CA S7L 6H7 
 MA-L,0016FB,SHENZHEN MTC CO LTD,"5/F BenYuan Bldg,6015 ShenNan Road ShenZhen GuangDong CN 518040 "
 MA-L,A0415E,Opsens Solution Inc.,"2014 rue Cyrille-Duquet, suite 125 Quebec QC CA G1N 4N6 "
 MA-L,A860B6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -12568,14 +12569,15 @@ MA-L,EC551C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E0798D,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
 MA-L,B48351,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,34AD61,CELESTICA INC.,1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 
-MA-L,2C553C,Vecima Networks Inc.,295 Santa Ana Court Sunnyvale CA US 94085 
 MA-L,5443B2,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,C0DD8A,"Facebook Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,ACD31D,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,ACBF71,Bose Corporation,The Mountain Framingham MA US 01701-9168 
 MA-L,10961A,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
-MA-L,18A59C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,BCE9E2,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 
+MA-L,001848,Vecima Networks Inc.,150 Cardinal Place  Saskatoon SK CA S7L 6H7 
+MA-L,2C553C,Vecima Networks Inc.,150 Cardinal Place  Saskatoon SK CA S7L 6H7 
+MA-L,ACBF71,Bose Corporation,The Mountain Framingham MA US 01701-9168 
+MA-L,18A59C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13018,7 +13020,6 @@ MA-L,A89969,Dell Inc.,One Dell Way Round Rock TX US 78682
 MA-L,A4EA8E,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
 MA-L,882D53,"Baidu Online Network Technology (Beijing) Co., Ltd.","Baidu Campus, No.10 Shangdi 10th Street, Haidian District Beijing 100085 CN Beijing  CN 100085 "
 MA-L,00D0B5,IPricot formerly DotCom,"10-12, avenue de Verdun La-Garenne-Colombes  FR F-92250 "
-MA-L,746BAB,"GUANGDONG ENOK COMMUNICATION CO., LTD","NO.139 Lixiang road, Songmushan Dalang Town Dongguan, Guangdongrmerly DotCom,"10-12, avenue de Verdun La-Garenne-Colombes  FR F-92250 "
 MA-L,746BAB,"GUANGDONG ENOK COMMUNICATION CO., LTD","NO.139 Lixiang road, Songmushan Dalang Town Dongguan, Guangdong  CN 523770 "
 MA-L,7829ED,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,5061BF,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -31465,4 +31466,9 @@ MA-L,10E177,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121
 MA-L,28827C,"Bosch Automative products(Suzhou)Co.,Ltd Changzhou Branch",No.17 Longmen Road Changzhou JiangSu CN 213164 
 MA-L,90D473,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,08EBF6,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,C8F09E,Espr
+MA-L,C8F09E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,DC5475,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,0C7BC8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,0016A3,INGETEAM,"Parque Tecnologico de Bizkaia, Edificio 110 Zamudio Bizkaia ES 48170 "
+MA-L,F06C5D,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,24CF24,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
