@@ -970,10 +970,10 @@ MA-S,8C1F64660,LLC NTPC,"Kharkovsky alley 36g, office room 1 Belgorod  RU 308012
 MA-S,8C1F644E5,Renukas Castle Hard- and Software,"Renukas Castle, 35th Ward, Kalyan Nagar, Ring Road, near Lions School Gadag Karnataka IN 582103 "
 MA-S,8C1F64059,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,8C1F64F27,Tesat-Spacecom GmbH & Co. KG,Gerberstrasse 49 Backnang  DE 71522 
-MA-S,8C1F64F45,JBF,via goretta 90 mappano torino IT 10079 
-MA-S,8C1F64765,Micro Electroninc Products,TT Vasumweg 150 Amsterdam  NL 1033 SH 
 MA-S,8C1F6453B,REFU Storage System GmbH,Marktstraße 185 Pfullingen  DE 72793 
 MA-S,8C1F64883,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhine-Westphalia DE 51465 
+MA-S,8C1F64F45,JBF,via goretta 90 mappano torino IT 10079 
+MA-S,8C1F64765,Micro Electroninc Products,TT Vasumweg 150 Amsterdam  NL 1033 SH 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -1925,6 +1925,7 @@ MA-S,8C1F647A7,Timegate Instruments Ltd.,Tutkijantie 7 Oulu  FI 90540
 MA-S,8C1F64FED,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,8C1F6438E,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,8C1F64FA2,"AZD Praha s.r.o., ZOZ Olomouc",Zeleznicni Olomouc czech republic CZ 77900 
+MA-S,8C1F6452D,"Cubic ITS, Inc. dba GRIDSMART Technologies",10545 Hardin Valley Rd Knoxville TN US 37932 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -3833,6 +3834,9 @@ MA-S,8C1F64AE8,ADETEC SAS,8 rue de l'Angoumois ARGENTEUIL  FR 95100
 MA-S,8C1F64634,AML,2190 Regal Parkway Euless TX US 76040 
 MA-S,70B3D56A0,Active Research Limited,21 Harwell Road Poole Dorset GB BH17 0GE 
 MA-S,8C1F648E9,Vesperix Corporation,803 West Broad St Suite 520 Falls Church VA US 22046 
+MA-S,8C1F64697,Sontay Ltd.,Four Elms Road Edenbridge  GB TN86AB 
+MA-S,8C1F64F7A,"SiEngine Technology Co., Ltd.","6th floor,Building 23,No.1999,Yi Shan Road Shanghai Shanghai CN 201114 "
+MA-S,8C1F647DE,SOCNOC AI Inc," 2800 Innovation Avenue, Innovation Industrial Park? Hefei Anhui CN 230000 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -3911,7 +3915,6 @@ MA-S,70B3D5199,Smart Controls LLC,10000 St. Clair Ave. Fairview Heights IL US 62
 MA-S,70B3D5E6A,MAC Solutions (UK) Ltd,"Units 6 & 7, Kingfisher Business Park, Arthur Street Redditch Worcestershire GB B98 8LG "
 MA-S,70B3D54AC,Microsoft Research,1 Microsoft Way Redmond WA US 98052 
 MA-S,70B3D5E1F,THETA432,1730 E Holly Ave suite 805 El Segundo CA US 90245 
-MA-S,70B3D56A2,Root Automation,1916 Fort Jones Rd Yreka CA US 96097 
 MA-S,70B3D51F1,DIEHL Connectivity Solutions,Stephanstraße 49 Nürnberg Bayern DE 90478 
 MA-S,70B3D5E17,SA Photonics,120 Knowles Drive Los Gatos CA US 95032 
 MA-S,70B3D5B7E,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
@@ -4767,3 +4770,5 @@ MA-S,8C1F64F52,AMF Medical SA,Chemin de la Dent-d'Oche 1 A Ecublens VD Vaud CH 1
 MA-S,8C1F64905,Qualitrol LLC,1385 Fairport Rd Fairport NY US 14450 
 MA-S,8C1F64489,HUPI,45 allée théodore monod Bidart Sélectionnez un département / état FR 64210 
 MA-S,8C1F649BA,WINTUS SYSTEM,"E1102, 7 yeonmujang 5ga gil, seongdong-gu SEOUL SEOUL KR 04782  "
+MA-S,8C1F64E4C,"TTC TELEKOMUNIKACE, s.r.o.",Trebohosticka 5 Praha 10 Praha CZ 10000 
+MA-S,70B3D56A2,Root Automation,112 4 H Way Yreka CA US 96097 
