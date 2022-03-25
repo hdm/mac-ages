@@ -59,6 +59,9 @@ def load_ieee_urls
     	url_path, url_min_records = url_info
     	Timeout.timeout(300) do 
     		records = download_ieee(url_path)
+		if records.nil?
+    			raise RuntimeError, "URL #{url_path} returned zero records (wanted >= #{url_min_records})"
+    		end
     		if records.length < url_min_records
     			raise RuntimeError, "URL #{url_path} only has #{records.length} records (wanted >= #{url_min_records})"
     		end
@@ -66,6 +69,10 @@ def load_ieee_urls
     			next if rec =~ /^Registry,/
     			info = rec.split(",", 3)
     			addr_base = info[1]
+			if addr_base.nil?
+				$stderr.puts "URL #{url_path} has bad line: #{rec}"
+				next
+			end
     			addr_mask = ((addr_base.length / 2.0) * 8).to_i
 				addr_base = mac_pad(addr_base)
     			addr = "#{addr_base}/#{addr_mask}".downcase
