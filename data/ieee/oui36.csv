@@ -1949,6 +1949,7 @@ MA-S,8C1F64EEA,AMESS,"C-1501, 60, Haan-ro Gwangmyeong-si Gyeonggi-do KR 14322 "
 MA-S,8C1F64B7C,"EVERNET CO,.LTD TAIWAN","12 F., No. 206-2, Sec. 2, Daxing W. Rd Taoyuan Taiwan  TW 330 "
 MA-S,8C1F64017,Farmote Limited,"92 Collingwood Street, Nelson Nelson Nelson NZ 7010 "
 MA-S,8C1F643C5,Stratis IOT,4230 Main Street Philadelphia PA US 19127 
+MA-S,8C1F643D4,e.p.g. Elettronica s.r.l.,Via della Crocetta 3 Oltrona di San Mamette Como (CO) IT 22070 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2905,6 +2906,8 @@ MA-S,8C1F64CCB,"suzhou yuecrown Electronic Technology Co.,LTD","B6,no.1599,West 
 MA-S,8C1F64817,nke marine electronics,6 rue gutenberg Hennebont  FR 56700 
 MA-S,8C1F646B9,GS Industrie-Elektronik GmbH,Porschestrasse 11 Leverkusen  DE 51381 
 MA-S,8C1F6401A,Paragraf,7-8 West Newlands Somersham Cambridgeshire GB PE28 3EB 
+MA-S,8C1F645AC,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
+MA-S,8C1F647CF,Transdigital Pty Ltd,1/160 Stirling Highway Nedlands Western Australia AU 6009 
 MA-S,8C1F64F65,Talleres de Escoriaza SA,"Barrio Ventas, 35 Irun Gipuzkoa ES 20305 "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
@@ -3880,10 +3883,12 @@ MA-S,8C1F64DF8,Wittra Networks AB,"Västra Järnvägsgatan 3
 9th floor
 (Convendum) Stockholm Stockholm SE 111 64 "
 MA-S,8C1F64FA8,Unitron Systems b.v.,SCHANSESTRAAT 7 IJzendijke  NL 4515 RN 
-MA-S,8C1F64601,Camius,"41593 Winchester Rd., Ste 200 Temecula CA US 92590 "
+MA-S,8C1F64D88,University of Geneva - Department of Particle Physics,Quai Ernest-Ansermet 24 Geneva  CH 1211 
+MA-S,8C1F64FAA,Massar Networks,"Postfach 1207
+PEAX ID 473.1849.6740.89 Baar Zug CH CH-6341 "
 MA-S,8C1F64737,Vytahy-Vymyslicky s.r.o.,Pivovarska 542 Uherske Hradiste - Jarosov  CZ 60801 
 MA-S,8C1F64BBF,Retency,19 rue Vivienne Paris  FR 75002 
-MA-S,8C1F64D88,University of Geneva - Department of Particle Physics,Quai Ernest-Ansermet 24 Geneva  CH 1211 
+MA-S,8C1F64601,Camius,"41593 Winchester Rd., Ste 200 Temecula CA US 92590 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -4831,7 +4836,7 @@ MA-S,8C1F643D1,EMIT GmbH,Johannes-Mauthe-Straße 14 Albstadt Baden Württemberg 
 MA-S,8C1F64D08,"Power Electronics Espana, S.L.",Poligono Industrial Carrases. Ronda del camp d Aviacio 4 Lliria Valencia ES 46160 
 MA-S,8C1F64C6B,Mediana,"Wonju Medical Industry Park, 1650-1 Donghwa-Ri, Wonju-Si Gangwon-Do KR 220-801 "
 MA-S,8C1F64B01,noah,Augustusplatz 1-4 Leipzig  DE 04109 
-MA-S,8C1F64E0E,Nokeval Oy,Rounionkatu 107 Nokia  FI 37150 
-MA-S,8C1F6467F,Hamamatsu Photonics K.K.,314-5 Shimokanzo Iwata Shizuoka JP 4380193 
 MA-S,8C1F64426,eumig industrie-TV GmbH.,Gewerbeparkstrasse 9 Anif Salzburg AT 5081 
+MA-S,8C1F6467F,Hamamatsu Photonics K.K.,314-5 Shimokanzo Iwata Shizuoka JP 4380193 
 MA-S,8C1F645E5,Telemetrics Inc.,75 Commerce Dr Allendale  US 07401 
+MA-S,8C1F64E0E,Nokeval Oy,Rounionkatu 107 Nokia  FI 37150 
