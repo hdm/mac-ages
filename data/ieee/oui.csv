@@ -6385,20 +6385,21 @@ MA-L,B04530,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854
 MA-L,6CA0B4,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,3C9EC7,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,A4AE11,"Hon Hai Precision Industry Co., Ltd.",GuangDongShenZhen ShenZhen GuangDong CN 518109 
-MA-L,ECE6A2,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,B8FBAF,"Xiamen IPRT Technology CO.,LTD","3~5Floor,No.101,Huili Industry Park,Meixi Road,Tongan District,Xiamen,China. xiamen fujian CN 361000 "
-MA-L,348518,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,C43D1A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,04E8B9,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,E02E0B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,385CFB,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
-MA-L,CC29BD,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,7CDE78,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,3CE064,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,E0928F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,CC037B,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,581CF8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,AC198E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,C85EA9,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,B8FBAF,"Xiamen IPRT Technology CO.,LTD","3~5Floor,No.101,Huili Industry Park,Meixi Road,Tongan District,Xiamen,China. xiamen fujian CN 361000 "
+MA-L,348518,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,ECE6A2,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,04E8B9,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,E02E0B,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,CC29BD,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,385CFB,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
+MA-L,C43D1A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12727,6 +12728,9 @@ MA-L,184E03,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600
 MA-L,DCF31C,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,544538,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,1073EB,Infiniti Electro-Optics,15 - 9th Ave S Cranbrook British Columbia CA V1C 2L9 
+MA-L,4022D8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,E00871,"Dongguan Liesheng Electronic Co., Ltd.","F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci dongguan  guangdong CN 523000 "
+MA-L,9C956E,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 85224 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19105,6 +19109,7 @@ MA-L,089DF4,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,DC4628,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,0C9192,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,48AD9A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,6865B7,"Zhishang Chuanglian Technology Co., Ltd","2 / F, building F, hongfengtai Science Park, Jinyuan Road, Henggang street, Longgang District,  Shenzhen  CN 518000 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25487,13 +25492,15 @@ MA-L,74375F,SERCOMM PHILIPPINES INC,"Lot 1 & 5, Phase 1, Filinvest Technology Pa
 MA-L,F43BD8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,7C67AB,"Roku, Inc",1155 Coleman Ave San Jose CA US 95110 
 MA-L,0C7FED,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,C84BD6,Dell Inc.,One Dell Way Round Rock TX US 78682 
-MA-L,B4BA9D,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,E08614,"Novatel Wireless Solutions, Inc.","9710 Scranton Rd., Suite 200 San Diego CA US 92121 "
 MA-L,A8DE68,"Beijing Wide Technology Co.,Ltd","Floor7,Block B,Yicheng wealth center,No. 22,Ronghua Middle Road,Beijing Economic and Technological Development Zone Beijing Beijing CN 100000 "
-MA-L,944E5B,"Ubee Interactive Co., Limited","Flat/RM 1202, 12/F, AT Tower, 180 Electric Road North Point  HK 00000 "
+MA-L,3C4E56,"SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD","Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China SHENZHEN GUANGDONG CN 518057 "
+MA-L,C84BD6,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,6C302A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,7446B3,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,08B61F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,944E5B,"Ubee Interactive Co., Limited","Flat/RM 1202, 12/F, AT Tower, 180 Electric Road North Point  HK 00000 "
+MA-L,B4BA9D,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,50F261,Photon Sail Technologies,"8 Robinson Road, ASO Building Singapore  SG 048544 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
@@ -31845,3 +31852,5 @@ MA-L,D44D77,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,4827E2,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,F46D3F,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,6C724A,Onkyo Technology K.K.,"Lux Building (5th floor),1-1-41 Kawamata Higashiosaka City Osaka JP 577-0063 "
+MA-L,58B38F,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,40E171,"Jiangsu Huitong Group Co.,Ltd.","No. 24, Block 2, Taohuawu New District Zhenjiang Jiangsu CN 212003 "
