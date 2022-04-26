@@ -6392,18 +6392,20 @@ MA-L,D058FC,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854
 MA-L,900218,SKY UK LIMITED,130 Kings Road Brentwood Essex GB 08854 
 MA-L,385CFB,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
 MA-L,C43D1A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,CC29BD,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
-MA-L,3CE064,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,E0928F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,CC037B,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,581CF8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,AC198E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,C85EA9,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,7CDE78,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,BCF88B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,68539D,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,E46564,"SHENZHEN KTC TECHNOLOGY CO.,LTD","Add: NO.4023, Wuhe Road, Bantian, Longgang District, Shenzhen, China SHEN ZHEN GUANG DONG CN 518100 "
 MA-L,C8BF4C,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,E8CC8C,"Chengdu Jia Rui Hua Lian Communication Technology Co.,Ltd.","5th Floor, Building F, Huirong Plaza (Jinhua), No. 88, Section 3, Jinhua Road, Industrial Park, Jinjiang District, Chengdu, Sichuan Province Chengdu Sichuan CN 610000 "
+MA-L,581CF8,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,AC198E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,C85EA9,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,3CE064,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,E0928F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,CC037B,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,E051D8,China Dragon Technology Limited,"B4 Bldg.Haoshan 1st Industry Park, Shenzhen Guangdong CN 518104 "
+MA-L,CC29BD,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,7CDE78,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12741,6 +12743,8 @@ MA-L,A036BC,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taip
 MA-L,DC0B09,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,08F3FB,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,880AA3,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,906560,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,A0FB83,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19125,6 +19129,9 @@ MA-L,6865B7,"Zhishang Chuanglian Technology Co., Ltd","2 / F, building F, hongfe
 MA-L,F0C1CE,"GoodWe Technologies CO., Ltd","No.90 Zijin Rd.,New District,Suzhou,215011,China Suzhou  JiangSu CN 215011 "
 MA-L,582B0A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,38E7C0,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
+MA-L,D8E844,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,E46A35,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,2004F3,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25522,6 +25529,7 @@ MA-L,08B61F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,98A2C0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,4C7274,Shenzhenshi Xinzhongxin Technology Co.Ltd,"Block 3, Dong Huan Industrial Park, Sha Jing Town, Bao’an District, Shenzhen City, Guangdong Province, China ShenZHEN GuangDong CN 518104 "
 MA-L,306371,Shenzhenshi Xinzhongxin Technology Co.Ltd,"Block 3, Dong Huan Industrial Park, Sha Jing Town, Bao’an District, Shenzhen City, Guangdong Province, China ShenZHEN GuangDong CN 518104 "
+MA-L,28011C,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -31876,3 +31884,4 @@ MA-L,18C300,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,D44D77,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,DC0539,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,8C255E,VoltServer,42 Ladd St STE 227 East Greenwich RI US 02818 
+MA-L,B88F27,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
