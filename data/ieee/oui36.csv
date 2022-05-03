@@ -991,6 +991,7 @@ MA-S,8C1F64E90,MHE Electronics,"49
 Alexander Rd, Westmead Durban KwaZulu Natal ZA 3610 "
 MA-S,8C1F64949,tickIoT Inc.,"651 N Broad St Ste 206, Ste 206 Middletown DE US 19709 "
 MA-S,8C1F642C5,SYSN,"the third floor, 26, Namsan-ro 39beon-gil, Uichang-gu Changwon-si, Gyeongsangnam-do, Republic of Korea  KR 51368 "
+MA-S,8C1F64DB7,Lambda Systems Inc.,2-11-26 Sangenjaya Setagaya-ku Tokyo JP 154-0024 
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -2314,7 +2315,6 @@ MA-S,70B3D5F35,carbonTRACK,Level 2 104 Burwood Road Hawthorn  Vic AU 3122
 MA-S,70B3D5A21,PPI Inc.,Cheomdan-Gwagiro 345 Gwangju Buk-gu KR 61 008 
 MA-S,70B3D5CE5,GridBridge Inc,"130 Penmarc Drive, Suite 101 Raleigh NC US 27603 "
 MA-S,70B3D55AB,Sea Air and Land Communications Ltd,10 Magdala Place Christchurch Canterbury NZ 8024 
-MA-S,70B3D5CD2,HBH Microwave GmbH,Helmholtzstr. 1 Stutensee  DE 76297 
 MA-S,70B3D58B3,Firefly RFID Solutions,1521 Boone Trail Rd Sanford NC US 27330 
 MA-S,70B3D5AAD,Bartec GmbH,Max-Eyth-Str. 16 Bad Mergentheim  DE 97980  
 MA-S,70B3D5B9E,"POLSYSTEM SI SP. Z O.O., S.K.A.",Francuska 92 Wrocław Dolnośląskie PL 54-405 
@@ -2919,6 +2919,8 @@ MA-S,8C1F645AC,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0
 MA-S,8C1F647CF,Transdigital Pty Ltd,1/160 Stirling Highway Nedlands Western Australia AU 6009 
 MA-S,8C1F64F65,Talleres de Escoriaza SA,"Barrio Ventas, 35 Irun Gipuzkoa ES 20305 "
 MA-S,8C1F64CDB,EUROPEAN TELECOMMUNICATION INTERNATIONAL KFT,"1132 Budapest, Váci út 22-24. 3. em.) Budapest  HU 1132 "
+MA-S,8C1F64C0E,Goodtech AS dep Fredrikstad,Gamle Beddingvei 28 FREDRIKSTAD Viken NO 1671 
+MA-S,70B3D5CD2,"TRUMPF Huttinger GmbH + Co. KG,",Helmholtzstr. 1 Stutensee  DE 76297 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3661,7 +3663,6 @@ MA-S,70B3D5291,Sequent AG,Eptingerstrasse 3 Basel  CH 4052
 MA-S,70B3D529A,Profusion Limited,Aviation Way Southend on Sea Essex GB SS2 6UN 
 MA-S,70B3D5657,ID Quantique SA,3 chemin de la marbrerie Carouge  CH 1227 
 MA-S,70B3D53A3,"CDS Institute of Management Strategy, Inc.","Fukuyoshi-cho Billding 7F, Roppongi 2-2-6 MINATO-KU TOKYO JP 1060032 "
-MA-S,70B3D5C75,"BIT Group USA, Inc.",15870 Bernardo center drive  San Diego  CA US 92127 
 MA-S,70B3D5E73,Zeus Control Systems Ltd,1-4 Alexander House Station Road Nuneaton  GB CV13 0PE 
 MA-S,70B3D5ED3,"Beijing Lihong Create Co., Ltd.","Changping, Zhenxinglu. 46 Beijing  CN 102299 "
 MA-S,70B3D5B6F,Integra Metering SAS,12 rue Font Grasse Blagnac  FR 31700 
@@ -3912,6 +3913,8 @@ MA-S,8C1F6494C,BCMTECH,"803ho(Gongjang-dong), Simin-daero 109beon-gil, Dongan-gu
 MA-S,8C1F6497C,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,8C1F64683,SLAT,11 Rue Jean-Elysée DUPUY Champagne au Mont d'Or Rhône FR 69543 
 MA-S,8C1F647AF,E VISION INDIA PVT LTD ,"9/205, MAIN MARKET OLD FARIDABAD HARYANA INDIA 121002 Faridabad HARYANA IN 121002 "
+MA-S,8C1F6473B,Fink Zeitsysteme GmbH,Möslestraße 21 Altach Vorarlberg AT 6844 
+MA-S,70B3D5C75,PLANET INNOVATION (PI),6 Thomas Irvine CA US 92618 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
