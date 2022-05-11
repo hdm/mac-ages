@@ -6085,7 +6085,6 @@ MA-L,B43D08,GX International BV,Waldfeuchterbaan 124 Maria Hoop Maria Hoop NL 61
 MA-L,7089F5,"Dongguan Lingjie IOT Co., LTD","A-708, Zhongke innovation Plaza, Songshan Lake, Dongguan City dongguan Guangdong CN 523945 "
 MA-L,88DC96,"EnGenius Technologies, Inc.","No. 500, Fusing 3rd Rd., Hwa-Ya Technology Park Kuei-Shan Hsiang TaoYuan County TW 333 "
 MA-L,40B0A1,"VALCOM CO.,LTD.","7-25 MINOWA 3-CHOME TOYONAKA CITY,OSAKA  JP 560-0035 "
-MA-L,B8208E,Panasonic Corporation  Connected Solutions Company,"4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531 "
 MA-L,90380C,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,847B57,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,64CBE9,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
@@ -6425,6 +6424,9 @@ MA-L,481CB9,"SZ DJI TECHNOLOGY CO.,LTD","6/F,HKUST SZ IER Bldg,9 Yuexing 1st Rd 
 MA-L,045747,GoPro,3000 Clearview Way San Mateo CA US 94402 
 MA-L,505FB5,ASKEY COMPUTER CORP,"10F, NO. 119, JIANKANG RD., ZHONGHE DIST. NEW TAIPEI   TW 235 "
 MA-L,88DE7C,ASKEY COMPUTER CORP,"10F, No.119, JIANKANG RD.,ZHINGHE DIST, NEW TAIPEI CITY  TW 23585 "
+MA-L,081A1E,"Shenzhen iComm Semiconductor CO.,LTD","Room 601,Block B ,Digital Building,Garden City Shenzhen No.1079 Nanhai Road,Nanshan District CN 518067 "
+MA-L,80646F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,B8208E,"Panasonic Connect Co., Ltd.","4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -6780,7 +6782,6 @@ MA-L,4C0143,eero inc.,660 3rd Street San Francisco CA US 94107
 MA-L,E43493,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,342912,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,604BAA,"Magic Leap, Inc.","1855 Griffin Rd, Room B454 Dania Beach FL US 33004 "
-MA-L,4C364E,Panasonic Corporation  Connected Solutions Company,"4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531 "
 MA-L,BCA58B,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,80CEB9,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,D0D3FC,"Mios, Ltd.",645 W. 9th St. Los Angeles CA US 90015 
@@ -12772,6 +12773,9 @@ MA-L,ECBE5F,Vestel Elektronik San ve Tic. A.S.,Organize san Manisa Turket TR 450
 MA-L,A8DC5A,Digital Watchdog,16220 Bloomfield Ave Cerritos CA US 90703 
 MA-L,1C24CD,ASKEY COMPUTER CORP,"10F, No.119, JIANKANG RD.,ZHINGHE DIST, NEW TAIPEI CITY  TW 23585 "
 MA-L,303D51,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,447147,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
+MA-L,F4BBC7,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,4C364E,"Panasonic Connect Co., Ltd.","4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19168,6 +19172,9 @@ MA-L,58305B,"Shanghai Junqian Sensing Technology Co.,LTD","Room 602,Building 1,N
 MA-L,ECC07A,Laird Connectivity,"3F.-1, No.145, Xianzheng 9th Rd., Zhubei  TW 30251 "
 MA-L,9C0591,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
 MA-L,0009DF,Vestel Elektronik San ve Tic. A.S.,Organize san Manisa Turket TR 45030 
+MA-L,C071AA,"ShenZhen OnMicro Electronics Co.,Ltd.","Room 407-408, West Building, Skyworth Semiconductor Building, GaoXin South 4th Road, Yuehai Street, Nanshan District Shenzhen GuangDong CN 518057 "
+MA-L,709C45,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,A03131,Procenne Digital Security,Eski Buyukdere Cd. No:7/12 Maslak Istanbul Sariyer TR 34398 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25577,6 +25584,10 @@ MA-L,7C2ACA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,288EEC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C8848C,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,1C3283,"COMTTI Intelligent Technology(Shenzhen) Co., Ltd.","Building 7/6 building 6 room 307, Area A, Baoan Internet Industrial Base, Mabu Community, Xixiang Street, Baoan District, Shenzhen Guangdong CN 518000 "
+MA-L,E05A1B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,488AE8,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,CCBA6F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,785C5E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -31941,9 +31952,16 @@ MA-L,88200D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,BC1541,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,E0F318,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,C464F2,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
-MA-L,946DAE,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
-MA-L,40FDF3,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,E4A634,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,2C8D37,Virtium,30052 Tomas Racho Santa MArgarita CA US 92688 
+MA-L,14656A,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,6CB7E2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,C475EA,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,9025F2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,506391,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,E8A34E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,041892,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,387C76,"Universal Global Scientific Industrial Co., Ltd.","141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261 "
+MA-L,40FDF3,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,486DBB,Vestel Elektronik San ve Tic. A.S.,Organize san Manisa Turket TR 45030 
+MA-L,946DAE,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
