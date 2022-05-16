@@ -11609,7 +11609,6 @@ MA-L,A4BB6D,Dell Inc.,One Dell Way Round Rock TX US 78682
 MA-L,6C06D6,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,0C8E29,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,A0224E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,3027CF,Private,
 MA-L,3843E5,Grotech Inc,"19, Ojeongongeop-gil Uiwang-si Gyeonggi-do KR 16072 "
 MA-L,CC593E,Sensium Healthcare Limited,115 MILTON PARK ABINGDON OXFORDSHIRE GB OX14 4SA 
 MA-L,5C68D0,Aurora Innovation Inc.,1880 Embarcadero Rd. Palo Alto CA US 94303 
@@ -12783,6 +12782,7 @@ MA-L,1C24CD,ASKEY COMPUTER CORP,"10F, No.119, JIANKANG RD.,ZHINGHE DIST, NEW TAI
 MA-L,DCAA43,"Shenzhen Terca Information Technology Co., Ltd.","Room1401, Block A, Building 12 , Shenzhen Bay Technology and Eco-Park , No. 18 Keji South Road , Nanshan District , Shenzhen SHENZHEN GUANGDONG CN 518000 "
 MA-L,00FBF9,Axiado Corporation,"2610 Orchard Parkway, Suite 300 San Jose CA US 95134 "
 MA-L,88B436,FUJIFILM Corporation,"1-324,Uetake,Kita-ku Saitama Saitama JP 331-9624 "
+MA-L,3027CF,Canopy Growth Corp,350 Leggett Drive Ottawa Ontario CA K2K 2W7 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19185,6 +19185,8 @@ MA-L,A03131,Procenne Digital Security,Eski Buyukdere Cd. No:7/12 Maslak Istanbul
 MA-L,FC0736,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,94A07D,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,5C0758,"Ufispace Co., LTD.","9F., No. 81 Jhongcheng Rd., Tucheng Dist., New Taipei  TW 23674 "
+MA-L,84F44C,"International Integrated Systems., Inc.","6F., No.7, Sec. 2, Xianmin Blvd., Banqiao Dist.,  New Taipei City  TW 22041 "
+MA-L,DCE650,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -21126,7 +21128,6 @@ MA-L,9405B6,Liling FullRiver Electronics & Technology Ltd,FullRiver Industrial A
 MA-L,00F3DB,WOO Sports,11 Elkins St. BOSTON Massachusetts US 02127 
 MA-L,78312B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,C81B6B,Innova Security,"Av. General Ataliba Leonel, 1205 Sao Paulo Sao Paulo BR 02033000 "
-MA-L,3438AF,Inlab Software GmbH,Josef-Wuerth-Str. 3 Gruenwald Bavaria DE 82031 
 MA-L,B4A828,"Shenzhen Concox Information Technology Co., Ltd","Floor 4th, Building B, Gaoxinqi Industrial Park, Liuxian 1st Road, district 67, Bao’an, Shenzhen, Guangdong,China Shenzhen Guangdong CN 518102 "
 MA-L,00A2F5,"Guangzhou Yuanyun Network Technology Co.,Ltd","31/F,183 TianHe Bei Rd, Metro Plz GuangZhou GuangDong CN 510630 "
 MA-L,1008B1,"Hon Hai Precision Ind. Co.,Ltd.","Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
@@ -24816,7 +24817,6 @@ MA-L,74650C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,FCD436,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,0CEC8D,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,184F5D,JRC Mobility Inc.,"NAKANO CENTRAL PARK EAST 10-1, Nakano 4-chome Nakano-ku Tokyo JP 164-8570 "
-MA-L,08CBE5,R3 - Reliable Realtime Radio Communications GmbH,Bismarckstrasse 10-12 Berlin Berlin DE 10625 
 MA-L,F023AE,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,E07726,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,94A67E,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
@@ -25605,6 +25605,9 @@ MA-L,1C3283,"COMTTI Intelligent Technology(Shenzhen) Co., Ltd.","Building 7/6 bu
 MA-L,F41C71,"SHENZHEN SANMU COMMUNICATION TECHNOLOGY CO., LTD","17/F,Block 1A,Software Industry Base, XueFu Road,Nanshan  District, Shenzhen GuangDong CN 518100 "
 MA-L,70110E,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,0025DF,Taser International Inc.,17800 N 85th St. Scottsdale AZ US 85255 
+MA-L,08CBE5,R3 Solutions GmbH,Bismarckstrasse 10-12 Berlin Berlin DE 10625 
+MA-L,E886CF,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,3438AF,Inlab Networks GmbH,Josef-Wuerth-Str. 3 Gruenwald Bavaria DE 82031 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
