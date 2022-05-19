@@ -5297,7 +5297,6 @@ MA-L,B887C6,"Prudential Technology co.,LTD","UNIT 4,7/F BRIGHT WAY TOWER, NO33 M
 MA-L,EC9C32,"Sichuan AI-Link Technology Co., Ltd.","Anzhou,Industrial Park Anzhou,Industrial Park Sichuan CN 621000 "
 MA-L,4CADA8,PANOPTICS CORP.,"D-908 Bundang Technopark, 700 Pangyoro, Bundang Seongnam Gyeonggi KR 13516 "
 MA-L,FC1CA1,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,D42DC5,"Panasonic i-PRO Sensing Solutions Co., Ltd.","4-1-62 Minoshima, Hakata-ku Fukuoka City   JP 812-8531 "
 MA-L,E8D03C,"Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd","3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,1C1ADF,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,D4F547,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
@@ -6432,6 +6431,9 @@ MA-L,045747,GoPro,3000 Clearview Way San Mateo CA US 94402
 MA-L,EC1D9E,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,BCD767,BAE Systems Apllied Intelligence,170 Waterside House Guildford Surrey GB GU2 7RQ 
 MA-L,2C691D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,E04735,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
+MA-L,E0BAAD,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
+MA-L,D42DC5,"i-PRO Co., Ltd.","4-1-62 Minoshima, Hakata-ku Fukuoka City   JP 812-8531 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19193,6 +19195,7 @@ MA-L,84F44C,"International Integrated Systems., Inc.","6F., No.7, Sec. 2, Xianmi
 MA-L,DCE650,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
 MA-L,142D79,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,DCB7AC,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,487310,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25609,13 +25612,13 @@ MA-L,785C5E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,C8848C,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,B07839,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,749E75,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,08CBE5,R3 Solutions GmbH,Bismarckstrasse 10-12 Berlin Berlin DE 10625 
 MA-L,F41C71,"SHENZHEN SANMU COMMUNICATION TECHNOLOGY CO., LTD","17/F,Block 1A,Software Industry Base, XueFu Road,Nanshan  District, Shenzhen GuangDong CN 518100 "
 MA-L,0025DF,Taser International Inc.,17800 N 85th St. Scottsdale AZ US 85255 
 MA-L,E886CF,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,3438AF,Inlab Networks GmbH,Josef-Wuerth-Str. 3 Gruenwald Bavaria DE 82031 
 MA-L,D8F507,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,C4EFDA,Honeywell,"9680 Old Bailes Rd, Fort Mill, SC 29707 Fort Mill SC US 29707 "
+MA-L,08CBE5,R3 Solutions GmbH,Kurfürstendamm 21 Berlin  DE 10719 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -31999,3 +32002,4 @@ MA-L,DCDB27,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,CC96E5,Dell Inc.,One Dell Way Round Rock TX US 78682 
 MA-L,0084ED,"LEXMARK INTERNATIONAL, INC.",740 W. New Circle Rd. Lexington KY US 40550 
 MA-L,441244,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,7042D3,"Ruijie Networks Co.,LTD","No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city Fuzhou Fujian CN 350002 "
