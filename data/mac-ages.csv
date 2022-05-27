@@ -1,6 +1,6 @@
 longhua district/64,2022-04-15,ieee-mam.csv
 buji street0/48,2022-04-27,ieee-mam.csv
- buji street/48,2022-05-26,ieee-mam.csv
+ buji street/48,2022-05-27,ieee-mam.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
 8c1f64ff4000/36,2022-02-01,ieee-oui36.csv
@@ -11,6 +11,7 @@ buji street0/48,2022-04-27,ieee-mam.csv
 8c1f64fd3000/36,2021-12-07,ieee-oui36.csv
 8c1f64fd1000/36,2021-04-14,ieee-oui36.csv
 8c1f64fcd000/36,2021-11-03,ieee-oui36.csv
+8c1f64fc2000/36,2022-05-27,ieee-oui36.csv
 8c1f64fbd000/36,2021-07-30,ieee-oui36.csv
 8c1f64fba000/36,2022-01-11,ieee-oui36.csv
 8c1f64fb7000/36,2022-02-14,ieee-oui36.csv
@@ -401,6 +402,7 @@ buji street0/48,2022-04-27,ieee-mam.csv
 8c1f6463b000/36,2021-07-12,ieee-oui36.csv
 8c1f64638000/36,2021-09-01,ieee-oui36.csv
 8c1f64634000/36,2022-01-27,ieee-oui36.csv
+8c1f64626000/36,2022-05-27,ieee-oui36.csv
 8c1f64625000/36,2022-04-22,ieee-oui36.csv
 8c1f64622000/36,2022-03-04,ieee-oui36.csv
 8c1f6461f000/36,2021-12-14,ieee-oui36.csv
@@ -13383,6 +13385,7 @@ a0024a000000/28,2020-11-04,ieee-mam.csv
 18d793100000/28,2021-11-16,ieee-mam.csv
 18d793000000/28,2021-11-16,ieee-mam.csv
 18c3f4900000/28,2022-05-24,ieee-mam.csv
+18c3f4500000/28,2022-05-27,ieee-mam.csv
 18c3f4300000/28,2022-05-24,ieee-mam.csv
 18c3f4100000/28,2022-05-24,ieee-mam.csv
 18a59ce00000/28,2022-02-17,ieee-mam.csv
@@ -46072,11 +46075,11 @@ a002dc000000/24,2014-02-28,deepmac.org
 000001000000/24,2000-09-08,deepmac.org
 000000000000/24,2000-09-08,deepmac.org
 baoan district shenzhen guangdong cn 518126 "/184,2022-04-16,ieee-oui.csv
- baoan district shenzhen guangdong cn 518126 "/184,2022-05-26,ieee-oui.csv
+ baoan district shenzhen guangdong cn 518126 "/184,2022-05-27,ieee-oui.csv
 ballabhgarh faridabad haryana in 121004 "/168,2022-04-15,ieee-mam.csv
- ballabhgarh faridabad haryana in 121004 "/168,2022-05-26,ieee-mam.csv
+ ballabhgarh faridabad haryana in 121004 "/168,2022-05-27,ieee-mam.csv
 sector 1 bengaluru karnataka in 560102 "/164,2022-05-06,ieee-oui36.csv
- sector 1 bengaluru karnataka in 560102 "/164,2022-05-26,ieee-oui36.csv
+ sector 1 bengaluru karnataka in 560102 "/164,2022-05-27,ieee-oui36.csv
 westmead durban kwazulu natal za 3610 "/160,2022-04-07,ieee-oui36.csv
- westmead durban kwazulu natal za 3610 "/160,2022-05-26,ieee-oui36.csv
+ westmead durban kwazulu natal za 3610 "/160,2022-05-27,ieee-oui36.csv
 china shenzhen gangdong cn 518100 "/140,2022-04-15,ieee-mam.csv
