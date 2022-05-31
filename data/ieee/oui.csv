@@ -119,7 +119,6 @@ MA-L,742EDB,Perinet GmbH,Rudower Chaussee 29 Berlin Berlin DE 12489
 MA-L,201742,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
 MA-L,CC8826,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,EC5B73,Advanced & Wise Technology Corp.,"5F, No. 3-2, Industry East 9th Road, Hsinchu Science Park, Hsinchu City Hsinchu TW 30075 "
-MA-L,E0CB1D,Private,
 MA-L,848BCD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,14C03E,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
 MA-L,C089AB,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
@@ -6446,6 +6445,7 @@ MA-L,980D6F,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,1C90FF,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,10823D,"Ruijie Networks Co.,LTD","No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city Fuzhou Fujian CN 350002 "
 MA-L,909877,Vestel Elektronik San ve Tic. A.S.,Organize san Manisa Turket TR 45030 
+MA-L,E0CB1D,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19224,6 +19224,7 @@ MA-L,E4ECE8,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,C8908A,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,403306,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,000BF8,"Infinera, Inc.",1322 Bordeaux Drive Sunnyvale CA US 94089 
+MA-L,4CFC22,"SHANGHAI HI-TECH CONTROL SYSTEM CO.,LTD.","XinJun Ring Road 777, Caohejing Pujiang Hi-Tech Park, Minhang District Shanghai Shanghai CN 201114 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25860,7 +25861,6 @@ MA-L,187C0B,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089
 MA-L,D47B35,NEO Monitors AS,PoBox 384 Loerenskog Loerenskog NO 1471 
 MA-L,000878,Benchmark Storage Innovations,3122 Sterling Circle Boulder CO US 80301 
 MA-L,6CF37F,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,140708,Private,
 MA-L,78A7EB,1MORE,"TianliaoBuilding F14 New Materials Industrial Park,Xueyuan Blvd Shenzhen, Nanshan District CN 518005 "
 MA-L,485D36,Verizon ,One Verizon Way Basking Ridge NJ US 07030 
 MA-L,20C047,Verizon ,One Verizon Way Basking Ridge  US 07030 
@@ -32049,3 +32049,6 @@ MA-L,A4515E,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089
 MA-L,F85B6E,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,8C6A3B,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,241153,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,448EEC,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,F026F8,"Worldcns Co.,Ltd.","B-1813 67, Saebitgongwon-ro, Gwangmyeong-si, Gyeonggi-do, Republic of Korea Gwangmyeong  KR 14348 "
+MA-L,140708,CP PLUS GMBH & CO. KG,Hans Henny Jahnn Weg 9 Hamburg  DE D22085 
