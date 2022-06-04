@@ -1,6 +1,6 @@
 longhua district/64,2022-04-15,ieee-mam.csv
 buji street0/48,2022-04-27,ieee-mam.csv
- buji street/48,2022-06-03,ieee-mam.csv
+ buji street/48,2022-06-04,ieee-mam.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
 8c1f64ff4000/36,2022-02-01,ieee-oui36.csv
@@ -13910,6 +13910,7 @@ fca22a000000/24,2014-12-17,deepmac.org
 fca183000000/24,2017-09-20,deepmac.org
 fca13e000000/24,2010-09-02,deepmac.org
 fca05a000000/24,2022-01-22,ieee-oui.csv
+fc9ffd000000/24,2022-06-04,ieee-oui.csv
 fc9fe1000000/24,2014-05-30,deepmac.org
 fc9fae000000/24,2012-11-17,deepmac.org
 fc9dd8000000/24,2017-08-22,deepmac.org
@@ -19969,6 +19970,7 @@ ac9a96000000/24,2010-03-16,deepmac.org
 ac9a22000000/24,2015-09-22,deepmac.org
 ac9929000000/24,2021-01-13,ieee-oui.csv
 ac976c000000/24,2021-03-03,ieee-oui.csv
+ac965b000000/24,2022-06-04,ieee-oui.csv
 ac9572000000/24,2020-05-29,ieee-oui.csv
 ac9403000000/24,2012-03-23,deepmac.org
 ac93c4000000/24,2021-11-11,ieee-oui.csv
@@ -25579,6 +25581,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 64808b000000/24,2011-08-02,deepmac.org
 647fda000000/24,2010-12-08,deepmac.org
 647d81000000/24,2009-09-02,deepmac.org
+647ce8000000/24,2022-06-04,ieee-oui.csv
 647c34000000/24,2012-05-03,deepmac.org
 647bd4000000/24,2010-03-10,deepmac.org
 647bce000000/24,2018-07-29,wireshark.org
@@ -30905,6 +30908,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 1cbba8000000/24,2011-10-22,deepmac.org
 1cba8c000000/24,2013-01-13,wireshark.org
 1cb9c4000000/24,2016-03-09,deepmac.org
+1cb8ba000000/24,2022-06-04,ieee-oui.csv
 1cb857000000/24,2016-10-08,deepmac.org
 1cb796000000/24,2019-04-05,ieee-oui.csv
 1cb72c000000/24,2015-02-04,deepmac.org
@@ -46139,11 +46143,11 @@ a002dc000000/24,2014-02-28,deepmac.org
 000001000000/24,2000-09-08,deepmac.org
 000000000000/24,2000-09-08,deepmac.org
 baoan district shenzhen guangdong cn 518126 "/184,2022-04-16,ieee-oui.csv
- baoan district shenzhen guangdong cn 518126 "/184,2022-06-03,ieee-oui.csv
+ baoan district shenzhen guangdong cn 518126 "/184,2022-06-04,ieee-oui.csv
 ballabhgarh faridabad haryana in 121004 "/168,2022-04-15,ieee-mam.csv
- ballabhgarh faridabad haryana in 121004 "/168,2022-06-03,ieee-mam.csv
+ ballabhgarh faridabad haryana in 121004 "/168,2022-06-04,ieee-mam.csv
 sector 1 bengaluru karnataka in 560102 "/164,2022-05-06,ieee-oui36.csv
- sector 1 bengaluru karnataka in 560102 "/164,2022-06-03,ieee-oui36.csv
+ sector 1 bengaluru karnataka in 560102 "/164,2022-06-04,ieee-oui36.csv
 westmead durban kwazulu natal za 3610 "/160,2022-04-07,ieee-oui36.csv
- westmead durban kwazulu natal za 3610 "/160,2022-06-03,ieee-oui36.csv
+ westmead durban kwazulu natal za 3610 "/160,2022-06-04,ieee-oui36.csv
 china shenzhen gangdong cn 518100 "/140,2022-04-15,ieee-mam.csv
