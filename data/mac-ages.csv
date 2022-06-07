@@ -1,6 +1,6 @@
 longhua district/64,2022-04-15,ieee-mam.csv
 buji street0/48,2022-04-27,ieee-mam.csv
- buji street/48,2022-06-06,ieee-mam.csv
+ buji street/48,2022-06-07,ieee-mam.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
 8c1f64ff4000/36,2022-02-01,ieee-oui36.csv
@@ -294,6 +294,7 @@ buji street0/48,2022-04-27,ieee-mam.csv
 8c1f648c5000/36,2022-04-08,ieee-oui36.csv
 8c1f648c4000/36,2021-11-02,ieee-oui36.csv
 8c1f648c2000/36,2021-06-14,ieee-oui36.csv
+8c1f648b9000/36,2022-06-07,ieee-oui36.csv
 8c1f648b5000/36,2021-08-10,ieee-oui36.csv
 8c1f648af000/36,2021-10-29,ieee-oui36.csv
 8c1f648ae000/36,2021-08-28,ieee-oui36.csv
@@ -585,6 +586,7 @@ buji street0/48,2022-04-27,ieee-mam.csv
 8c1f64197000/36,2022-04-13,ieee-oui36.csv
 8c1f64194000/36,2022-01-13,ieee-oui36.csv
 8c1f64193000/36,2021-06-11,ieee-oui36.csv
+8c1f64179000/36,2022-06-07,ieee-oui36.csv
 8c1f64177000/36,2021-10-08,ieee-oui36.csv
 8c1f6416e000/36,2021-10-29,ieee-oui36.csv
 8c1f64166000/36,2021-04-28,ieee-oui36.csv
@@ -11347,7 +11349,9 @@ a0024a000000/28,2020-11-04,ieee-mam.csv
 885d90100000/28,2015-10-16,wireshark.org
 885d90000000/28,2015-10-16,wireshark.org
 883cc5c00000/28,2022-06-02,ieee-mam.csv
+883cc5b00000/28,2022-06-07,ieee-mam.csv
 883cc5a00000/28,2022-06-03,ieee-mam.csv
+883cc5900000/28,2022-06-07,ieee-mam.csv
 883cc5800000/28,2022-06-02,ieee-mam.csv
 883cc5700000/28,2022-06-03,ieee-mam.csv
 883cc5500000/28,2022-06-03,ieee-mam.csv
@@ -14230,6 +14234,7 @@ f8a91f000000/24,2021-12-06,ieee-oui.csv
 f8a763000000/24,2019-03-21,ieee-oui.csv
 f8a73a000000/24,2020-10-07,ieee-oui.csv
 f8a5c5000000/24,2016-10-28,deepmac.org
+f8a475000000/24,2022-06-07,ieee-oui.csv
 f8a45f000000/24,2013-07-09,deepmac.org
 f8a34f000000/24,2016-10-14,deepmac.org
 f8a2d6000000/24,2018-09-07,wireshark.org
@@ -21000,6 +21005,7 @@ a04c0c000000/24,2021-08-31,ieee-oui.csv
 a04a5e000000/24,2021-01-15,ieee-oui.csv
 a0481c000000/24,2013-06-27,deepmac.org
 a047d7000000/24,2018-08-19,wireshark.org
+a0465a000000/24,2022-06-07,ieee-oui.csv
 a044f3000000/24,2022-05-21,ieee-oui.csv
 a04466000000/24,2022-01-18,ieee-oui.csv
 a0445c000000/24,2021-05-12,ieee-oui.csv
@@ -22857,6 +22863,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 883f4a000000/24,2018-01-12,deepmac.org
 883f0c000000/24,2022-01-12,ieee-oui.csv
 883d24000000/24,2017-10-14,deepmac.org
+883c93000000/24,2022-06-07,ieee-oui.csv
 883c1c000000/24,2016-08-04,deepmac.org
 883b8b000000/24,2014-12-06,deepmac.org
 883a30000000/24,2019-06-21,ieee-oui.csv
@@ -25292,6 +25299,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 6888a1000000/24,2020-04-15,ieee-oui.csv
 6887c6000000/24,2021-05-21,ieee-oui.csv
 68876b000000/24,2011-03-08,deepmac.org
+68871c000000/24,2022-06-07,ieee-oui.csv
 6886e7000000/24,2012-11-17,deepmac.org
 6886a7000000/24,2012-11-17,deepmac.org
 68856a000000/24,2013-12-14,deepmac.org
@@ -29450,6 +29458,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 30b216000000/24,2012-01-17,deepmac.org
 30b1b5000000/24,2020-12-01,ieee-oui.csv
 30b164000000/24,2017-03-16,deepmac.org
+30b0ea000000/24,2022-06-07,ieee-oui.csv
 30b037000000/24,2021-05-12,ieee-oui.csv
 30afce000000/24,2020-08-10,ieee-oui.csv
 30aef6000000/24,2012-05-05,deepmac.org
@@ -46143,11 +46152,11 @@ a002dc000000/24,2014-02-28,deepmac.org
 000001000000/24,2000-09-08,deepmac.org
 000000000000/24,2000-09-08,deepmac.org
 baoan district shenzhen guangdong cn 518126 "/184,2022-04-16,ieee-oui.csv
- baoan district shenzhen guangdong cn 518126 "/184,2022-06-06,ieee-oui.csv
+ baoan district shenzhen guangdong cn 518126 "/184,2022-06-07,ieee-oui.csv
 ballabhgarh faridabad haryana in 121004 "/168,2022-04-15,ieee-mam.csv
- ballabhgarh faridabad haryana in 121004 "/168,2022-06-06,ieee-mam.csv
+ ballabhgarh faridabad haryana in 121004 "/168,2022-06-07,ieee-mam.csv
 sector 1 bengaluru karnataka in 560102 "/164,2022-05-06,ieee-oui36.csv
- sector 1 bengaluru karnataka in 560102 "/164,2022-06-06,ieee-oui36.csv
+ sector 1 bengaluru karnataka in 560102 "/164,2022-06-07,ieee-oui36.csv
 westmead durban kwazulu natal za 3610 "/160,2022-04-07,ieee-oui36.csv
- westmead durban kwazulu natal za 3610 "/160,2022-06-06,ieee-oui36.csv
+ westmead durban kwazulu natal za 3610 "/160,2022-06-07,ieee-oui36.csv
 china shenzhen gangdong cn 518100 "/140,2022-04-15,ieee-mam.csv
