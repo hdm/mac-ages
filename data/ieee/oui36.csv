@@ -1990,6 +1990,8 @@ MA-S,8C1F646EC,"Bit Trade One, Ltd.","5-1-23 Kamimizo, Chuo-ku Sagamihara City  
 MA-S,8C1F6428D,AVA Monitoring AB,Vädursgatan 6 Göteborg Västra götaland SE 412 50 
 MA-S,8C1F64309,MECT SRL,VIA E. FERMI 57/59 ALPIGNANO  IT 10091 
 MA-S,70B3D51D7,BAE Systems Apllied Intelligence,170 Waterside House Guildford Surrey GB GU2 7RQ 
+MA-S,8C1F6466F,Elix Systems SA,Route de Chavannes 9 Lausanne  CH 1007 
+MA-S,8C1F646A0,Avionica ,9941 West Jessamine St Miami  FL US 33157  
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2962,11 +2964,12 @@ MA-S,8C1F64240,HuiTong intelligence Company,"8F., No. 51, Ln. 258, Rueiguang Rd.
 MA-S,8C1F64AA8,axelife,17 place Eugène Lafontaine Saint Nicolas de Redon  FR 44460 
 MA-S,8C1F648B9,Zynex Monitoring Solutions,9555 Maroon Circle Englewood  US 80112 
 MA-S,8C1F64AB7,"MClavis Co.,Ltd.","2nd Fl. 9, Dongsan-ro 14gil, Seocho-gu Seoul Seoul KR 06784 "
-MA-S,8C1F6445B,"Beijing Aoxing Technology Co.,Ltd","No.204,2f,building 8,Zhongguancun Software Park,No.8,Dongbeiwang West Road,Haidian District BeiJing BeiJing CN 100193 "
 MA-S,8C1F645EB,TIAMA,215 Chemin du Grand Revoyet  Saint-Genis Laval  Auvergne Rhône Alpes FR 69230 
 MA-S,8C1F64C04,SANWA CORPORATION,"808, Shimbashi ekimae bldg. No.1, 2-20-15 Shimbashi, minato-ku minato-ku Tokyo JP 1050004 "
-MA-S,8C1F64E62,Axcend,5252 N Edgewood Dr Provo UT US 84604 
 MA-S,8C1F64306,"Corigine,Inc.","Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road Huzhou Zhejiang CN 313000 "
+MA-S,8C1F6445B,"Beijing Aoxing Technology Co.,Ltd","No.204,2f,building 8,Zhongguancun Software Park,No.8,Dongbeiwang West Road,Haidian District BeiJing BeiJing CN 100193 "
+MA-S,8C1F64E62,Axcend,5252 N Edgewood Dr Provo UT US 84604 
+MA-S,70B3D5900,DCS Corp,295 Foster Street Suite 120 Littleton MA US 01460 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -4029,7 +4032,6 @@ MA-S,70B3D5E00,"Jeaway CCTV Security Ltd,.","No. 24, Yifa St., Sanmin Dist. Kaoh
 MA-S,70B3D5C54,Flexsolution APS,Østervangsvej 39 Esbjerg N Jylland DK 6715 
 MA-S,70B3D56DE,Ametek Solidstate Controls,875 DEARBORN DR COLUMBUS OH US 43085-1586 
 MA-S,70B3D5C5F,Clean-Lasersysteme GmbH,Dornkaulstr. 6-8 Herzogenrath NRW DE 52134 
-MA-S,70B3D5E2D,Private,
 MA-S,70B3D569A,Altaneos,"Chaussée Verte, 93B Saint-Georges  BE 4470 "
 MA-S,70B3D500C,EXARA Group,Andropova pr. 18 1 Moscow  RU 115432 
 MA-S,70B3D50F2,"TrexEdge, Inc.",1-2-2 Osaki Shinagawa Tokyo JP 1410032 
@@ -4938,5 +4940,6 @@ MA-S,8C1F6454A,Belden India Private Limited,"Plot No. D-228, Chakan MIDC Phase 2
 MA-S,8C1F64FC2,I/O Controls,1357 W Foothill Blvd Azusa CA US 91702 
 MA-S,8C1F64F5B,"SemaConnect, Inc",4961 Tesla Drive  Bowie MD US 20715 
 MA-S,70B3D566A,Nomadic,"101 Glacier Point, Suite E San Rafael CA US 94901 "
+MA-S,70B3D5E2D,BAE Systems Apllied Intelligence,170 Waterside House Guildford Surrey GB GU2 7RQ 
 MA-S,8C1F645DB,GlobalInvacom,"Global Invacom LTD,
 Network house ,station road Maldon Essex GB CM9 4LQ "
