@@ -1,7 +1,8 @@
 longhua district/64,2022-04-15,ieee-mam.csv
 buji street0/48,2022-04-27,ieee-mam.csv
- buji street/48,2022-06-16,ieee-mam.csv
+ buji street/48,2022-06-17,ieee-mam.csv
 kefeng road0/44,2022-06-10,ieee-oui.csv
+ takatsu-ku0/44,2022-06-17,ieee-oui.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
 8c1f64ff4000/36,2022-02-01,ieee-oui36.csv
@@ -116,6 +117,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f64d44000/36,2021-10-29,ieee-oui36.csv
 8c1f64d40000/36,2021-11-12,ieee-oui36.csv
 8c1f64d3c000/36,2021-06-09,ieee-oui36.csv
+8c1f64d2a000/36,2022-06-17,ieee-oui36.csv
 8c1f64d29000/36,2021-05-07,ieee-oui36.csv
 8c1f64d13000/36,2021-11-11,ieee-oui36.csv
 8c1f64d0e000/36,2021-11-10,ieee-oui36.csv
@@ -364,6 +366,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f6473d000/36,2021-05-24,ieee-oui36.csv
 8c1f6473c000/36,2022-01-07,ieee-oui36.csv
 8c1f6473b000/36,2022-05-03,ieee-oui36.csv
+8c1f64739000/36,2022-06-17,ieee-oui36.csv
 8c1f64737000/36,2022-03-30,ieee-oui36.csv
 8c1f6472c000/36,2021-06-08,ieee-oui36.csv
 8c1f6472a000/36,2021-11-30,ieee-oui36.csv
@@ -466,6 +469,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f64521000/36,2021-10-26,ieee-oui36.csv
 8c1f64517000/36,2021-11-12,ieee-oui36.csv
 8c1f64512000/36,2021-09-03,ieee-oui36.csv
+8c1f64511000/36,2022-06-17,ieee-oui36.csv
 8c1f64510000/36,2021-11-05,ieee-oui36.csv
 8c1f6450a000/36,2021-12-16,ieee-oui36.csv
 8c1f64504000/36,2022-01-11,ieee-oui36.csv
@@ -12147,6 +12151,7 @@ a0024a000000/28,2020-11-04,ieee-mam.csv
 584849200000/28,2021-06-01,ieee-mam.csv
 584849100000/28,2021-06-01,ieee-mam.csv
 584849000000/28,2021-06-02,ieee-mam.csv
+5847cad00000/28,2022-06-17,ieee-mam.csv
 5847ca700000/28,2022-06-15,ieee-mam.csv
 5847ca200000/28,2022-06-16,ieee-mam.csv
 58208ae00000/28,2020-08-04,ieee-mam.csv
@@ -15132,6 +15137,7 @@ ece2fd000000/24,2014-10-09,deepmac.org
 ece1a9000000/24,2013-05-14,deepmac.org
 ece154000000/24,2016-10-04,deepmac.org
 ece09b000000/24,2010-02-09,deepmac.org
+ecdfc9000000/24,2022-06-17,ieee-oui.csv
 ecdf3a000000/24,2015-06-06,deepmac.org
 ecde3d000000/24,2009-12-11,deepmac.org
 ecdb86000000/24,2020-05-21,ieee-oui.csv
@@ -16274,6 +16280,7 @@ e005c5000000/24,2010-07-17,deepmac.org
 e00370000000/24,2015-03-13,deepmac.org
 e0036b000000/24,2022-01-12,ieee-oui.csv
 e002a5000000/24,2019-01-15,ieee-oui.csv
+e001a6000000/24,2022-06-17,ieee-oui.csv
 e00084000000/24,2019-05-13,ieee-oui.csv
 de330d000000/24,2015-08-27,deepmac.org
 dd330d000000/24,2015-09-01,deepmac.org
@@ -22993,6 +23000,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 84fd27000000/24,2020-12-04,ieee-oui.csv
 84fcfe000000/24,2012-08-04,deepmac.org
 84fcac000000/24,2016-09-16,deepmac.org
+84fb43000000/24,2022-06-17,ieee-oui.csv
 84f883000000/24,2019-10-30,ieee-oui.csv
 84f703000000/24,2021-04-29,ieee-oui.csv
 84f6fa000000/24,2015-10-13,deepmac.org
@@ -23354,6 +23362,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 80c3ba000000/24,2021-06-25,ieee-oui.csv
 80c16e000000/24,2011-12-07,deepmac.org
 80be05000000/24,2014-07-17,deepmac.org
+80bc37000000/24,2022-06-17,ieee-oui.csv
 80bbeb000000/24,2013-04-13,deepmac.org
 80bae6000000/24,2013-10-05,deepmac.org
 80baac000000/24,2009-12-17,deepmac.org
@@ -27550,6 +27559,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 4c2c80000000/24,2010-09-02,deepmac.org
 4c26e7000000/24,2014-04-15,deepmac.org
 4c2578000000/24,2012-12-23,wireshark.org
+4c24ce000000/24,2022-06-17,ieee-oui.csv
 4c2498000000/24,2019-07-01,ieee-oui.csv
 4c2258000000/24,2012-10-03,deepmac.org
 4c2219000000/24,2020-06-12,ieee-oui.csv
@@ -28135,6 +28145,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 444553000000/24,1998-09-25,wireshark.org
 444450000000/24,2016-03-08,deepmac.org
 44422f000000/24,2019-04-12,ieee-oui.csv
+444201000000/24,2022-06-17,ieee-oui.csv
 4441f0000000/24,2022-06-01,ieee-oui.csv
 443eb2000000/24,2011-05-20,deepmac.org
 443e07000000/24,2018-11-19,ieee-oui.csv
@@ -28537,6 +28548,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 3ce5b4000000/24,2011-09-24,deepmac.org
 3ce5a6000000/24,2010-01-20,deepmac.org
 3ce4b0000000/24,2021-07-10,ieee-oui.csv
+3ce441000000/24,2022-06-17,ieee-oui.csv
 3ce3e7000000/24,2020-06-03,ieee-oui.csv
 3ce36b000000/24,2020-12-09,ieee-oui.csv
 3ce1a1000000/24,2018-01-09,deepmac.org
@@ -31050,6 +31062,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 1c994c000000/24,2013-06-12,deepmac.org
 1c98ec000000/24,2015-12-05,deepmac.org
 1c98c1000000/24,2020-04-25,ieee-oui.csv
+1c97fb000000/24,2022-06-17,ieee-oui.csv
 1c97c5000000/24,2019-12-04,ieee-oui.csv
 1c973d000000/24,2012-03-02,deepmac.org
 1c965a000000/24,2014-07-25,deepmac.org
@@ -46254,16 +46267,16 @@ a002dc000000/24,2014-02-28,deepmac.org
 000001000000/24,2000-09-08,deepmac.org
 000000000000/24,2000-09-08,deepmac.org
 baoan district shenzhen guangdong cn 518126 "/184,2022-04-16,ieee-oui.csv
- baoan district shenzhen guangdong cn 518126 "/184,2022-06-16,ieee-oui.csv
+ baoan district shenzhen guangdong cn 518126 "/184,2022-06-17,ieee-oui.csv
 ballabhgarh faridabad haryana in 121004 "/168,2022-04-15,ieee-mam.csv
- ballabhgarh faridabad haryana in 121004 "/168,2022-06-16,ieee-mam.csv
+ ballabhgarh faridabad haryana in 121004 "/168,2022-06-17,ieee-mam.csv
 sector 1 bengaluru karnataka in 560102 "/164,2022-05-06,ieee-oui36.csv
- sector 1 bengaluru karnataka in 560102 "/164,2022-06-16,ieee-oui36.csv
+ sector 1 bengaluru karnataka in 560102 "/164,2022-06-17,ieee-oui36.csv
 westmead durban kwazulu natal za 3610 "/160,2022-04-07,ieee-oui36.csv
- westmead durban kwazulu natal za 3610 "/160,2022-06-16,ieee-oui36.csv
+ westmead durban kwazulu natal za 3610 "/160,2022-06-17,ieee-oui36.csv
 station road maldon essex gb cm9 4lq "/152,2022-06-10,ieee-oui36.csv
 north point hong kong  hk 999077 "/140,2022-06-14,ieee-mam.csv
 china shenzhen gangdong cn 518100 "/140,2022-04-15,ieee-mam.csv
- north point hong kong  hk 999077 "/140,2022-06-16,ieee-mam.csv
+ north point hong kong  hk 999077 "/140,2022-06-17,ieee-mam.csv
 china. shenzhen  cn 518057 "/116,2022-06-10,ieee-oui.csv
- china. shenzhen  cn 518057 "/116,2022-06-16,ieee-oui.csv
+ china. shenzhen  cn 518057 "/116,2022-06-17,ieee-oui.csv
