@@ -833,7 +833,6 @@ MA-M,18A59C5,Thermia AB,Snickaregatan 1 Arvika  SE 67134
 MA-M,18A59CC,BlueEyes Technology,"7F-3, No.200, Sec. 4, Wenxin Rd., Taichung City Taiwan TW 40462 "
 MA-M,9C431EE,SHURE INCORPORATED,"2552 White Road, Suite A Irvine CA US 92614 "
 MA-M,1C5974E,Globe Tracker ApS,Strandgade 91 kobenhavn State / Province* DK 1401 
-MA-M,C4A10E0,HYOSUNG HEAVY INDUSTRIES,"119, Mapo-daero (Gongdeok-dong), Mapo-gu Seoul  KR 04144 "
 MA-M,C4A10E3,Consolinno Energy GmbH,Franz-Mayer-Straße 1 Regensburg Bayern DE 93053 
 MA-M,C4A10ED,Connectlab SRL,via donatello 30 Milano Milano IT 20131 - Milano 
 MA-M,C4A10E1,BARTEC PIXAVI AS,Vestre Svanholmen 24 SANDNES Rogaland NO 4313 
@@ -863,9 +862,12 @@ MA-M,883CC5C,HDL da Amazônia Industria Eletrônica Ltda,"Avenida Abiurana, 1150
 MA-M,883CC59,SERNET (SUZHOU) TECHNOLOGIES CORPORATION,"NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China Suzhou  CN 215021 "
 MA-M,18C3F4B,"VECTOR TECHNOLOGIES, LLC","Razdolnaya str, 76bldg3 Orel Orel region RU 302038 "
 MA-M,883CC5D,Lenard Enterprises Inc,"1211 Gorham St., Unit 3 Newmarket ON L3Y8Y3  Newmarket ON CA L3Y8Y3 "
-MA-M,883CC5E,myUpTech AB,Box 14 Markaryd  SE 28532 
-MA-M,5847CA8,"Birger Engineering, Inc.",42 Chauncy Street Suite 1A BOSTON MA US 02111 
 MA-M,5847CA4,Future Tech Development FZC LLC,A-64-00-01-01/2 - Flamingo Villas Ajman  AE 00000 
+MA-M,5847CA0,LITUM BILGI TEKNOLOJILERI SAN. VE TIC. A.S.,?evket Özçelik Sk. No:29 Kültür Mah. Litum Plaza IZMIR  TR 35220 
+MA-M,5847CA8,"Birger Engineering, Inc.",42 Chauncy Street Suite 1A BOSTON MA US 02111 
+MA-M,883CC5E,myUpTech AB,Box 14 Markaryd  SE 28532 
+MA-M,C4A10E0,HYOSUNG Heavy Industries Corporation,"119, Mapo-daero (Gongdeok-dong), Mapo-gu Seoul  KR 04144 "
+MA-M,D420007,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -4307,3 +4309,6 @@ MA-M,883CC52,NETGEN HITECH SOLUTIONS LLP,B 301 KNOX PLAZA MALAD WEST MUMBAI MAHA
 MA-M,5847CA6,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District ShenZhen GuangDong CN 518000 "
 MA-M,5847CA9,"Kingnuo Intelligent Technology (Jiaxing) Co., Ltd.","ROOM.1202,Yongyue Building, YOUCHEGANG TOWN?XIUZHOU DISTRICT Jiaxing Zhejiang CN 314000 "
 MA-M,E87829B,Ampner Ltd,Lestikuja 2 Vaasa  FI 65380 
+MA-M,5847CAE,AZURE SUMMIT TECHNOLOGY,"1335 Gateway Drive, Suite 200 Melbourne FL US 32901 "
+MA-M,D420005,"Monolith Electric?Changzhou?Co.,Ltd.","No.8,Huashan Road,Xinbei District 
+Changzhou,Jiangsu,China Changzhou Jiangsu CN 213000 "
