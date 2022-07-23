@@ -1033,7 +1033,6 @@ MA-S,70B3D505E,VITEC,99 rue pierre sémard Chatillon France FR 92320
 MA-S,70B3D5957,EA Elektroautomatik GmbH & Co. KG,Helmholtzstraße 31-33 Viersen NRW DE 41747 
 MA-S,70B3D5409,"Beijing Yutian Technology Co., Ltd.","First floor, Jiangshan Holding Building, No.6 Academy of Agricultural Sciences  West Road, Haidian District Beijing Beijing CN 100097 "
 MA-S,70B3D5931,"MARINE INSTRUMENTS, S.A.",acabaleiro@marineinstruments.es Nigran Spain ES 36350 
-MA-S,70B3D50F6,KSE GmbH,Frühlingstraße 31-33 Ingolstadt  DE 85055 
 MA-S,70B3D5449,Edgeware AB,Master Samuelsgatan 42 Stockholm  SE 11157 
 MA-S,70B3D572A,MRC Systems GmbH,Hans-Bunte-Str. 10 Heidelberg  DE 69123 
 MA-S,70B3D56D3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach  DE 51465 
@@ -2012,6 +2011,7 @@ MA-S,8C1F64CEB,EUREKA FOR SMART PROPERTIES CO. W.L.L,"Office 11, Building 288C, 
 MA-S,8C1F643B6,TEX COMPUTER SRL ,Via O. Respighi 13 CATTOLICA  RIMINI  IT 47841 
 MA-S,8C1F64314,Cedel BV,Portugallaan 5 Assen  NL 9403DR 
 MA-S,8C1F64F70,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
+MA-S,70B3D50F6,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2216,7 +2216,6 @@ MA-S,70B3D58C8,KRONOTECH SRL,VIALE UNGHERIA 125 UDINE ITALY/UDINE IT 33100
 MA-S,70B3D5096,HAVELSAN A.Ş.,Mustafa Kemal Mah. 2120.Cad. No.39                    ANKARA  TR 06510  
 MA-S,70B3D5963,Triax A/S,Bjornkaervej 3 Hornsyld Denmark DK 8783 
 MA-S,70B3D5351,KST technology,"KST B/D 4-5, Wiryeseong-daero 12-gil Songpa-gu Seoul KR 05636 "
-MA-S,70B3D5D41,KSE GmbH,Frühlingstraße 31-33 Ingolstadt  DE 85055 
 MA-S,70B3D581B,bobz GmbH,Südring 3d Wentorf b. Hamburg SH DE 21465 
 MA-S,70B3D5B6C,GHM-Messtechnik GmbH (Standort IMTRON),Carl-Benz-Strasse 11 Owingen Baden-Würrtemberg DE 88696 
 MA-S,70B3D56FD,Core Akıllı Ev Sistemleri,Akdeniz Mah. Cumhuriyet Bulvarı No:82/802 Konak İzmir  TR 35210 
@@ -2997,6 +2996,7 @@ MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802
 MA-S,8C1F64D3A,Applied Materials,2100 Brighton Henrietta Townline Rd Rochester NY US 14623 
 MA-S,70B3D5CB7,HKC Security Ltd.,Parkway Business Centre Ballymount Dublin IE Dublin 24 
 MA-S,8C1F64FFC,Invendis Technologies India Pvt Ltd,#230 BOOHBCS Layout BTM 2nd Stage 38th MAIN 1ST CROSS Bengaluru Karnataka IN 560068 
+MA-S,70B3D5D41,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -4671,7 +4671,6 @@ MA-S,70B3D5D27,Light field Lab,699 E Brokaw Rd San Jose CA US 95112
 MA-S,70B3D51C2,"CENSIS, Uiversity of Glasgow",121 George Street Glasgow  GB G1 1RD 
 MA-S,70B3D5366,"Solarlytics, Inc.",288 Lindbergh Avenue LIVERMORE CA US 94551 
 MA-S,70B3D57BE,Phytron GmbH,Industriestr. 12 Groebenzell Bayern DE 82194 
-MA-S,70B3D538A,KSE GmbH,Frühlingstraße 31-33 Ingolstadt  DE 85055 
 MA-S,70B3D590E,Maytronics Ltd.,     
 MA-S,70B3D55D0,InterTalk Critical Information Systems,371 Cutler Avenue Dartmouth Nova Scotia CA B3B 0J5 
 MA-S,70B3D5BA5,fpgalabs.com,"p.Moskovskiy, d. Rumyantsevo, str.4 Moscow  RU 108811 "
@@ -4988,3 +4987,4 @@ MA-S,8C1F64133,Vtron Pty Ltd,"Unit 2, 62 Township Drive West West Burleigh Queen
 MA-S,8C1F64F3B,??????????,???????????????1?1?2?219? Beijing  CN 102300 
 MA-S,8C1F64B0F,HKC Security Ltd.,Parkway Business Centre Ballymount Dublin IE D24 WY49 
 MA-S,8C1F64F3D,Byte Lab Grupa d.o.o.,Medarska 69/1 Zagreb  HR 10090 
+MA-S,70B3D538A,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
