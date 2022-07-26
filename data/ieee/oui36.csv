@@ -1015,6 +1015,7 @@ MA-S,8C1F644E7,Circuit Solutions,2514 Bonnie Dell Drive South Park PA US 15129
 MA-S,8C1F64556,BAE Systems,65 Spir Brook Rd. Nashua NH US 03060 
 MA-S,8C1F6417E,MI Inc.,"6F, Toto building, 5-1-4, Toranomon, Minato-ku Tokyo  JP 1050001 "
 MA-S,8C1F6444E,"GVA Lighting, Inc.",2771 Bristol Circle Oakville Ontario CA L6H 6X5 
+MA-S,8C1F64B9E,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -2011,8 +2012,9 @@ MA-S,8C1F64CEB,EUREKA FOR SMART PROPERTIES CO. W.L.L,"Office 11, Building 288C, 
 MA-S,8C1F643B6,TEX COMPUTER SRL ,Via O. Respighi 13 CATTOLICA  RIMINI  IT 47841 
 MA-S,8C1F64F70,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,8C1F64314,Cedel BV,Portugallaan 5 Assen  NL 9403DR 
-MA-S,70B3D50F6,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
+MA-S,8C1F64699,FIDICA GmbH & Co. KG,Frohnradstr. 7-9 Hösbach  DE 63768 
 MA-S,8C1F64CB2,Dyncir Soluções Tecnológicas Ltda,"Av. BPS, 1303, Predio J3, Sala 6 Itajubá MG BR 37500-185 "
+MA-S,70B3D50F6,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -2998,6 +3000,8 @@ MA-S,8C1F64D3A,Applied Materials,2100 Brighton Henrietta Townline Rd Rochester N
 MA-S,70B3D5CB7,HKC Security Ltd.,Parkway Business Centre Ballymount Dublin IE Dublin 24 
 MA-S,8C1F64FFC,Invendis Technologies India Pvt Ltd,#230 BOOHBCS Layout BTM 2nd Stage 38th MAIN 1ST CROSS Bengaluru Karnataka IN 560068 
 MA-S,70B3D5D41,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
+MA-S,8C1F6423D,Mokila Networks Pvt Ltd,"101, First Floor, Block 1, White House
+Kundanbagh, Begumpet Hyderabad Telangana IN 500016 "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -3815,7 +3819,6 @@ MA-S,70B3D541C,"Twoway Communications, Inc.","41 Wu Kung 6 Rd., New Taipei Indus
 MA-S,70B3D529E,B2cloud lda,"Urbanizacao do correlo 4,14 Gandra Paredes PT 4585-362 "
 MA-S,70B3D5B2C,Elman srl,"Via di Valle Caia, km 4.700 Pomezia Roma IT 00040 "
 MA-S,70B3D5BDB,"Power Electronics Espana, S.L.","PI Pla de Carrases, CV-35 Salida 30Salida 30- lliria Valencia ES 46160 "
-MA-S,70B3D5ED9,AADONA Communication Pvt Ltd,"1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal Hyderabad Telangana IN 500039 "
 MA-S,70B3D5E62,Eon,"415, Heungan-daero, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea Anyang-si Gyeonggi-do KR KS009 "
 MA-S,70B3D56CC,ARINAX,259 rue du Rocher de Lorzier MOIRANS  FR 38430 
 MA-S,70B3D5A79,NOREYA Technology e.U.,Parkring 1 Raaba-Grambach Styria AT 8074 
@@ -4006,7 +4009,9 @@ MA-S,8C1F6479B,Foerster-Technik GmbH,Gerwigstraße 25 Engen Baden-Württemberg D
 MA-S,8C1F64B55,Sanchar Telesystems limited,"A-78, GROUND FLOOR, OKHLA INDUSTRIAL AREA, PHASE - II, NEW DELHI New Delhi Delhi IN 110020 "
 MA-S,70B3D5F1F,HKC Security Ltd.,Parkway Business Centre Ballymount Dublin IE Dublin 24 
 MA-S,8C1F64FB4,Thales Nederland BV,PO Box 42 Hengelo OV NL 7554 PA 
+MA-S,70B3D5ED9,AADONA Communication Pvt Ltd,"1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal Hyderabad  Telangana IN 500039 "
 MA-S,8C1F641A7,aelettronica group srl,"via matteotti,22 gaggiano milano IT 20083 "
+MA-S,8C1F6417C,Zelp Ltd,102 St Pancras Way London Select GB NW1 9ND 
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -4664,7 +4669,6 @@ MA-S,70B3D51EB,Xavant,"309 Derdepoort Rylaan, Silverton Pretoria Gauteng ZA 0181
 MA-S,70B3D5E5B,Argosy Labs Inc.,490 Canal St #14 San Rafael CA US 94901 
 MA-S,70B3D5B19,Brayden Automation Corp,6230 Aviation Circle Loveland  CO US 80538 
 MA-S,70B3D5A38,Aditec GmbH,Talweg 17 Offenau Baden-Wuerttemberg DE 74254 
-MA-S,70B3D5FF6,Elektro Adrian,Via Garibaldi no.1 Predazzo Trento IT 38037 
 MA-S,70B3D5691,PEEK TRAFFIC,5401 N SAM HOUSTON PKWY W HOUSTON  US 77086 
 MA-S,70B3D552A,Dataflex International BV,van Nassauweg 2-6 Krimpen aan den IJssel Zuid-Holland NL 2921 LX 
 MA-S,70B3D5372,MATELEX,"26, AVENUE DU PETIT PARC VINCENNES  FR 94683 "
@@ -4989,4 +4993,5 @@ MA-S,8C1F6467C,Ensto Protrol AB,Alfagatan 3 Mölndal  SE SE-43149
 MA-S,8C1F64133,Vtron Pty Ltd,"Unit 2, 62 Township Drive West West Burleigh Queensland AU 4219 "
 MA-S,8C1F64B0F,HKC Security Ltd.,Parkway Business Centre Ballymount Dublin IE D24 WY49 
 MA-S,8C1F64F3D,Byte Lab Grupa d.o.o.,Medarska 69/1 Zagreb  HR 10090 
+MA-S,70B3D5FF6,Elektro Adrian,Via Garibaldi no.1 Predazzo  Trento IT 38037 
 MA-S,70B3D538A,KSE GmbH,Kaethe Paulus Strasse 6 Koesching  DE 85092 
