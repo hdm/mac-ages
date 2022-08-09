@@ -1,11 +1,11 @@
 east 2nd section/68,2022-07-21,ieee-oui.csv
- east 2nd section/68,2022-08-08,ieee-oui.csv
+ east 2nd section/68,2022-08-09,ieee-oui.csv
 longhua district/64,2022-04-15,ieee-mam.csv
 buji street0/48,2022-04-27,ieee-mam.csv
- buji street/48,2022-08-08,ieee-mam.csv
+ buji street/48,2022-08-09,ieee-mam.csv
 takatsu-ku00/44,2022-06-17,ieee-oui.csv
 kefeng road0/44,2022-06-10,ieee-oui.csv
- takatsu-ku0/44,2022-08-08,ieee-oui.csv
+ takatsu-ku0/44,2022-08-09,ieee-oui.csv
 8c1f64ffc000/36,2022-07-19,ieee-oui36.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
@@ -17126,6 +17126,7 @@ d4df57000000/24,2012-03-13,deepmac.org
 d4dccd000000/24,2016-12-02,deepmac.org
 d4dc09000000/24,2019-12-17,ieee-oui.csv
 d4dacd000000/24,2020-01-14,ieee-oui.csv
+d4da21000000/24,2022-08-09,ieee-oui.csv
 d4d919000000/24,2013-08-10,deepmac.org
 d4d898000000/24,2011-02-04,deepmac.org
 d4d853000000/24,2022-01-21,ieee-oui.csv
@@ -18341,6 +18342,9 @@ c4eef5000000/24,2010-08-03,deepmac.org
 c4eeae000000/24,2011-07-21,deepmac.org
 c4edba000000/24,2012-11-17,deepmac.org
 c4ebe3000000/24,2012-12-04,deepmac.org
+c4eb43000000/24,2022-08-09,ieee-oui.csv
+c4eb42000000/24,2022-08-09,ieee-oui.csv
+c4eb41000000/24,2022-08-09,ieee-oui.csv
 c4eb39000000/24,2022-04-22,ieee-oui.csv
 c4ea1d000000/24,2015-03-04,deepmac.org
 c4e984000000/24,2013-10-29,deepmac.org
@@ -19984,6 +19988,7 @@ b08e1a000000/24,2011-11-29,deepmac.org
 b08c75000000/24,2020-09-24,ieee-oui.csv
 b08bd0000000/24,2020-10-23,ieee-oui.csv
 b08bcf000000/24,2018-05-17,deepmac.org
+b08bbe000000/24,2022-08-09,ieee-oui.csv
 b08b92000000/24,2021-09-28,ieee-oui.csv
 b089c2000000/24,2017-02-15,deepmac.org
 b08991000000/24,2010-11-02,deepmac.org
@@ -25746,6 +25751,7 @@ a002dc000000/24,2014-02-28,deepmac.org
 684571000000/24,2020-08-13,ieee-oui.csv
 6843d7000000/24,2018-05-30,deepmac.org
 684352000000/24,2010-11-06,deepmac.org
+68418f000000/24,2022-08-09,ieee-oui.csv
 68403c000000/24,2021-08-11,ieee-oui.csv
 683f7d000000/24,2020-10-21,ieee-oui.csv
 683f1e000000/24,2019-04-05,ieee-oui.csv
@@ -46652,23 +46658,23 @@ a002dc000000/24,2014-02-28,deepmac.org
 000001000000/24,2000-09-08,deepmac.org
 000000000000/24,2000-09-08,deepmac.org
 baoan district shenzhen guangdong cn 518126 "/184,2022-04-16,ieee-oui.csv
- baoan district shenzhen guangdong cn 518126 "/184,2022-08-08,ieee-oui.csv
+ baoan district shenzhen guangdong cn 518126 "/184,2022-08-09,ieee-oui.csv
 medavakkam chennai tamil nadu in 600100 "/168,2022-07-30,ieee-oui36.csv
 ballabhgarh faridabad haryana in 121004 "/168,2022-04-15,ieee-mam.csv
- medavakkam chennai tamil nadu in 600100 "/168,2022-08-08,ieee-oui36.csv
- ballabhgarh faridabad haryana in 121004 "/168,2022-08-08,ieee-mam.csv
+ medavakkam chennai tamil nadu in 600100 "/168,2022-08-09,ieee-oui36.csv
+ ballabhgarh faridabad haryana in 121004 "/168,2022-08-09,ieee-mam.csv
 sector 1 bengaluru karnataka in 560102 "/164,2022-05-06,ieee-oui36.csv
 begumpet hyderabad telangana in 500016 "/164,2022-07-26,ieee-oui36.csv
- sector 1 bengaluru karnataka in 560102 "/164,2022-08-08,ieee-oui36.csv
- begumpet hyderabad telangana in 500016 "/164,2022-08-08,ieee-oui36.csv
+ sector 1 bengaluru karnataka in 560102 "/164,2022-08-09,ieee-oui36.csv
+ begumpet hyderabad telangana in 500016 "/164,2022-08-09,ieee-oui36.csv
 westmead durban kwazulu natal za 3610 "/160,2022-04-07,ieee-oui36.csv
- westmead durban kwazulu natal za 3610 "/160,2022-08-08,ieee-oui36.csv
+ westmead durban kwazulu natal za 3610 "/160,2022-08-09,ieee-oui36.csv
 station road maldon essex gb cm9 4lq "/152,2022-06-10,ieee-oui36.csv
 north point hong kong  hk 999077 "/140,2022-06-14,ieee-mam.csv
 china shenzhen gangdong cn 518100 "/140,2022-04-15,ieee-mam.csv
- north point hong kong  hk 999077 "/140,2022-08-08,ieee-mam.csv
+ north point hong kong  hk 999077 "/140,2022-08-09,ieee-mam.csv
 korea seoul seoul kr 14440 "/116,2022-07-08,ieee-mam.csv
 china. shenzhen  cn 518057 "/116,2022-06-10,ieee-oui.csv
- korea seoul seoul kr 14440 "/116,2022-08-08,ieee-mam.csv
- china. shenzhen  cn 518057 "/116,2022-08-08,ieee-oui.csv
+ korea seoul seoul kr 14440 "/116,2022-08-09,ieee-mam.csv
+ china. shenzhen  cn 518057 "/116,2022-08-09,ieee-oui.csv
 000000000000/0,2022-07-21,ieee-oui.csv
