@@ -6526,6 +6526,7 @@ MA-L,505D7A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,5CBBEE,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,BC9EBB,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,68418F,"Telechips, Inc.","19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu, Seoul Seoul KR 05510 "
+MA-L,505A65,"AzureWave Technologies, Inc.","8F., No. 94, Baozhong Rd., Xindian Dist. New Taipei City  TW 23144 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12972,6 +12973,8 @@ MA-L,648CBB,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,74B839,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,C4D36A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,988924,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,A017F1,"Allwinner Technology Co., Ltd","No.9 Technology Road 2, High-Tech Zone Zhuhai Guangdong CN 519085 "
+MA-L,2C6F4E,"Hubei Yuan Times Technology Co.,Ltd.","No. B1345, Chuanggu Start-up Area, Taizi Lake Cultural and Digital Creative Industry Park, No. 18 Shenlong Avenue, Wuhan Economic & Technological Development Zone wuhan hubei CN 430050  "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19469,6 +19472,9 @@ MA-L,B8D4BC,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,C4EB41,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,C4EB43,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,4C74A7,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,54C6FF,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,F4E975,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,D4D4DA,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -25957,7 +25963,6 @@ MA-L,BC026E,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735
 MA-L,B43522,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
 MA-L,F40B9F,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road  SHANGHAI  CN 201114 "
 MA-L,605747,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road SHANGHAI  CN 201114 "
-MA-L,44B7D0,Microchip Technologies Inc,2355 W Chandler Blvd Chandler AZ US 85224-6199 
 MA-L,BCB923,Alta Networks,192 N. Old Highway 91 Hurricane UT US 84737 
 MA-L,94F392,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
 MA-L,D4ADFC,"Shenzhen Intellirocks Tech co.,ltd","No. 2901, 2902, 2903, 2904, 3002, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue Shenzhen Xili Community, Xili Street, Nanshan District, Guangdong CN 518000 "
@@ -25976,6 +25981,9 @@ MA-L,C47905,"Zhejiang Uniview Technologies Co.,Ltd.","No.88,Jiangling Road Hangz
 MA-L,B85E71,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville  GA US 30044 
 MA-L,907BC6,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,904846,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,44B7D0,Microchip Technology Inc.,2355 W Chandler Blvd Chandler AZ US 85224-6199 
+MA-L,E88F6F,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
+MA-L,84FCE6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -32439,14 +32447,15 @@ MA-L,0846C7,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road
 MA-L,FC22F4,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,64E833,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,7C9F07,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road  SHANGHAI  CN 201114 "
+MA-L,ACCF7B,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,E86E44,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,00E7E3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,042084,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,B45F84,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,B08B92,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,B8F0B9,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,B8165F,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,1C6349,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,E4521E,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,B8F0B9,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,182C65,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,B8165F,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,C8E306,eero inc.,660 3rd Street San Francisco CA US 94107 
