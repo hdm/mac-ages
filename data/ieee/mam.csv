@@ -646,7 +646,6 @@ MA-M,5C857E6,ProdataKey,67 W 13490 S Draper UT US 84020
 MA-M,F469D5C,"Huaqin Telecom Technology Co.,Ltd.","Building 1,No.399, Keyuan Road, Pudong, Shanghai China Shanghai  CN 200120 "
 MA-M,F469D52,Pulsar Engineering srl,Via Giuseppe Caimi Milano MI IT 20136 
 MA-M,F469D57,"Rosco, Inc",90-21 144th Place Jamaica NY US 11435 
-MA-M,4C93A65,Private,
 MA-M,4C93A62,"Diehl Controls Nanjing Co., Ltd.",Jiangjun Avenue 139 Nanjing Jiangsu CN 211100 
 MA-M,4C93A63,"Commsignia, Ltd.",Irinyi Jozsef u 4-20 Budapest  HU 1117 
 MA-M,28B77C8,"Shenzhen PUAS Industrial Co.,LTD","2/F, C/Building, Huawang Industrial Park, LongHua New Area In Shenzhen 518106 P.R.C Shenzhen Guangdong CN 518106 "
@@ -883,6 +882,7 @@ MA-M,D096864,Houston Radar LLC,12818 Century Dr Stafford  US 77477
 MA-M,4C74A7D,ddcpersia,No:36 14St Vozara Ave Argantin Sq Tehran/Iran Tehran Tehran IR 1511764311 
 MA-M,D46137C,"MUSASHI ENGINEERING,INC.",8-7-4 SHIMORENJAKU MITAKA-SHI TOKYO JP 181-0013 
 MA-M,F0221D0,THANHBINH COMPANY - E111 FACTORY,"Industrial Security, Lai Yen Ward Hanoi Hoai Duc District VN 13200 "
+MA-M,4C93A65,Fastenal IP Company,2001 Theurer Blvd Winona MN US 55987 
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -1728,6 +1728,7 @@ MA-M,D461370,Wistron Corporation," NO.5, HSIN AN ROAD, SCIENCE-BASED INDUSTRIAL 
 MA-M,D461375,Estelle AB,Sveavägen 124 Stockholm - SE 113 50 
 MA-M,F0221D6,Vcognition Technologies Inc.,"12901 Nicholson Rd
 Ste 150 Farmers Branch TX US 75234 "
+MA-M,F0221D3,ShenZhen Shizao Electronic Technology,"NO.8 RuiYuan Road, Bo Gang SongShan Industrial Zone, ShaJing, Bao'an District, ShenZhen, P.R.China ShenZhen Guangdong CN 518100 "
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -2644,6 +2645,7 @@ MA-M,D46137A,"Shenzhen Xunjie International Trade Co., LTD","29e, Room 29E, Bloc
 MA-M,D46137D,IPTECHVIEW,"13988 Diplomat Dr.
 Suite 180 Dallas TX US 75234 "
 MA-M,F0221D1,Dr. Eberl MBE Komponenten GmbH,Josef-Beyerle-Strasse 18/1 Weil der Stadt Baden-Württemberg DE 71263 
+MA-M,F0221DB,LK Systems AB,Lockarpsvägen 5 Malmo  SE 21376 
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
