@@ -6564,6 +6564,7 @@ MA-L,DC0682,Accessia Technology Ltd.,"Boundary House, Cricket Field Rd Uxbridge 
 MA-L,784946,"Cambridge Mobile Telematics, Inc.","One Broadway, 14th Floor Cambridge MA US 02142 "
 MA-L,F41A9C,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,001AEB,Allied Telesis K.K.,No.2 TOC Bldg. Shinagawa-ku Tokyo JP 141-0031 
+MA-L,B0FC88,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,DC07F8,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
 MA-L,34873D,"Quectel Wireless Solutions Co.,Ltd.","RM501,Building 13,No.99 TianZhou Road,Xuhui District,Shanghai,China Shanghai Shanghai CN 200233 "
 MA-L,C44137,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
@@ -6571,14 +6572,15 @@ MA-L,10D680,Tendyron Corporation,"Tendyron Building,Zhongguancun NO.1 Park,Beiqi
 MA-L,0CFC18,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,003E73,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,44D267,Snorble,PO Box 40 Skillman NJ US 08558 
+MA-L,BCE8FA,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,487706,NXP Semiconductor (Tianjin) LTD.,"No.15 Xinghua Avenue, Xiqing Economic Development Area Tianjin  CN 300385 "
 MA-L,84900A,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,787689,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,8CD0B2,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,303180,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,5C3E06,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C828E5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C4A052,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
-MA-L,B0FC88,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
-MA-L,787689,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,0CCC47,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
@@ -13061,6 +13063,8 @@ MA-L,304449,PLATH Signal Products GmbH & Co. KG,Gotenstrasse 18  Hamburg DE 2009
 MA-L,5CB12E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,BC6BFF,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,B4CBB8,UNIVERSAL ELECTRONICS,201 E Sandpointe Ave SANTA ANA CA US 927075778 
+MA-L,40B607,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,80616C,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19586,9 +19590,13 @@ MA-L,A486AE,"Quectel Wireless Solutions Co.,Ltd.","No.1801 Hongmei Road, Xuhui D
 MA-L,CC087B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,7C646C,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
 MA-L,000327,HMS Industrial Networks,P O Box 4126 Halmstad Halland SE 300 04 
+MA-L,A8F8C9,NXP Semiconductor (Tianjin) LTD.,"No.15 Xinghua Avenue, Xiqing Economic Development Area Tianjin  CN 300385 "
+MA-L,94720F,"Guangdong Nanguang Photo&Video Systems Co., Ltd.","Dongli Section, Highway 324, Chenghai Shantou Guangdong CN 515829 "
+MA-L,E426D5,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,28E424,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,58D391,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,601521,Redarc Electronics,23 Brodie Road (North) Lonsdale South Australia AU 5160 
-MA-L,E426D5,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,646876,Edifier International,"Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway Hong Kong  CN 070 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -26153,6 +26161,9 @@ MA-L,7C5758,HP Inc.,10300 Energy Dr Spring TX US 77389
 MA-L,F42D06,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,1C674A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,804AF2,"Sonos, Inc.",614 Chapala St Santa Barbara CA US 93101 
+MA-L,C45379,Micronview Limited Liability Company,"700 LAVACA, STE 1401 AUSTIN?TX 787015 AUSTIN  US 787015 "
+MA-L,E8B265,Dell Inc.,One Dell Way Round Rock TX US 78682 
+MA-L,54077D,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
