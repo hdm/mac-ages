@@ -1,11 +1,12 @@
 east 2nd section/68,2022-07-21,ieee-oui.csv
- east 2nd section/68,2022-10-16,ieee-oui.csv
+ qianwan 1st road/68,2022-10-17,ieee-oui36.csv
+ east 2nd section/68,2022-10-17,ieee-oui.csv
 longhua district/64,2022-04-15,ieee-mam.csv
 buji street0/48,2022-04-27,ieee-mam.csv
- buji street/48,2022-10-16,ieee-mam.csv
+ buji street/48,2022-10-17,ieee-mam.csv
 takatsu-ku00/44,2022-06-17,ieee-oui.csv
 kefeng road0/44,2022-06-10,ieee-oui.csv
- takatsu-ku0/44,2022-10-16,ieee-oui.csv
+ takatsu-ku0/44,2022-10-17,ieee-oui.csv
 8c1f64ffc000/36,2022-07-19,ieee-oui36.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
@@ -237,6 +238,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f64b7b000/36,2021-12-28,ieee-oui36.csv
 8c1f64b77000/36,2021-10-01,ieee-oui36.csv
 8c1f64b73000/36,2022-04-20,ieee-oui36.csv
+8c1f64b69000/36,2022-10-17,ieee-oui36.csv
 8c1f64b67000/36,2022-08-18,ieee-oui36.csv
 8c1f64b64000/36,2021-04-14,ieee-oui36.csv
 8c1f64b56000/36,2021-12-04,ieee-oui36.csv
@@ -246,6 +248,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f64b3d000/36,2021-10-07,ieee-oui36.csv
 8c1f64b3b000/36,2022-03-05,ieee-oui36.csv
 8c1f64b2c000/36,2021-08-06,ieee-oui36.csv
+8c1f64b2b000/36,2022-10-17,ieee-oui36.csv
 8c1f64b22000/36,2021-10-13,ieee-oui36.csv
 8c1f64b14000/36,2022-10-13,ieee-oui36.csv
 8c1f64b13000/36,2022-05-12,ieee-oui36.csv
@@ -315,6 +318,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f649ce000/36,2021-08-28,ieee-oui36.csv
 8c1f649c3000/36,2021-10-08,ieee-oui36.csv
 8c1f649c1000/36,2021-05-20,ieee-oui36.csv
+8c1f649bf000/36,2022-10-17,ieee-oui36.csv
 8c1f649bd000/36,2022-01-19,ieee-oui36.csv
 8c1f649ba000/36,2022-02-19,ieee-oui36.csv
 8c1f649b6000/36,2022-07-06,ieee-oui36.csv
@@ -393,6 +397,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f6485b000/36,2021-11-11,ieee-oui36.csv
 8c1f64856000/36,2021-04-28,ieee-oui36.csv
 8c1f64855000/36,2022-01-22,ieee-oui36.csv
+8c1f64852000/36,2022-10-17,ieee-oui36.csv
 8c1f6484e000/36,2021-10-28,ieee-oui36.csv
 8c1f6484c000/36,2022-03-09,ieee-oui36.csv
 8c1f64848000/36,2021-10-23,ieee-oui36.csv
@@ -514,6 +519,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f64650000/36,2021-10-01,ieee-oui36.csv
 8c1f64647000/36,2021-11-16,ieee-oui36.csv
 8c1f64641000/36,2021-12-21,ieee-oui36.csv
+8c1f6463f000/36,2022-10-17,ieee-oui36.csv
 8c1f6463b000/36,2021-07-12,ieee-oui36.csv
 8c1f64638000/36,2021-09-01,ieee-oui36.csv
 8c1f64634000/36,2022-01-27,ieee-oui36.csv
@@ -683,6 +689,7 @@ kefeng road0/44,2022-06-10,ieee-oui.csv
 8c1f64300000/36,2022-05-20,ieee-oui36.csv
 8c1f642fe000/36,2022-08-03,ieee-oui36.csv
 8c1f642fd000/36,2022-01-29,ieee-oui36.csv
+8c1f642fc000/36,2022-10-17,ieee-oui36.csv
 8c1f642fb000/36,2022-06-22,ieee-oui36.csv
 8c1f642f5000/36,2021-06-12,ieee-oui36.csv
 8c1f642ef000/36,2021-05-22,ieee-oui36.csv
@@ -10576,6 +10583,8 @@ c4ffbc300000/28,2017-10-22,wireshark.org
 c4ffbc200000/28,2017-10-22,wireshark.org
 c4ffbc100000/28,2017-10-22,wireshark.org
 c4ffbc000000/28,2017-10-29,wireshark.org
+c4a559b00000/28,2022-10-17,ieee-mam.csv
+c4a559800000/28,2022-10-17,ieee-mam.csv
 c4a10ee00000/28,2022-03-18,ieee-mam.csv
 c4a10ed00000/28,2022-03-12,ieee-mam.csv
 c4a10ec00000/28,2022-03-15,ieee-mam.csv
@@ -11681,14 +11690,17 @@ a0024a000000/28,2020-11-04,ieee-mam.csv
 84e0f4200000/28,2016-05-29,wireshark.org
 84e0f4100000/28,2016-06-05,wireshark.org
 84e0f4000000/28,2016-05-29,wireshark.org
+84b386e00000/28,2022-10-17,ieee-mam.csv
 84b386d00000/28,2022-10-11,ieee-mam.csv
 84b386c00000/28,2022-10-14,ieee-mam.csv
 84b386b00000/28,2022-10-04,ieee-mam.csv
 84b386a00000/28,2022-10-07,ieee-mam.csv
+84b386900000/28,2022-10-17,ieee-mam.csv
 84b386800000/28,2022-10-11,ieee-mam.csv
 84b386700000/28,2022-10-15,ieee-mam.csv
 84b386600000/28,2022-10-05,ieee-mam.csv
 84b386500000/28,2022-10-07,ieee-mam.csv
+84b386300000/28,2022-10-17,ieee-mam.csv
 84b386200000/28,2022-10-11,ieee-mam.csv
 84b386100000/28,2022-10-13,ieee-mam.csv
 84b386000000/28,2022-10-15,ieee-mam.csv
@@ -47151,25 +47163,25 @@ a002dc000000/24,2014-02-28,deepmac.org
 000001000000/24,2000-09-08,deepmac.org
 000000000000/24,2000-09-08,deepmac.org
 baoan district shenzhen guangdong cn 518126 "/184,2022-04-16,ieee-oui.csv
- baoan district shenzhen guangdong cn 518126 "/184,2022-10-16,ieee-oui.csv
+ baoan district shenzhen guangdong cn 518126 "/184,2022-10-17,ieee-oui.csv
 medavakkam chennai tamil nadu in 600100 "/168,2022-07-30,ieee-oui36.csv
 ballabhgarh faridabad haryana in 121004 "/168,2022-04-15,ieee-mam.csv
- medavakkam chennai tamil nadu in 600100 "/168,2022-10-16,ieee-oui36.csv
- ballabhgarh faridabad haryana in 121004 "/168,2022-10-16,ieee-mam.csv
+ medavakkam chennai tamil nadu in 600100 "/168,2022-10-17,ieee-oui36.csv
+ ballabhgarh faridabad haryana in 121004 "/168,2022-10-17,ieee-mam.csv
 sector 1 bengaluru karnataka in 560102 "/164,2022-05-06,ieee-oui36.csv
 begumpet hyderabad telangana in 500016 "/164,2022-07-26,ieee-oui36.csv
- sector 1 bengaluru karnataka in 560102 "/164,2022-10-16,ieee-oui36.csv
- begumpet hyderabad telangana in 500016 "/164,2022-10-16,ieee-oui36.csv
+ sector 1 bengaluru karnataka in 560102 "/164,2022-10-17,ieee-oui36.csv
+ begumpet hyderabad telangana in 500016 "/164,2022-10-17,ieee-oui36.csv
 westmead durban kwazulu natal za 3610 "/160,2022-04-07,ieee-oui36.csv
- westmead durban kwazulu natal za 3610 "/160,2022-10-16,ieee-oui36.csv
+ westmead durban kwazulu natal za 3610 "/160,2022-10-17,ieee-oui36.csv
 station road maldon essex gb cm9 4lq "/152,2022-06-10,ieee-oui36.csv
 north point hong kong  hk 999077 "/140,2022-06-14,ieee-mam.csv
 china shenzhen gangdong cn 518100 "/140,2022-04-15,ieee-mam.csv
- north point hong kong  hk 999077 "/140,2022-10-16,ieee-mam.csv
+ north point hong kong  hk 999077 "/140,2022-10-17,ieee-mam.csv
 korea seoul seoul kr 14440 "/116,2022-07-08,ieee-mam.csv
 china. shenzhen  cn 518057 "/116,2022-06-10,ieee-oui.csv
- korea seoul seoul kr 14440 "/116,2022-10-16,ieee-mam.csv
- china. shenzhen  cn 518057 "/116,2022-10-16,ieee-oui.csv
+ korea seoul seoul kr 14440 "/116,2022-10-17,ieee-mam.csv
+ china. shenzhen  cn 518057 "/116,2022-10-17,ieee-oui.csv
 tokyo tokyo  jp 141-0031 "/108,2022-09-16,ieee-oui.csv
- tokyo tokyo  jp 141-0031 "/108,2022-10-16,ieee-oui.csv
+ tokyo tokyo  jp 141-0031 "/108,2022-10-17,ieee-oui.csv
 000000000000/0,2022-07-21,ieee-oui.csv
