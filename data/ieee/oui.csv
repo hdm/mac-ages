@@ -5785,7 +5785,6 @@ MA-L,84267A,"GUANGDONG TAIDE ZHILIAN TECHNOLOGY CO.,LTD","Taide Technology Park,
 MA-L,D8EC5E,Belkin International Inc.,12045 East Waterfront Drive Playa Vista  US 90094 
 MA-L,84FD27,Silicon Laboratories,400 West Cesar Chavez Street Austin  US 78701 
 MA-L,CC9C3E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,4829E4,"   ZAO ""NPK Rotek""",Prospekt Mira Moscow  RU 129223 
 MA-L,FCA9DC,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,FC584A,"xiamenshi c-chip technology co., ltd",Baoyuan Road Shenzhen City Guangdong Province CN 518101 
 MA-L,78653B,"Shaoxing Ourten Electronics Co., Ltd.","3rd Floor # 7, No. 1732 Yanhua industrial park West Renmin Road,Shangyu Shaoxing Zhejiang CN 312000 "
@@ -6597,6 +6596,8 @@ MA-L,6405E4,"ALPSALPINE CO,.LTD",nishida 6-1 kakuda-City Miyagi-Pref JP 981-1595
 MA-L,BC64D9,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,DCAC6F,Everytale Inc,2093 Philadelphia Pike #2211 Claymont DE US 19703 
 MA-L,F41532,"PETAiO (NanJing), Inc.","17 / F, block A, Weien building, No. 73 Huachuang Road, Yan Chuang Park, Jiang Bei New Area Nanjing Jiangsu CN 211800 "
+MA-L,4829E4,"AO ""NPK RoTeK""",Prospekt Mira Moscow  RU 129223 
+MA-L,301F48,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -7005,7 +7006,6 @@ MA-L,00151E,ETHERNET Powerlink Standarization Group (EPSG),c/o Zurich University
 MA-L,00111E,ETHERNET Powerlink Standarization Group (EPSG),c/o University of Applied Sciences Winterthur ZH CH CH-8401 
 MA-L,00409D,DigiBoard,6400 FLYING CLOUD DRIVE EDEN PRAIRIE MN US 55344 
 MA-L,CC50E3,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,DCE305,"   ZAO ""NPK Rotek""",Prospekt Mira Moscow  RU 129223 
 MA-L,A4DA32,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,000EEE,Muco Industrie BV,Pleimuiden 12e Amsterdam NH NL 1046 AG 
 MA-L,7C1C4E,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
@@ -13098,14 +13098,22 @@ MA-L,AC1615,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,48BDCE,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville  GA US 30044 
 MA-L,481F66,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,106838,AzureWave Technology Inc.,"8F., No.94, Baozhong Rd., Xindian Taipei  US 231 "
-MA-L,EC7379,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,D8028A,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
-MA-L,88CE3F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,ECF8D0,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,30DF17,"ALPSALPINE CO,.LTD",nishida 6-1 kakuda-City Miyagi-Pref JP 981-1595 
-MA-L,60B647,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
 MA-L,748669,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,C80A35,"Qingdao Hisense Smart Life Technology Co., Ltd","No.399, Songling Road, Laoshan District Qingdao Shandong CN 266100 "
+MA-L,141AAA,Metal Work SpA,"
+Via Segni 5-7-9 
+25062 Concesio
+ Brescia Italy IT 25062 "
+MA-L,CCDEDE,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,DCE305,"AO ""NPK RoTeK""",Prospekt Mira Moscow  RU 129223 
+MA-L,ECF8D0,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,30DF17,"ALPSALPINE CO,.LTD",nishida 6-1 kakuda-City Miyagi-Pref JP 981-1595 
+MA-L,D8028A,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
+MA-L,88CE3F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,60B647,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
+MA-L,EC7379,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,E86538,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,242A04,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13170,7 +13178,6 @@ MA-L,E419C1,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,B86685,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,381A52,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,000A17,"NESTAR COMMUNICATIONS, INC","No.6,19 Lane Bade Road HSINCHU  TW 300 "
-MA-L,D8AF81,"   ZAO ""NPK Rotek""","Filippovskiy per., 8/1 Moscow  RU 119019 "
 MA-L,E4FDA1,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,B452A9,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,54EF44,"Lumi United Technology Co., Ltd","8th Floor, JinQi Wisdom Valley, No.1 TangLing Road, LinXian Ave, Taoyuan Residential District,Nanshan District ShenZhen GuangDong CN 518055 "
@@ -19656,6 +19663,8 @@ MA-L,FC47D8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,90AB96,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
 MA-L,B04B68,NAKAYO Inc,"1-3-2, Soja-machi Maebashi-shi Gunma JP 371-0853 "
 MA-L,F4331C,"Toast, Inc.","401 Park Drive, Suite 801 Boston MA US 02215 "
+MA-L,D8AF81,"AO ""NPK RoTeK""","Filippovskiy per., 8/1 Moscow  RU 119019 "
+MA-L,5451DE,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -26244,6 +26253,9 @@ MA-L,C4CBE1,Dell Inc.,One Dell Way Round Rock TX US 78682
 MA-L,408EF6,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
 MA-L,E02DF0,"ALPSALPINE CO,.LTD",nishida 6-1 kakuda-City Miyagi-Pref JP 981-1595 
 MA-L,58707F,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
+MA-L,3CBCD0,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,646E60,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,4C421E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -32784,3 +32796,5 @@ MA-L,9409C9,"ALPSALPINE CO,.LTD",nishida 6-1 kakuda-City Miyagi-Pref JP 981-1595
 MA-L,E0BDA0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,ACB181,Belden Mooresville,1113 N Main St. Mooresville  US 28115 
 MA-L,ACE403,"Shenzhen Visteng Technology CO.,LTD","6F, M7, MaQueLing, Hi-tech Park, Nanshan District Shenzhen  CN 518000 "
+MA-L,20DE1E,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,E462C4,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
