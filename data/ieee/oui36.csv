@@ -1042,10 +1042,11 @@ MA-S,8C1F64744,CHASEO CONNECTOME,"2floor, 14, Nambusunhwan-ro 378-gil Gangnam-gu
 MA-S,8C1F64B14,"Murata Manufacturing CO., Ltd.","4-3-8, Minatomirai, Nishi-ku Yokohama-shi Kanagawa-ken JP 220-0012 "
 MA-S,8C1F646D0,ABB,Fulachstrasse 150 Schaffhausen  CH 8200 
 MA-S,8C1F6478F,Connection Systems,Westerbuurt 25 Venhuizen  NL 1606 AK 
-MA-S,8C1F645B2,MIJ CO LTD,"ROOM 204 882, Baksa-ro, Seo-myeon, chuncheon-si, Gangwon-do, Republic of korea chuncheon-si Gangwon-do KR 24461 "
 MA-S,8C1F64CFA,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
 MA-S,8C1F64DA6,"Power Electronics Espana, S.L.","Pol Industrial Carrases Ronda del Camp d’Aviació,4 Lliria Valencia ES 46160 "
 MA-S,8C1F6437F,"Scarlet Tech Co., Ltd.","4F-3, 347 HePing E Rd 2nd Sec, Daan Dist  Taipei City  Taipei  TW 106  "
+MA-S,8C1F64593,"Brillian Network & Automation Integrated System Co., Ltd.","No.41, Keyi St., Zhunan Township, Miaoli County 350
+Taiwan (R.O.C.) Zhunan Township Miaoli County TW 35059 "
 MA-S,70B3D5A80,EVCO SPA,VIA FELTRE N. 81 SEDICO BELLUNO IT 32036 
 MA-S,70B3D55F8,Forcite Helmet Systems Pty Ltd,"63 Dixon Street, Haymarket, Haymarket HQ Sydney NSW AU 2000 "
 MA-S,70B3D566C,KRISTECH Krzysztof Kajstura,"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450 "
@@ -2079,6 +2080,7 @@ MA-S,8C1F64691,Wende Tan,"FIT 1-213, Tsinghua University Beijing  CN 100084 "
 MA-S,8C1F64B65,HomyHub SL,"Sierra de Atapuerca 13
 Correos Labs MADRID Madrid ES 28050 "
 MA-S,8C1F649FB,CI SYSTEMS ISRAEL LTD,HaMehkar St 6  Migdal HaEmek  IL 2306990 
+MA-S,8C1F64C59,Tunstall A/S,Niels Bohrs vej 42 Stilling Skanderborg DK 8660 
 MA-S,70B3D5E06,System West dba ICS Electronics,7034 Commerce Circle Suite A Pleasanton CA US 94588 
 MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054 
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
@@ -3099,6 +3101,7 @@ MA-S,8C1F64AFD,Universal Robots A/S,Energivej 25 Odense S Odense DK 5260
 MA-S,8C1F64733,Video Network Security,"Suite 402-01, B Wing DSO HQ Building Dubai  AE 6009 "
 MA-S,8C1F646B1,Specialist Mechanical Engineers (PTY)LTD,"907 Hertzogstreet
 Rietfontein Pretoria Gauteng ZA 0182 "
+MA-S,8C1F64369,Orbital Astronautics Ltd,"Atlas Building, Harwell Campus Didcot Oxfordshire GB OX11 0QX "
 MA-S,70B3D5BBB,"YUYAMA MFG Co.,Ltd",3-3-1 TOYONAKASHI OSAKA JP 561-0841 
 MA-S,70B3D5219,D-E-K GmbH & Co.KG,Südfeld 9 Ascheberg / Herbern  DE 58387 
 MA-S,70B3D5B4F,AvMap srlu,Viale Zaccagna 6 Carrara  IT 54033 
@@ -4140,6 +4143,8 @@ MA-S,8C1F64BC9,"GL TECH CO.,LTD",NO.Ten Changchun Road ZHENGZHOU HENAN CN 455000
 MA-S,8C1F64402,Integer.pl S.A.,Wielicka 28 Krakow  PL 30-552 
 MA-S,8C1F64A83,EkspertStroyProekt,"office 422, str.1, d.1, ul. Eniseyskaya Moscow  RU 129344 "
 MA-S,8C1F648F6,Idneo Technologies S.A.U.,"Carrer de Dalt, 3 Mollet del Valles Barcelona ES 08100 "
+MA-S,8C1F64E12,Pixus Technologies Inc.,"50 Bathurst Dr., Unit 6 Waterloo Ontario CA N2V 2C5 "
+MA-S,8C1F64DFB,Bobeesc Co.,"100, Nonggongdanji-gil, Sokcho-si, Gangwon-do, Republic of Korea sokcho gangwon KR 24899 "
 MA-S,70B3D592C,DISMUNTEL SAL,Pol ind cotes Algemesi Valencia ES 46680 
 MA-S,70B3D5F4B,"Chengdu Lingya Technology Co., Ltd.","8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037 "
 MA-S,70B3D5A6B,xmi systems,Sonnenbergstrasse 7 Hergiswil  CH 6052 
@@ -5158,3 +5163,5 @@ MA-S,8C1F645F7,"Eagle Harbor Technologies, Inc.",169 Western Ave W. Seattle WA U
 MA-S,70B3D561C,Earth Works,2-9-14 Aioi Kofu Yamanashi JP 400-0858 
 MA-S,8C1F64EA8,Zumbach Electronic AG,Hauptstrasse 93 Orpund  CH 2552 
 MA-S,8C1F64DC2,Procon Electronics Pty Ltd,P O Box 164 Seven Hills NSW AU 1730 
+MA-S,8C1F640AA,DI3 INFOTECH LLP,"406, CRYSTAL ARCADE, NEXT TO BSNL EXCHANGE, C.G ROAD, NAVRANGPURA AHMEDABAD Gujarat IN 380009 "
+MA-S,8C1F640F2,Graphimecc Group SRL,Via Nobel 2 San Martino Buon Albergo Verona IT 37036 
