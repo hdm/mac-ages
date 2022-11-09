@@ -28,7 +28,6 @@ MA-L,0C20D3,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An 
 MA-L,44D791,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,8446FE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D82918,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,D0D003,"Samsung Electronics Co.,LTD","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,64B21D,"Chengdu Phycom Tech Co., Ltd.",No.216 beisen road Chengdu Sichuan CN 610000 
 MA-L,C42996,Signify B.V.,High Tech Campus 7 Eindhoven  NL 5656AE 
 MA-L,980637,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -6612,6 +6611,8 @@ MA-L,48BCE1,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,B85CEE,"Baidu Online Network Technology (Beijing) Co., Ltd","Baidu Campus, No.10 Shangdi 10th Street, Haidian District  Beijing  CN 100085 "
 MA-L,5C76D5,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,8C7A00,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,D0D003,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+MA-L,8C7909,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13147,6 +13148,7 @@ MA-L,BC32B2,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,80D266,ScaleFlux,"900 N. McCarthy Blvd.
 Suite 200 Milpitas CA US 95035 "
 MA-L,EC8A48,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,E81098,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -26319,6 +26321,7 @@ MA-L,3C3B4D,"Toyo Seisakusho Kaisha, Limited",2-4-6 Honjyo Higashi-Osaka Osaka J
 MA-L,147F0F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,04F778,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,205F3D,Adtran Inc,"Victory House, Vision Park, Chivers Way, Histon Cambridge  GB CB24 9ZR "
+MA-L,0092A5,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -31553,7 +31556,6 @@ MA-L,942DDC,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,54F294,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,245AB5,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,C0D2DD,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,AC1E92,"Samsung Electronics Co.,LTD","129, Samsung-ro, Youngtongl-Gu Suwon  KR 16677 "
 MA-L,0068EB,HP Inc.,10300 Energy Dr Spring TX US 77389 
 MA-L,7CB37B,"Qingdao Intelligent&Precise Electronics Co.,Ltd.",No.218 Qianwangang Road Qingdao Shangdong CN 266510 
 MA-L,484C86,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -31574,7 +31576,6 @@ MA-L,38144E,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road
 MA-L,ACBD0B,Leimac Ltd.,"1551, Sazukawa-chou Moriyama-shi Shiga-ken JP 524-0215 "
 MA-L,E0CCF8,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,98524A,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
-MA-L,3868A4,"Samsung Electronics Co.,LTD","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,B4A5AC,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,1C784E,China Mobile Iot Limited company,"No. 8 Yangliu North Road, Yubei District, Chongqing, China Chong Qing Chong Qing CN 401120 "
 MA-L,843E79,"Shenzhen Belon Technology CO.,LTD",Tsinghua Information Shenzhen Guangdong CN 518052 
@@ -32880,3 +32881,5 @@ MA-L,A88055,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,508BB9,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,0023C7,AVSystem sp. z o. o.,"Radzikowskiego 47D Kraków, ul.  PL 31-315 "
 MA-L,B837B2,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,3868A4,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+MA-L,AC1E92,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon  KR 16677 "
