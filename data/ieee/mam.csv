@@ -904,11 +904,11 @@ MA-M,705A6F2,Tyromotion GmbH,Bahnhofgürtel 59 Graz Styria AT 8020
 MA-M,705A6FD,PICadvanced SA,"PCI Creative Science Park 
 Via do Conhecimento Ed Central Ilhavo Aveiro PT 3830-352 "
 MA-M,705A6F4,"Vaiotik Co., Ltd",GaoXinQi in Hi-Tech Park Shenzhen  CN 518000 
-MA-M,705A6F8,"LUAN Industry and Commerce Co., Ltd","Jinying Building, No 1, Jinying Road, Tianhe District Guangzhou Guangdong CN 510640 "
 MA-M,8C5DB2D,"Guandong Yuhang Automation Technology Co.,Ltd",Daliang Baojian Road N0.99 Foshan Guangdong CN 528300 
 MA-M,8C5DB21,DAYOUPLUS,"3F 509, Dunchon-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea Seongnam-si Gyeonggi-do KR 13217 "
-MA-M,8C5DB29,ISSENDORFF KG,Wellweg 93 Sarstedt Lower Saxony DE 31157 
 MA-M,8C5DB28,"Guangzhou Phimax Electronic Technology Co.,Ltd"," ROOM 2806 ZHONGLV BUILDING WEST, QIAOLIN STREET 43, TIANHE DISTRICT Guangzhou Guangdong CN 510000 "
+MA-M,705A6F8,"LUAN Industry and Commerce Co., Ltd","Jinying Building, No 1, Jinying Road, Tianhe District Guangzhou Guangdong CN 510640 "
+MA-M,8C5DB29,ISSENDORFF KG,Wellweg 93 Sarstedt Lower Saxony DE 31157 
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -1765,6 +1765,7 @@ MA-M,C4A5591,"Motive Technologies, Inc.","55 Hawthorne St, Ste. 400 San Francisc
 MA-M,C4A5592,"SHENZHEN ORFA TECH CO., LTD","Room 205, Building 4, Hongmumian Industrial Park, Longgang district, Shenzhen Guangdong CN 518000 "
 MA-M,705A6F6,Earfun Technology (HK) Limited,"FLAT/RM A 9F, SILVERCORP INTERNATIONAL TOWER 707-713 NATHAN ROAD MONGKOK KL HONG KONG  CN 999077 "
 MA-M,A0C5F28,CoolR Group Inc,"4451 Brookfield Corporate Drive, Suite 111 Chantilly VA US 20151 "
+MA-M,8C5DB22,F+ Networks,Polyarnaya st.31 str.1 Moscow Moscow RU 127282 
 MA-M,2085933,"UNILUMIN GROUP CO.,LTD","No.112 Yongfu Rd.,BaoanDistrict, shenzhen guangdong CN 518103 "
 MA-M,2085936,Eilersen Electric A/S,Kokkedal Industripark 4 Kokkedal  DK 2980 
 MA-M,4C4BF9B,Stored Energy Systems,1840 Industrial Circle Longmont CO US 80501 
@@ -2702,6 +2703,7 @@ MA-M,705A6F3,Wavelab Telecom Equipment (GZ) Ltd.,"Room 2301, Binhe 9, Guangzhou 
 MA-M,705A6FA,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,705A6FC,CoolR Group Inc,"4451 Brookfield Corporate Drive, Suite 111 Chantilly VA US 20151 "
 MA-M,705A6FB,"Callidus trading, spol. s r.o.",Pašerových 1270/1 Ostrava  CZ 70900 
+MA-M,8C5DB20,NPP NTT LLC,"S Kovalevskoy str., b. 20/1 St. Petersburg  RU 195256 "
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -3600,6 +3602,7 @@ MA-M,C4A5596,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 
 MA-M,94C9B78,OSOM Products Inc,10930 Miramonte Road Cupertino CA US 95014 
 MA-M,705A6F9,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,705A6FE,Hall Technologies,"1234 Lakeshore Dr., Ste. 150 Coppell TX US 75019 "
+MA-M,8C5DB2B,NADDOD,"6 Raffles Quay, #14-06  Singapore  SG 048580 "
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
@@ -4520,3 +4523,4 @@ MA-M,705A6F7,WiBASE Industrial Solutions Inc.,"17F., No.3-1, Park St., Nangang D
 MA-M,705A6F5,Acer Connect,"8F,88, Sec. 1, Xintai 5th Rd. Xizhi New Taipei  TW 22181 "
 MA-M,C4A5590,"Archermind Japan Co.,Ltd.","4F Shinagawa East One Tower, 2-16-1, Konan Minato-ku Tokyo JP 1080075 "
 MA-M,8C5DB23,"Yuzhou Zhongnan lnformation Technology Co.,Ltd",Yuzhou Juntaiban Lianluowan Road 2 Yuzhou  CN 461670 
+MA-M,8C5DB27,Cleartex s.r.o.,Ampérova 649 Liberec 23 Czech republic CZ 46312 
