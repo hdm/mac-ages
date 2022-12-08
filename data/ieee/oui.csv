@@ -6648,6 +6648,7 @@ MA-L,9CCBF7,"CLOUD STAR TECHNOLOGY CO., LTD.","13F.-1, No. 167, Wenqing Rd  Guis
 MA-L,48814E,"E&M SOLUTION CO,.Ltd","#813-ho, 555, Byeolmang-ro Ansan-si Danwon-gu KR 15434 "
 MA-L,58C935,"Chiun Mai Communication System, Inc","No.4, Minsheng St., Tucheng District New Taipei City  TW 23678 "
 MA-L,AC800A,Sony Corporation,Sony City Osaki 2-10-1 Shinagawa-ku  Tokyo JP 141-8610 
+MA-L,10C4CA,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13207,6 +13208,8 @@ MA-L,34987A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,005828,Axon Networks Inc.,15420 Laguna Canyon rd. Irvine CA US 92618 
 MA-L,380716,FREEBOX SAS,16 rue de la Ville l'Eveque PARIS IdF FR 75008 
 MA-L,5C6AEC,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,4CE705,"Siemens Industrial Automation Products Ltd., Chengdu","Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731  "
+MA-L,0C7274,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19805,6 +19808,7 @@ MA-L,000E51,TECNA SpA,"Via Meucci, 27 Sastel San Pietro Terme Bologna IT 40024 "
 MA-L,C0C70A,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,BC9E2C,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,404CCA,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,545DD9,EDISTEC,"Rm 1701, Gasan SKV1 Center, 171, Gasan digital 1-ro, Geumcheon-gu, Seoul Seoul Seoul KR 08503 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -33032,12 +33036,13 @@ MA-L,B8A535,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville
 MA-L,5C1648,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4CC844,"Maipu Communication Technology Co.,Ltd.","No.16 Jiuxing Avenue, Hi-tech zone Chengdu Sichuan CN 610094 "
 MA-L,002BF5,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
-MA-L,A08E24,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,705464,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
-MA-L,8C6FB9,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
-MA-L,B86AF1,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
-MA-L,CC5830,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
-MA-L,E824A6,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,98C854,"Chiun Mai Communication System, Inc","No.4, MingSheng St. TuCheng District New Taipei City  TW 23679 "
 MA-L,7017D7,"Shanghai Enflame Technology Co., Ltd.","A-522, No. 188, Yesheng Road, LIN-GANG Special Area, China (Shanghai) Pilot Free Trade Zone Shanghai Shanghai CN 201306 "
 MA-L,64B708,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,705464,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
+MA-L,8C6FB9,Silicon Laboratories,7000 W. William Cannon Dr. Austin TX US 78735 
+MA-L,B86AF1,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,B49882,Brusa HyPower AG,Langäulistrasse 60  Buchs  CH CH 9470 
+MA-L,CC5830,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,E824A6,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,A08E24,eero inc.,660 3rd Street San Francisco CA US 94107 
