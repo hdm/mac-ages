@@ -6657,7 +6657,8 @@ MA-L,E063DA,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York N
 MA-L,245A4C,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,602232,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,E43883,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
-MA-L,0050CA,DZS California Inc.,680 CENTRAL AVENUE - STE. #301 DOVER NH US 03820 
+MA-L,0050CA,DZS Inc.,680 CENTRAL AVENUE - STE. #301 DOVER NH US 03820 
+MA-L,74EE8D,"Apollo Intelligent Connectivity (Beijing) Technology Co., Ltd.",Baidu Technology Park Building No.2 No.10 Xibeiwang East Road Haidian District BeiJing BeiJing CN 100193 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13225,9 +13226,12 @@ MA-L,28704E,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York N
 MA-L,A0AF12,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,6096A4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,04A526,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,9C65EE,DZS California Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
 MA-L,D80AE6,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,489E9D,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
+MA-L,9C5416,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,9C65EE,DZS Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
+MA-L,20BA36,u-blox AG,"Zuercherstrasse, 68
+ Thalwil Switzerland CH CH-8800 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -15093,7 +15097,6 @@ MA-L,0C4DE9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,E0F5C6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,A0EDCD,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F0F249,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
-MA-L,2857BE,"Hangzhou Hikvision Digital Technology Co.,Ltd.","No.469,Jianghui Road Hangzhou Zhejiang CN 310052 "
 MA-L,5CF5DA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,18EE69,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,649ABE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -16929,7 +16932,6 @@ MA-L,0014A6,"Teranetics, Inc.",3965 Freedom Circle Santa Clara CA US 95054
 MA-L,001469,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0014BA,Carvers SA de CV,Alvarez del Castillo 1550 Guadalajara Jalisco MX 44620 
 MA-L,00148A,Elin Ebg Traction Gmbh,Cumberlandstrasse 32 Vienna  AT 1140 
-MA-L,001491,Daniels Electronics Ltd. dbo Codan Rado Communications,43 Erie St Victoria BC CA V8V 1P8 
 MA-L,00146E,H. Stoll GmbH & Co. KG,Stollweg Reutlingen Deutschland DE 72760 
 MA-L,0014AA,"Ashly Audio, Inc.",847 Holt Road Webster NY US 14580 
 MA-L,001409,MAGNETI MARELLI   S.E. S.p.A.,"ZI Nord, Allee d'Argenson CHATELLERAULT  FR 86100 "
@@ -19834,18 +19836,24 @@ Gongming, shenzhen, China, 518107 China shenzhen CN 518107 "
 MA-L,8867DC,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,40410D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,5C8B6B,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,D096FB,DZS California Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
-MA-L,304F75,DZS California Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
 MA-L,C82B6B,"shenzhen worldelite electronics co., LTD","Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800 "
 MA-L,D021F9,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,70A741,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,24A43C,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,44D9E7,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,C0613D,"BioIntelliSense, Inc.","17301 W. COLFAX AVENUE, SUITE 152 Golden CO US 80401 "
-MA-L,000271,DZS California Inc.,7001 Oakport Street Oakland CA US 94621 
-MA-L,000147,DZS California Inc.,7001 Oakport Street Oakland CA US 94621 
 MA-L,1814AE,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,0418D6,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,001491,Daniels Electronics Ltd. dba Codan Radio Communications,43 Erie St Victoria BC CA V8V 1P8 
+MA-L,200BC5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,90E95E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,2857BE,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
+MA-L,807C62,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
+MA-L,304F75,DZS Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
+MA-L,D096FB,DZS Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu Seongnam-si Gyeonggi-do KR 13493 "
+MA-L,000147,DZS Inc.,7001 Oakport Street Oakland CA US 94621 
+MA-L,000271,DZS Inc.,7001 Oakport Street Oakland CA US 94621 
+MA-L,2029B9,"Ikotek technology SH Co., Ltd","Building 2, Shanghai Business Park Phase III (Area B), No.1036 Tianlin Road, Minhang District, Shanghai 200233, China Shanghai  CN 200233 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -26480,12 +26488,16 @@ MA-L,687251,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York N
 MA-L,942A6F,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,F4E2C6,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,D8B370,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
-MA-L,00180C,DZS California Inc.,22A-1051 Baxter Road Ottawa Ontario CA K2C 3P2 
-MA-L,40F21C,DZS California Inc.,"5700 Tennyson Parkway, Suite 400 Plano TX US 75024 "
 MA-L,F412DA,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,00A01B,DZS California Inc.,48664 MILMONT DRIVE FREMONT CA US 94538 
-MA-L,00E0DF,DZS California Inc.,Wohlenbergstrasse. 3 Hannover  DE 30179 
 MA-L,FCECDA,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,D09395,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,C02C17,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,984925,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,40F21C,DZS Inc.,"5700 Tennyson Parkway, Suite 400 Plano TX US 75024 "
+MA-L,00180C,DZS Inc.,22A-1051 Baxter Road Ottawa Ontario CA K2C 3P2 
+MA-L,00E0DF,DZS Inc.,Wohlenbergstrasse. 3 Hannover  DE 30179 
+MA-L,00A01B,DZS Inc.,48664 MILMONT DRIVE FREMONT CA US 94538 
+MA-L,04472A,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -33098,8 +33110,9 @@ MA-L,BCC427,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,B0CFCB,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,AC89D2,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,000356,Diebold Nixdorf,Wohlrabedamm 31 Berlin  DE 13629 
-MA-L,003052,DZS California Inc.,6120 WINDWARD PARKWAY -STE#100 ALPHARETTA GA US 30005 
 MA-L,4838B6,"Auhui Taoyun Technology Co., Ltd","6/F and 23/F, Scientific Research Building, Building 2, Zone A, China Sound Valley, No. 3333, Xiyou Road, High tech Zone Hefei Anhui CN 230094 "
 MA-L,5C4DBF,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,984744,Shenzhen Boomtech Industrial Corporation,"2F, Block E, Bao'an Intelligent Valley, Yingtian Road No.4, Xixiang Sub-District Office, Bao'an District Shenzhen  CN 518100 "
 MA-L,504594,Radisys,"8900 NE Walker Road, Suite 130 Hillsboro OR US 97006 "
+MA-L,80433F,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,003052,DZS Inc.,6120 WINDWARD PARKWAY -STE#100 ALPHARETTA GA US 30005 
