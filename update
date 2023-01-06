@@ -144,10 +144,6 @@ write_results()
 log("Commiting and pushing the results")
 
 # Commit the results
-r = system("git commit -m 'Update #{@today}' ./data && git push origin main")
-if ! r
-  log("Commit failed: #{r}")
-  exit(1)
-end
+system("git commit -m 'Update #{@today}' ./data && git push origin main")
 exit(0)
 
