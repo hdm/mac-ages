@@ -6679,6 +6679,7 @@ MA-L,C4A64E,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, N
 MA-L,E03C1C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,AC919B,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,CCF3C8,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville  GA US 30044 
+MA-L,442063,Continental Automotive Technologies GmbH,Siemensstr. 12 Regensburg  DE 93055 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13263,11 +13264,14 @@ MA-L,8CC58C,"ShenZhen Elsky Technology Co.,LTD","401, building A, wanguocheng, N
 MA-L,04B4FE,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
 MA-L,2C704F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,0815AE,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
-MA-L,6C29D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,08CC81,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
 MA-L,381672,"Shenzhen SuperElectron Technology Co.,Ltd.","1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city Shenzhen Guangdong CN 518000 "
-MA-L,D43844,"UNIONMAN TECHNOLOGY CO., LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,D07B6F,"Zhuhai Yunmai Technology Co.,Ltd","Unit 1201-1203, Youte Headquarters Building, No. 88 Xingye Road, Xiangzhou District Zhuhai Guangdong CN 519000 "
+MA-L,D43844,"UNIONMAN TECHNOLOGY CO., LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,08CC81,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
+MA-L,D45347,"Merytronic 2012, S.L.","Parque empresarial Boroa
+Parcela 2C-1 Amorebieta Bizkaia ES 48340 "
+MA-L,6C29D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,943EE4,WiSA Technologies Inc,15268 Northwest Greenbrier Parkway Beaverton OR US 97006 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19909,6 +19913,9 @@ MA-L,4891D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,20F597,"Maasiv, LLC","4939 W. Ray Road, Suite 4-200 Chandler AZ US 85226 "
 MA-L,34AFA3,Recogni Inc,"2590 N 1ST ST
 Suite 320 San Jose CA US 95131 "
+MA-L,489ECB,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville  US 95747 
+MA-L,14A417,"Shenzhen Belon Technology CO.,LTD",Tsinghua Information Shenzhen Guangdong CN 518052 
+MA-L,60489C,"YIPPEE ELECTRONICS CO.,LIMITED",19H MAXGRAND PLAZA NO.3 TAI YAU STREET SAN PO KONG KL Kowloon  CN 999077 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -26564,6 +26571,8 @@ MA-L,7CEDC6,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507
 MA-L,5030F4,"Exascend, Inc.","530 Lawrence Expy., #416 Sunnyvale CA US 94085 "
 MA-L,DCECE3,LYOTECH LABS LLC,8 the Green suite R Dover  US 19901 
 MA-L,FC35E6,Visteon Corporation,One Village Center Dr Belleville MI US 48111 
+MA-L,CC62FE,"UNIONMAN TECHNOLOGY., LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,A83A79,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -33199,3 +33208,4 @@ MA-L,B0449C,Assa Abloy AB - Yale,Nordenskiöldsgatan 8B (5tr) Malmö  SE 211 19
 MA-L,602A1B,JANCUS,"Room 101-3. Technology Start-up Center, 10 Electric-gil, Seongsan-gu, Changwon-si, Gyeongsangnam-do Changwon-si  KR 51542 "
 MA-L,68856A,OuterLink Corporation,"150 Baker Avenue Extension, Suite 302 Concord MA US 01742 "
 MA-L,E41289,topsystem GmbH,Krefelder Straße 201 Aachen  DE 52070 
+MA-L,30E1F1,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
