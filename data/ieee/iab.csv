@@ -198,7 +198,6 @@ IAB,0050C2F93,Baudisch Electronic GmbH,Im Gewerbegebiet 7-9 Wäschenbeuren Baden
 IAB,0050C2F89,CSA Engineering AG,Hans Huber-Strasse 38 Solothurn SO CH 4500 
 IAB,0050C2F92,CONET Solutions GmbH,Theodor-Heuss-Allee 19 Hennef NRW DE 53773 
 IAB,0050C2F9B,NEWELL TECHNOLOGIES LIMITED ,"Unit 13, 4/F, New City Centre, Kowloon  HK  "
-IAB,0050C2F71,"RF Code, Inc",9229 Waterford Centre Austin TX US 78758 
 IAB,0050C2F6D,Pro Design Electronic GmbH,Albert-Mayer-Straße 14-16 Bruckmuehl Bavaria DE 83052 
 IAB,0050C2F6E,"Smith Meter, Inc.",1602 Wagner Ave. Erie PA US 16514 
 IAB,0050C2F50,Moritex Corporation,9-21-4 saitama city saitama prefecture JP 3380837 
@@ -917,6 +916,7 @@ IAB,0050C28B7,Calnex Solutions plc,Oracle Campus  Linlithgow West Lothian GB EH4
 IAB,0050C263C,"dPict Imaging, Inc.","7400 N. Shadeland Ave., Suite 255 Indianapolis IN US 46250 "
 IAB,0050C21AF,PESA Inc.,"103 Quality Circle, Suite 210 Huntsville  AL US 35806 "
 IAB,0050C29CC,Hirotech inc.,"Shinyokohama I.O Bldg. #602, 1-3-10, Shinyokohama, Kohoku-ku Yokohama City Kanagawa JP 222-0033 "
+IAB,0050C2F71,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C2065,Clever Devices,1662 Route 300 Newburgh NY US 12550 
 IAB,0050C29F4,"FSR, INC.",244 Bergen Blvd West Paterson  US 07424 
 IAB,0050C2255,STMicroelectronics SRL,"Stradale Primosole, 50 CATANIA  IT 95121 "
@@ -1462,7 +1462,6 @@ IAB,0050C26C9,NETAMI,"139-6,DORIM 1DONG SEOUL YOUNG DUNG PO GU KR 150-081 "
 IAB,0050C26C8,"B&S MEDIA Co., LTD.",#702 JNK DIGITAL TOWER Seoul  KR 152-848 
 IAB,0050C26B1,Burk Technology,7 Beaver Brook road Littleton MA US 01460 
 IAB,0050C2688,Elk Products,3266 Highway 70 West Hildebran NC US 28637 
-IAB,0050C2689,"RF Code, Inc.",1250 S. Clearview Ave. Mesa AZ US 85209 
 IAB,0050C268E,SELCO,ZI DU VAL D OMBREE COMBREE  FR 49520 
 IAB,0050C2686,ANNAX Anzeigesysteme GmbH,Wettersteinstrasse 18 Taufkirchen  DE 82024 
 IAB,0050C2675,Kenton Research Ltd,Unit 19 Bourne Industrial Park Crayford Kent GB DA1 4BZ 
@@ -1764,6 +1763,7 @@ IAB,0050C2EAA,BAE Systems,65 Spir Brook Rd. Nashua NH US 03060
 IAB,0050C2D1F,Olympus NDT Canada,"505, boul Parc Technologique Quebec  CA G1P 4S9 "
 IAB,0050C2B04,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 IAB,0050C22FA,Tornado Modular Systems,p.b. 709 Novosibirsk  RU 630090 
+IAB,0050C2689,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C2FD7,DEUTA-WERKE GmbH,Paffrather str. 140 Bergisch Gladbach  US 51465 
 IAB,0050C2FBA,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 IAB,0050C21DD,peiker acustic GmbH,Max-Planck-Strasse 28-32 Friedrichsdorf  DE 61381 
@@ -2131,7 +2131,6 @@ IAB,0050C2C20,"SRC Computers, LLC",4240 N. Nevada Avenue Colorado Springs CO US 
 IAB,0050C2C09,Globe Wireless,1571 Robert J Conlan Blvd Palm Bay Florida US 32905 
 IAB,0050C2BF8,Crtiical Link,6712 Brooklawn Parkway Syracuse NY US 13211 
 IAB,0050C2BDB,GasTOPS Ltd.,1011 Polytek Street Ottawa Ontario CA K1J9J3 
-IAB,0050C2BE5,"RF Code, Inc",9229 Waterford Centre Austin TX US 78758 
 IAB,0050C2BE3,Jiskoot Ltd,85 Goods Station Road Tunbridge Wells Kent GB TN1 2DJ 
 IAB,0050C2BF3,Wanco Inc.,5870 Tennyson St. Arvada CO US 80003 
 IAB,0050C2BEC,DRS Laruel Technologies,246 Airport Road Johnstown Pa US 15904 
@@ -2724,6 +2723,7 @@ IAB,0050C24F6,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA 
 IAB,0050C2925,PHB Eletronica Ltda.,12 Sao Bernardino São Paulo Parque Anhanguera BR 05120-050 
 IAB,0050C20AD,BMC Messsysteme GmbH,Haupstr. 21 Maisach  DE 82216 
 IAB,0050C26D9,Ajeco Oy,Arinatie 8 Helsinki  FI 00370 
+IAB,0050C2BE5,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,40D855054,VITEC,"99, rue Pierre Semard Chatillon Ile de France FR 92324 "
 IAB,0050C2DA4,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2E44,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
@@ -2820,7 +2820,6 @@ IAB,40D85517B,LUCEO,16 Rue Laënnec Vern Sur Seiche  FR 35770
 IAB,40D855172,"YAWATA ELECTRIC INDUSTRIAL CO.,LTD.",1-17-1 Ohmorihigashi Ohta-ku Tokyo JP 143-0012 
 IAB,40D855190,Spider Tecnologia Ind. e Com Ltda,"Rua Alencar Araripe,1440 São Paulo SP BR 04253-000 "
 IAB,40D85518E,"Kerun Visual Technology Co., Ltd.(Shenzhen)"," Bldg 2, F/6, Zone S2 Shenzhen China CN 518000 "
-IAB,40D855194,RF Code,9229 Waterford Centre Austin Tx US 78758 
 IAB,40D855193,FORZA SILICON CORP.,2947 BRADLEY ST. PASADENA CALIFORNIA US 91107 
 IAB,40D855184,Satkirit Ltd,5 Chance St  London GB E1 6GT 
 IAB,40D855186,KST technology,"164-1, KST b/d., Bangi-dong, songpa-gu SEOUL N/A KR 138-050 "
@@ -3600,6 +3599,7 @@ IAB,0050C2C90,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA 
 IAB,0050C2B58,"RealD, Inc.","9777 Wilshire Boulevard, Ste 430  Beverly Hills CA US 90212 "
 IAB,0050C29BC,Kistler Straubenhardt GmbH,Otto-Hahn-Straße 14 Straubenhardt Baden-Württemberg DE 75334 
 IAB,0050C23F3,Hitachi Energy Germany AG,Havellandstr. 10-14 Mannheim  DE 68309 
+IAB,40D855194,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C2CB3,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465 
 IAB,0050C2DE0,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. Edificio Oficentro Tres Cantos Madrid ES 28760 
 IAB,40D855076,INTERNET PROTOCOLO LOGICA SL,Sector Foresta 43. local 26 Tres Cantos Madrid ES 28760 
@@ -3889,7 +3889,6 @@ IAB,0050C2DC5,Saia-Burgess Controls AG,Bahnhofstrasse 18 Murten FR CH 3280
 IAB,0050C2DC2,TESSERA TECHNOLOGY INC.,"2710-1 4F, Noborito, Tama-ku Kawasaki-shi Kanagawa JP 214-0014 "
 IAB,0050C2DD4,SYSTECH, Ishimori-cyo Fukui-ken Fukui-si JP 910-0122 
 IAB,0050C2DDB,LUCEO,16 Rue Laënnec Vern Sur Seiche  FR 35770 
-IAB,0050C2DB1,"RF Code, Inc",9229 Waterford Centre Austin TX US 78758 
 IAB,0050C2DB2,SoftwareCannery,1660 Sandalwood Lane Carlsbad CA US 92008 
 IAB,0050C2DB6,PROSOFT-SYSTEMS LTD,"Volgogradskaya, 194 a Ekaterinburg Sverdlovskaya region RU 620102 "
 IAB,0050C2DB7,SOREL GmbH Mikroelektronik,Jahnstrasse 36 Sprockhovel  DE 45549 
@@ -4478,7 +4477,6 @@ IAB,0050C21CA,EVER Sp. z o.o.,ul. Grudzinskiego 30 Swarzedz wielkopolskie PL 62-
 IAB,0050C21CF,"LIFETIME MEMORY PRODUCTS, INC.",2505 DAVINCI STREET IRVINE CA US 92614 
 IAB,0050C21E0,Cognex Corporation,1 Vision Drive Natick MA US 01760 
 IAB,0050C21D3,Synopsys,Le Symphonie Sud Montpellier  FR 34000 
-IAB,0050C21A6,RF Code,1250 S. Clearview Ave. Mesa AZ US 85208-3378 
 IAB,0050C21A9,Axotec Technologies GmbH,Sudetenstraße 88 Geretsried Bavaria DE 82538 
 IAB,0050C21BE,Sedia Electronics,"Omilio Monteiro Soares, 1590 Curitiba Parana BR 80320-210 "
 IAB,0050C21BA,INTERZEAG AG,Rietbachstrasse 5 Schlieren  CH CH-8952 
@@ -4574,3 +4572,5 @@ IAB,40D8551DC,Aplex Technology Inc.,"501-5B01,Xintianxia phase 2 building,Wankec
 IAB,0050C2597,Nautel LTD,10089 Peggy's Cove Road Hackett's Cove Nova Scotia CA B3Z3J4 
 IAB,0050C2F48,SHURE INCORPORATED,5800 W. TOUHY AVE. NILES IL US 60714  
 IAB,0050C2469,"Bipom Electronics, Inc.",9788 Clarewood Dr. 306 Houston TX US 77036 
+IAB,0050C21A6,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
+IAB,0050C2DB1,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
