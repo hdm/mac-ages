@@ -10010,7 +10010,6 @@ MA-L,001B4D,Areca Technology Corporation,"8F., No. 22, Lane 35, Ji-Hu Rd. Taipei
 MA-L,001AE3,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,001ADF,Interactivetv Pty Limited,"Suite 10 Level 3 Pyrmont, Sydney NSW US 2009 "
 MA-L,001AE1,EDGE ACCESS INC,5440 BEAUMONT CENTER BLVD TAMPA FL US 33634 
-MA-L,001AE8,Unify Software and Solutions GmbH & Co. KG, Mies-van-der-Rohe-Strasse 6 Munich  DE 80807 
 MA-L,001AE9,"Nintendo Co., Ltd.","  11-1 HOKOTATE-CHO KAMITOBA, MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,001AE5,Mvox Technologies Inc.,19050 Pruneridge Ave Cupertino CA US 95014 
 MA-L,001AE4,Medicis Technologies Corporation,11818 North Creek Parkway N. Bothell WA US 98011 
@@ -13275,6 +13274,9 @@ MA-L,D45347,"Merytronic 2012, S.L.","Parque empresarial Boroa
 Parcela 2C-1 Amorebieta Bizkaia ES 48340 "
 MA-L,943EE4,WiSA Technologies Inc,15268 Northwest Greenbrier Parkway Beaverton OR US 97006 
 MA-L,A8BD3A,"UNION MAN TECHNOLOGY CO.,LTD","18F, HUAYANG TOWER,YANDAYI ROAD Huizhou Guangdong CN 516007 "
+MA-L,001AE8,Unify Software and Solutions GmbH & Co. KG,Otto-Hahn-Ring 6 Munich  DE 81739 
+MA-L,209727,TELTONIKA NETWORKS UAB,"K. Baršausko st. 66, Kaunas
+ Kaunas  LT LT-51436 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -19923,6 +19925,8 @@ MA-L,F4D9C6,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Pa
 MA-L,3C0CDB,"UNION MAN TECHNOLOGY CO.,LTD","18F, HUAYANG TOWER,YANDAYI ROAD Huizhou Guangdong CN 516007 "
 MA-L,60489C,"YIPPEE ELECTRONICS CO.,LIMITED",19H MAXGRAND PLAZA NO.3 TAI YAU STREET SAN PO KONG KL Kowloon  CN 999077 
 MA-L,D8478F,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 85224 
+MA-L,880894,Skullcandy,1441 Ute blvd. Park City  US 84098 
+MA-L,14C35E,FibRSol Global Network Limited,"17, Deep Vihar, Vikas Nagar, Near Durga Mata Mandir, Uttam Nagar New Delhi New Delhi New Delhi IN 110059 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -26575,13 +26579,13 @@ MA-L,5030F4,"Exascend, Inc.","530 Lawrence Expy., #416 Sunnyvale CA US 94085 "
 MA-L,DCECE3,LYOTECH LABS LLC,8 the Green suite R Dover  US 19901 
 MA-L,FC35E6,Visteon Corporation,One Village Center Dr Belleville MI US 48111 
 MA-L,C09573,AIxLink,"Office 2702, Unit3, Building 1, Shudu Center Phase II. 333 Jiqing Third Road. High-Tech Zone Chegndu Sichuan CN 610041 "
-MA-L,A83A79,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,94CBCD,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,805F8E,"Huizhou BYD Electronic Co., Ltd.","Xiangshui River, Economic Development Zone, Daya Bay, Huizhou, Guangdong, China Huizhou Guangdong CN 516000 "
 MA-L,8CBA25,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,54725E,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,F814FE,"UNION MAN TECHNOLOGY CO.,LTD","No.5, Huitai Road Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,CC62FE,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,A83A79,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -33213,10 +33217,11 @@ MA-L,ECC018,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,748FC2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,D824EC,Plenom A/S,"Pi 2, Soften Hinnerup Favrskov DK 8382 "
 MA-L,D016F0,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,30E1F1,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
-MA-L,44A3C7,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,64E0AB,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,0019F0,"UNION MAN TECHNOLOGY CO.,LTD","18F, HUAYANG TOWER,YANDAYI ROAD HUIZHOU GUANGDONG CN 516007 "
 MA-L,A01C87,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,40F4FD,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,AC128E,"Shanghai Baud Data Communication Co.,Ltd.",NO.123 JULI RD PUDONG ZHANGJIANG HIGH-TECH PARK SHANGHAI CN 201203 
+MA-L,64E0AB,"UNION MAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,44A3C7,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,AC3D94,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,30E1F1,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
