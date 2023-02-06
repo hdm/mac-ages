@@ -930,10 +930,10 @@ MA-M,D016F0C,Peralex Electronics (Pty) Ltd,"5 Dreyersdal Road, Unit C, Conberg H
 MA-M,E03C1CA,MELAG Medizintechnik GmbH & Co. KG,Geneststraße 6-10 Berlin Berlin DE 10829 
 MA-M,E03C1CD,Sprintshield d.o.o.,Ulica Marina Getaldica 3 Velika Gorica  HR 10410 
 MA-M,54083BB,Korea Bus Broadcasting,"7F, 24, Bangbaejungang-ro, Seocho-gu Seoul  KR 06684 "
-MA-M,E03C1C5,Semic Inc.,"17F.-6, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist. New Taipei City Select State TW 22101 "
 MA-M,54083BD,BHS Corrugated Maschinen- und Anlagenbau GmbH,Paul-Engel-Strasse 1 Weiherhammer Bavaria DE 92729 
 MA-M,54083BC,FairPhone B.V.,VanDiemenstraat 200 Amsterdam  NL 1013 CP 
 MA-M,54083BE,Sinclair Technologies,85 MARY ST AURORA Ontario CA L4G 6X5 
+MA-M,E03C1C5,Semic Inc.,"17F.-6, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist. New Taipei City  TW 22101 "
 MA-M,4C4BF94,"Shenzhen dingsheng technology co., LTD","Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district Shenzhen Guangdong CN 518000 "
 MA-M,4C4BF9C,Connected IO,"8304 Esters Boulevard, Suite 850 Irving TX US 75063 "
 MA-M,4C4BF98,Zivid AS,Gjerdrums vei 10A Oslo  NO 0484 
@@ -1858,7 +1858,6 @@ MA-M,1C82599,"Shanghai Xiaoyan Technology Co., Ltd.","Room 503, Building B, NO. 
 MA-M,848BCD4,Logic Supply,35 Thompson St South Burlington VT US 05403 
 MA-M,B0FD0B7,Everynet Oy,"At Azets Insight Oy, Hatanpään valtatie 26 (5.krs) Tampere  FI 33100 "
 MA-M,B0FD0B2,Vista Manufacturing,53345 Columbia Drive Elkhart IN US 46514 
-MA-M,8C147D1,Private,
 MA-M,C82C2B3,RF Engineering and Energy Resource,4460 Commercial Ave. Portage MI US 49002 
 MA-M,C82C2B4,iWave Systems Tech Pvt Ltd,"7/B 29th Main, BTM Layout 2nd Stage Bengalore Kamataka IN 560076 "
 MA-M,C82C2B5,DALCO AG,Industriestr. 28 Volketswil ZH CH 8604 
@@ -2779,6 +2778,8 @@ MA-M,E03C1C0,Scangrip,Rytterhaven 9 Svendborg  DK 5700
 MA-M,54083B3,"Dhyan Networks and Technologies, Inc",160 Stanford Ave Fremont CA US 94539-6092 
 MA-M,54083B4,Toray Medical Company Limited,"405-65,Ashitaka Numazu Shizuoka JP 410-0001 "
 MA-M,54083B5,"shenzhen HAIOT technology co.,ltd","No 407 Building E zhongshan load, nanshan district,shenzhen city  shenzhen guangdong CN 518057 "
+MA-M,8C147D1,Schneider Electric - Triconex,26561 Rancho Pkwy S LAKE FOREST CA US 92630 
+MA-M,7006921,"Beijing Fortech Microsystems., Co., Ltd.","Suite A3 502, Zhongguancun No. 1, No. 81 Beiqing Road, Haidian District Beijing  CN 100084 "
 MA-M,4C4BF96,"Shandong Linkotech Electronic Co., Ltd.","22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101 "
 MA-M,4C4BF93,"Power Active Co., Ltd","4F, No.23, Wugong 6th Rd., Wugu Dist. New Taipei City  TW 248 "
 MA-M,4C4BF90,Multitek Elektronik Sanayi ve Ticaret A.S.,"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785 "
@@ -3701,6 +3702,7 @@ MA-M,54083B6,Vector Atomic,"5700 Stoneridge Dr, Suite 102 Pleasanton CA US 94588
 MA-M,54083B1,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,54083BA,Silex Ipari Automatizálási Zrt.,"Soroksári út.150. Budapest, IX.  HU 1095 "
 MA-M,54083B7,ASCS Sp. z o.o.,Zwirki i Wigury 65A Mikolow Slask PL 43-190 Mikolow 
+MA-M,700692C,"ScoreBird, LLC",6001 Kenwood Drive Nashville TN US 37215 
 MA-M,2085937,Great Lite International,"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
 MA-M,9806372,Summa nv,Rochesterlaan 6 Gistel  BE 8470 
