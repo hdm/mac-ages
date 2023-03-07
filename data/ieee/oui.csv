@@ -6700,13 +6700,15 @@ MA-L,FC84A7,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-s
 MA-L,4893DC,UNIWAY INFOCOM PVT LTD,BLOCK C 9 4 WAZIRPUR INDUSTRIAL AREA NEW DELHI DELHI IN 110052 
 MA-L,883F37,"UHTEK CO., LTD.","403DONG 503HO, 655 PYEONGCHEON-RO BUCHEONSI KYEONGGIDO KR 14502 "
 MA-L,4CEC0F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,0080B8,"DMG MORI Digital Co., LTD","1-1-14 Techno park, Shimonopporo, Atsubetsuku, Sapporo Hokkaido JP 004-0015 "
-MA-L,843E1D,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
 MA-L,40D4F6,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,7C3180,SMK corporation,6-5-5 Togoshi Shinagawa  JP 1428511 
-MA-L,28EC22,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,843E1D,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
+MA-L,40ED00,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,908855,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,687161,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,E0A129,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
+MA-L,0080B8,"DMG MORI Digital Co., LTD","1-1-14 Techno park, Shimonopporo, Atsubetsuku, Sapporo Hokkaido JP 004-0015 "
+MA-L,28EC22,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13338,6 +13340,7 @@ MA-L,4CD2FB,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Par
 MA-L,3CEF42,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,C05B44,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,E44519,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
+MA-L,208810,Dell Inc.,One Dell Way Round Rock  TX US 78682 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -20039,6 +20042,7 @@ MA-L,AC00F9,BizLink Technology (S.E.A) Sdn. Bhd.,"No.5097, Tingkat Mak Mandin 4,
 MA-L,681A7C,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,401482,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,6828CF,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,90395F,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -26743,6 +26747,9 @@ MA-L,348818,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,0036D7,Keltron IOT Corp.,1110 Beaumont Rd Roanoke VA US 24019 
 MA-L,2C3EBF,"HOSIN Global Electronics Co., Ltd.","Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000 "
 MA-L,40D563,HANA Electronics,"Av. Abiurana, 450 Manaus Amazonas BR 69075-010 "
+MA-L,F02178,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
+MA-L,5091E3,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
+MA-L,98CCF3,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
