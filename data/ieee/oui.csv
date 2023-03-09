@@ -6710,8 +6710,14 @@ MA-L,908855,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,687161,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,E0A129,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
 MA-L,28EC22,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,0016F6,Network Electronics,1600 Emerson Avenue Oxnard California US 93033 
 MA-L,B0D888,"Panasonic Automotive Systems Co.,Ltd",5652 Matsumoto City Nagano JP 399-8730 
+MA-L,40B7FC,Phyplus Microelectronics Limited,304 Building 1 No.608 Sheng Xia Road Shanghai  CN 200000 
+MA-L,682C4F,leerang corporation,"#101,69, Jongam-ro 28-gil, Seongbuk-gu seoul  KR 02797 "
+MA-L,FC59C0,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,641B2F,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,9C73B1,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,388A06,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,0016F6,Nevion,Lysaker Torg 5  Lysaker  NO NO-1366 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -13348,7 +13354,12 @@ MA-L,E4B224,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,A83ED3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E44519,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
 MA-L,807677,"hangzhou puwell cloud tech co., ltd.",1405 Chuling Data Mansion Wulianwang street 259 Hangzhou Zhejiang CN 315000 
-MA-L,000D39,VPG Now Nevion,Box 1020 Sandefjord Sandefjord NO N3204 
+MA-L,4C12E8,VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY,"High Tech Industrial Zone I, Hoa Lac High Tech Park, Ha Bang Commune Ha Noi Thach That VN 100000 "
+MA-L,2002FE,"Hangzhou Dangbei Network Technology Co., Ltd","Floor 2, Block C, Wanfu Center, 228 Binkang Road, Binjiang District, Hangzhou zhejiang CN 310051 "
+MA-L,74272C,"Advanced Micro Devices, Inc.",7171 Southwest Pkwy Austin TX US 78735 
+MA-L,F42B8C,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,9404E3,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6  Lawrenceville  GA US 30044 
+MA-L,000D39,Nevion,Lysaker Torg 5  Lysaker  NO NO-1366 
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -20055,6 +20066,8 @@ MA-L,5412CB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,98FBF5,ATRALTECH,Rue du pré de l'Horme  Crolles   FR 38920 
 MA-L,00181C,VITEC,"St Davids House, St Davids Drive Dalgety Bay Fife GB KY11 9NB "
 MA-L,74D7CA,"Panasonic Automotive Systems Co.,Ltd",5652 Matsumoto City Nagano JP 399-8730 
+MA-L,800794,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,F43C3B,HUNAN FN-LINK TECHNOLOGY LIMITED,"No.8, Litong Road, Liuyan Economic & Tec Changsha HUNAN CN 410329 "
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -24694,7 +24707,6 @@ MA-L,0050A0,"DELTA COMPUTER SYSTEMS, INC.",11719 NE 95TH STREET - STE. VANCOUVER
 MA-L,005066,AtecoM GmbH advanced telecomunication modules,KAISERSTR. 100 D-52134 HERZOGENRATH  DE  
 MA-L,005059,iBAHN,10757 S. River Front Parkway South Jordan UT US 84095 
 MA-L,0050D9,ENGETRON-ENGENHARIA ELETRONICA IND. e COM. LTDA,"VIA SOCRATES M. BITTENCOURT, 1099 32010-010 Contagem MG  BR  "
-MA-L,005001,YAMASHITA SYSTEMS CORP.,5-7-12 IKEGAMI OTA-KU TOKYO  JP  
 MA-L,005067,"AEROCOMM, INC.",13256 W. 98TH STREET LENEXA KS US 66215 
 MA-L,0050B6,"GOOD WAY IND. CO., LTD.","5F, NO.8, ALLEY 6,  TAIWAN TW R.O.C. "
 MA-L,00504B,BARCONET N.V.,LUIPAARDSTRAAT 12   BE  
@@ -26763,7 +26775,14 @@ MA-L,348818,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,98CCF3,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,9CFB77,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,643E0A,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,001457,Nevion,Ostensjoveien 18 Oslo  NO NO-0661 
+MA-L,6CEEF7,"shenzhen scodeno technology co., Ltd.","2F, Building 6,Silicon Valley Power Digital Park, 
+Dafu Road, Guanlan, Longhua District,Shenzhen shenzhen Guangdong CN 518110 "
+MA-L,B440DC,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,6417CD,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,DC69E2,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,C05064,"SHENNAN CIRCUITS CO.,LTD","Gao Qiao Industrial Park East,Long Gang District, Shenzhen Guangdong CN 518117 "
+MA-L,001457,Nevion,Lysaker Torg 5  Lysaker  NO NO-1366 
+MA-L,005001,YAMASHITA SYSTEMS CORP.,4-8-10 HIGASHISHINAGAWA SHINAGAWA-KU  JP 140-0002 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -33456,3 +33475,5 @@ MA-L,34D4E3,"Atom Power, Inc.","13245 Reese Blvd W
 Suite 130 Huntersville NC US 28078 "
 MA-L,F8C4AE,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,C4A816,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,34F043,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,4C66A6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
