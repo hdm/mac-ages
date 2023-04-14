@@ -938,7 +938,6 @@ MA-M,7C70BC0,Shanghai magcomm communication technology co ltd,"B Block,11F,Softw
 MA-M,141FBA4,BYZERO,1222 Doosan Venture Digm Anyang-si Gyeonggi-do KR 431-755 
 MA-M,D076504,Private,
 MA-M,BC34003,Altronix Corporation,140 58th street  Brooklyn NY US 11220 
-MA-M,BC34000,Redvision CCTV,17 Highview Bordon Hampshire GB GU35 0AX 
 MA-M,D076508,Accumulate AB,Lästmakargatan 20  Stockholm SE 111 44 
 MA-M,A43BFA6,Recognition Systems LLC,2380 Owen Street Santa Clara CA US 95054 
 MA-M,A43BFA7,Deatronic srl,Via Giulianello 1/7 ROMA  IT 00178 
@@ -958,6 +957,8 @@ MA-M,BC31985,"Hunan Gukam Railway Equipment Co.,Ltd","Room603, Building E4, Yunl
 MA-M,BC3198B,"Suzhou Anchi Control system.,Co.Ltd","Building 7, Industrial Park, No.38 North Guandu Road, Wuzhong District, Suzhou Suzhou  CN 320500 "
 MA-M,BC3198E,RADAR," 15150 Avenue of Science, suite 200 San Diego CA US 92128 "
 MA-M,C86BBC6,Drowsy Digital Inc,1 COOK ST WESTBOROUGH MA US 01581 
+MA-M,BC34000,Redvision CCTV,"Alpha House, Blacknest Road, Blacknest Alton Hampshire GB GU34 4PX "
+MA-M,C86BBC9,Osee Technology LTD.,"No.22 Building, No.68 zone, Beiqing Road, Haidian District Beijing Beijing CN 100094 "
 MA-M,B44D436,"Spot AI, Inc.",1350 Old Bayshore Hwy #920 Burlingame CA US 94010 
 MA-M,B44D43D,"Shenzhen CreatLentem Technology Co.,Ltd","Building 5A, Shenzhen Bay Eco- Technology Park, Yuehai Street, Nanshan District, Shenzhen Shenzhen  CN 518000 "
 MA-M,B44D434,ALL.SPACE Networks Ltd,"NOW Building, Thames Valley Park Drive, Reading, Berkshire, RG6 1RB Reading Berkshire GB RG6 1RB "
@@ -1861,6 +1862,10 @@ MA-M,B0FF728,ERA RF Technologies,1 Teknopark Blvd. 9A 202 Pendik Istanbul TR 349
 MA-M,C86BBCB,"HAI ROBOTICS Co.,Ltd.","Business Registration Addres:Room 201,301,401,Building B,Anluo Technology Industrial Park,Nanchang Community,Xixiang Street,Bao`an District Shenzhen Guangdong CN 518000 "
 MA-M,BC3198D,"Shanghai Sigen New Energy Technology Co., Ltd","Room 514 The 5th Floor, No.175 Weizhan Road China (Shanghai) Plilot Free Trade Zone Shanghai  CN 201306 "
 MA-M,C86BBC0,SafelyYou,36 Clyde St San Francisco CA US 94107 
+MA-M,58C41E9,"ShenZhen Heng Yue Industry Co.,Ltd","206A,Building 30,Nan Tou Gate 2nd Road, 
+ 
+Wisdomland Business Park,NanShan District,ShenZhen P.R.C
+ ShenZhen GuangDong CN 518000 "
 MA-M,6C2ADFE,"WeatherFlow-Tempest, Inc",108 Whispering Pine Dr#245 Scotts Valley CA US 95066 
 MA-M,C0FBF91,LIXIL Corporation,"Osaki Garden Tower, 1-1 Nishi-Shinagawa 1-chome, Shinagawa-ku Tokyo  JP 141-0033 "
 MA-M,B44D433,"ETSME Technologies C0., Ltd.","17/F,Building A,No1190,BinAn Road,Binjiang District Hangzhou Zhejiang CN 310056 "
@@ -2854,8 +2859,10 @@ MA-M,BC31980,"THINKCAR TECH CO.,LTD.","2606,Building 4, Phase ll, Tianan Yungu, 
 MA-M,BC31987,"Zhejiang Delixi Electric Appliance Co., Ltd","Delixi Hutou Industrial Park (joint-stock company), No. 155 Zhandong Road, Dianhou Village, Liushi Town, Yueqing City, Wenzhou City Wenzhou Zhejiang CN 325088 "
 MA-M,BC31982,JSC Megapolis-telecom region,"Dekabrkih sobitiy, 100 Irkutsk  RU 664007 "
 MA-M,C86BBC4,"Liuzhou Zuo You Trade Co., Ltd.","Unit 1004, Unit 4, Building 1, Tsui Yin Kai Court, 234 Tung Wan Road, Tuen Mun, new Liuzhou liuzhou guangxi CN 545001 "
-MA-M,C86BBC3,Antevia Networks,8618 Commerce Court Burnaby BC CA V5A4N6 
 MA-M,C86BBCC,ZEUS,"132, Annyeongnam-ro Hwaseong Gyeonggi KR 18363 "
+MA-M,C86BBC3,Antevia Networks,8618 Commerce Court Burnaby BC CA V5A4N6 
+MA-M,C86BBC7,"Shenzhen smart-core technology co.,ltd.","19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China Shenzhen Guangdong CN 518057 "
+MA-M,C86BBCE,Waterkotte GmbH,Gewerkenstr. 15 Herne  DE 44628 
 MA-M,B44D435,halstrup-walcher GmbH,Stegener Straße 10 Kirchzarten  DE 79199 
 MA-M,B44D437,SERNET (SUZHOU) TECHNOLOGIES CORPORATION,"NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China Suzhou  CN 215021 "
 MA-M,90F4214,Sansap Technology Pvt. Ltd.,"F424, Sector-63 NOIDA UP IN 201301 "
@@ -3802,10 +3809,10 @@ MA-M,BC31984,"Chongqing e-skybest ELECT CO.,LIMITED","Second Floor, building No.
 MA-M,8C476E7,"Syng, Inc.",120 Mildred Ave. Venice CA US 90291 
 MA-M,BC31986,ntc mekhanotronnika,"Pionerstroya str., build 23a Saint-Petersburg Select State RU 198206 "
 MA-M,BC31988,"Temposonics,LLC",3001 Sheldon Drive Cary NC US 27513 
-MA-M,C86BBC8,"Sinsegye Beijing Technology Co., Ltd","1801, Building 6, Zone 4, Wangjing Dongyuan, Chaoyang District, Beijing  Beijing  CN 100102 "
 MA-M,D09FD93,GS Yuasa International Ltd.,677 Shimoakasaka-Ohnohara Kawagoe-Shi Saitama JP 350-1155 
 MA-M,C86BBC1,"WeLink Solutions, Inc.","4F., No. 55, Lane 6, Chenglin Rd., Tucheng Dist., New Taipei City Taiwan TW 23677 "
 MA-M,C86BBC5,"Shenzhen Hebang Electronic Co., Ltd","2nd Floor West, Bldg B, Kelunte Low Carbon Industry Park, Huarong Road, Dalang, Longhua District Shenzhen  CN 518000 "
+MA-M,C86BBC8,"Sinsegye Beijing Technology Co., Ltd","1801, Building 6, Zone 4, Wangjing Dongyuan, Chaoyang District, Beijing  Beijing  CN 100102 "
 MA-M,80E4DAF,Private,
 MA-M,6C2ADF2,"DAIKO ELECTRIC CO.,LTD",3-2-7 Koraibashi Chuo-ku Osaka-shi Osaka-fu JP 541-0043 
 MA-M,FC61791,"Signalinks Communication Technology Co., Ltd","3rd Floor, Building 6, Longxing Sciece park, East Huaning Road, Dalang Street , Longhua District, Shenzhen Shenzhen Guangdong CN 518000 "
@@ -4770,3 +4777,4 @@ MA-M,B0FF72C,"Hopewheel info.Co.,Ltd.","Jinnovation Park, Jiancaicheng Road, Hai
 MA-M,BC31981,swiss-sonic Ultraschall AG,Semoosholzsstrasse 14 Arbon  CH 9320 
 MA-M,C86BBCD,"SCANTECH(HANGZHOU)CO.,LTD","Building 12, No.998, Wenyi West Road, Yuhang District, Hangzhou, Zhejiang. Hangzhou Zhejiang CN 330100 "
 MA-M,C86BBCA,Alpha Bridge Technologies Private Limited,"T5-1001, Parsvnath Green Ville, Sector 48 , Sohna Road  Gurgaon Haryana IN 122018 "
+MA-M,C86BBC2,Vipaks + Ltd,"Mytnaya St, 40, building 4, ap. 135 Moscow Yakimanka municipal district RU 115162 "
