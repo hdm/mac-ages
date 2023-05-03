@@ -26,7 +26,6 @@ MA-M,E03C1CA,MELAG Medizintechnik GmbH & Co. KG,Geneststraße 6-10 Berlin Berlin
 MA-M,D016F00,"Shenzhen Lesingle Technology CO., LTD.","First Floor,Te’an Building, No.15 Kejibei Second Road, Nanshan District Shenzhen  CN Guangdong "
 MA-M,D016F0C,Peralex Electronics (Pty) Ltd,"5 Dreyersdal Road, Unit C, Conberg House Bergvliet Western Cape ZA 7945 "
 MA-M,E03C1C8,"Jiangsu Riying Electronics Co.,Ltd.","Hengshanqiao,Changzhou,Jiangsu,China Changzhou  CN 213119 "
-MA-M,D016F0E,BBPOS International Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,E81863F,Private,
 MA-M,B0C5CAF,Private,
 MA-M,3C39E7F,Private,
@@ -786,7 +785,6 @@ MA-M,C47C8DC,INOTEC Sicherheitstechnik GmbH,Am Buschgarten 17 Ense NRW DE 59469
 MA-M,C47C8D5,"PASCAL Co., Ltd.","1-8-31, Honjo-Nishi Higashiosaka Osaka-hu JP 5780965 "
 MA-M,CCD31EA,Haishu Technology LIMITED,Jiulong Midun street No.89 Hongkong  HK 999077 
 MA-M,6891D0B,Altis Technology ,"711 Lu Plaza, 2 Wing Yip Street, Kwun Tong Hong Kong  HK 0000 "
-MA-M,CCD31E6,BBPOS International Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,C47C8D6,"HHCC Plant Technology Co.,Ltd.","Floor 12,A build ,Shuguang Plaza, Jingshun road, Chaoyang district Beijing Beijing CN 100028 "
 MA-M,CCD31EB,Elk Products,3266 Highway 70 West Hildebran NC US 28637 
 MA-M,6891D07,Omniimpex GmbH,Waldhof 5 Zug Zug CH 6300 
@@ -963,6 +961,8 @@ MA-M,58C41EC,"PQTEL Network Technology Co. , Ltd.","No. 207, Building A4, Lugu E
 MA-M,58C41ED,Munich Electrification GmbH, Landaubogen 1 Munich  DE 81373 
 MA-M,68DA73A,"Shenzhen Haiyingzhilian Industrial Co., Ltd.",2-5/F? #8FactoryBld?Yu'an Factory Area ?LongchengIndustryPark?Gao feng Community ?Dalang Street ?LonghuaDisrict Shenzhen Guangdong CN 518000 
 MA-M,68DA739,"Nadex Machinery(Shanghai) Co.,Ltd",No. 815 Shen Fu Road Xinzhuang Industry Park Shanghai  CN 201108 
+MA-M,CCD31E6,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
+MA-M,D016F0E,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,B44D436,"Spot AI, Inc.",1350 Old Bayshore Hwy #920 Burlingame CA US 94010 
 MA-M,B44D43D,"Shenzhen CreatLentem Technology Co.,Ltd","Building 5A, Shenzhen Bay Eco- Technology Park, Yuehai Street, Nanshan District, Shenzhen Shenzhen  CN 518000 "
 MA-M,B44D434,ALL.SPACE Networks Ltd,"NOW Building, Thames Valley Park Drive, Reading, Berkshire, RG6 1RB Reading Berkshire GB RG6 1RB "
@@ -1876,6 +1876,7 @@ MA-M,58C41E3,Lemco IKE,Latheas 46 Acharnes Athens Attiki GR 13678
 MA-M,68DA731,DTEN Inc.,"97 E Brokaw Rd, Ste 180 San Jose CA US 95112-1032____ "
 MA-M,68DA736,"Global Networks ZEN-EI Co., Ltd","Yurakucho Denki Bldg, South Wing 17F Tokyo  JP 100-0006 "
 MA-M,68DA734,Agramkow A/S,Augustenborg Landevej 19 Sønderborg  DK 6400 
+MA-M,68DA73E,Synamedia,"One London Rd, Staines TW18 4EX Staines Staines GB TW184EX "
 MA-M,6C2ADFE,"WeatherFlow-Tempest, Inc",108 Whispering Pine Dr#245 Scotts Valley CA US 95066 
 MA-M,C0FBF91,LIXIL Corporation,"Osaki Garden Tower, 1-1 Nishi-Shinagawa 1-chome, Shinagawa-ku Tokyo  JP 141-0033 "
 MA-M,B44D433,"ETSME Technologies C0., Ltd.","17/F,Building A,No1190,BinAn Road,Binjiang District Hangzhou Zhejiang CN 310056 "
@@ -4070,7 +4071,6 @@ MA-M,1874E27,"Sansec Technology Co.,Ltd",Bejing Chaoyang District Guangshun Nort
 MA-M,C0FBF94,Minato Advanced Technologies inc,"4105, Minami Yamata-cho, Tsuzuki-ku, YOKOHAMA Kanagawa JP 224-0026 "
 MA-M,C0FBF97," LongSung Technology (Shanghai) Co.,Ltd.   "," Room 606, Block B, Bldg. 1, No. 3000 Longdong Avenue., Zhangjiang Hi-Tech Park, Pudong District ShangHai  CN 201203 "
 MA-M,C8F5D6E,HEITEC AG,Güterbahnhofstrasse 5 Erlangen Please select state DE 91052 
-MA-M,C8F5D63,BBPOS International Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,C8F5D6A,"HENAN FOXSTAR DIGITAL DISPLAY Co.,Ltd.","No. 7 Bldg., Yulong Block, Longsheng Road, Optronic Industry Area, Nanyang,Henan,P.R.China Nanyang  CN 473000 "
 MA-M,C8F5D60,MEIRYO TECHNICA CORPORATION,"2039-1,Shimoi, Shimoi-cho Owariasahi-city Aichi JP 488-0052 "
 MA-M,88C9B36,Hugo Techno,F92 Green Park New Delhi Delhi IN 110016 
@@ -4273,7 +4273,6 @@ MA-M,04D16EA,Metra Electronics,460 Walker Street Holly Hill FL US 32117
 MA-M,54A493C,"BJ COTYTECH TECHNOLOGY CO.,LTD","Rm2302,Block B,Haojing Building,Zhichun Road,Haidian District BeiJing BeiJing CN 100086 "
 MA-M,04D16E0,"INTRIPLE, a.s.",K Zelenci 2957/5 Praha 9 - Horni Pocernice  CZ 193 00 
 MA-M,10DCB6B,Eyeball Fintech Company,"Rm. 545, 5F., No. 19-11, Sanchong Rd., Nangang Dist. Taipei City Taiwan TW 11501 "
-MA-M,10DCB6C,BBPOS International Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,10DCB6D,LeoLabs,Jankowicka 51 Rybnik  PL 44-218 
 MA-M,10DCB63,HANACNS ,"42-11, Taejanggongdan-gil, Wonju-si Gangwon-do  KR 26311 "
 MA-M,4C4BF99,Tecnoplus Srl,"Via Cilavegna, 53 Gravellona Lomellina Pavia IT 27020 "
@@ -4806,3 +4805,5 @@ MA-M,68DA73B,Gamber-Johnson LLC,5001 Joerns Dr Stevens Point WI US 54481
 MA-M,68DA73C,Delta Surge Inc.,3230 Osgood Common Fremont CA US 94539 
 MA-M,68DA738,STEL FIBER ELECTRONICS INDIA PRIVATE LIMITED,"H.NO.10-2/14, PLOT NO. 14/PART, BHARATH NAGAR,R.L.NAGAR,, RAMPALLY,KEESARA, Telangana, 501301 hyderabad  IN 501301 "
 MA-M,68DA732,"SHENZHEN ALLDOCUBE SCIENCE AND TECHNOLOGY CO., LTD.","1 Floor, A building,3rd factory,Yujianfeng lndusrty park,289# Huafan Road,Tongsheng community,Dalang,Longhua District, shenzhen Guangdong CN 518100 "
+MA-M,10DCB6C,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
+MA-M,C8F5D63,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
