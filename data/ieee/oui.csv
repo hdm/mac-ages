@@ -6783,16 +6783,16 @@ MA-L,48F7C0,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30
 MA-L,AC4CA5,Vantiva USA LLC,"4855 Peachtree Industrial Blvd, Suite 20 Norcross GA US 30902 "
 MA-L,00CB7A,Vantiva USA LLC,"4855 Peachtree Industrial Blvd, Suite 20 Norcross GA US 30902 "
 MA-L,641236,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
-MA-L,E87072,"Hangzhou BroadLink Technology Co.,Ltd","Room 101,1/F,Unit C,Building 1,No.57 Jiang'er Road,Changhe Street,Binjiang District,Hangzhou,Zhejiang,P.R.China Hangzhou Zhejiang CN 310052 "
-MA-L,307A57,Accuenergy (CANADA) Inc,22 Howden Road Toronto Ontario CA M1R 3E4 
 MA-L,203AEB,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,5876B3,"Ubee Interactive Co., Limited","Flat/RM 1202, 12/F, AT Tower, 180 Electric Road North Point  HK 00000 "
-MA-L,58AD12,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,60FDA6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,E87072,"Hangzhou BroadLink Technology Co.,Ltd","Room 101,1/F,Unit C,Building 1,No.57 Jiang'er Road,Changhe Street,Binjiang District,Hangzhou,Zhejiang,P.R.China Hangzhou Zhejiang CN 310052 "
+MA-L,307A57,Accuenergy (CANADA) Inc,22 Howden Road Toronto Ontario CA M1R 3E4 
 MA-L,80A997,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,348C5E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F0EE7A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,481BA4,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,60FDA6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,58AD12,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,34ECB6,Phyplus Microelectronics Limited,304 Building 1 No.608 Sheng Xia Road Shanghai  CN 200000 
 MA-L,807677,"hangzhou puwell cloud tech co., ltd.",1405 Chuling Data Mansion Wulianwang street 259 Hangzhou Zhejiang CN 315000 
 MA-L,E44519,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
@@ -13492,17 +13492,20 @@ MA-L,989D5D,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 3
 MA-L,484BD4,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6  Lawrenceville  GA US 30044 
 MA-L,880CE0,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,6CA367,Avlinkpro,380 US Highway 46 Totowa NJ US 07512 
-MA-L,64E4A5,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
+MA-L,888187,"Umeox Innovations Co.,Ltd","Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000 "
+MA-L,6C6E07,CE LINK LIMITED,"2/F, Building G, Licheng Tech. Ind. Zone Shenzhen Guangdong CN 518104 "
+MA-L,988F00,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,B8FC28,Valeo Vision Systems,Dunmore Road Tuam Co. Galway IE H54 Y276 
 MA-L,D40F9E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,980DAF,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,DC6DBC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,64E4A5,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
 MA-L,A4D23E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,30E04F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,888187,"Umeox Innovations Co.,Ltd","Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000 "
-MA-L,0020FC,Matrox Central Services Inc,1055 ST. REGIS DORVAL QUEBEC CA H9P-2T4 
-MA-L,988F00,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,B8FC28,Valeo Vision Systems,Dunmore Road Tuam Co. Galway IE H54 Y276 
 MA-L,50482C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,0020FC,Matrox Central Services Inc,1055 ST. REGIS DORVAL QUEBEC CA H9P-2T4 
+MA-L,6C6286,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,2C459A,Dixon Technologies (India) Limited,B 14-15 Phase 2 NOIDA GautamBudh Nagar Uttarpradesh IN 201305 
 MA-L,301D49,Firmus Technologies Pty Ltd,23 Killafaddy Rd St Leonards TAS AU 7250 
 MA-L,800794,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F43C3B,HUNAN FN-LINK TECHNOLOGY LIMITED,"No.8, Litong Road, Liuyan Economic & Tec Changsha HUNAN CN 410329 "
@@ -20265,13 +20268,14 @@ MA-L,5C22DA,Vantiva USA LLC,"4855 Peachtree Industrial Blvd, Suite 20 Norcross G
 MA-L,D05A00,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30044 
 MA-L,B8C065,"Universal Electronics, Inc.",201 E Sandpointe Ave SANTA ANA CA US 927075778 
 MA-L,00651E,Amcrest Technologies,16727 Park Row Houston TX US 77084 
-MA-L,94F929,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,2091DF,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,A89C78,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,7C6130,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,80B989,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C4524F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,94F929,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,603E5F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,C07C90,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,2C3EBF,"HOSIN Global Electronics Co., Ltd.","Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000 "
 MA-L,40D563,HANA Electronics,"Av. Abiurana, 450 Manaus Amazonas BR 69075-010 "
 MA-L,005001,YAMASHITA SYSTEMS CORP.,4-8-10 HIGASHISHINAGAWA SHINAGAWA-KU  JP 140-0002 
@@ -27053,10 +27057,11 @@ MA-L,88F7C7,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30
 MA-L,9CF86B,AgiTech Distribution Limited - Linki,"Unit F, 11/F, CNT Tower, 338 Hennessy Road, Wan Chai Hong Kong Hong Kong HK 999077 "
 MA-L,1071FA,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,78465C,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,4C62CD,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,D0DD7C,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,843C99,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,F8E5CE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,68E59E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,F8E5CE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,0C8772,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,DC8D91,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
 MA-L,409A30,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
@@ -33807,7 +33812,8 @@ MA-L,407912,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,58A15F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,CC1AA3,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,10CABF,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,583653,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,84D328,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,687909,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,E4A41C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,583653,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,84D328,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,C8A6EF,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
