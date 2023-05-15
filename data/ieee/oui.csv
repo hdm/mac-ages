@@ -4985,7 +4985,6 @@ MA-L,0019F9,TDK-Lambda,405 Essex Road Neptune NJ US 07753
 MA-L,0019F2,Teradyne K.K.,"272-13, Heisei, Takaono Kikuchi-gun Kumamoto JP 869-1232 "
 MA-L,0019DE,MOBITEK,"5F,No.60,Lane 321,Yang-Kwang Street Taipei  US 114 "
 MA-L,00198D,"Ocean Optics, Inc.",830 Douglas Ave Dunedin FL US 34698 
-MA-L,001982,SmarDTV,Route de Genève 22 Cheseaux  CH CH-1033  
 MA-L,001985,"IT Watchdogs, Inc","12885 Research, Suite 210B Austin TX US 78750 "
 MA-L,001986,Cheng Hongjian,"Rm.2305B.Sege Plaza,Huaqiang North Rd., Shenzhen Guangdong US 518057 "
 MA-L,0019E5,"Lynx Studio Technology, Inc.",1540 Barton Rd # 268 Redlands CA US 92373 
@@ -6799,6 +6798,8 @@ MA-L,B4C2E0,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuan
 MA-L,0C01C8,"DENSO Co.,Ltd","Twin21 MIDTower(24th floor),2-1-61 Shiromi,Chuo-ku,Osaka-shi Osaka JP 540-6124 "
 MA-L,040986,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,F42E48,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,7478A6,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
+MA-L,001982,SmarDTV Corporation,147 Avenue du Jujubier ZI Athelia IV La Ciotat CH 13600 
 MA-L,34ECB6,Phyplus Microelectronics Limited,304 Building 1 No.608 Sheng Xia Road Shanghai  CN 200000 
 MA-L,807677,"hangzhou puwell cloud tech co., ltd.",1405 Chuling Data Mansion Wulianwang street 259 Hangzhou Zhejiang CN 315000 
 MA-L,E44519,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
@@ -13521,6 +13522,8 @@ MA-L,0CAE5F,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701
 MA-L,2C459A,Dixon Technologies (India) Limited,B 14-15 Phase 2 NOIDA GautamBudh Nagar Uttarpradesh IN 201305 
 MA-L,D0484F,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,BC8529,"Jiangxi Remote lntelligence Technology Co.,Ltd","No. 1, Chemical Avenue, Guixi335400, Yingtan, Jiangxi Yingtan Jiangxi  CN 360600 "
+MA-L,74C530,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,18A788,Shenzhen MEK Intellisys Pte Ltd,"Room 6C, 6th Floor, KeChuang Mansion, Quanzhi Technology Park, HouTing, Shajing Town, BaoAn District Shenzhen GuangDong CN 518104 "
 MA-L,301D49,Firmus Technologies Pty Ltd,23 Killafaddy Rd St Leonards TAS AU 7250 
 MA-L,800794,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F43C3B,HUNAN FN-LINK TECHNOLOGY LIMITED,"No.8, Litong Road, Liuyan Economic & Tec Changsha HUNAN CN 410329 "
@@ -20290,13 +20293,14 @@ MA-L,C4524F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,94F929,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,603E5F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C07C90,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
-MA-L,003969,Air-Weigh Incorporated,1720 Willow Creek Circle Eugene OR US 97402 
-MA-L,00E63A,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,848687,weiyuantechnology,"Room 111, Floor 1, Building 8, No. 48, Jiubao Street, Shangcheng District Hangzhou City  CN 310000 "
 MA-L,000CEC,Safran Trusted 4D Inc.,45 Becker Road  Suite A West Henrietta NY US 14586 
 MA-L,58D312,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,D8097F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,38F6ED,EVK DI Kerschhaggl GmbH,Josef Krainer Str. 35 Graz Styria AT A8074 
 MA-L,3C2D9E,Vantiva - Connected Home,"4855 Peachtree Industrial Blvd, #200 Norcross GA US 30092 "
+MA-L,003969,Air-Weigh Incorporated,1720 Willow Creek Circle Eugene OR US 97402 
+MA-L,00E63A,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,2C3EBF,"HOSIN Global Electronics Co., Ltd.","Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000 "
 MA-L,40D563,HANA Electronics,"Av. Abiurana, 450 Manaus Amazonas BR 69075-010 "
 MA-L,005001,YAMASHITA SYSTEMS CORP.,4-8-10 HIGASHISHINAGAWA SHINAGAWA-KU  JP 140-0002 
@@ -27086,6 +27090,8 @@ MA-L,98DA92,Vuzix Corporation,25 Hendrix Rd West Henrietta NY US 14586
 MA-L,000CC8,"Xytronix Research & Design, Inc.",1681 West 2960 South Nibley UT US 84321 
 MA-L,14C050,"GUANGDONG GENIUS TECHNOLOGY CO., LTD.","No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851 "
 MA-L,441A4C,"xFusion Digital Technologies Co.,Ltd.","9th Floor, Building 1, Zensun Boya Square, Longzihu Wisdom Island, Zhendong New District Zhengzhou Henan CN 450000 "
+MA-L,B04FA6,DongGuan Ramaxel Memory Technology,"No.32, Industrial East Road,Innovation Park, High-tech Industrial Development Zone, Songshan Lake, Dongguan City, Guangdong Province,China DongGuan Guangdong CN 523808 "
+MA-L,4C9992,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,0C8772,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,DC8D91,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
 MA-L,409A30,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
@@ -29037,7 +29043,6 @@ MA-L,001EB0,ImesD Electronica S.L.,d'Entença 81 Barcelona  ES 08015
 MA-L,3C427E,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,001525,Chamberlain Access Solutions,8271 E. Gelding Drive Scottsdale AZ US 85260 
 MA-L,386E88,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
-MA-L,B01886,SmarDTV,Route de Genève 22 Cheseaux  CH CH-1033  
 MA-L,0080B6,"Mercury Systems – Trusted Mission Solutions, Inc. ",6681 OWENS DRIVE PLEASONTON CA US 94588 
 MA-L,08512E,Orion Diagnostica Oy,Koivu-Mankkaan tie 6 Espoo  FI 02100 
 MA-L,98A404,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
@@ -33844,3 +33849,4 @@ MA-L,C8A6EF,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon 
 MA-L,5CE931,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,E0DF13,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
 MA-L,A42249,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,B01886,SmarDTV Corporation,147 Avenue du Jujubier ZI Athelia IV La Ciotat CH 13600 
