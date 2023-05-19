@@ -1100,8 +1100,8 @@ MA-S,8C1F64362,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Pat
 MA-S,8C1F64383,Tristate Electronic Mfg,"91 Western Maryland Pkwy, Ste 5 Hagerstown MD US 21740 "
 MA-S,8C1F64AD8,Novanta IMS,370 North Main St Marlborough  CT US 06447 
 MA-S,8C1F6448F,Mecos AG,Hardstrasse 319 Zürich ZH CH 8005 
-MA-S,8C1F64D93,Algodue Elettronica Srl,"Via P. Gobetti, 16F Maggiora NO IT 28014 "
 MA-S,8C1F64899,American Edge IP,7509 NW 36th St Miami FL US 33166 
+MA-S,8C1F64D93,Algodue Elettronica Srl,"Via P. Gobetti, 16F Maggiora NO IT 28014 "
 MA-S,8C1F64E23,Chemito Infotech PVT LTD,d1/27 ambad nashik Nashik MAHARASHTRA IN 422010 
 MA-S,8C1F64ECC,Baldwin Jimek AB,Testvägen 16 Arlöv  SE 232 37 
 MA-S,8C1F6414D,Vertesz Elektronika Kft.,Nagytetenyi ut 169. Budapest  HU 1225 
@@ -1795,7 +1795,6 @@ MA-S,70B3D5A35,Sicon srl,Via Sila 1/3 Isola Vicentina Vicenza IT 36033
 MA-S,70B3D56E7,AML,2190 Regal Parkway Euless TX US 76040 
 MA-S,70B3D5631,SENSO2ME ,Zandhoef  16 KASTERLEE België BE 2460 
 MA-S,70B3D55D8,LYNX Technik AG,Brunnenweg 3 Weiterstadt Hessen DE 64331 
-MA-S,70B3D5C1D,Kranze Technology Solutions,742 Pinecrest Dr Prospect Heights IL US 60070 
 MA-S,70B3D508D,"Clover Electronics Technology Co., Ltd.","505 room, No.6-18 building, XinHe road, Shajing town, Baoan district SHENZHEN GUANGDONG CN 518000 "
 MA-S,70B3D5ED1,Przemyslowy Instytut Automatyki i Pomiarow,Al. Jerozolimskie 202 Warszawa Mazowieckie PL 02-486 
 MA-S,70B3D5E57,Iradimed,1025 Willa Springs Dr. Winter Springs FL US 32708-____ 
@@ -2207,6 +2206,7 @@ MA-S,8C1F64677,FREY S.J.,Wo?odyjowskiego 38 Piaseczno  PL 05-502
 MA-S,8C1F6462C,"Hangzhou EasyXR Advanced Technology Co., Ltd.","C6, Qianjiang Century Park, Guanlan Road, Xiaoshan District, Hangzhou, Zhejiang Hangzhou Zhejiang CN 310000 "
 MA-S,8C1F64898,Copper Connections Ltd,"B-221, Okhla Industrial Area
 Phase - 1, New Delhi - 110020, India New Delhi Delhi IN 110020 "
+MA-S,70B3D5C1D,"Kranze Technology Solutions, Inc.",1794 Winthrop Dr. Des Plaines IL US 60018 
 MA-S,8C1F644D9,SECURICO ELECTRONICS INDIA LTD,"Plot No.4, 14/3, Mathura Road Faridabad  Haryana IN 121003 "
 MA-S,8C1F649F5,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
 MA-S,8C1F642D0,Cambridge Research Systems Ltd,"80 Riverside
@@ -3303,10 +3303,10 @@ MA-S,8C1F64AAA,Leder Elektronik Design GmbH,"Krügerstraße 5
  Mannheim BW DE 68219 "
 MA-S,8C1F64358,Denso Manufacturing Tennessee,1720 ROBERT C. JACKSON DRIVE Maryville TN US 37801 
 MA-S,8C1F64797,Alban Giacomo S.p.a.,"Via Alcide De Gasperi, 75 Romano d'Ezzelino Vicenza IT 36060 "
-MA-S,8C1F64E75,Stercom Power Soltions GmbH,Ziegelstrasse 1 Weyarn  DE 83629 
-MA-S,8C1F64334,OutdoorLink,3058 Leeman Ferry Rd Huntsville AL US 35801 
 MA-S,8C1F64148,CAREHAWK,"780 WILSON AVENUE
 UNIT A1 Kitchener  ON CA N2C 0B8 "
+MA-S,8C1F64E75,Stercom Power Soltions GmbH,Ziegelstrasse 1 Weyarn  DE 83629 
+MA-S,8C1F64334,OutdoorLink,3058 Leeman Ferry Rd Huntsville AL US 35801 
 MA-S,8C1F640FE,Indra Heera Technology LLP,"Narayan Colony, Old Police Line, Arrah Bhojpur Bihar IN 802301 "
 MA-S,8C1F64C42,SD OPTICS,"4F, 9 Gangnam-daero 27-gil Seoul Seocho-gu KR 06752 "
 MA-S,8C1F640A4,"Dynamic Research, Inc.","355 Van Ness Ave
@@ -5495,5 +5495,5 @@ MA-S,8C1F64C0D,Abbott Diagnostics Technologies AS,P. O.  Box 6863 Rodeløkka Osl
 MA-S,8C1F64B68,All-Systems Electronics Pty Ltd,16 Hope Street SEVEN HILLS New South Wales AU 2147 
 MA-S,8C1F64C4A,SGi Technology Group Ltd.,2883 Portland Drive Oakville ON CA L6H 5S4 
 MA-S,8C1F648B8,Wien Energie GmbH,Thomas-Klestil-Platz 14 Vienna  AT 1030 
-MA-S,8C1F64476,Clair Global Corporation,1 Ellen Avenue Lititz PA US 17543 
 MA-S,8C1F640CA,CLOUD TELECOM Inc.,"6F HAT Building,11-8, Nihonbashiodenma-cho  Chuo-ku Tokyo JP 1030011 "
+MA-S,8C1F64476,Clair Global Corporation,1 Ellen Avenue Lititz PA US 17543 
