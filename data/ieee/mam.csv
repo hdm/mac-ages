@@ -966,6 +966,7 @@ MA-M,50482C2,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Ts
 MA-M,50482C9,Soter Technologies,101 Comac St Ronkonkoma NY US 11779 
 MA-M,50482CD,"KIDO SPORTS CO., LTD.","Kido Building, 395 Gonghang-daero, Gangseo-gu Seoul Seoul KR 07590 "
 MA-M,38B8EBB,PEZY Computing K.K.,"5F Chiyodaogawamachi Crosta, 1-11 Kanda Ogawamachi Chiyoda-ku Tokyo JP 101-0052 "
+MA-M,88A6EF8,TechPLEX Inc.,"16, Deongmyeong-ro 71, Yuseong-gu Daejeon  KR 34155 "
 MA-M,B44D436,"Spot AI, Inc.",1350 Old Bayshore Hwy #920 Burlingame CA US 94010 
 MA-M,B44D43D,"Shenzhen CreatLentem Technology Co.,Ltd","Building 5A, Shenzhen Bay Eco- Technology Park, Yuehai Street, Nanshan District, Shenzhen Shenzhen  CN 518000 "
 MA-M,B44D434,ALL.SPACE Networks Ltd,"NOW Building, Thames Valley Park Drive, Reading, Berkshire, RG6 1RB Reading Berkshire GB RG6 1RB "
@@ -1315,7 +1316,6 @@ MA-M,0069679,"Hangzhou Wise IOT Technology Co.,Ltd","Room 405, Building 2, No. 3
 MA-M,0069678,Ambient-System sp. z o.o.,ul. Galaktyczna 37 Gdansk  PL 80-299 
 MA-M,200A0DA,IRSAP,"Via delle Industrie, 211 Arqua' Polesine Veneto IT 45031 "
 MA-M,6431393,"KOANGYOW INTEGRATION MACHINE CO., LTD.","7F., No. 566, Zhongzheng Rd., Xindian Dist. New Taipei City  TW 23148 "
-MA-M,6431394,Active Brains,Yokohama Dia BLDG 8F 1-7 Kinkocho Kanagawa-ku Yokohama Kanagawa JP 221-0056 
 MA-M,6431399,Honeywell Analytics Ltd,Stinsford road Poole Hampshire GB BH17 0RZ 
 MA-M,5062555,"Suzhou Ruixinjie Information Technology Co.,Ltd","Room 907,No. 99 Changli Road Suzhou Jiangsu CN 215000 "
 MA-M,5062553,"Hypertech Advance Co., LTD","1F., No. 9, Changchun 6th Rd., Zhongli Dist.,  Taoyuan City  TW 320 "
@@ -1888,6 +1888,10 @@ MA-M,D015BB5,Listen Technologies,14912 heritage crest way bluffdale UT US 84065
 MA-M,D015BB8,ALEKTO-SYSTEMS LTD,Kounavon 30 Heraklion Crete GR 71304 
 MA-M,D015BBB,EdgeDX,"306f, kolon digital tower aston bldg,
 212, gasandigital 1-ro Seoul  Geumcheon-gu KR 08502 "
+MA-M,D015BBE,PHYTEC EMBEDDED PVT LTD,"No. 1688 
+25th Cross, 27th Main, 
+HSR Layout,  Bengaluru Karnataka IN 560102 "
+MA-M,6431394,Active Brains,"Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku Yokohama Kanagawa JP 220-0011 "
 MA-M,6C2ADFE,"WeatherFlow-Tempest, Inc",108 Whispering Pine Dr#245 Scotts Valley CA US 95066 
 MA-M,C0FBF91,LIXIL Corporation,"Osaki Garden Tower, 1-1 Nishi-Shinagawa 1-chome, Shinagawa-ku Tokyo  JP 141-0033 "
 MA-M,B44D433,"ETSME Technologies C0., Ltd.","17/F,Building A,No1190,BinAn Road,Binjiang District Hangzhou Zhejiang CN 310056 "
@@ -3849,12 +3853,14 @@ MA-M,58C41E4,"BEIJING FIBRLINK COMMUNICATIONS CO.,LTD.","Dongxu International Ce
 MA-M,58C41EA,GeBE Elektronik und Feinwerktechnik GmbH,Beethovenstraße 15 Germering  DE 82110 
 MA-M,50482C5,Bluefin International Inc,"2665 Pine Grove Road, Suite 400 Cumming GA US 30041 "
 MA-M,50482C0,Landatel Comunicaciones SL,Autovía A6 km. 17.800 Las Rozas Madrid ES 28231 
+MA-M,D015BBC,Shenzhen Waystar Communication Technology Co. Ltd.,"Room 101, building D, No. 33, General Mao community, Wulian community, Longgang Street, Longgang District, Shenzhen Shenzhen Guangdong CN 518100 "
+MA-M,D015BB2,"Beijing Guangshu Zhiying Technology Development Co., Ltd.","Room910,Environment Building,16 Guangqumen Inner Street,Dongcheng District Beijing  CN 100062 "
+MA-M,D015BB7,New Tech IoT,"Room 801, No.886, Jiefang Road,Yixing Wuxi Jiangsu CN 214200 "
 MA-M,D015BBA,HONG KONG COHONEST TECHNOLOGY LIMITED,"SHOP 185 G/F HANG WAI IND CTR
 NO 6 KIN TAI ST TUEN MUN NT
 HONG KONG;CHINA HONG KONG HONG KONG CN 999077 "
-MA-M,D015BB2,"Beijing Guangshu Zhiying Technology Development Co., Ltd.","Room910,Environment Building,16 Guangqumen Inner Street,Dongcheng District Beijing  CN 100062 "
-MA-M,D015BB7,New Tech IoT,"Room 801, No.886, Jiefang Road,Yixing Wuxi Jiangsu CN 214200 "
-MA-M,D015BBC,Shenzhen Waystar Communication Technology Co. Ltd.,"Room 101, building D, No. 33, General Mao community, Wulian community, Longgang Street, Longgang District, Shenzhen Shenzhen Guangdong CN 518100 "
+MA-M,88A6EFB,"Beijing ThinRedline Technology Co.,Ltd.","012, Ground Floor, Building 69, Jiuxianqiao North Road, Chaoyang District Beijing Beijing CN 100015 "
+MA-M,88A6EFC,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District ShenZhen GuangDong CN 518000 "
 MA-M,80E4DAF,Private,
 MA-M,6C2ADF2,"DAIKO ELECTRIC CO.,LTD",3-2-7 Koraibashi Chuo-ku Osaka-shi Osaka-fu JP 541-0043 
 MA-M,FC61791,"Signalinks Communication Technology Co., Ltd","3rd Floor, Building 6, Longxing Sciece park, East Huaning Road, Dalang Street , Longhua District, Shenzhen Shenzhen Guangdong CN 518000 "
@@ -4839,3 +4845,5 @@ MA-M,D015BB9,Stellar Blu Solutions,2060 Eagle Parkway Ft. Worth TX US 76177
 MA-M,D015BBD,Lampuga GmbH,Werkstr. 11 Rastatt  DE 76437 
 MA-M,D015BB0,FORTUNE MARKETING PRIVATE LIMITED,D-1/2 OKHLA INDUSTRIAL AREA PHASE-II NEW DELHI DELHI IN 110020 
 MA-M,D015BB4,Esders GmbH,Hammer-Tannen-Strasse 26-30 Haselünne  DE 49740 
+MA-M,88A6EF7,TRUWIN,"385, Expo-ro, Yuseong-Gu, Daejeon, South Korea Daejeon  KR 34051 "
+MA-M,88A6EF0,Energet LLC,"5, Rafael Elnekave Beit Shemesh  IL 9903657 "
