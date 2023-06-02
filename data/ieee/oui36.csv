@@ -1651,7 +1651,6 @@ MA-S,70B3D549E,"CAPTEMP, Lda","Rua São João, s/n - Ladeira das Leais Pombal  P
 MA-S,70B3D5B9A,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
 MA-S,70B3D5990,Energy Wall,1002 New Holland Ave Lancaster PA US 17601 
 MA-S,70B3D5437,Digital Way,1 Chemin des CHAUX Saint-Etienne Loire FR 42000 
-MA-S,70B3D5F22,Shengli Financial Software Development,"3766 Nanhuan Road, Binjiang Hangzhou  CN 310051 "
 MA-S,70B3D51E8,Gogo BA ,105 Edgeview Drive Broomfield CO US 80021 
 MA-S,70B3D52F5,"eze System, Inc.",785 Orchard Dr #100 Folsom CA US 95630 
 MA-S,70B3D5403,"Mighty Cube Co., Ltd.",UNIZO Nihonbashihoncho 3-CHome Building 5F 3-8-4 Nihonbashi-honcho Chuo-ku TOKYO JP 103-0023 
@@ -2211,15 +2210,17 @@ MA-S,8C1F6462C,"Hangzhou EasyXR Advanced Technology Co., Ltd.","C6, Qianjiang Ce
 MA-S,8C1F64898,Copper Connections Ltd,"B-221, Okhla Industrial Area
 Phase - 1, New Delhi - 110020, India New Delhi Delhi IN 110020 "
 MA-S,70B3D5C1D,"Kranze Technology Solutions, Inc.",1794 Winthrop Dr. Des Plaines IL US 60018 
-MA-S,8C1F64CD4,Shengli Technologies,"4th FL, No.3766 Nanhuan Road, Binjiang District Hangzhou Zhejiang CN 310051 "
-MA-S,8C1F648E0,Reivax S/A Automação e Controle,"Rodovia José Carlos Daux, 600 Florianópolis Santa Catarina BR 88030904 "
 MA-S,8C1F64937,H2Ok Innovations,"444 SOMERVILLE AVE, H2Ok Innovations SOMERVILLE MA US 02143 "
 MA-S,8C1F642DE,Polar Bear Design,51 Conifer Crest Newbury Berkshire GB RG14 6RS 
 MA-S,8C1F647E3,UNE SRL,VIA MODENA N.48/E CORREGGIO RE IT 42015 
 MA-S,8C1F64440,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,8C1F6406A,Intellisense Systems Inc.,21041 S. Western Ave Torrance CA US 90501 
-MA-S,8C1F645A6,"Kinney Industries, Inc",2514 HALL AVE NW Huntsville AL US 35805 
 MA-S,8C1F64C17,Metreg Technologies GmbH,Neckaraue 9 Remseck  DE 71686 
+MA-S,8C1F648E0,Reivax S/A Automação e Controle,"Rodovia José Carlos Daux, 600 Florianópolis Santa Catarina BR 88030904 "
+MA-S,8C1F64CD4,Shengli Technologies,"4th FL, No.3766 Nanhuan Road, Binjiang District Hangzhou Zhejiang CN 310051 "
+MA-S,8C1F645A6,"Kinney Industries, Inc",2514 HALL AVE NW Huntsville AL US 35805 
+MA-S,8C1F64A89,Mitsubishi Electric India Pvt. Ltd.,"EL3, J BLOCK, M.I.D.C. Bhosari PUNE Maharastra IN 411027 "
+MA-S,70B3D5F22,Shengli Technologies,"3766 Nanhuan Road, Binjiang Hangzhou  CN 310051 "
 MA-S,8C1F644D9,SECURICO ELECTRONICS INDIA LTD,"Plot No.4, 14/3, Mathura Road Faridabad  Haryana IN 121003 "
 MA-S,8C1F649F5,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
 MA-S,8C1F642D0,Cambridge Research Systems Ltd,"80 Riverside
@@ -3325,6 +3326,7 @@ MA-S,8C1F64648,Gridpulse c.o.o.,Riharjeva ulica 38 Ljubljana  SI 1000
 MA-S,8C1F64E45,Integer.pl S.A.,Wielicka 28 Krakow  PL 30-552 
 MA-S,8C1F64500,Nepean Networks Pty Ltd,"Suite 8 Level 1, 119-125 Ocean Beach Road Sorrento VI AU 3943 "
 MA-S,8C1F64267,Karl DUNGS GmbH & Co. KG,Karl-Dungs-Platz 1 Urbach BW DE 73660 
+MA-S,8C1F645BD,MPT-Service project,"Polyarnaya street, 41, bld. 1 Moscow  RU 127282 "
 MA-S,8C1F64C42,SD OPTICS,"4F, 9 Gangnam-daero 27-gil Seoul Seocho-gu KR 06752 "
 MA-S,8C1F640FE,Indra Heera Technology LLP,"Narayan Colony, Old Police Line, Arrah Bhojpur Bihar IN 802301 "
 MA-S,8C1F640A4,"Dynamic Research, Inc.","355 Van Ness Ave
@@ -4441,9 +4443,10 @@ Chakan MIDC, Pune, Chakan, Taluka – Khed
 MA-S,8C1F645DE,SekureTrak Inc. dba TraknProtect,"1240 N. Lake Shore Drive
 Unit 5B Chicago IL US 60610 "
 MA-S,8C1F6470B,ONICON ,11451 Belcher Rd S Largo FL US 33773 
-MA-S,8C1F64A87,Morgen Technology,PO Box 598 Cleveland OH US 44040 
 MA-S,8C1F64C43,"SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD","Building 2(floor 8), Financial Service Technology Innovation Base, No. 8 of Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan shenzhen guangdong CN 518057 "
+MA-S,8C1F642DF,Ubotica Technologies,"DCU Alpha, Old Finglas Road, Glasnevin Dublin Dublin IE D11KXN4 "
 MA-S,8C1F64126,Harvest Technology Pty Ltd,7 Turner Ave Bentley WA AU 6102 
+MA-S,8C1F64A87,Morgen Technology,PO Box 598 Cleveland OH US 44040 
 MA-S,8C1F6452A,Hiwin Mikrosystem Corp.,NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841 TAICHUNG  TW 40841 
 MA-S,8C1F64B2F,Mtechnology - Gamma Commerciale Srl,dell'artigianato Carpiano MI IT 20080 
 MA-S,8C1F64AD4,Flextronics International Kft,Zrinyi street 38. Zalaegerszeg Zala HU 8900 
@@ -5522,8 +5525,8 @@ MA-S,8C1F64C4A,SGi Technology Group Ltd.,2883 Portland Drive Oakville ON CA L6H 
 MA-S,8C1F648B8,Wien Energie GmbH,Thomas-Klestil-Platz 14 Vienna  AT 1030 
 MA-S,8C1F640CA,CLOUD TELECOM Inc.,"6F HAT Building,11-8, Nihonbashiodenma-cho  Chuo-ku Tokyo JP 1030011 "
 MA-S,8C1F64476,Clair Global Corporation,1 Ellen Avenue Lititz PA US 17543 
-MA-S,8C1F64F91,Consonance,Herut Hameyasdim Tel-Mond IL 40691 
 MA-S,8C1F642A8,"SHALARM SECURITY Co.,LTD","8F., No. 588, Tanmei St., Neihu Dist., Taipei City 114044 , Taiwan (R.O.C.) Taipei City   TW 114044 "
 MA-S,70B3D5F86,NxGen Comm LLC,630 Davis Drive Suite 250 Morrisville NC US 27560 
-MA-S,70B3D55EF,Star Systems International Limited,"Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road Kwai Chung  HK 852 "
 MA-S,8C1F64598,TIRASOFT TECHNOLOGY,Rue Iben Charaf Nr:3 Bab Bhar Tunis TUNIS  TN 1002 
+MA-S,8C1F64F91,Consonance,Herut Hameyasdim Tel-Mond IL 40691 
+MA-S,70B3D55EF,Star Systems International Limited,"Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road Kwai Chung  HK 852 "
