@@ -20403,6 +20403,7 @@ MA-L,B0CF0E,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunny
 MA-L,58687A,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,D0F405,"Hon Hai Precision Industry Co., Ltd.",GuangDongShenZhen ShenZhen GuangDong CN 518109 
 MA-L,C414A2,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,1C6066,TEJAS NETWORKS LTD,Plot 25 JP Software Park Electronics City Phase-1 Bangalore Karnataka IN 560100 
 MA-L,2C3EBF,"HOSIN Global Electronics Co., Ltd.","Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000 "
 MA-L,40D563,HANA Electronics,"Av. Abiurana, 450 Manaus Amazonas BR 69075-010 "
 MA-L,005001,YAMASHITA SYSTEMS CORP.,4-8-10 HIGASHISHINAGAWA SHINAGAWA-KU  JP 140-0002 
@@ -21164,7 +21165,6 @@ MA-L,5CA6E6,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 S
 MA-L,B4B024,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,18F22C,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,9897CC,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
-MA-L,043855,SCOPUS INTERNATIONAL-BELGIUM,"A-46, Ground floor, Pandav Nagar, Ganesh ngr complex,  New Delhi Delhi IN 110092 "
 MA-L,88AC9E,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,9C36F8,Hyundai Kefico,"102, Gosan-ro  Gunpo-si Gyeonggi-do KR 15849 "
 MA-L,E0B72E,"ShenZhen Qualmesh Technology Co.,Ltd.","Room 03, 10th floor, building 1, kaidar group center building, 168 Tongsha Road, Xinwei community, Xili street, Nanshan District Shenzhen Guangdong CN 518055 "
@@ -27231,13 +27231,14 @@ MA-L,DC6880,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,3030F9,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,BC8D1F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,446D05,NoTraffic,Yigal Alon 53 Tel Aviv  IL 6706206 
-MA-L,40E317,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
+MA-L,E4E26C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,18C009,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,7C7398,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,6CB456,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,E4E26C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
-MA-L,C022F1,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,9C4952,"Dongguan Liesheng Electronic Co., Ltd.","F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci dongguan  guangdong CN 523000 "
+MA-L,043855,Scopus International Pvt. Ltd.,"A-46, Ground floor, Pandav Nagar, Ganesh ngr complex,  New Delhi Delhi IN 110092 "
+MA-L,40E317,"Extreme Networks, Inc.",6480 Via Del Oro San Jose CA US 95119 
+MA-L,C022F1,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,706173,Calantec GmbH,Handwerkerstr. 10 Hoppegarten  DE 15366 
 MA-L,D42787,"Shanghai High-Flying Electronics  Technology Co., Ltd","Room 1002,#1Building,No.3000 Longdong Avenue,Pudong Shanghai Shanghai CN 201202 "
 MA-L,34D4E3,"Atom Power, Inc.","13245 Reese Blvd W
@@ -34019,3 +34020,7 @@ MA-L,483543,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN R
 MA-L,60B9C0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,8C9461,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,000263,RPS S.p.A.,Viale Europa 7 Legnago  IT 37045 
+MA-L,C87867,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
+MA-L,648505,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,E4604D,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,F4E84F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
