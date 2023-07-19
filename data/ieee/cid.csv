@@ -1,6 +1,7 @@
 Registry,Assignment,Organization Name,Organization Address
-CID,4A688D,"Shenzhen TCL New Technology Co., Ltd","B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District Shenzhen Guangdong CN 518052 "
+CID,EA2701,ACCE Technology Corp.,"6F.-2, No. 38, Beida Rd., Hsinchu City  TW 300024 "
 CID,8A0775,LYOTECH LABS LLC,8 the Green suite R Dover  US 19901 
+CID,4A688D,"Shenzhen TCL New Technology Co., Ltd","B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District Shenzhen Guangdong CN 518052 "
 CID,3A0E75,KEVCOM LLC,12 Lark Street Greenwich NY US 12834 
 CID,4A5AA9,GoCodeIT Inc,8171 Yonge StreetSuite 255 Thornhill Ontario CA L3T2C6 
 CID,AA146B,IronWiFi,5245 Brosche Rd Orlando FL US 32807 
@@ -28,7 +29,6 @@ CID,7A4BA4,Innostor Technology Corporation,"2F., No. 8, Ln32, Xianzheng 5th St.,
 CID,DAFF6B,Team Precision Public Company Limited,"198 Moo 13 Suwansorn Rd., Dong-Khee-Lek, Prachinburi Muang TH 25000 "
 CID,9A564B,Cubix Corporation,2800 Lockheed Way Carson City Nevada US 89706 
 CID,EA34B4,ThinkRF Inc.,"390 March Rd., Suite 110 Ottawa Ontario CA K2K 0G7 "
-CID,EA2701,ACCE Technology Corp.,"6F.-2, No. 38, Beida Rd., Hsinchu City  TW 300024 "
 CID,CAC276,Saab Seaeye Ltd,20 Brunel Way Fareham Hampshire GB PO15 5SD 
 CID,DAE6D7,"NVM Express, Inc. ",3855 SW 153rd Drive Beaverton OR US 97003 
 CID,4AED1D,Astera Labs Inc,"2901 Tasman Dr, #204 Santa Clara CA US 95054 "
@@ -40,14 +40,14 @@ CID,8AD85E,"GigaIO Networks, Inc.","5924 Balfour Ct., Suite 101 Carlsbad CA US 9
 CID,AADC47,"Cachengo, Inc.",9575 Hwy 22 Huntingdon TN US 38344 
 CID,0A361C,Smardii,"1221 Brickell Avenue, Suite 900 Miami FL US 33131 "
 CID,EA2ADB,Labs Network Industrie 4. 0 e.V.,Ernst-Reuter-Platz 7 Berlin  DE 10587 
-CID,EA115D,AUTOVISION TECHNOLOGY INC.,"NO. 2-3, INDUSTRY EAST ROAD 2, SCIENCE PARK, HSINCHU  TW 30075 "
 CID,1ABBFB,UHD Alliance,3855 SW 153rd Drive Beaverton OR US 97003 
+CID,EA115D,AUTOVISION TECHNOLOGY INC.,"NO. 2-3, INDUSTRY EAST ROAD 2, SCIENCE PARK, HSINCHU  TW 30075 "
 CID,FAD988,Momentum Data Systems,5432 Bolsa Ave Unit B Huntington Beach CA US 92649 
 CID,BA4DEA,Environexus,50 Ricketts Road Mount Waverley VIC AU 3149 
 CID,EAB89B,"Thread Group, Inc.","2400 Camino Ramon, Ste 375 San Ramon CA US 94583 "
 CID,7A84F0,"McDowell Signal Processing, LLC (dba McDSP)",2083 Old Middlefield Way #204 Mountain View CA US 94043 
-CID,BAF21C,ISO/TC22/SC31,Behrenstr. 35 Berlin Berlin DE 10117 
 CID,BAA2D0,Wireless Broadband Alliance Ltd,3 Tai Seng Dr #04-01 Singapore  SG 535216 
+CID,BAF21C,ISO/TC22/SC31,Behrenstr. 35 Berlin Berlin DE 10117 
 CID,DA0D38,"Farpointe Data, Inc.",1376 Borregas Ave  Sunnyvale CA US 94089 
 CID,DAC87D,SE Development AB,Box 2096 Karlstad  SE 650 02 
 CID,0AE471,Caterpillar Inc.,P.O. Box 610 Mossville IL US 61552-0610 
@@ -66,6 +66,9 @@ CID,AA0F85,Yamaichi Electronics,475 Holger Way San Jose CA US 95134
 CID,0A8736, IEEE 1901 Working Group,"Progilon, WTC Business Center Grenoble Rhone Alpes FR F-38000 "
 CID,9AD263,"FirmTek, LLC",29300 Kohoutek Way Union City California US 94587 
 CID,2AFD6A,Charter Communications,6399 S. Fiddler's Green Circle Greenwood Village CO US 80111 
+CID,8A852E,Kampr Systems,2047 Kings Lane San Mateo CA US 94402 
+CID,FA00E7,Quantum Machines ltd,Hamasger 35 Tel Aviv  IL 6721407 
+CID,6A71E6,FuelCloud,124 SW Dennis Ave. Hillsboro OR US 97123 
 CID,FA0BBC,CEN,Rue de la Science 23 Brussels  BE 1040 
 CID,8AD20F,Pro Optix AB,Vikdalsvägen 50 Nacka Strand  SE 13152 
 CID,CA3EA6,"Syng, Inc.",120 Mildred Ave. Venice CA US 90291 
@@ -75,8 +78,8 @@ CID,EA1ED0,ZIGPOS GmbH,Räcknitzhöhe 35a Dresden Saxony DE 01217
 CID,0AD9C4,"Craft Designs, Inc",700 Boulevard South Suite 501 HUNTSVILLE AL US 35802 
 CID,2A0BB8,"xFusion Digital Technologies Co., Limited","9th Floor, Building 1, Zensun Boya Square, Longzihu Wisdom Island, Zhengdong New District Zhengzhou Henan CN 450000 "
 CID,7A4BF3,DILON TECHNOLOGIES,"12050 JEFFERSON AVENUE, Suite 340 NEWPORT NEWS VA US 23606 "
-CID,6A8EAF,Waoo,True Møllevej 9 Tilst Aarhus Municipallity DK 8381 
 CID,7A15EC,"Yatomi Techology(ZheJiang) Co.,Ltd","No8 FuYuan Road, YaoZhuang Town, JiaShan County YaoZhuang ZheJiang CN 314117 "
+CID,6A8EAF,Waoo,True Møllevej 9 Tilst Aarhus Municipallity DK 8381 
 CID,4AE03F,Chengdu Superxon communication Technology Co. Ltd.,"No.666, Shaojia Street, Shuangliu District Chengdu Sichuan CN 610225 "
 CID,5A18FF,FiRa Consortium,3855 SW 153RD Drive Beaverton OR US 97003 
 CID,5A03BA,Wireless Broadband Alliance Ltd,3 Tai Seng Dr #04-01 Singapore  SG 535216 
@@ -90,17 +93,14 @@ CID,FAEB6E,xRAN.org,291 Lambert Ave. Palo Alto CA US 94306
 CID,4A5A6F,Applied Materials,3050 Bowers Avenue Santa Clara CA US 95054 
 CID,EA6076,"CloudSimple, Inc.","2755 Great America Way, Suite 101 Santa Clara CA US 95054 "
 CID,6A0E20,"GeoFrenzy, Inc",39 Main Street Tiburon CA US 94920 
-CID,CA125C,Microsoft Corporation,One Microsoft Way Redmond null US 98052-6399 
 CID,BA55EC,IEEE 802.15,445 Hoes Lane  Piscataway NJ US 08854-4141 
 CID,BA3054,George Wilson Industries Ltd,"Barlow Road, Aldermans Green Industrial Estate Coventry West Midlands GB CV2 2LD "
+CID,CA125C,Microsoft Corporation,One Microsoft Way Redmond null US 98052-6399 
 CID,FA1466,Allegion PLC,500 Golden Ridge Rd Ste 160 Golden CO US 80401-9553 
 CID,EAE0D9,Berk-tek LLC,132 white oak rd new holland PA US 17557 
 CID,1A75FB,AUTOSAR,c/o Altran GmbH & Co. KG Munich  DE 80636 
 CID,CAE505,Mobilitie,2220 University Dr Newport Beach  US 92660 
 CID,FA556F,SymbolicIO,379 Thornall Edison NJ US 08837 
-CID,6A71E6,FuelCloud,124 SW Dennis Ave. Hillsboro OR US 97123 
-CID,FA00E7,Quantum Machines ltd,Hamasger 35 Tel Aviv  IL 6721407 
-CID,8A852E,Kampr Systems,2047 Kings Lane San Mateo CA US 94402 
 CID,DAC451,Takaratomy,7-9-10 Tateishi Katsushika-ku Tokyo JP 124-8511 
 CID,BAC8C4,"Transponder & Reader Engineered Systems, Inc","9651 Chalma Avenue
  Baton Rouge LA US 70814 "
@@ -133,14 +133,16 @@ CID,3A5E03,"Cirrus Data Solutions, Inc","6800 Jericho Turnpike, suite 213W Syoss
 CID,9AB2F8,SFF Committee,14426 Black Walnut Court Saratoga CA US 95070 
 CID,FAF9C0,RAID Incorporated,200 Brickstone Square Andover MA US 01810 
 CID,FAE190,IN WIN DEVELOPMENT INC.,"NO.57,LANE 350, NANSHANG ROAD, GUEISHAN HSIANG, TAOYUAN HSIEN, TW 333 "
-CID,4ADA10,Emotiva Audio Corp,135 SE Parkway Court Franklin TN US 37064 
 CID,7AAB77,Orange,4 rue du Clos Courtel Cesson Sevigne France FR 35512 
+CID,4ADA10,Emotiva Audio Corp,135 SE Parkway Court Franklin TN US 37064 
 CID,FA073E,NBASE-T Alliance,3855 SW 153rd Drive Beaverton OR US 97003 
 CID,CA446C,"Cypress Computer Systems, Inc.",1778 Imlay City Rd Lapeer MI US 48446 
 CID,FA4C77,OCCITALINE,Allée du Quercy COLOMIERS  FR 31770 
+CID,8A7DB3,"Evolv Technology, Inc.","500 Totten Pond Road
+4th Floor Waltham MA US 02451 "
 CID,DA19B3,LG Uplus,"80-17 Gwhak-ro, Yuseong-gu Daejeon  KR 34132 "
-CID,EABEA7,"Sonos, Inc.",614 Chapala St Santa Barbara CA US 93101 
 CID,0AA23B,Vitex LLC,"210 Sylvan Ave, Suite 25 Englewood Cliffs NJ US 07632 "
+CID,EABEA7,"Sonos, Inc.",614 Chapala St Santa Barbara CA US 93101 
 CID,2AAC53,Wolfspyre Labs,5007 Highland Ct #WPL-IEEE Austin TX US 78731 
 CID,CA1E45,ASMedia Technology Inc.,"6F, No.115, Minquan Rd., New Taipei City  TW 23141 "
 CID,8A0AF7,"Montage Technology Co,.LTD","6/F, BlockA, Technology Building,900 Yishan Road, Shanghai  CN 200233 "
@@ -165,5 +167,3 @@ CID,CAC87E,Allen Organ Company,150 LOCUST ST MACUNGIE PA US 18062
 CID,EA9FB1,Philips International B.V.,High Tech Campus 5 Eindhoven Noord Brabant NL 5656 AE 
 CID,6A737D,25G Ethernet Consortium,3855 SW 153rd Dr Beaverton OR US 97003 
 CID,6AE64A,S&O Electronics (Malaysia) Sdn. Bhd.,Lot 202 Sungai Petani Kedah MY 08000 
-CID,8A7DB3,"Evolv Technology, Inc.","500 Totten Pond Road
-4th Floor Waltham MA US 02451 "
