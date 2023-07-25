@@ -6860,6 +6860,7 @@ MA-L,C4E733,Clear Align LLC,"2550 Boulevard of the Generals, Suite 280 Eaglevill
 MA-L,50A6D8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,68CAC4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,5CFCE1,Resideo,2 Corporate Center Dr. Melville NY US 11747 
+MA-L,54DED3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -13653,6 +13654,7 @@ MA-L,A0B40F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,48D017,Telecom Infra Project,"401 Edgewater PL, STE 600 wakefield MA US 01880-6200 "
 MA-L,EC0D51,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,ACDFA1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,807C0A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -20485,6 +20487,8 @@ MA-L,DC1057,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,30D875,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,683EC0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,000009,XEROX CORPORATION,M/S 105-50C WEBSTER NY US 14580 
+MA-L,485FDF,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,6C1544,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -27349,6 +27353,7 @@ MA-L,A4F841,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,A05272,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,34B1EB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,200484,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,FCA8E0,"THE FURUKAWA ELECTRIC CO., LTD","2-6-4,Otemachi Chiyoda-ku Tokyo JP 100-8322 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -33525,7 +33530,6 @@ MA-L,000133,KYOWA Electronic Instruments C,"3-5-1, Cyofugaoka Cyofu Tokyo JP  "
 MA-L,00013C,TIW SYSTEMS,2211 Lawson Lane Santa Clara CA US 95054 
 MA-L,00014C,Berkeley Process Control,4124 Lakeside Dr Richmond CA US 94806 
 MA-L,0030F5,Wild Lab. Ltd.,1-33-17-604 Harayama Urawa City Saitama prif. 336-0931 JP  
-MA-L,00019C,JDS Uniphase Inc.,570 West Hunt Club Road   CA  
 MA-L,0001A3,"GENESYS LOGIC, INC.","10F, No. 11, Ln.3.,   TW  "
 MA-L,00018C,Mega Vision,5765 Thornwood Drive Goleta CA US 93117 
 MA-L,00018F,"Kenetec, Inc.",115 Hurley Road Oxford CT US 06748 
@@ -34179,3 +34183,5 @@ MA-L,185D6F,N3com,"Proektiruemiy proezd 4062, 6b1, office 71 Moscow  RU 115432 "
 MA-L,D4413F,Gen IV Technology LLC,5239 Muhlhauser Road West Chester OH US 45011 
 MA-L,DCA0D0,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,F02F9E,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,00019C,Lumentum,570 West Hunt Club Road   CA  
+MA-L,403668,E&B TELECOM,"55, Heungan-daero 439beon-gil, Dongan-gu, anyang-si Gyeonggi-do  KR 14059 "
