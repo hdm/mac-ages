@@ -458,7 +458,6 @@ MA-S,70B3D5D30,Leica Microsystems Ltd. Shanghai,"258 Jinzang Road, Building 1, P
 MA-S,70B3D5E97,"Toptech Systems, Inc.",1124 Florida Central Parkway Longwood FL US 32750 
 MA-S,70B3D5B95,EPIImaging,414 Paco Drive Los Altos CA US 94024 
 MA-S,70B3D556E,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
-MA-S,70B3D5695,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,70B3D5565,Clecell,"26, Beobwon-ro 9-gil Song-pa gu Seoul KR 06210 "
 MA-S,70B3D5E6F,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-S,70B3D5082,"Sakura Seiki Co.,Ltd.","75-5, Imojiya Chikuma-city Nagano Prefecture JP 387-0015 "
@@ -1146,6 +1145,8 @@ MA-S,8C1F64881,Flextronics International Kft,ZRINYI STREET 38. ZALAEGERSZEG ZALA
 MA-S,8C1F6481F,ViewSonic Corp,"10 Point Drive Brea, CA 92821 USA LA CA US 92821 "
 MA-S,8C1F64487,TECHKON GmbH,Wiesbadener Str. 27 Koenigstein Hessen DE 61462 
 MA-S,8C1F64042,HEITEC AG,Dr.-Otto-Leich-Str. 16 Eckental Bavaria DE 90542 
+MA-S,70B3D5695,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
+MA-S,8C1F64DEB,PXM Marek Zupnik spolka komandytowa,Podleze 654 Podleze Malopolska PL 32-003 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64E80,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
@@ -1339,7 +1340,6 @@ MA-S,8C1F64D02,Flextronics International Kft,38. Zrinyi Str. Zalaegerszeg Zala H
 MA-S,8C1F64943,Autark GmbH,Platz des Friedens 8 Baunatal Hessen DE D-34225 
 MA-S,8C1F64E30,VMukti Solutions Private Limited,"3-4, Shivalik Plaza, Panjrapole, Ambawadi Ahmedabad Gujarat IN 380015 "
 MA-S,70B3D5781,Project Service S.a.s.,Via Paderno 31/C Seriate Bergamo IT 24068 
-MA-S,8C1F64FED,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,8C1F64A4C,Flextronics International Kft,Zrínyi Miklós str. 38. Zalaegerszeg  HU 8900 
 MA-S,8C1F648D9,Pietro Fiorentini Spa,"Via Armenia, 16 San Vito al Tagliamento (PN)  IT 33078 "
 MA-S,8C1F6405F,ESCAD AUTOMATION GmbH,Escadstr. 1 Pfullendorf  DE 88630 
@@ -2067,7 +2067,6 @@ MA-S,70B3D545D,Sensapex Oy,Teknologiatie 13 Oulu  FI 90590
 MA-S,70B3D5BA1,Cathwell AS,Kongshavnsgate 18 Langesund Telemark NO N-3970 
 MA-S,70B3D55A3,CT Company,"Godovikova , 9, Moscow Moscow RUSSIA RU 129085 "
 MA-S,70B3D5BFE,Aplex Technology Inc.,"2nd Floor,Tower3,District5,HongHuaLing industrial park,  Nanshan District Shenzhen Guangdong CN 518055 "
-MA-S,70B3D5120,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,70B3D5F7B,KST technology,"164-1, KST b/d., Bangi-dong, songpa-gu SEOUL N/A KR 138-050 "
 MA-S,70B3D5CCA,SIEMENS AS,Bratsbergveien 5 Trondheim  NO 7037 
 MA-S,70B3D58B2,"NPF Modem, LLC",Kolomyazhskiy prosp. 27A Saint-Petersburg  RU 197341 
@@ -2290,6 +2289,8 @@ MA-S,8C1F64D07,Talleres de Escoriaza SAU,"Barrio Ventas 35, Irun Irun Gipuzkoa E
 MA-S,8C1F6493A,Rejås of Sweden AB,Måbärsvägen 16 Norrtälje  SE 76163 
 MA-S,8C1F64B98,"Calamity, Inc.",Singerstraße 41 Berlin  DE 10243 
 MA-S,8C1F64548,"Beijing Congyun Technology Co.,Ltd","No. 605, 6th Floor, Building 3, No. 52 Zhongguancun South Street, Haidian District, Beijing Beijing  CN 100080 "
+MA-S,8C1F64FED,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
+MA-S,70B3D5120,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -2422,7 +2423,6 @@ MA-S,8C1F6415C,TRON FUTURE TECH INC.,"7F-A, No. 1, Sec. 3, Gongdao 5th Rd., Hsin
 MA-S,8C1F6408E,qiio AG,Am Wasser 24 Zurich Zurich CH 8049 
 MA-S,8C1F64252,"TYT Electronics CO., LTD","Block 39-1, Optoelectronics-information industry base, Nan’an, Quanzhou Fujian CN 362300 "
 MA-S,8C1F64AF0,MinebeaMitsumi Inc.,"3-9-6, Mita Minato-ku Tokyo JP 1080073 "
-MA-S,8C1F64F10,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,8C1F642A9,"Elbit Systems of America, LLC",3401 Quorum Drive (Suite 380) Fortworth TX US 76137 
 MA-S,8C1F64387,OMNIVISION,4275 Burton Dr Santa Clara CA US 95054 
 MA-S,8C1F642C6,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
@@ -3419,6 +3419,7 @@ MA-S,8C1F64FC5,SUMICO,"NO.13 Jahansooz, Larestan Ave, Motahhari Street
 MA-S,8C1F64964,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
 MA-S,8C1F64FB9,IWS Global Pty Ltd,29 Oxleigh Dr Perth Western Australia AU 6090 
 MA-S,8C1F641DE,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
+MA-S,8C1F64F10,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
 MA-S,8C1F644F6,Private,
@@ -3689,7 +3690,6 @@ MA-S,8C1F6483A,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen  CH 9008
 MA-S,8C1F64370,WOLF Advanced Technology,"175 Mostar Street, Suite 200 Stouffville Ontario CA L4A 0Y2 "
 MA-S,8C1F64BC0,GS Elektromedizinsiche Geräte G. Stemple GmbH,Hauswiesenstr. 26 Kaufering Bayern DE 86916 
 MA-S,8C1F64135,Yuval Fichman,37 Mishmar Hayarden St. Tel Aviv  IL 6986519 
-MA-S,8C1F64B64,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,70B3D5508,INSEVIS GmbH,Am Weichselgarten 7 Erlangen  DE D-91058 
 MA-S,8C1F64D7E,Thales Belgium,Rue Des Frères Taymans 28 Tubize Brussels BE 1480 
 MA-S,8C1F64856,Garten Automation,"Av. Herbert Hadler, 1367 Pelotas Rio Grande do Sul BR 96050460 "
@@ -3747,7 +3747,6 @@ MA-S,70B3D5ED9,AADONA Communication Pvt Ltd,"1st Floor, Phoenix Tech Tower, Plot
 MA-S,70B3D5D03,Digitella Inc.,"2F, Banpodaero 99 Seocho-gu Seoul KR 06657 "
 MA-S,70B3D541C,"Twoway Communications, Inc.","41 Wu Kung 6 Rd., New Taipei Industrial Park, New Taipei City,24891,Taiwan,R.O.C. New Taipei city Taipei TW 24891 "
 MA-S,70B3D56AA,Intermobility,Gabelle 18a Bienne berne CH 2503 
-MA-S,70B3D593C,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,70B3D564F,GUNMA ELECTRONICS CO LTD,760 OOMAMA MIDORI-CITY GUNMA JP 376-0101 
 MA-S,70B3D529E,B2cloud lda,"Urbanizacao do correlo 4,14 Gandra Paredes PT 4585-362 "
 MA-S,70B3D54DD,Velvac Incorporated,2183 Alpine Way Bellingham WA US 98226 
@@ -4077,7 +4076,6 @@ MA-S,70B3D5A37,"MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.","3-1, Asahi, 
 MA-S,70B3D54EC,"Hangzhou Youshi Industry Co., Ltd.","Unit 501-38, Blue Sky Business Centre，GongShu District, Hangzhou Zhejiang CN 310000 "
 MA-S,70B3D519F,Koizumi Lighting Technology Corp.,"3-5-2-Chome Higashinakamoto,Higashinari-ku,Osaka  JP 537-0021 "
 MA-S,70B3D5478,Touchnet/OneCard,2115 Chapman Rd. Suite 159 Chattanooga TN US 37421 
-MA-S,70B3D52A4,GSP Sprachtechnologie GmbH,Teltowkanalstraße 1 Berlin  DE 12247 
 MA-S,70B3D510E,"Colorimetry Research, Inc",26612 Heirloom Place Santa Clarita CA US 91350 
 MA-S,70B3D5BCE,"YAWATA ELECTRIC INDUSTRIAL CO.,LTD.",1-17-1 Ohmorihigashi Ohta-ku Tokyo JP 143-0012 
 MA-S,70B3D51D1,Eurotek Srl,"Strada Comunale Savonesa, 9 Rivalta Scrivia AL IT 15050 "
@@ -4559,6 +4557,10 @@ MA-S,8C1F6486F,NewEdge Signal Solutions LLC,323 West Main Street Ayer MA US 0143
 MA-S,8C1F648FF,Kruger DB Series Indústria Eletrônica ltda,Oreste Angelo Barni 103 Nova Prata Rio Grande do Sul BR 95320000 
 MA-S,8C1F64BAA,Mine Vision Systems,5877 Commerce St Suite 118 Pittsburgh PA US 15206 
 MA-S,8C1F64EBA,Hyve Solutions,44201 Nobel Dr Fremont CA US 94538 
+MA-S,8C1F64B64,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
+MA-S,70B3D593C,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
+MA-S,70B3D52A4,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
+MA-S,8C1F6424D,XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD,"NO.30 Chuang Hui Road, Hi-Tech Development zone XI'AN SHANNXI CN 710000 "
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
