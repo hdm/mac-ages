@@ -1,5 +1,4 @@
 assignment00/40,2023-09-23,ieee-oui.csv
-shenzhen0000/36,2022-12-13,ieee-oui.csv
 8c1f64ffc000/36,2022-07-19,ieee-oui36.csv
 8c1f64ff9000/36,2021-09-22,ieee-oui36.csv
 8c1f64ff6000/36,2022-01-04,ieee-oui36.csv
@@ -5420,7 +5419,6 @@ shenzhen0000/36,2022-12-13,ieee-oui.csv
 70b3d5003000/36,2018-09-23,wireshark.org
 70b3d5002000/36,2017-02-19,wireshark.org
 70b3d5001000/36,2015-09-20,wireshark.org
-4ta sec.0000/36,2023-06-23,ieee-oui36.csv
 40d855ee6000/36,2014-01-05,wireshark.org
 40d85550d000/36,2014-01-12,wireshark.org
 40d8551e4000/36,2014-01-05,wireshark.org
@@ -5908,7 +5906,6 @@ shenzhen0000/36,2022-12-13,ieee-oui.csv
 40d855002000/36,2012-09-23,wireshark.org
 40d855001000/36,2012-09-23,wireshark.org
 40d855000000/36,2012-09-23,wireshark.org
-2nd floor000/36,2023-09-07,ieee-oui36.csv
 0050c2fff000/36,2012-09-23,wireshark.org
 0050c2ffe000/36,2012-09-09,wireshark.org
 0050c2ffd000/36,2012-09-09,wireshark.org
@@ -10204,12 +10201,6 @@ shenzhen0000/36,2022-12-13,ieee-oui.csv
 001bc5002000/36,2013-03-31,wireshark.org
 001bc5001000/36,2013-03-31,wireshark.org
 001bc5000000/36,2013-03-31,wireshark.org
- shenzhen000/36,2023-09-22,ieee-oui.csv
- 4ta sec.000/36,2023-09-22,ieee-oui36.csv
-guanlan00000/32,2023-03-09,ieee-oui.csv
- guanlan0000/32,2023-09-22,ieee-oui.csv
-loucun000000/28,2022-12-13,ieee-oui.csv
-jiangsu00000/28,2022-06-23,ieee-mam.csv
 fcd2b6e00000/28,2019-01-02,ieee-mam.csv
 fcd2b6d00000/28,2018-12-20,ieee-mam.csv
 fcd2b6c00000/28,2018-12-26,ieee-mam.csv
@@ -15182,10 +15173,7 @@ a0024a000000/28,2020-11-04,ieee-mam.csv
 0055da200000/28,2015-10-16,wireshark.org
 0055da100000/28,2015-10-16,wireshark.org
 0055da000000/28,2015-10-16,wireshark.org
- loucun00000/28,2023-09-22,ieee-oui.csv
 012025000000/25,2002-09-09,wireshark.org
-seoul0000000/24,2023-02-23,ieee-mam.csv
-koera0000000/24,2022-12-09,ieee-mam.csv
 fe64ba000000/24,2015-08-29,deepmac.org
 fd64ba000000/24,2015-09-01,deepmac.org
 fcffaa000000/24,2014-05-10,deepmac.org
