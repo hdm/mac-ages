@@ -2,6 +2,9 @@
 require "timeout"
 require "net/http"
 require "uri"
+require "csv"
+
+
 #
 # MAC Age Tracker
 #
@@ -27,17 +30,17 @@ def update(addr, date, source)
 end
 
 def load_current
-	File.readlines(File.join(@based, "data", "mac-ages.csv")).each do |raw|
-		bits = raw.strip.split(",", 3)
-		if bits[0].index("/").nil?
-			bits[0] << "/24"
+
+               CSV.new(File.read(File.join(@based, "data", "mac-ages.csv")),:liberal_parsing => true).each do |row|
+		if row[0].index("/").nil?
+			row[0] << "/24"
 		end
 
-		addr_base,addr_mask = bits[0].downcase.split("/")
+		addr_base,addr_mask = row[0].downcase.split("/")
 		addr_base = mac_pad(addr_base)
 
-		date = bits[1]
-		src  = bits[2]
+		date = row[1]
+		src  = row[2]
 
 		update(addr_base + "/" + addr_mask, date, src)
 	end
@@ -65,16 +68,17 @@ def load_ieee_urls
     		if records.length < url_min_records
     			raise RuntimeError, "URL #{url_path} only has #{records.length} records (wanted >= #{url_min_records})"
     		end
-    		records.each do |rec|
-    			next if rec =~ /^Registry,/
-    			info = rec.split(",", 3)
+    		records.each do |info|
+    			next if info[0] =~ /^Registry,/
     			addr_base = info[1]
 			if addr_base.nil?
 				$stderr.puts "URL #{url_path} has bad line: #{rec}"
 				next
 			end
     			addr_mask = ((addr_base.length / 2.0) * 8).to_i
-				addr_base = mac_pad(addr_base)
+			addr_base = mac_pad(addr_base)
+                        next if addr_base !~ /^[a-f0-9]+$/i
+
     			addr = "#{addr_base}/#{addr_mask}".downcase
     			update(addr, @today, "ieee-#{File.basename(url_path)}")
     		end
@@ -100,10 +104,7 @@ def download_ieee(url)
 		retry
 	end
 
-	File.open(path, "wb") do |fd|
-		fd.write(data)
-	end
-	data.split("\n").map{|x| x.strip}
+        return CSV.parse(data, :liberal_parsing => true)
 end
 
 def sortable_prefix(str)
