@@ -145,6 +145,6 @@ write_results()
 log("Commiting and pushing the results")
 
 # Commit the results
-system("git commit -m 'Update #{@today}' ./data && git push origin main")
+system("git commit -m 'Update #{@today}' -a && git push origin main")
 exit(0)
 
